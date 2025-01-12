@@ -1,24 +1,101 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FTV DB - Community-Driven Firmware and App Links</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-3P83NDHEP7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-3P83NDHEP7');
-</script>
-
-<body>
-    <header>
-        <h1>FTV DB</h1>
-        <p>A community-driven database of public Fire TV firmware and app update links.</p>
-    </header>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>FTV DB</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3P83NDHEP7"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-3P83NDHEP7');
+    </script>
+    <body>
+        <header>
+            <h1>FTV DB</h1>
+            <nav>
+                <a href="#" id="homeLink">Home</a>
+                <a href="#" id="manualLink">Manual</a>
+                <a href="#" id="submitLink">Submit</a>
+                <a href="#" id="apiLink">API Docs</a>
+                <a href="https://www.paypal.com/donate/?business=R5VF42B7TNDL2&no_recurring=0&item_name=FTV+DB&currency_code=USD" target="_blank">Donate</a>
+                <a href="https://github.com/FTVDB/FTVDB/issues" target="_blank">Issues</a>
+                <a href="https://github.com/FTVDB/FTVDB" target="_blank">GitHub</a>
+            </nav>
+        </header>
+        <!-- Startup Screen -->
+        <section id="startupScreen" class="visible content-section">
+            <p>
+                Welcome to FTV DB – a community-driven Fire TV firmware and app update URL database.
+                Select "Firmware" or "Apps" to see available downloads, submit new URLs, and learn
+                how to capture your own update links.
+            </p>
+            <p><strong>Note:</strong> This is a fully automated service. Submitted URLs will appear
+            in the database within a few minutes.</p>
+            <div class="button-row">
+                <button id="firmwareBtn" class="big-btn">Firmware</button>
+                <button id="appsBtn" class="big-btn">Apps</button>
+            </div>
+        </section>
+        <!-- Selection Screen -->
+        <section id="selectionScreen" class="hidden content-section">
+            <button id="backToStartup" class="nav-btn">Back</button>
+            <h2 id="selectionTitle"></h2>
+            <select id="selectionDropdown">
+                <option value="">-- Select an option --</option>
+            </select>
+        </section>
+        <!-- Results Screen -->
+        <section id="resultsScreen" class="hidden content-section">
+            <button id="backToSelection" class="nav-btn">Back</button>
+            <h2 id="resultsTitle"></h2>
+            <table id="resultsTable">
+                <thead>
+                    <tr>
+                        <th>Version Name</th>
+                        <th>Version Code</th>
+                        <th>Uploaded</th>
+                    </tr>
+                </thead>
+            <tbody></tbody>
+        </table>
+    </section>
+    <!-- Details Screen -->
+    <section id="detailsScreen" class="hidden content-section">
+        <button id="backToResults" class="nav-btn">Back</button>
+        <h2 id="detailsTitle">Item Details</h2>
+    <dl id="detailsList"></dl>
+</section>
+<!-- Manual Screen -->
+<section id="manualScreen" class="hidden content-section">
+    <h2>Manual: Capturing Update URLs</h2>
+    <p>Enable ADB debugging on your Fire TV, connect with <code>adb connect [device IP]</code>,
+    then run <code>adb logcat</code>. Look for .bin or .apk URLs, and submit them.</p>
+</section>
+<!-- Submit Screen -->
+<section id="submitScreen" class="hidden content-section">
+    <h2>Submit URLs</h2>
+    <form id="submitForm">
+        <input type="url" id="urlInput" placeholder="Paste update URL..." required>
+        <button type="submit">Submit</button>
+    </form>
+    <div id="submitMessage"></div>
+</section>
+<!-- API Docs Screen -->
+<section id="apiDocsScreen" class="hidden content-section">
+    <h2>API Documentation</h2>
+    <p>GET: https://api.ftvdb.com/submit-url?url=ENCODED_URL</p>
+    <p>POST: https://api.ftvdb.com/submit-url</p>
+        <pre>
+        {
+          "url": "https://example.com/update.bin"
+        }
+    </pre>
+    <p>Returns JSON with <strong>error</strong> and <strong>message</strong>.</p>
+</section>
+<script src="script.js"></script>
 </body>
 </html>

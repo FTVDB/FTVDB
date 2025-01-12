@@ -1,0 +1,37 @@
+[
+    {
+        "md5": "caef692203c3f9cf533a005f8fc594de",
+        "uploaded": "2020-09-23",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/bf8b61fa4e2ebe2c5f4c9d8179e072c2/signed_FireTvParentalControls-release6.apk",
+        "versionCode": "615003110",
+        "versionName": "1.0.565.0-com.amazon.tv.parentalcontrols_615003110"
+    },
+    {
+        "md5": "b90769ce19967711e2e3f55175cd4e43",
+        "uploaded": "2020-11-27",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/c955501769edded1667b05ead17273f8/signed_FireTvParentalControls-release.apk",
+        "versionCode": "617001710",
+        "versionName": "1.0.630.0-com.amazon.tv.parentalcontrols_617001710"
+    },
+    {
+        "md5": "35b032f7c5bbb06f34dffd5fc09bfccb",
+        "uploaded": "2021-09-15",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/46d00e068d20113dc42e6a7a3f5ff75f/FireTvParentalControls-jarvis-release-signed-1.0.1000.0.apk",
+        "versionCode": "618029210",
+        "versionName": "1.0.1000.0-com.amazon.tv.parentalcontrols-jarvis_618029210"
+    },
+    {
+        "md5": "eea0c5da354b97e84ef4f8c9d8fc4862",
+        "uploaded": "2022-03-09",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/ae618f5e3ba2083dc040dd1762ec28a6/FireTvParentalControls-jarvis-release-signed-1.0.1283.0.apk",
+        "versionCode": "619012110",
+        "versionName": "1.0.1283.0-com.amazon.tv.parentalcontrols-jarvis_619012110"
+    },
+    {
+        "md5": "15a6c7319980a2de7f2b5caa4be4e168",
+        "uploaded": "2023-04-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/469b110caa5d38540d3c4eb2eab8515d/signed_FireTvParentalControls-jarvis-release_1.0.1703.0_otarelease.apk",
+        "versionCode": "621013410",
+        "versionName": "1.0.1703.0-com.amazon.tv.parentalcontrols-jarvis_621013410"
+    }
+]

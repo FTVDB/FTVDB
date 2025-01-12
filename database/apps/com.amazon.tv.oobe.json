@@ -1,0 +1,86 @@
+[
+    {
+        "md5": "0fda4e5daee189a9ca4d818beb16ff9b",
+        "uploaded": "2020-08-28",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/30a5a18f160b4a711e405069a4939279/signed_FireTvOobe-release.apk",
+        "versionCode": "615010410",
+        "versionName": "1.0.1849.0-com.amazon.tv.oobe_615010410"
+    },
+    {
+        "md5": "89bc859711b888059d987d78f69b9ce1",
+        "uploaded": "2020-11-18",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/1ee98ba9d125205908e2324a391857b3/signed_FireTvOobe-release.apk",
+        "versionCode": "617001810",
+        "versionName": "1.0.2288.0-com.amazon.tv.oobe_617001810"
+    },
+    {
+        "md5": "83ab39fea3641be4103d282f542609b8",
+        "uploaded": "2021-06-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/10158c709edfea04b1923764012b4a4e/signed_FireTvOobe-jarvis-release-juv.apk",
+        "versionCode": "620025710",
+        "versionName": "1.0.3717.0-com.amazon.tv.oobe-jarvis_620025710"
+    },
+    {
+        "md5": "d28fb6d7710cc35689f001ea4671d241",
+        "uploaded": "2021-08-13",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/0def429e1677272cc4bccddb05c08eda/signed_FireTvOobe-jarvis-release1.apk",
+        "versionCode": "620095210",
+        "versionName": "1.0.4049.0-com.amazon.tv.oobe-jarvis_620095210"
+    },
+    {
+        "md5": "e652bd4c4677ca5085a8800ded68010e",
+        "uploaded": "2021-12-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/57220ffbf6f3f43ff00507f99b80a50b/signed_FireTvOobe-jarvis-release_1.0.4925.0.apk",
+        "versionCode": "621014710",
+        "versionName": "1.0.4925.0-com.amazon.tv.oobe-jarvis_621014710"
+    },
+    {
+        "md5": "e90b03bcfadad81898c5faf7d72d741c",
+        "uploaded": "2022-06-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/9d8f84000ce76de542462252485c6b84/signed_FireTvOobe-jarvis-release1.apk",
+        "versionCode": "623002910",
+        "versionName": "1.0.6151.0-com.amazon.tv.oobe-jarvis_623002910"
+    },
+    {
+        "md5": "78648873671d85927440ee7797e67b33",
+        "uploaded": "2022-08-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/1280b8179678dc072c1bcb9503a5c5e9/signed_FireTvOobe-jarvis-release_1.0.6460.0_GM_Oakwood.apk",
+        "versionCode": "624016310",
+        "versionName": "1.0.6460.0-com.amazon.tv.oobe-jarvis_624016310"
+    },
+    {
+        "md5": "17af3fb9a59ed101ae1c006b3bdfa905",
+        "uploaded": "2022-12-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/df80ff2ecd01628c528af8bf96b26b38/signed_FireTvOobe-jarvis-release-1.0.7367.0.apk",
+        "versionCode": "627003510",
+        "versionName": "1.0.7367.0-com.amazon.tv.oobe-jarvis_627003510"
+    },
+    {
+        "md5": "88ee6ab7772c4784b036835b600cc335",
+        "uploaded": "2023-01-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/6bbcbf75a40ffca2d25e602c7ff9c44c/signed_FireTvOobe-jarvis-release1.0.7718.0.apk",
+        "versionCode": "629038210",
+        "versionName": "1.0.7718.0-com.amazon.tv.oobe-jarvis_629038210"
+    },
+    {
+        "md5": "19ec5d5b5fd3d71b354606cd08100ee8",
+        "uploaded": "2023-04-04",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/dd1c5caa0c7d48f6b6464161c0ca0212/signed_FireTvOobe-jarvis-release-8774.apk",
+        "versionCode": "630088610",
+        "versionName": "1.0.8774.0-com.amazon.tv.oobe-jarvis_630088610"
+    },
+    {
+        "md5": "67238a702b28bb7de7b1e9c2e866d99a",
+        "uploaded": "2023-06-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/cf17a2bb96d24fb63a977bfddb0db28b/signed_FireTvOobe-jarvis-release-9342.apk",
+        "versionCode": "633004010",
+        "versionName": "1.0.9342.0-com.amazon.tv.oobe-jarvis_633004010"
+    },
+    {
+        "md5": "407c5d4e2b8e6243199040a60898aeed",
+        "uploaded": "2024-01-02",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/78617dac6216cf62a0c96af43afa864f/signed_FireTvOobe-jarvis-release_10881.apk",
+        "versionCode": "634279810",
+        "versionName": "1.0.10881.0-com.amazon.tv.oobe-jarvis_634279810"
+    }
+]

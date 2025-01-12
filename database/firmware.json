@@ -1,0 +1,38 @@
+{
+    "com.amazon.gazelle.android.os": {
+        "model": "AFTGAZL",
+        "title": [
+            "Fire TV Cube - 3rd Gen (2022)"
+        ]
+    },
+    "com.amazon.mantis.android.os": {
+        "model": "AFTMM",
+        "title": [
+            "Fire TV Stick 4K - 1st Gen (2018)"
+        ]
+    },
+    "com.amazon.montoya.android.os": {
+        "model": "AFTM",
+        "title": [
+            "Fire TV Stick - 1st Gen (2014)"
+        ]
+    },
+    "com.amazon.raven.android.os": {
+        "model": "AFTR",
+        "title": [
+            "Fire TV Cube - 2nd Gen (2019)"
+        ]
+    },
+    "com.amazon.sheldonp.android.os": {
+        "model": "AFTSSS",
+        "title": [
+            "Fire TV Stick - 3rd Gen (2020)"
+        ]
+    },
+    "com.amazon.sloane.android.os": {
+        "model": "AFTS",
+        "title": [
+            "Fire TV - 2nd Gen (2015)"
+        ]
+    }
+}

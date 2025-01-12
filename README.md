@@ -1,5 +1,3 @@
-Below is a concise README.md emphasizing the official website, community contributions, and Telegram channel:
-
 # FTV DB
 
 A **community-driven** Fire TV firmware and app update URL **service**, powered by user submissions and maintained for everyone’s benefit.  

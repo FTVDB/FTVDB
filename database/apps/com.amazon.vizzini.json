@@ -236,5 +236,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/14/55ecb94f-a794-4190-868e-cbb4850b82fd/1710364556529-signed_com.amazon.vizzini_652_1_13_march.apk",
         "versionCode": "652803310",
         "versionName": "3.0.10321.0-com.amazon.vizzini.652.1.0_652803310"
+    },
+    {
+        "md5": "0499ce2b5cab6bd114b76f3cbdf01532",
+        "uploaded": "2024-06-13",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/6/13/284f3030-1230-410c-be3a-601a70fe3713/1718299898337-signed_com.amazon.vizzini_653_01_13_june.apk",
+        "versionCode": "653057410",
+        "versionName": "3.0.11134.0-com.amazon.vizzini.653.0.1_653057410"
     }
 ]

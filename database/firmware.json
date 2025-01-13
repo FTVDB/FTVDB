@@ -5,6 +5,12 @@
             "Fire TV Cube - 3rd Gen (2022)"
         ]
     },
+    "com.amazon.kara.android.os": {
+        "model": "AFTKA",
+        "title": [
+            "Fire TV Stick 4K Max - 1st Gen (2021)"
+        ]
+    },
     "com.amazon.mantis.android.os": {
         "model": "AFTMM",
         "title": [

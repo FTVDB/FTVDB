@@ -278,5 +278,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/1/31/00160ad8-4609-4edd-ae1e-f9a4b5568375/1706739516613-signed_app-prod-release-14400.apk",
         "versionCode": "22755710",
         "versionName": "1.0.14400.0"
+    },
+    {
+        "md5": "440dc7822fdc42198e1addb63e2dc8a9",
+        "uploaded": "2024-07-11",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/11/5239d8d3-fed4-4b39-a411-2b4c63ac622f/1720738311671-signed_app-prod-release(1).apk",
+        "versionCode": "22759210",
+        "versionName": "1.0.14452.0"
     }
 ]

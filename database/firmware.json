@@ -1,4 +1,11 @@
 {
+    "com.amazon.bueller.android.os": {
+        "model": "AFTB",
+        "title": [
+            "Amazon Fire TV 1",
+            "Fire TV - 1st Gen (2014)"
+        ]
+    },
     "com.amazon.gazelle.android.os": {
         "model": "AFTGAZL",
         "title": [

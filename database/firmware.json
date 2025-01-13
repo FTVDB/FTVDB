@@ -29,6 +29,13 @@
             "Fire TV Cube - 2nd Gen (2019)"
         ]
     },
+    "com.amazon.sheldon.android.os": {
+        "model": "AFTSS",
+        "title": [
+            "Fire TV Stick HD Alexa Voice Remote (2024)",
+            "Fire TV Stick Lite - 1st Gen (2020)"
+        ]
+    },
     "com.amazon.sheldonp.android.os": {
         "model": "AFTSSS",
         "title": [

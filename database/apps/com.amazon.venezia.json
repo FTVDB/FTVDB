@@ -187,5 +187,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/21/2f207a8b-d274-4d30-add5-19b3e5b092af/com.amazon.venezia.apk",
         "versionCode": "424778510",
         "versionName": "release-8.5029.5.v.x.226296.0_424778510"
+    },
+    {
+        "md5": "2e76c907c1f71cce36ff7d1b59e2dd74",
+        "uploaded": "2024-11-05",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/11/5/ac532cf2-e97f-4b61-bfa8-82feab511fc4/1730797543116-com.amazon.venezia(1).apk",
+        "versionCode": "426039810",
+        "versionName": "release-8.5040.5.v.x.230614.0_426039810"
     }
 ]

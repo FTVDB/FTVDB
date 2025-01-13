@@ -47,5 +47,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/9b42e6af19c078eb9372dc2c3261a02d/signed_Gallery-4.0.0.3098-fireTvRelease-armeabi-v7a.apk",
         "versionCode": "890309810",
         "versionName": "2.18.0-890309810"
+    },
+    {
+        "md5": "ca4f3819df5862c149bbb2916327ddca",
+        "uploaded": "2024-09-11",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/11/90037c1c-6c75-4eae-bf51-a12045c57f7e/1726079779784-com.amazon.bueller.photos.apk",
+        "versionCode": "894317210",
+        "versionName": "2.22.0-894317210"
     }
 ]

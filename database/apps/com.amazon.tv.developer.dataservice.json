@@ -33,5 +33,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/1/24/cea0fed2-1940-4508-83f8-4a8ee93c69ce/1706069530247-10016015.apk",
         "versionCode": "1001601510",
         "versionName": "1.0-AlbertoService-1001601500"
+    },
+    {
+        "md5": "70682ae6044a87b8fd18908fc2c3668d",
+        "uploaded": "2024-07-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/16/ca7d5603-c737-4e64-bdb4-977ac29e3705/1721124709915-com.amazon.tv.developer.dataservice.apk",
+        "versionCode": "1001601710",
+        "versionName": "1.0-AlbertoService-1001601700"
     }
 ]

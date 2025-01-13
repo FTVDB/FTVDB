@@ -103,5 +103,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/f4317dc2e5d9a17bb07ee363fbdff1e8/signed_AriaRuntime-2023.2.612.0-standard-armeabi-v7a-release.apk",
         "versionCode": "32560310",
         "versionName": "AriaRuntime-2023.2.612.0"
+    },
+    {
+        "md5": "7d4bd4291e5cde5cca58e05c216b7472",
+        "uploaded": "2024-06-06",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/6/6/28a6c58c-246b-403e-970e-f865ff869ecb/1717667949593-signed_AriaRuntime-2024.2.404.0-standard-armeabi-v7a-release.apk",
+        "versionCode": "33529610",
+        "versionName": "AriaRuntime-2024.2.404.0"
     }
 ]

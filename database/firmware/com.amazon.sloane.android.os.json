@@ -47,5 +47,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/0fecd40db0d9aedf299477919c112dcc/update-kindle-full_sloane-36.6.3.2_user_632552020.bin",
         "versionCode": "632552020",
         "versionName": "Fire OS 5.2.6.9 (632552020)"
+    },
+    {
+        "md5": "d33b381f2b9aff92b7fcaf8ad6093252",
+        "uploaded": "2023-03-22",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/5d7a6e4bc1c76e60ba3cceb871ded639/update-kindle-full_sloane-36.6.8.6_user_686800020.bin",
+        "versionCode": "686800020",
+        "versionName": "Fire OS 5.2.9.5 (686800020)"
     }
 ]

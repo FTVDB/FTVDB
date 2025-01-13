@@ -28,5 +28,11 @@
         "title": [
             "Fire TV Stick - 3rd Gen (2020)"
         ]
+    },
+    "com.amazon.sloane.android.os": {
+        "model": "AFTS",
+        "title": [
+            "Fire TV - 2nd Gen (2015)"
+        ]
     }
 }

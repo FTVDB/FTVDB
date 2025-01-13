@@ -40,5 +40,12 @@
         "title": [
             "Fire TV - 2nd Gen (2015)"
         ]
+    },
+    "com.amazon.tank.android.os": {
+        "model": "AFTT",
+        "title": [
+            "Fire TV Stick - 2nd Gen (2016-2019)",
+            "Fire TV Stick - Basic Edition (2017)"
+        ]
     }
 }

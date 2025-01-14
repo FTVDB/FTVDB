@@ -12,16 +12,19 @@ header {
   color: #fff;
   padding: 1em;
 }
+
 header h1 {
   margin: 0;
   margin-bottom: 0.5em;
   display: inline-block;
 }
+
 header nav a {
   color: #bbb;
   margin: 0 0.5em;
   text-decoration: none;
 }
+
 header nav a:hover {
   color: #fff;
 }
@@ -53,9 +56,11 @@ a:hover {
   border: none;
   border-radius: 4px;
 }
+
 .big-btn:hover {
   background: #444;
 }
+
 .nav-btn {
   float: left;
   margin-bottom: 1em;
@@ -66,13 +71,19 @@ a:hover {
   padding: 0.5em 1em;
   cursor: pointer;
 }
+
 .nav-btn:hover {
   background: #444;
 }
 
 /* Hide/Show */
-.hidden { display: none; }
-.visible { display: block; }
+.hidden {
+  display: none;
+}
+
+.visible {
+  display: block;
+}
 
 /* Table with no forced min-width, so it won't overflow. */
 table {
@@ -80,11 +91,13 @@ table {
   border-collapse: collapse;
   table-layout: auto; /* auto sizing to avoid forced scroll */
 }
+
 th, td {
   border: 1px solid #333;
   padding: 0.5em;
   word-break: break-word; /* wrap if needed */
 }
+
 th {
   background: #222;
 }
@@ -100,10 +113,12 @@ th {
   text-align: left;
   margin: 1em auto;
 }
+
 #detailsList dt {
   font-weight: bold;
   margin-top: 1em;
 }
+
 #detailsList dd {
   margin-left: 0;
   margin-bottom: 0.5em;

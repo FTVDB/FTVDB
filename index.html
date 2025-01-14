@@ -22,25 +22,27 @@
                 <a href="#" id="submitLink">Submit</a>
                 <a href="#" id="apiLink">API Docs</a>
                 <a href="https://www.paypal.com/donate/?business=R5VF42B7TNDL2&no_recurring=0&item_name=FTV+DB&currency_code=USD" target="_blank">Donate</a>
+                <a href="#" id="creditsLink">Credits</a>
                 <a href="https://github.com/FTVDB/FTVDB/issues" target="_blank">Issues</a>
                 <a href="https://github.com/FTVDB/FTVDB" target="_blank">GitHub</a>
-                <a href="https://t.me/FTVDB" target="_blank">Telegram</a>
             </nav>
         </header>
         <!-- Startup Screen -->
-        <section id="startupScreen" class="visible content-section">
-            <p>
-                Welcome to FTV DB – a community-driven Fire TV firmware and app update URL database.
-                Select "Firmware" or "Apps" to see available downloads, submit new URLs, and learn
-                how to capture your own update links.
-            </p>
-            <p><strong>Note:</strong> This is a fully automated service. Submitted URLs will appear
-            in the database within a few minutes. This service is not affiliated with Amazon.</p>
-            <div class="button-row">
-                <button id="firmwareBtn" class="big-btn">Firmware</button>
-                <button id="appsBtn" class="big-btn">Apps</button>
-            </div>
-        </section>
+<section id="startupScreen" class="visible content-section">
+    <p>
+        Welcome to FTV DB – a community-driven Fire TV firmware and app update URL database.
+        Select "Firmware" or "Apps" to see available downloads, submit new URLs, and learn
+        how to capture your own update links. This service is not affiliated with Amazon.
+    </p>
+    <p><strong>Note:</strong> This is a fully automated service. Submitted URLs will appear
+    in the database within a few minutes. This service is not affiliated with Amazon.</p>
+    <p>Any changes to the database are automatically posted to the Telegram channel <a href="https://t.me/FTVDB">https://t.me/FTVDB</a></p>
+
+    <div class="button-row">
+        <button id="firmwareBtn" class="big-btn">Firmware</button>
+        <button id="appsBtn" class="big-btn">Apps</button>
+    </div>
+</section>
         <!-- Selection Screen -->
         <section id="selectionScreen" class="hidden content-section">
             <button id="backToStartup" class="nav-btn">Back</button>
@@ -84,6 +86,14 @@
         <button type="submit">Submit</button>
     </form>
     <div id="submitMessage"></div>
+</section>
+<section id="creditsScreen" class="hidden content-section">
+    <h2>Special thanks to URL contributors</h2>
+    <ul style="list-style-type: none; padding-left: 0;">
+        <li><strong><a href="https://xdaforums.com/m/8978978/">R0rt1z2</a></strong> – Fire TV Stick 4K Max - 1st Gen, Fire TV - 1st Gen</li>
+        <li><strong><a href="https://xdaforums.com/t/4088247/">Ighor</a></strong> – Fire TV Stick - 1st Gen</li>
+        <li><strong><a href="https://xdaforums.com/t/4259961/">bibikalka</a></strong> – Fire TV Stick - 2nd Gen</li>
+    </ul>
 </section>
 <!-- API Docs Screen -->
 <section id="apiDocsScreen" class="hidden content-section">

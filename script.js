@@ -6,12 +6,14 @@ const detailsScreen = document.getElementById('detailsScreen');
 const manualScreen = document.getElementById('manualScreen');
 const submitScreen = document.getElementById('submitScreen');
 const apiDocsScreen = document.getElementById('apiDocsScreen');
+const creditsScreen = document.getElementById('creditsScreen');
 
 // Nav
 document.getElementById('homeLink').onclick = () => showScreen(startupScreen);
 document.getElementById('manualLink').onclick = () => showScreen(manualScreen);
 document.getElementById('submitLink').onclick = () => showScreen(submitScreen);
 document.getElementById('apiLink').onclick = () => showScreen(apiDocsScreen);
+document.getElementById('creditsLink').onclick = () => showScreen(creditsScreen);
 
 // Buttons
 const firmwareBtn = document.getElementById('firmwareBtn');
@@ -44,7 +46,7 @@ let currentItemName = '';
 // Show/hide screen
 function showScreen(screen)
 {
-    [startupScreen, selectionScreen, resultsScreen, detailsScreen, manualScreen, submitScreen, apiDocsScreen].forEach(sec => sec.classList.add('hidden'));
+    [startupScreen, selectionScreen, resultsScreen, detailsScreen, manualScreen, submitScreen, apiDocsScreen, creditsScreen].forEach(sec => sec.classList.add('hidden'));
     screen.classList.remove('hidden');
 }
 

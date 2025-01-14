@@ -26,6 +26,14 @@ header nav a:hover {
   color: #fff;
 }
 
+a {
+  color: #bbb;
+}
+
+a:hover {
+  color: #fff;
+}
+
 /* Container */
 .content-section {
   max-width: 600px;

@@ -33,5 +33,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/5fd8039db2a0db0bd9d25f03acc245c0/update-kindle-full_tank-288.6.5.9_user_659654620.bin",
         "versionCode": "659654620",
         "versionName": "Fire OS 5.2.7.6 (659654620)"
+    },
+    {
+        "md5": "fb991fc89acfdaf3e201d5d9acced7d0",
+        "uploaded": "2021-01-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/b14e3885e24d26616da8c0e97f3c5134/update-kindle-full_tank-288.6.6.2_user_662663920.bin",
+        "versionCode": "662663920",
+        "versionName": "Fire OS 5.2.7.7 (662663920)"
     }
 ]

@@ -250,5 +250,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/10/28/e7cdd3c6-8bfe-4bde-952f-5722c4dffa86/update-kindle-mantis-NS6708_user_5570_0011242160772.bin",
         "versionCode": "11242160772",
         "versionName": "Fire OS 6.7.0.8 (NS6708/5570)"
+    },
+    {
+        "md5": "86cd5082ac91c18a3126a0614ec2666c",
+        "uploaded": "2025-01-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/1/10/bb5538fa-dea0-4948-b05d-14694fc07ce8/update-kindle-mantis-NS6709_user_5669_0011443512708.bin",
+        "versionCode": "11443512708",
+        "versionName": "Fire OS 6.7.0.9 (NS6709/5669)"
     }
 ]

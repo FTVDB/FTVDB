@@ -523,5 +523,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/1/18/085fa21e-44d4-4643-be30-f02a37d61bfa/1737234080263-signed_Firebat-livingRoom-release_94022010.apk",
         "versionCode": "94022010",
         "versionName": "PVFTV-94.0220-L"
+    },
+    {
+        "md5": "d547f1fcf129d25bc49de9dddf9d7f25",
+        "uploaded": "2025-01-22",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/1/22/974b2fb7-86b9-4d56-b96c-3794c70de52a/1737579698843-signed_Firebat-release_95036310.apk",
+        "versionCode": "95036310",
+        "versionName": "PVFTV-95.0363-L"
     }
 ]

@@ -201,5 +201,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/30/e99c3e51-ab11-4f9b-ac00-6150da5b0089/FireTvLauncher-fos-release-signed.apk",
         "versionCode": "654016310",
         "versionName": "6540163.1"
+    },
+    {
+        "md5": "5d61eaef75321d594402db0e3aaeaa25",
+        "uploaded": "2025-01-30",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/1/30/62c42f69-db3b-43cf-9ca8-0e825512ddd8/1738216814740-6560194.apk",
+        "versionCode": "656019410",
+        "versionName": "6560194.1"
     }
 ]

@@ -453,5 +453,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/2/5/cf96e5e9-514b-4897-8827-c0e39496c2d4/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_395502110.apk",
         "versionCode": "395502110",
         "versionName": "FireTv.395.502101"
+    },
+    {
+        "md5": "9cfc9dcdb0b22039d0a9276f1fbdad55",
+        "uploaded": "2025-02-27",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/2/27/ac05ada5-3e91-4231-b026-a5fdfad4b372/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_398500710.apk",
+        "versionCode": "398500710",
+        "versionName": "FireTv.398.500701"
     }
 ]

@@ -75,5 +75,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/3/ce2c6901-f4ac-486c-adcf-0891f58ec3c5/1720001565945-signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release_44218.apk",
         "versionCode": "15595110",
         "versionName": "1.0.44218.0_15595110"
+    },
+    {
+        "md5": "f079ae7202e7c2512377183f6ac4376f",
+        "uploaded": "2025-02-18",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/2/18/f362a3fc-e0bb-4112-8256-41a6fb193a8b/1739870922478-signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release_1.0.54607.0.apk",
+        "versionCode": "16053810",
+        "versionName": "1.0.54607.0_16053810"
     }
 ]

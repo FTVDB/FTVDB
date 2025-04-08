@@ -264,5 +264,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/3/6/120099aa-ea6d-45ff-9b41-d2ad13028fa7/update-kindle-mantis-NS6710_user_5784_0011577759876.bin",
         "versionCode": "11577759876",
         "versionName": "Fire OS 6.7.1.0 (NS6710/5784)"
+    },
+    {
+        "md5": "a6c49c6d77bd70c5d09b371cadf5d569",
+        "uploaded": "2025-04-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/4/3/7d914dae-d2a5-4e19-babf-d3b808dc9dfb/update-kindle-mantis-NS6710_user_5786_0011577760388.bin",
+        "versionCode": "11577760388",
+        "versionName": "Fire OS 6.7.1.0 (NS6710/5786)"
     }
 ]

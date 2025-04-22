@@ -166,5 +166,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/2/20/75763a7a-9831-4a39-b4ab-f2e935ecd0e3/1708418876444-1212809410.apk",
         "versionCode": "1212809410",
         "versionName": "2.0.224906.0-com.amazon.tv.livetv_1212809410"
+    },
+    {
+        "md5": "9dee5e3fd26371f409b04faf396423ae",
+        "uploaded": "2025-04-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/4/16/61963ba5-c585-4ac4-a3b2-0bf328fa63bd/1744782353476-signed_com.amazon.tv.livetv_Storage_PrefetchFix.apk",
+        "versionCode": "1215415710",
+        "versionName": "2.0.236925.0-com.amazon.tv.livetv_1215415710"
     }
 ]

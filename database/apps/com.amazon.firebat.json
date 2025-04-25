@@ -600,5 +600,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/4/21/9ce1b6f0-4ca9-42cf-ac21-c9cccae5cca5/1745242927134-signed_Firebatiap-release_97058610.apk",
         "versionCode": "97058610",
         "versionName": "PVFTV-97.0586-L"
+    },
+    {
+        "md5": "9221353154818f2b7f14108d7dd7a39e",
+        "uploaded": "2025-04-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/4/24/e6bdf45b-d6f1-4811-96ed-56e9543abf95/1745458324546-signed_Firebatiap-release_97059210.apk",
+        "versionCode": "97059210",
+        "versionName": "PVFTV-97.0592-L"
     }
 ]

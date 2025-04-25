@@ -208,5 +208,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/1/30/62c42f69-db3b-43cf-9ca8-0e825512ddd8/1738216814740-6560194.apk",
         "versionCode": "656019410",
         "versionName": "6560194.1"
+    },
+    {
+        "md5": "cbd203504d206e0e75d6a0597b81ed9f",
+        "uploaded": "2025-04-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/4/17/7e76ec79-5d65-4b40-8f46-99d92f4841be/1744867008387-7201001.apk",
+        "versionCode": "720100110",
+        "versionName": "7201001.1"
     }
 ]

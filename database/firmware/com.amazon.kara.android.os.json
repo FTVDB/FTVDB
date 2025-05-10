@@ -26,5 +26,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/3/19/ea22bf37-d456-42aa-8e9a-8ad910ac131c/update-kindle-kara-PS7690_user_4716_0032381234308.bin",
         "versionCode": "32381234308",
         "versionName": "Fire OS 7.6.9.0 (PS7690/4716)"
+    },
+    {
+        "md5": "fab079aca40d23a8a0a3adbd9cf56be2",
+        "uploaded": "2025-04-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/4/16/7fb600dc-fb2d-441d-870d-fcbe97fb9c95/update-kindle-kara-PS7697_user_4800_0032783908996.bin",
+        "versionCode": "32783908996",
+        "versionName": "Fire OS 7.6.9.7 (PS7697/4800)"
     }
 ]

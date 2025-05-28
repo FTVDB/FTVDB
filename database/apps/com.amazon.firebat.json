@@ -628,5 +628,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/5/12/5e86a0f3-7e1f-4d69-aa86-15b57828035e/1747065107371-signed_Firebatiap-release_98032210.apk",
         "versionCode": "98032210",
         "versionName": "PVFTV-98.0322-L"
+    },
+    {
+        "md5": "ee5baddda1a02bc569d17d0808d9c543",
+        "uploaded": "2025-05-27",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/5/27/66ccd1c0-4d76-45cd-9ad0-905d0ad3a8b4/1748386830375-signed_Firebat-release_99021710.apk",
+        "versionCode": "99021710",
+        "versionName": "PVFTV-99.0217-L"
     }
 ]

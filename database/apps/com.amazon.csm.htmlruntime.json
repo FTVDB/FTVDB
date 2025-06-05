@@ -1,0 +1,30 @@
+[
+    {
+        "md5": "1679beb13555107f218a4034472ce191",
+        "uploaded": "2020-01-31",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/9bf668894c0825e6da95a3e7e4291ad8/CommonSpeechMiddleware_HtmlRuntime-release-signed.apk",
+        "versionCode": "1050810",
+        "versionName": "0.8.30.0_1050810"
+    },
+    {
+        "md5": "d0702a0703369983f1dd99ee397614e9",
+        "uploaded": "2020-10-06",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/76673cc9445351928ccb0103e826ce70/signed_CommonSpeechMiddleware_HtmlRuntime-release.apk",
+        "versionCode": "1196610",
+        "versionName": "1.1.27.0_1196610"
+    },
+    {
+        "md5": "0a694c5ce73c1b46e108d980f39468e8",
+        "uploaded": "2021-01-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/83b12df0c9efe8f892faf0454bd1103c/signed_1234910.apk",
+        "versionCode": "1234910",
+        "versionName": "1.1.73.0_1234910"
+    },
+    {
+        "md5": "f7cae7ee10759a5fcbe8b3d8160ad8d1",
+        "uploaded": "2022-07-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/3c6d9b0f6e411fb3cb78348cc67a1995/signed_CommonSpeechMiddleware_HtmlRuntime-release-1.1.337.0.apk",
+        "versionCode": "1317210",
+        "versionName": "1.1.337.0-general_1317210"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "md5": "cc2d1082c0b2bd6a02d44ceb5692bb40",
+        "uploaded": "2021-07-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/3535168d2a31e2ef9d7afedac8f0c05e/com.amazon.ods.kindleconnect-release-7.0.1508.0.apk",
+        "versionCode": "1700230210",
+        "versionName": "7.0.1508.0-com.amazon.ods.kindleconnect_1700230210"
+    },
+    {
+        "md5": "badce1b15719e83bb82c26522dbebab7",
+        "uploaded": "2024-04-08",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/8/a1cfa08b-cd04-4fec-9606-14341cbc13f2/1712610456839-MayDayApk-armeabi-v7a-release-signed.apk",
+        "versionCode": "1800098810",
+        "versionName": "8.0.218.0-com.amazon.ods.kindleconnect_1800098810"
+    }
+]

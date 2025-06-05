@@ -1,0 +1,65 @@
+[
+    {
+        "md5": "a4d4d6b3ed8198f2a7ef29aebac710ec",
+        "uploaded": "2020-02-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/05737ad7589f9297c6a0ddddf4e00f63/FireTV_DeviceControlSettings-release-signed.apk",
+        "versionCode": "100089810",
+        "versionName": "1.0.1983.0_100089810"
+    },
+    {
+        "md5": "53c2b53b5c305d1d97c8602efc83864f",
+        "uploaded": "2020-08-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/f7f0fbd084d4fb47a7cb2d5bed64dead/FireTV_DeviceControlSettings-release-signed.apk",
+        "versionCode": "100416110",
+        "versionName": "1.0.5600.0_100416110"
+    },
+    {
+        "md5": "8d44944c089e80bfa178837a0b94e0e5",
+        "uploaded": "2020-10-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/a2e2b525d84deb51ccda4c6899205de9/FireTV_DeviceControlSettings-caltrain-release-signed1.apk",
+        "versionCode": "100600610",
+        "versionName": "1.0.6161.0-caltrain_100600610"
+    },
+    {
+        "md5": "d0c2b5e03e297ecc95f11795cee3d68a",
+        "uploaded": "2021-03-01",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/21f481d6fe4ffcb2e54e4172c9c0b598/FireTV_DeviceControlSettings-caltrain-release-signed.apk",
+        "versionCode": "1001150110",
+        "versionName": "1.0.7303.0-caltrain_1001150110"
+    },
+    {
+        "md5": "79a07fcfcf65d3d505c807ac609930bc",
+        "uploaded": "2021-03-01",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/42468a96c33c6c20cefe8ef22f1c96e4/FireTV_DeviceControlSettings-jarvis-release-signed1.apk",
+        "versionCode": "1001150010",
+        "versionName": "1.0.7303.0-jarvis_1001150010"
+    },
+    {
+        "md5": "40084c598a167d617761487df5018c74",
+        "uploaded": "2021-04-23",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/c9ce79946c25c5ce7963fbf8e3d539b8/FireTV_DeviceControlSettings-caltrain-release-signed_3.apk",
+        "versionCode": "1001265610",
+        "versionName": "1.0.7749.0-caltrain_1001265610"
+    },
+    {
+        "md5": "3768cb2a60ba941efd372280b8054937",
+        "uploaded": "2021-10-28",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/6febdff31f6192f1021492e3a86563db/9375_FireTV_DeviceControlSettings-jarvis-release-signed.apk",
+        "versionCode": "1001651710",
+        "versionName": "1.0.9375.0-jarvis_1001651710"
+    },
+    {
+        "md5": "c77f5cb1ccf826ced3bfa76f7595b605",
+        "uploaded": "2022-01-06",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/0b30b4faac830f264a2f39660ecef8b0/9752_FireTV_DeviceControlSettings-jarvis-release-signed.apk",
+        "versionCode": "1001741710",
+        "versionName": "1.0.9752.0-jarvis_1001741710"
+    },
+    {
+        "md5": "b056f5fd3491f02854507d797705af9a",
+        "uploaded": "2022-03-11",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/741262913c080718a7c69094e30bff06/10171_FireTV_DeviceControlSettings-jarvis-release-signed.apk",
+        "versionCode": "1001827310",
+        "versionName": "1.0.10171.0-jarvis_1001827310"
+    }
+]

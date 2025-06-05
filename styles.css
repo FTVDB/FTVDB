@@ -1,0 +1,130 @@
+/* Dark-ish background example (optional) */
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #121212;
+  color: #e0e0e0;
+  text-align: center;
+}
+
+header {
+  background: #1f1f1f;
+  color: #fff;
+  padding: 1em;
+}
+
+header h1 {
+  margin: 0;
+  margin-bottom: 0.5em;
+  display: inline-block;
+}
+
+header nav a {
+  color: #bbb;
+  margin: 0 0.5em;
+  text-decoration: none;
+}
+
+header nav a:hover {
+  color: #fff;
+}
+
+a {
+  color: #bbb;
+}
+
+a:hover {
+  color: #fff;
+}
+
+/* Container */
+.content-section {
+  max-width: 600px;
+  margin: 1em auto;
+  background: #1a1a1a;
+  padding: 1em;
+  border-radius: 4px;
+}
+
+/* Buttons */
+.big-btn {
+  font-size: 1.2em;
+  padding: 1em 2em;
+  cursor: pointer;
+  background: #333;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+}
+
+.big-btn:hover {
+  background: #444;
+}
+
+.nav-btn {
+  float: left;
+  margin-bottom: 1em;
+  background: #333;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 0.5em 1em;
+  cursor: pointer;
+}
+
+.nav-btn:hover {
+  background: #444;
+}
+
+/* Hide/Show */
+.hidden {
+  display: none;
+}
+
+.visible {
+  display: block;
+}
+
+/* Table with no forced min-width, so it won't overflow. */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: auto; /* auto sizing to avoid forced scroll */
+}
+
+th, td {
+  border: 1px solid #333;
+  padding: 0.5em;
+  word-break: break-word; /* wrap if needed */
+}
+
+th {
+  background: #222;
+}
+
+/* Hover effect on rows (optional) */
+#resultsTable tbody tr:hover {
+  background: #2f2f2f;
+  cursor: pointer;
+}
+
+/* Definition list for details view */
+#detailsList {
+  text-align: left;
+  margin: 1em auto;
+}
+
+#detailsList dt {
+  font-weight: bold;
+  margin-top: 1em;
+}
+
+#detailsList dd {
+  margin-left: 0;
+  margin-bottom: 0.5em;
+}
+
+#submitMessage {
+  margin-top: 1em;
+  font-weight: bold;
+}

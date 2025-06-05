@@ -1,0 +1,23 @@
+[
+    {
+        "md5": "00f66b42d176cfbcf6a622586e0b3ffb",
+        "uploaded": "2020-07-18",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/33e7e67237aedc792e45fc5746148ce8/update-kindle-montoya-54.6.5.6_user_656638420.bin",
+        "versionCode": "656638420",
+        "versionName": "Fire OS 5.2.7.4 (656638420)"
+    },
+    {
+        "md5": "11912b8451d570f55857814abc659a93",
+        "uploaded": "2020-09-30",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/a951aa5c41df594859c98af873ba6be4/update-kindle-montoya-54.6.5.9_user_659654620.bin",
+        "versionCode": "659654620",
+        "versionName": "Fire OS 5.2.7.6 (659654620)"
+    },
+    {
+        "md5": "64b4ed9ba7f15cb05bbb93e116f0da94",
+        "uploaded": "2020-12-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/64e99dd579dbc2c096608c88997e0e9b/update-kindle-montoya-54.6.6.2_user_662663720.bin",
+        "versionCode": "662663720",
+        "versionName": "Fire OS 5.2.7.7 (662663720)"
+    }
+]

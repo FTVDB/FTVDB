@@ -1,0 +1,30 @@
+[
+    {
+        "md5": "dd7c5deecba356ad300011d2c3e43034",
+        "uploaded": "2020-03-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/7a5f5f41f620358e86a42e0502a1e0c9/signed_FireTvAlexaAlerts-nonStark-release.apk",
+        "versionCode": "102021810",
+        "versionName": "1.0.200774.0-com.amazon.tv.alexaalerts-nonStark_102021810"
+    },
+    {
+        "md5": "f64578dd6d6c421dc7e301baf112d45c",
+        "uploaded": "2022-10-27",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/e6d13742e99be1cd66bbd26a15ed4940/signed_FireTvAlexaAlerts-nonStark-release_1.apk",
+        "versionCode": "103068310",
+        "versionName": "1.0.201470.0-com.amazon.tv.alexaalerts-nonStark_103068310"
+    },
+    {
+        "md5": "f8c2477e97da19d36fd9c21a2c692a30",
+        "uploaded": "2023-09-08",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/ac39597a3239b5e4b663abf4c9d9f0e4/FireTvAlexaAlerts-nonStark-release.apk",
+        "versionCode": "104001510",
+        "versionName": "1.0.201598.0-com.amazon.tv.alexaalerts-nonStark_104001510"
+    },
+    {
+        "md5": "a68158a647e6be08cc13c51a5a65e39f",
+        "uploaded": "2023-11-02",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/b59a5470b0ad2c659a3c2479f7a13b16/com.amazon.tv.alexaalerts-104011110.apk",
+        "versionCode": "104011110",
+        "versionName": "1.0.201609.0-com.amazon.tv.alexaalerts-nonStark_104011110"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "md5": "fab486658e0ee345241978b186d986c8",
+        "uploaded": "2020-10-13",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/70db40b7d5b5a8a6e858adbd07f5bfd0/com.amazon.tv.turnstile.apk",
+        "versionCode": "101001710",
+        "versionName": "1010017.1"
+    },
+    {
+        "md5": "813d0373ab6a3b4ee0b1f81e099224b2",
+        "uploaded": "2021-02-01",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/f9dffa86c32c4d21c9fc519298fb5e3d/com.amazon.tv.turnstile_4.apk",
+        "versionCode": "103000610",
+        "versionName": "1030006.1"
+    },
+    {
+        "md5": "164e2dd1a40df6a878943268199670bc",
+        "uploaded": "2021-05-11",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/83b6ac36fd51213f92c0e126400753af/RPM-RSE-Server-release-signed.apk",
+        "versionCode": "105000410",
+        "versionName": "1050004.1"
+    },
+    {
+        "md5": "5349ae80ee15963ab18663eb4756336b",
+        "uploaded": "2021-10-27",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/6074b0b8716dacd8a2d0f6b331fbf1bd/RPM-RSE-Server-release-signed_1.apk",
+        "versionCode": "106000110",
+        "versionName": "1060001.1"
+    },
+    {
+        "md5": "9d8635b8cc1f961d68cb849b16c1b92e",
+        "uploaded": "2022-10-07",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/34f80d53ba98d918c0cfa2ffd44c630f/1084_RPM-RSE-Server-release-signed_Geneva.apk",
+        "versionCode": "108400110",
+        "versionName": "1084001.1"
+    },
+    {
+        "md5": "a9ee03c11f03da48f997f3fdfb26baee",
+        "uploaded": "2023-06-09",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/37699dfd53ad7edde6bd76078abe2204/BisonTurnstileServer-release-signed_1.apk",
+        "versionCode": "112500110",
+        "versionName": "1125001.1"
+    },
+    {
+        "md5": "36fedce4f52e3931d249e721116932ce",
+        "uploaded": "2023-07-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/79b050e74dfe7cb252870417fd5b442b/signed_BisonTurnstileServer-release-2.6.0.apk",
+        "versionCode": "113300110",
+        "versionName": "1133001.1"
+    }
+]

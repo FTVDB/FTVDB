@@ -1,0 +1,37 @@
+[
+    {
+        "md5": "bb2d65d44cda40c9a4ffabb814dd4733",
+        "uploaded": "2024-09-02",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/2/41be363c-bebf-4749-8074-7a796b30e198/update-kindle-kara-PS7681_user_4384_0031106080900.bin",
+        "versionCode": "31106080900",
+        "versionName": "Fire OS 7.6.8.1 (PS7681/4384)"
+    },
+    {
+        "md5": "b7e611f09e4efbd501dcfa466c88a010",
+        "uploaded": "2024-10-30",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/10/30/a64acac4-e9a7-4012-ad42-25ff2a12fe30/update-kindle-kara-PS7685_user_4486_0031642977924.bin",
+        "versionCode": "31642977924",
+        "versionName": "Fire OS 7.6.8.5 (PS7685/4486)"
+    },
+    {
+        "md5": "31abd2fa0f997e8b85244b9452bcc274",
+        "uploaded": "2025-01-11",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/1/11/b3451c54-4a4c-4ba6-873a-a685c61b93b7/update-kindle-kara-PS7688_user_4591_0032112766852.bin",
+        "versionCode": "32112766852",
+        "versionName": "Fire OS 7.6.8.8 (PS7688/4591)"
+    },
+    {
+        "md5": "ccb0bb73db03562e54b2a2079c3e01c9",
+        "uploaded": "2025-03-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/3/19/ea22bf37-d456-42aa-8e9a-8ad910ac131c/update-kindle-kara-PS7690_user_4716_0032381234308.bin",
+        "versionCode": "32381234308",
+        "versionName": "Fire OS 7.6.9.0 (PS7690/4716)"
+    },
+    {
+        "md5": "fab079aca40d23a8a0a3adbd9cf56be2",
+        "uploaded": "2025-04-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/4/16/7fb600dc-fb2d-441d-870d-fcbe97fb9c95/update-kindle-kara-PS7697_user_4800_0032783908996.bin",
+        "versionCode": "32783908996",
+        "versionName": "Fire OS 7.6.9.7 (PS7697/4800)"
+    }
+]

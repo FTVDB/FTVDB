@@ -1,0 +1,23 @@
+[
+    {
+        "md5": "d91ed9cb88b37c65307a4e5ffde7ccfa",
+        "uploaded": "2021-06-28",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/34105a08e225b3877b29455ed677e031/update-kindle-sheldon-PS7249_user_2719_0021039325060.bin",
+        "versionCode": "21039325060",
+        "versionName": "Fire OS 7.2.4.9 (PS7249/2719)"
+    },
+    {
+        "md5": "9f17bdb8d8390e026e9b8d628c881fbf",
+        "uploaded": "2024-04-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/16/5be73710-f40b-4416-8bd6-21625c4c7668/update-kindle-sheldon-PS7671_user_4097_0029965156740.bin",
+        "versionCode": "29965156740",
+        "versionName": "Fire OS 7.6.7.1 (PS7671/4097)"
+    },
+    {
+        "md5": "e11df52beafdb499da2119bf0fdc16ab",
+        "uploaded": "2025-04-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/4/16/63e20cbd-e312-4c82-b050-a29f77b54465/update-kindle-sheldon-PS7697_user_4800_0032783908996.bin",
+        "versionCode": "32783908996",
+        "versionName": "Fire OS 7.6.9.7 (PS7697/4800)"
+    }
+]

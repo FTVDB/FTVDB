@@ -1,0 +1,65 @@
+[
+    {
+        "md5": "5c50eefca8ecfbad7535d81799e6ea30",
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/e3646c05103bbbca233bcc088f6d513c/update-kindle-full_tank-288.5.5.5_user_555164620.bin",
+        "versionCode": "555164620",
+        "versionName": "Fire OS 5.2.2.0 (555164620)"
+    },
+    {
+        "md5": "a9ca4f14d244439e3152f4b326f3717b",
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/078e6949792afa51dabbbcf6a4afdb28/update-kindle-full_tank-288.5.7.3_user_573210520.bin",
+        "versionCode": "573210520",
+        "versionName": "Fire OS 5.2.4.1 (573210520)"
+    },
+    {
+        "md5": "f4b5a6ea46c6f5a73a97522435f08971",
+        "uploaded": "2019-08-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/5fbc6551aca498396f3fd644f18412df/update-kindle-full_tank-288.6.4.6_user_646581820.bin",
+        "versionCode": "646581820",
+        "versionName": "Fire OS 5.2.7.1 (646581820)"
+    },
+    {
+        "md5": "88321bd15159382247ddfbe8c8440215",
+        "uploaded": "2020-05-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/68741a58369e2d3d3c93da3516f14529/update-kindle-full_tank-288.6.4.8_user_648595320.bin",
+        "versionCode": "648595320",
+        "versionName": "Fire OS 5.2.7.2 (648595320)"
+    },
+    {
+        "md5": "315fb4814bec8b2d321e35ce7f472d9a",
+        "uploaded": "2020-07-18",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/f7a4f66a90568fc8a766c1f97b4395bf/update-kindle-full_tank-288.6.5.6_user_656638420.bin",
+        "versionCode": "656638420",
+        "versionName": "Fire OS 5.2.7.4 (656638420)"
+    },
+    {
+        "md5": "7a4bf3318e3e408581bc6cf4ea5a89f9",
+        "uploaded": "2020-09-30",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/5fd8039db2a0db0bd9d25f03acc245c0/update-kindle-full_tank-288.6.5.9_user_659654620.bin",
+        "versionCode": "659654620",
+        "versionName": "Fire OS 5.2.7.6 (659654620)"
+    },
+    {
+        "md5": "fb991fc89acfdaf3e201d5d9acced7d0",
+        "uploaded": "2021-01-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/b14e3885e24d26616da8c0e97f3c5134/update-kindle-full_tank-288.6.6.2_user_662663920.bin",
+        "versionCode": "662663920",
+        "versionName": "Fire OS 5.2.7.7 (662663920)"
+    },
+    {
+        "md5": "b334e4380199e5436a5ff8d1a8a3f86c",
+        "uploaded": "2021-03-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/87e0c24212c952615f3481a362ee6e5d/update-kindle-full_tank-288.6.6.4_user_664657620.bin",
+        "versionCode": "664657620",
+        "versionName": "Fire OS 5.2.7.8 (664657620)"
+    },
+    {
+        "md5": "53a2c1659acab8e64f3c475325f9c9cb",
+        "uploaded": "2024-03-14",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/14/c5752488-58a3-4fe0-9ebf-9e4c3cc7d8a8/update-kindle-full_tank-288.6.8.8_user_688805020.bin",
+        "versionCode": "688805020",
+        "versionName": "Fire OS 5.2.9.5 (688805020)"
+    }
+]

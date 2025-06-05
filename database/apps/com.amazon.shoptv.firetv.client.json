@@ -1,0 +1,128 @@
+[
+    {
+        "md5": "031ce31763dbd02edef27735578199e3",
+        "uploaded": "2021-05-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/f13d26a0f2d75125fd920217b247b989/MShopAndroidTV3PClient-release-signed.apk",
+        "versionCode": "2000610",
+        "versionName": "3.0.203364.0_2000610"
+    },
+    {
+        "md5": "d4b13c45be29a57f0abf2fa155ab099b",
+        "uploaded": "2021-08-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/5ee7565bece259093b41b529eb52d278/MShopAndroidTV3PClient-release-signed_3.0.203424.0_2004810.apk",
+        "versionCode": "2004810",
+        "versionName": "3.0.203424.0_2004810"
+    },
+    {
+        "md5": "d60b8b5b3de8cac2143daae3fc853593",
+        "uploaded": "2021-10-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/c98754fd041d04e469cb201e58063131/MShopAndroidTV3PClient-release-signed-1025release.apk",
+        "versionCode": "2010310",
+        "versionName": "3.0.203508.0_2010310"
+    },
+    {
+        "md5": "297fb9ece0e8503ef853b01d63965402",
+        "uploaded": "2022-03-14",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/99ec3728d6e5d2417256255a789f522c/MShopAndroidTV3PClient-release-signed-0314release.apk",
+        "versionCode": "2016510",
+        "versionName": "3.0.203621.0_2016510"
+    },
+    {
+        "md5": "8570af832ad5f643b23da78583a60983",
+        "uploaded": "2022-05-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/29cad8819ebeda3d1fe0692a79220212/MShopAndroidTV3PClient-release-signed_0502release.apk",
+        "versionCode": "2019410",
+        "versionName": "3.0.203672.0_2019410"
+    },
+    {
+        "md5": "e245f0095ccb60a0cabb1f698be08142",
+        "uploaded": "2022-06-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/9d219e7f514ec2b8293e09f6a9fe7001/MShopAndroidTV3PClient-release-signed_0615release.apk",
+        "versionCode": "2021210",
+        "versionName": "3.0.203718.0_2021210"
+    },
+    {
+        "md5": "db242a5f4e0a18181c2b07c3f8128249",
+        "uploaded": "2022-09-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/cbf7089ae485cfc3c5e4f491130ce04a/MShopAndroidTV3PClient-release-signed_0909release.apk",
+        "versionCode": "2025210",
+        "versionName": "3.0.203781.0_2025210"
+    },
+    {
+        "md5": "5eeafc94cadc7165336cbed458964f43",
+        "uploaded": "2022-11-06",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/c771d84cd52580a7d1e7796956ace670/MShopAndroidTV3PClient-release-signed_1105release.apk",
+        "versionCode": "2028810",
+        "versionName": "3.0.203843.0_2028810"
+    },
+    {
+        "md5": "34facebc642fda1ed15d0c3b41f62b9e",
+        "uploaded": "2022-12-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/6370d9c62d9fac2a4a41c74ba5711529/MShopAndroidTV3PClient-release-signed_release221216.apk",
+        "versionCode": "2031210",
+        "versionName": "3.0.203884.0_2031210"
+    },
+    {
+        "md5": "34facebc642fda1ed15d0c3b41f62b9e",
+        "uploaded": "2022-12-19",
+        "url": "https://prod.ota-cloudfront.net/6370d9c62d9fac2a4a41c74ba5711529/MShopAndroidTV3PClient-release-signed_release221216.apk",
+        "versionCode": "2031210",
+        "versionName": "3.0.203884.0_2031210"
+    },
+    {
+        "md5": "34facebc642fda1ed15d0c3b41f62b9e",
+        "uploaded": "2022-12-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/6370d9c62d9fac2a4a41c74ba5711529/MShopAndroidTV3PClient-release-signed_release221216.apk",
+        "versionCode": "2031210",
+        "versionName": "3.0.203884.0_2031210"
+    },
+    {
+        "md5": "996b406f0bfe62af70cce969a84a3a86",
+        "uploaded": "2023-03-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/f90f939f6d573979566a34ee372ad99f/MShopAndroidTV3PClient-release-signed-release0317.apk",
+        "versionCode": "2035010",
+        "versionName": "3.0.203942.0_2035010"
+    },
+    {
+        "md5": "4c977e79b3413ee2201054ff94e6c51f",
+        "uploaded": "2023-04-05",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/0b62eba1c83ea655092204083e878276/MShopAndroidTV3PClient-release-signed-release0405.apk",
+        "versionCode": "2035810",
+        "versionName": "3.0.203958.0_2035810"
+    },
+    {
+        "md5": "d1c908c8bd20a4074c4c6be8ce8f26af",
+        "uploaded": "2023-06-01",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/f7ec4af42820e7a706a0108ae35c8f83/MShopAndroidTV3PClient-release-signed-0601release.apk",
+        "versionCode": "2042910",
+        "versionName": "3.0.204061.0_2042910"
+    },
+    {
+        "md5": "6aae6248ebb0dec7daf130b4b8dcfab2",
+        "uploaded": "2023-10-18",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/0413f56740da8dfe4eeaae02f29b73fb/MShopAndroidTV3PClient-release-signed-release1017.apk",
+        "versionCode": "2049510",
+        "versionName": "3.0.204166.0_2049510"
+    },
+    {
+        "md5": "65b22e84ac02c0896b450c93a113a542",
+        "uploaded": "2023-12-15",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/5e79b88ee57c35352347dfd2aa9add72/MShopAndroidTV3PClient-release-231213release-signed.apk",
+        "versionCode": "2050610",
+        "versionName": "3.0.204179.0_2050610"
+    },
+    {
+        "md5": "a579afb69510b1c0e3597cdb76eefbb5",
+        "uploaded": "2024-09-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/16/7acdcd31-bcf9-49ec-878d-337b9ab98fc6/1726503370031-MShopAndroidTV3PClient-release-release0910-signed.apk",
+        "versionCode": "2052910",
+        "versionName": "3.0.204215.0_2052910"
+    },
+    {
+        "md5": "6141422a1c380d4d931dd34d3dcab2c0",
+        "uploaded": "2025-04-30",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/4/30/b9c69f67-13b3-4a45-99eb-dedb96325c3b/1746033353827-MShopAndroidTV3PClient-release-signed-20250414-3.0.204249.0.apk",
+        "versionCode": "2054910",
+        "versionName": "3.0.204249.0_2054910"
+    }
+]

@@ -656,5 +656,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/7/3/47dab011-27da-48b8-9dd7-5bd189d27a01/1751557568198-signed_Firebat-release_102018410.apk",
         "versionCode": "102018410",
         "versionName": "PVFTV-102.0184-L"
+    },
+    {
+        "md5": "2be90f75cc0bc983f8a605a89247f648",
+        "uploaded": "2025-07-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/7/10/47a0f4f3-dfb1-465a-b4ef-c8f0446460aa/1752178975856-signed_Firebat-release_102021110.apk",
+        "versionCode": "102021110",
+        "versionName": "PVFTV-102.0211-L"
     }
 ]

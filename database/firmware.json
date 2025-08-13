@@ -35,6 +35,12 @@
             "Fire TV Stick - 1st Gen (2014)"
         ]
     },
+    "com.amazon.rook.android.os": {
+        "model": "AEORK",
+        "title": [
+            "Amazon Echo Spot - 1st Gen (2017)"
+        ]
+    },
     "com.amazon.sheldon.android.os": {
         "model": "AFTSS",
         "title": [

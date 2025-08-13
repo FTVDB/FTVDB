@@ -1,4 +1,10 @@
 {
+    "com.amazon.athena.android.os": {
+        "model": "AEOAT",
+        "title": [
+            "Amazon Athena"
+        ]
+    },
     "com.amazon.bueller.android.os": {
         "model": "AFTB",
         "title": [

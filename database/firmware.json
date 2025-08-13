@@ -2,13 +2,19 @@
     "com.amazon.athena.android.os": {
         "model": "AEOAT",
         "title": [
-            "Amazon Athena"
+            "Echo Show 8 2nd Gen (2021)"
         ]
     },
     "com.amazon.bueller.android.os": {
         "model": "AFTB",
         "title": [
             "Fire TV - 1st Gen (2014)"
+        ]
+    },
+    "com.amazon.cupcake.android.os": {
+        "model": "AEOCK",
+        "title": [
+            "Amazon Echo Input"
         ]
     },
     "com.amazon.kara.android.os": {

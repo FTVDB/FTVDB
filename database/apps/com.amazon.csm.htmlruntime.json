@@ -26,5 +26,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/3c6d9b0f6e411fb3cb78348cc67a1995/signed_CommonSpeechMiddleware_HtmlRuntime-release-1.1.337.0.apk",
         "versionCode": "1317210",
         "versionName": "1.1.337.0-general_1317210"
+    },
+    {
+        "md5": "df4936d2cc9fd5ce912d1b75ca3b4616",
+        "uploaded": "2024-05-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/5/21/799cced9-261b-482b-9184-b30afaf3e103/1716306303981-signed_CommonSpeechMiddleware_HtmlRuntime-general-x86-release.apk",
+        "versionCode": "1470913",
+        "versionName": "1.1.696.0-general_1470910"
     }
 ]

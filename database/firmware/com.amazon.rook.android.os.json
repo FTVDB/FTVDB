@@ -5,5 +5,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/b167e0a1bfcdc93b365e9a0679ec0d8c/update-kindle-rook-304.6.4.7_user_647591020.bin",
         "versionCode": "647591020",
         "versionName": "Fire OS 5.5.3.4 (647591020)"
+    },
+    {
+        "md5": "6000027b2cbbb7e09ec9b35f0d8277c6",
+        "uploaded": "2025-08-05",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/8/5/f1b3e476-966e-4efc-a7ea-102ab6db7c81/update-kindle-rook-304.6.9.0_user_690916520.bin",
+        "versionCode": "690916520",
+        "versionName": "Fire OS 5.5.6.9 (690916520)"
     }
 ]

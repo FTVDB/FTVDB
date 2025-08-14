@@ -5,5 +5,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/24/b22d2d91-5986-4340-871f-c0bc261692b9/update-kindle-cupcake-NS6564_user_5411_0010705249156.bin",
         "versionCode": "10705249156",
         "versionName": "Fire OS 6.5.6.4 (NS6564/5411)"
+    },
+    {
+        "md5": "353069ade049a207bc10e89f0bbc7d2d",
+        "uploaded": "2025-06-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/6/25/b14080ec-52dd-47cd-b567-28faeaaee886/update-kindle-cupcake-NS6569_user_5999_0011980468100.bin",
+        "versionCode": "11980468100",
+        "versionName": "Fire OS 6.5.6.9 (NS6569/5999)"
     }
 ]

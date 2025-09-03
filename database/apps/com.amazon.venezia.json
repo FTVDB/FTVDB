@@ -194,5 +194,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/11/5/ac532cf2-e97f-4b61-bfa8-82feab511fc4/1730797543116-com.amazon.venezia(1).apk",
         "versionCode": "426039810",
         "versionName": "release-8.5040.5.v.x.230614.0_426039810"
+    },
+    {
+        "md5": "0ddbe04e301a08bc5046faa933092ef6",
+        "uploaded": "2025-08-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/8/25/70e6b403-422b-4547-bc16-9594c86290ca/1756089231278-MASClientNapkinAPK-ftv-release-signed.apk",
+        "versionCode": "427448510",
+        "versionName": "release-8.5082.5.v.x.237127.0_427448510"
     }
 ]

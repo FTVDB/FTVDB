@@ -124,5 +124,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/4/30/b9c69f67-13b3-4a45-99eb-dedb96325c3b/1746033353827-MShopAndroidTV3PClient-release-signed-20250414-3.0.204249.0.apk",
         "versionCode": "2054910",
         "versionName": "3.0.204249.0_2054910"
+    },
+    {
+        "md5": "64b7340c9a03b03607eab1151fb39c1f",
+        "uploaded": "2025-09-05",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/9/5/6d78d55d-413d-4152-8415-5b7ce16d2a2b/1757088885685-MShopAndroidTV3PClient-RELEASE-release-signed-3.0.204261.0_2055810.apk",
+        "versionCode": "2055810",
+        "versionName": "3.0.204261.0_2055810"
     }
 ]

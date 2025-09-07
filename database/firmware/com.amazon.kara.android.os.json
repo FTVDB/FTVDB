@@ -54,5 +54,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/7/17/d806894c-3cdc-4e7c-b896-e44be253e71c/update-kindle-kara-PS7702_user_4965_0033455039876.bin",
         "versionCode": "33455039876",
         "versionName": "Fire OS 7.7.0.2 (PS7702/4965)"
+    },
+    {
+        "md5": "7ffdea0064dc12144cdde8e3f21a6d63",
+        "uploaded": "2025-08-18",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/8/18/4375e579-318f-48a7-bcbc-fb0987e95bd5/update-kindle-kara-PS7704_user_5024_0033723490436.bin",
+        "versionCode": "33723490436",
+        "versionName": "Fire OS 7.7.0.4 (PS7704/5024)"
     }
 ]

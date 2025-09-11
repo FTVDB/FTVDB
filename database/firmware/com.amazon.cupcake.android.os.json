@@ -19,5 +19,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/8/7/018bfea6-baad-4dfa-87fb-233dcddae038/update-kindle-cupcake-NS6570_user_6066_0012383138436.bin",
         "versionCode": "12383138436",
         "versionName": "Fire OS 6.5.7.0 (NS6570/6066)"
+    },
+    {
+        "md5": "934e41e542dde3df81d544e7b196849f",
+        "uploaded": "2025-09-06",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/9/6/88a3ade7-0661-4bf7-a8eb-e4d1a586160e/update-kindle-cupcake-NS6570_user_6077_0012383141252.bin",
+        "versionCode": "12383141252",
+        "versionName": "Fire OS 6.5.7.0 (NS6570/6077)"
     }
 ]

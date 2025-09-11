@@ -131,5 +131,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/7/21/68f67410-9a95-4dfb-a901-fc664938b6ba/1753077394109-signed_slate_fire_tv_v138_1_150_arm.apk",
         "versionCode": "1381515010",
         "versionName": "138.1.150.7204.157.30"
+    },
+    {
+        "md5": "b777b27c443e71366bffe6888d30a8bf",
+        "uploaded": "2025-09-01",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/9/1/3d6b740a-9de8-4c6a-8169-df295ae41986/1756721477318-signed_slate_fire_tv_v138_5_27_arm.apk",
+        "versionCode": "1385527010",
+        "versionName": "138.5.27.0.7204.244.30"
     }
 ]

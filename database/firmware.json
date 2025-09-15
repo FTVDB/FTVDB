@@ -11,10 +11,22 @@
             "Fire TV - 1st Gen (2014)"
         ]
     },
+    "com.amazon.crumpet.android.os": {
+        "model": "AEOCP",
+        "title": [
+            "Amazon AEOCP"
+        ]
+    },
     "com.amazon.cupcake.android.os": {
         "model": "AEOCK",
         "title": [
             "Amazon Echo Input"
+        ]
+    },
+    "com.amazon.donut.android.os": {
+        "model": "AEODN",
+        "title": [
+            "Amazon AEODN"
         ]
     },
     "com.amazon.kara.android.os": {

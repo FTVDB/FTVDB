@@ -7,6 +7,20 @@
         "versionName": "Fire OS 5.5.0.3 (564196920)"
     },
     {
+        "md5": "805e721e1bed461d8a81015a1f703fc1",
+        "uploaded": "2022-11-18",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/47a1457e0802980eb32f63cd3ce355c0/update-kindle-csm_biscuit-272.6.8.0_user_680767620.bin",
+        "versionCode": "680767620",
+        "versionName": "Fire OS 5.5.5.4 (680767620)"
+    },
+    {
+        "md5": "2c4db2f5fa2ddb390faf5ccf9a879b01",
+        "uploaded": "2022-11-23",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/4c4fd21537a97548236e9a88cd835030/update-kindle-biscuit_puffin-NS6555_user_4310M_0008087721594.bin",
+        "versionCode": "8087721594",
+        "versionName": "Fire OS 6.5.5.5 (NS6555/4310)"
+    },
+    {
         "md5": "570f3f6b28f94323e01e95561c87887f",
         "uploaded": "2023-01-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2e17a264c416806ff7d3d984e1b6fcb7/update-kindle-biscuit_puffin-NS6556_user_4405_0008289072516.bin",

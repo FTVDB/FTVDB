@@ -77,11 +77,25 @@
         "versionName": "Fire OS 6.5.5.9 (NS6559/4657)"
     },
     {
+        "md5": "fc17921d6ae593351d319701eb114061",
+        "uploaded": "2023-08-04",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/6c94643670d218ad54d242c6ff16bc94/update-kindle-biscuit_puffin-NS6560_user_4774_0009295799940.bin",
+        "versionCode": "9295799940",
+        "versionName": "Fire OS 6.5.6.0 (NS6560/4774)"
+    },
+    {
         "md5": "06d3faef2e51f89b7eecc89556c1ea57",
         "uploaded": "2023-09-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/55b25c2b40df952ceda06ed1cae3aa94/update-kindle-biscuit_puffin-NS6560_user_4781_0009295801732.bin",
         "versionCode": "9295801732",
         "versionName": "Fire OS 6.5.6.0 (NS6560/4781)"
+    },
+    {
+        "md5": "5ee426d2e1ed1cdb56a65a3d1894a5c5",
+        "uploaded": "2023-10-23",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/6ce1a526b4763bc85917dd89dd0bd3be/update-kindle-biscuit_puffin-NS6561_user_4929_0009698492804.bin",
+        "versionCode": "9698492804",
+        "versionName": "Fire OS 6.5.6.1 (NS6561/4929)"
     },
     {
         "md5": "1917eeefb15e25d5efb7e8b653cb1b6c",

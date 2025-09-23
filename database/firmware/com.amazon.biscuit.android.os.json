@@ -5,5 +5,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/1b9718ec2da663bb299676df977055c9/update-kindle-full_biscuit-272.5.6.4_user_564196920.bin",
         "versionCode": "564196920",
         "versionName": "Fire OS 5.5.0.3 (564196920)"
+    },
+    {
+        "md5": "570f3f6b28f94323e01e95561c87887f",
+        "uploaded": "2023-01-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2e17a264c416806ff7d3d984e1b6fcb7/update-kindle-biscuit_puffin-NS6556_user_4405_0008289072516.bin",
+        "versionCode": "8289072516",
+        "versionName": "Fire OS 6.5.5.6 (NS6556/4405)"
     }
 ]

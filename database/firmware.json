@@ -5,6 +5,12 @@
             "Echo Show 8 2nd Gen (2021)"
         ]
     },
+    "com.amazon.biscuit.android.os": {
+        "model": "AEOBC",
+        "title": [
+            "Amazon AEOBC"
+        ]
+    },
     "com.amazon.bueller.android.os": {
         "model": "AFTB",
         "title": [

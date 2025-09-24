@@ -14,6 +14,13 @@
         "versionName": "Fire OS 6.5.6.9 (NS6569/6009)"
     },
     {
+        "md5": "2e0b3f94dc9ab52ac876272857ee3ebf",
+        "uploaded": "2025-08-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/8/16/e9e5da87-55f2-4b3e-975e-cf60355a3843/update-kindle-donut_puffin-NS6570_user_6071_0012383139716.bin",
+        "versionCode": "12383139716",
+        "versionName": "Fire OS 6.5.7.0 (NS6570/6071)"
+    },
+    {
         "md5": "d79973f85f7c213ec9af073d34884212",
         "uploaded": "2025-09-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/9/6/6a50a975-bcda-41bd-b05a-9c80e6c9396e/update-kindle-donut_puffin-NS6570_user_6077_0012383141252.bin",

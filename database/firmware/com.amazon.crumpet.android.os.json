@@ -14,6 +14,13 @@
         "versionName": "Fire OS 6.5.6.9 (NS6569/6009)"
     },
     {
+        "md5": "37232fafaf156b4a3683d160b6c16dde",
+        "uploaded": "2025-08-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/8/16/2f31f8c9-bb04-4b14-a313-2f82468a754b/update-kindle-crumpet-NS6570_user_6071_0012383139716.bin",
+        "versionCode": "12383139716",
+        "versionName": "Fire OS 6.5.7.0 (NS6570/6071)"
+    },
+    {
         "md5": "1ea478fadf53f0af582e6ff61ea5b47c",
         "uploaded": "2025-09-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/9/6/16c90d1c-22e7-4f46-ab30-9e4d97b8f5c2/update-kindle-crumpet-NS6570_user_6077_0012383141252.bin",

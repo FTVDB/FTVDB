@@ -112,51 +112,44 @@
         "versionName": "106.amazon-webview-v106-5249-tv.5249.170.60"
     },
     {
-        "md5": "99020f2465c96e81f63bb7a1d1f9ffcc",
-        "uploaded": "2022-11-21",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/aff95dfd20aebf9ea4cbe14302cb1ccb/signed_AmazonWebView-debug-32-signed.apk",
-        "versionCode": "60464032",
-        "versionName": "106.amazon-webview-v106-5249-tv.5249.170.60"
-    },
-    {
         "md5": "f7baf7c77bf8b3df8d69b354b50cd004",
         "uploaded": "2023-02-09",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/3b29cf7f8b7020dd00a9b17db19ab8b7/signed_AmazonWebView-debug-32-signed.apk",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/3b29cf7f8b7020dd00a9b17db19ab8b7/signed_AmazonWebView-debug-32-signed.apk",
         "versionCode": "60525032",
         "versionName": "108.amazon-webview-v108-5359-tv.5359.160.86"
     },
     {
         "md5": "df19c72a40a2133b73f2664fd11da121",
         "uploaded": "2023-04-07",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/4e9306f3c84e3f67aa9eb28f186e87bb/signed_AmazonWebView-debug-signed.apk",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/4e9306f3c84e3f67aa9eb28f186e87bb/signed_AmazonWebView-debug-signed.apk",
         "versionCode": "60562632",
         "versionName": "110.amazon-webview-v110-5481-tv.5481.154.25"
     },
     {
         "md5": "9fe3edd55b903febc473b8d2ab677b71",
         "uploaded": "2023-10-02",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/ae1f26f325e36eca4437798f5ef0a848/signed_AmazonWebView-debug-32-signed.apk",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/ae1f26f325e36eca4437798f5ef0a848/signed_AmazonWebView-debug-32-signed.apk",
         "versionCode": "60718832",
         "versionName": "114.amazon-webview-v114-5735-tv.5735.220.73"
     },
     {
         "md5": "04781d62149a2dce53487fc4ac047972",
         "uploaded": "2023-10-26",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/e171213c71a19078af5bea307be4046b/signed_AmazonWebView-debug-signed.apk",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/e171213c71a19078af5bea307be4046b/signed_AmazonWebView-debug-signed.apk",
         "versionCode": "60732032",
         "versionName": "116.amazon-webview-v116-5845-tv.5845.229.64"
     },
     {
         "md5": "3bffcf14da4e1a8d573fa6b1c1308d06",
         "uploaded": "2024-01-17",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/1/17/48458294-f4ab-459c-a065-36c09b690d1f/1705533761935-v11851_tv_signed_AmazonWebView-debug-32-signed.apk",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/1/17/48458294-f4ab-459c-a065-36c09b690d1f/1705533761935-v11851_tv_signed_AmazonWebView-debug-32-signed.apk",
         "versionCode": "60806632",
         "versionName": "118.amazon-webview-v118-5993-tv.5993.155.51"
     },
     {
         "md5": "4d8413b993d0a668a444dfa5443ff1ff",
         "uploaded": "2024-08-29",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/8/29/301dc664-e0b1-4f02-9790-663f5c8c2663/1724965493655-109_signed_AmazonWebView-debug-signed-2.apk",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/8/29/301dc664-e0b1-4f02-9790-663f5c8c2663/1724965493655-109_signed_AmazonWebView-debug-signed-2.apk",
         "versionCode": "61002232",
         "versionName": "124.amazon-webview-v124-6367-tv.6367.248.109"
     }

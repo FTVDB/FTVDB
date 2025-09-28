@@ -98,58 +98,51 @@
         "versionName": "3.0.203505.0_300424810"
     },
     {
-        "md5": "6be1bed4bc4bf1a1269c5e51ec082107",
-        "uploaded": "2022-12-19",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/90f0e46923f03e7345133539b23190fb/MShopAndroidTVClient-release-signed_release221216.apk",
-        "versionCode": "300424810",
-        "versionName": "3.0.203505.0_300424810"
-    },
-    {
         "md5": "297beafdcb4e6a78f68cc99e54aed73d",
         "uploaded": "2023-03-20",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/3b3f060791e836aa29453e5c730a138f/MShopAndroidTVClient-release-signed-release0317.apk",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/3b3f060791e836aa29453e5c730a138f/MShopAndroidTVClient-release-signed-release0317.apk",
         "versionCode": "300428210",
         "versionName": "3.0.203557.0_300428210"
     },
     {
         "md5": "bc81158366e0f2df85ec41b1a143f26b",
         "uploaded": "2023-04-05",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/6f1d45050b7a142af70d9eb51efd690f/MShopAndroidTVClient-release-signed-release0405.apk",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/6f1d45050b7a142af70d9eb51efd690f/MShopAndroidTVClient-release-signed-release0405.apk",
         "versionCode": "300429010",
         "versionName": "3.0.203572.0_300429010"
     },
     {
         "md5": "e94e815c1c5d931d08b7e25a8a32f065",
         "uploaded": "2023-06-01",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/51f054fe400865a0b73ee24a151ec95a/MShopAndroidTVClient-release-signed-0601release.apk",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/51f054fe400865a0b73ee24a151ec95a/MShopAndroidTVClient-release-signed-0601release.apk",
         "versionCode": "300436210",
         "versionName": "3.0.203668.0_300436210"
     },
     {
         "md5": "f8f285bb0752efd67a6e9c3b7a9840e6",
         "uploaded": "2023-12-15",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/3a10e2afd7b737ab5f854850786c8aa1/MShopAndroidTVClient-release-231213release-signed.apk",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/3a10e2afd7b737ab5f854850786c8aa1/MShopAndroidTVClient-release-231213release-signed.apk",
         "versionCode": "300443310",
         "versionName": "3.0.203766.0_300443310"
     },
     {
         "md5": "5ec4869f103d95f8f14be551b7122519",
         "uploaded": "2024-09-16",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/16/ba08a8da-7458-414f-9be9-268c0e1ddd63/1726503936488-MShopAndroidTVClient-release-release0910-signed.apk",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/9/16/ba08a8da-7458-414f-9be9-268c0e1ddd63/1726503936488-MShopAndroidTVClient-release-release0910-signed.apk",
         "versionCode": "300445410",
         "versionName": "3.0.203797.0_300445410"
     },
     {
         "md5": "f9be82706cd1e53e9455e5b66768fea2",
         "uploaded": "2025-04-30",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/4/30/2d5e937d-5275-496c-8061-16b39be6e4d3/1746033208219-MShopAndroidTVClient-release-signed-20250414-3.0.203826.0.apk",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/4/30/2d5e937d-5275-496c-8061-16b39be6e4d3/1746033208219-MShopAndroidTVClient-release-signed-20250414-3.0.203826.0.apk",
         "versionCode": "300447410",
         "versionName": "3.0.203826.0_300447410"
     },
     {
         "md5": "d7a1577c96c5c401376386d6ec76c462",
         "uploaded": "2025-09-05",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/9/5/82e3d13a-86fe-48ae-a57d-5429240935ca/1757088790091-MShopAndroidTVClient-release-signed-3.0.203837.0_300448110.apk",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/9/5/82e3d13a-86fe-48ae-a57d-5429240935ca/1757088790091-MShopAndroidTVClient-release-signed-3.0.203837.0_300448110.apk",
         "versionCode": "300448110",
         "versionName": "3.0.203837.0_300448110"
     }

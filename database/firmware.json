@@ -8,7 +8,7 @@
     "com.amazon.biscuit.android.os": {
         "model": "AEOBC",
         "title": [
-            "Amazon Echo Dot 2nd Gen"
+            "Amazon Echo Dot 2nd Gen (2016)"
         ]
     },
     "com.amazon.bueller.android.os": {
@@ -20,13 +20,13 @@
     "com.amazon.crumpet.android.os": {
         "model": "AEOCP",
         "title": [
-            "Amazon Echo Dot 3nd gen"
+            "Amazon Echo Dot 3nd Gen (2018)"
         ]
     },
     "com.amazon.cupcake.android.os": {
         "model": "AEOCK",
         "title": [
-            "Amazon Echo Input"
+            "Amazon Echo Input (2018)"
         ]
     },
     "com.amazon.donut.android.os": {

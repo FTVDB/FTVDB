@@ -17,6 +17,12 @@
             "Fire TV - 1st Gen (2014)"
         ]
     },
+    "com.amazon.checkers.android.os": {
+        "model": "AEOCH",
+        "title": [
+            "Echo Show 5 1st Gen (2019)"
+        ]
+    },
     "com.amazon.crumpet.android.os": {
         "model": "AEOCP",
         "title": [

@@ -322,6 +322,13 @@
         "versionName": "FireTv.344.101901"
     },
     {
+        "md5": "464cf3e033124339f039652615295045",
+        "uploaded": "2023-04-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2a768e8348eed7ec1c19519c704270bd/com.amazon.avod.apk",
+        "versionCode": "344101710",
+        "versionName": "Echo.344.101701"
+    },
+    {
         "md5": "fe389d0be524fc649771e253ccdecaff",
         "uploaded": "2023-04-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/09aa94e13f2bf64db0a0f2c60c9938c0/com.amazon.avod.apk",
@@ -460,6 +467,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/2/27/ac05ada5-3e91-4231-b026-a5fdfad4b372/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_398500710.apk",
         "versionCode": "398500710",
         "versionName": "FireTv.398.500701"
+    },
+    {
+        "md5": "e201476cba5dc907c6e164196602c88f",
+        "uploaded": "2025-03-04",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/3/4/cfc400b8-678d-4028-a0fe-1293c97d934e/ATVAndroidFOS5JazzClient-release-prodSigned_395752410.apk",
+        "versionCode": "395752410",
+        "versionName": "Echo.395.752401"
     },
     {
         "md5": "f8b17555b1450d19639ade76d65abc95",

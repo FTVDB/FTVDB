@@ -117,5 +117,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/9/4/0507f286-692f-4dfe-82bc-e30a9efc69ab/1756981227907-signed_AriaRuntime-2025.1.690.0-standard-armeabi-v7a-release.apk",
         "versionCode": "37069310",
         "versionName": "AriaRuntime-2025.1.690.0"
+    },
+    {
+        "md5": "5b6600f64edb6b83b57fae398935845d",
+        "uploaded": "2025-10-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/10/3/ba470a48-f4da-402f-9cde-23831c1cd7b5/1759469443268-signed_AriaRuntime-2025.1.853.0-standard-armeabi-v7a-release.apk",
+        "versionCode": "37213010",
+        "versionName": "AriaRuntime-2025.1.853.0"
     }
 ]

@@ -12,5 +12,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/3/13/a9ebc014-08a4-4195-b54e-17bc6c7d4c90/update-kindle-athena-PS7565_user_4500_0031240328324.bin",
         "versionCode": "31240328324",
         "versionName": "Fire OS 7.5.6.5 (PS7565/4500)"
+    },
+    {
+        "md5": "8ac78f90d894809f2ee354825e2b710b",
+        "uploaded": "2025-09-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/9/21/384d0f5a-b210-4af2-a8b2-b08428aba30f/update-kindle-athena-PS7570_user_5023_0033656381316.bin",
+        "versionCode": "33656381316",
+        "versionName": "Fire OS 7.5.7.0 (PS7570/5023)"
     }
 ]

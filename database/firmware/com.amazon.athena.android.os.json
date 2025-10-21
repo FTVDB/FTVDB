@@ -19,5 +19,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/9/21/384d0f5a-b210-4af2-a8b2-b08428aba30f/update-kindle-athena-PS7570_user_5023_0033656381316.bin",
         "versionCode": "33656381316",
         "versionName": "Fire OS 7.5.7.0 (PS7570/5023)"
+    },
+    {
+        "md5": "113b83854e746f2ca1a3833817ea22a9",
+        "uploaded": "2025-10-13",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/10/13/e1d2ac54-1488-42e6-95db-fd9db2b38bef/update-kindle-athena-PS7571_user_5131_0033857735556.bin",
+        "versionCode": "33857735556",
+        "versionName": "Fire OS 7.5.7.1 (PS7571/5131)"
     }
 ]

@@ -1,118 +1,157 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>FTV DB</title>
+        <link rel="stylesheet" href="styles.css">
+            <meta name="color-scheme" content="dark light">
+            </head>
+    <body>
+        <!-- Plausible Analytics -->
+        <script defer data-domain="ftvdb.com" src="https://analytics.ftvdb.com/js/script.outbound-links.js"></script>
+        <script>window.plausible = window.plausible || function(){ (window.plausible.q = window.plausible.q || []).push(arguments); };</script>
 
-<head>
-    <meta charset="UTF-8" />
-    <title>FTV DB</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<script defer data-domain="ftvdb.com" src="https://analytics.ftvdb.com/js/script.outbound-links.js"></script>
-<script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+        <header class="site-header" role="banner">
+            <div class="container header-row">
+                <a class="brand" href="#/home" id="brandHome" aria-label="FTV DB home">FTV DB</a>
+                <nav class="nav" role="navigation" aria-label="Primary">
+                    <a href="#/home" id="navHome">Home</a>
+                    <a href="#/browse?type=firmware" id="navFirmware">Firmware</a>
+                    <a href="#/browse?type=apps" id="navApps">Apps</a>
+                    <a href="#/submit" id="navSubmit">Submit</a>
+                    <a href="#/manual" id="navManual">Manual</a>
+                    <a href="#/api" id="navApi">API Docs</a>
+                    <a href="#/credits" id="navCredits">Credits</a>
+                    <a href="https://github.com/FTVDB/FTVDB/issues" target="_blank" rel="noopener">Issues</a>
+                    <a href="https://github.com/FTVDB/FTVDB" target="_blank" rel="noopener">GitHub</a>
+                </nav>
+            </div>
+        </header>
 
-<body>
-    <header>
-        <h1>FTV DB</h1>
-        <nav>
-            <a href="#" id="homeLink">Home</a>
-            <a href="#" id="manualLink">Manual</a>
-            <a href="#" id="submitLink">Submit</a>
-            <a href="#" id="apiLink">API Docs</a>
-            <a href="#" id="creditsLink">Credits</a>
-            <a href="https://github.com/FTVDB/FTVDB/issues" target="_blank">Issues</a>
-            <a href="https://github.com/FTVDB/FTVDB" target="_blank">GitHub</a>
-        </nav>
-    </header>
-    <!-- Startup Screen -->
-    <section id="startupScreen" class="visible content-section">
-        <p>
-            Welcome to FTVDB - a community-driven database of publicly accessible Fire TV firmware and app update URLs.
-            Use the "Firmware" or "Apps" tabs to browse available update links, submit new ones, or learn how to extract your own using ADB from your device logs.
-        </p>
-        <p>
-            <strong>Note:</strong> This is a fully automated indexing service. Submitted URLs appear in the database within a few minutes and reflect data visible via ADB on user-owned devices.
-            FTVDB does <strong>not host</strong> any firmware or app files, and it does <strong>not promote firmware modifications, downgrades, or jailbreaking</strong>.
-        </p>
-        <p>
-            FTVDB is <strong>not affiliated with, endorsed by, or sponsored by Amazon.com, Inc.</strong> All trademarks and product names are the property of their respective owners.
-        </p>
-        <p>
-            Updates to the database are automatically posted to our Telegram channel:
-            <a href="https://t.me/FTVDB">https://t.me/FTVDB</a>
-        </p>
-        <p>
-            This website and database are hosted on <a href="https://github.com/FTVDB/FTVDB">GitHub</a>.
-        </p>
-        <p>
-            If you are a rights holder and believe that any linked content violates your rights, please contact us at
-            <a href="mailto:support@ftvdb.com">support@ftvdb.com</a> before submitting a DMCA request. We will review and respond promptly.
-        </p>
-        <div class="button-row">
-            <button id="firmwareBtn" class="big-btn">Firmware</button>
-            <button id="appsBtn" class="big-btn">Apps</button>
-        </div>
-    </section>
-    <!-- Selection Screen -->
-    <section id="selectionScreen" class="hidden content-section">
-        <button id="backToStartup" class="nav-btn">Back</button>
-        <h2 id="selectionTitle"></h2>
-        <select id="selectionDropdown">
-            <option value="">-- Select an option --</option>
-        </select>
-    </section>
-    <!-- Results Screen -->
-    <section id="resultsScreen" class="hidden content-section">
-        <button id="backToSelection" class="nav-btn">Back</button>
-        <h2 id="resultsTitle"></h2>
-        <table id="resultsTable">
-            <thead>
-                <tr>
-                    <th>Version Name</th>
-                    <th>Version Code</th>
-                    <th>Uploaded</th>
-                </tr>
-            </thead>
-            <tbody></tbody>
-        </table>
-    </section>
-    <!-- Details Screen -->
-    <section id="detailsScreen" class="hidden content-section">
-        <button id="backToResults" class="nav-btn">Back</button>
-        <h2 id="detailsTitle">Item Details</h2>
-        <dl id="detailsList"></dl>
-    </section>
-    <!-- Manual Screen -->
-    <section id="manualScreen" class="hidden content-section">
-        <h2>Manual: Capturing Update URLs</h2>
-        <p>Enable ADB debugging on your Fire TV, connect with <code>adb connect [device IP]</code>,
-            then run <code>adb logcat</code>. Look for .bin or .apk URLs, and submit them.</p>
-    </section>
-    <!-- Submit Screen -->
-    <section id="submitScreen" class="hidden content-section">
-        <h2>Submit URLs</h2>
-        <form id="submitForm">
-            <input type="url" id="urlInput" placeholder="Paste update URL..." required>
-            <button type="submit">Submit</button>
-        </form>
-        <div id="submitMessage"></div>
-    </section>
-    <section id="creditsScreen" class="hidden content-section">
-        <h2>Special thanks to URL contributors</h2>
-        <ul style="list-style-type: none; padding-left: 0;">
-            <li><strong><a href="https://xdaforums.com/m/8978978/">R0rt1z2</a></strong> – Fire TV Stick 4K Max - 1st Gen, Fire TV - 1st Gen, Amazon Echo Input, Echo Show 15 (2021), Amazon Echo 2nd Gen, Echo Show 5 1st Gen (2019), Echo Show 8 2nd Gen (2021)</li>
-            <li><strong><a href="https://xdaforums.com/t/4088247/">Ighor</a></strong> – Fire TV Stick 4K - 1st Gen</li>
-            <li><strong><a href="https://xdaforums.com/t/4259961/">bibikalka</a></strong> – Fire TV Stick - 2nd Gen</li>
-        </ul>
-    </section>
-    <!-- API Docs Screen -->
-    <section id="apiDocsScreen" class="hidden content-section">
-        <h2>API Documentation</h2>
-        <p>GET: https://api.ftvdb.com/submit-url?url=ENCODED_URL</p>
-        OR
-        <p>POST: https://api.ftvdb.com/submit-url</p>
-        <pre> { "url": "https://example.com/update.bin" } </pre>
-        <p>Returns JSON with <strong>error</strong> and <strong>message</strong>.</p>
-    </section>
-    <script src="script.js"></script>
-</body>
+        <main id="app" class="container" role="main">
+            <!-- Home -->
+            <section id="screen-home" class="screen">
+                <h1 class="page-title">Fire TV Database</h1>
+                <p class="lede">
+                Community-driven index of publicly accessible Fire TV firmware and app update URLs.
+                Use the tabs to browse versions, view details, or submit new links captured from ADB logs.
+                </p>
+                <div class="callouts">
+                    <article class="card">
+                        <h2>About</h2>
+                        <p>This is a fully automated indexing service. Submitted URLs appear in the database shortly and reflect data visible via ADB on user-owned devices. FTVDB does not host any firmware or app files, and it does not promote firmware modifications, downgrades, or jailbreaking.</p>
+                    </article>
+                    <article class="card">
+                        <h2>Affiliation</h2>
+                        <p>FTVDB is not affiliated with, endorsed by, or sponsored by Amazon.com, Inc. All trademarks and product names are the property of their respective owners.</p>
+                    </article>
+                    <article class="card">
+                        <h2>Updates</h2>
+                        <p>Updates to the database are posted to our Telegram channel: <a href="https://t.me/FTVDB" target="_blank" rel="noopener">https://t.me/FTVDB</a>.</p>
+                    </article>
+                </div>
+                <div class="cta-row">
+                    <a class="btn btn-primary" href="#/browse?type=firmware">Browse Firmware</a>
+                    <a class="btn" href="#/browse?type=apps">Browse Apps</a>
+                </div>
+            </section>
 
+            <!-- Browse -->
+            <section id="screen-browse" class="screen hidden" aria-live="polite">
+                <div class="toolbar">
+                    <div class="toolbar-row">
+                        <div class="segmented" role="tablist" aria-label="Data type">
+                            <button class="seg-btn" data-type="firmware" id="segFirmware" role="tab" aria-selected="false">Firmware</button>
+                            <button class="seg-btn" data-type="apps" id="segApps" role="tab" aria-selected="false">Apps</button>
+                        </div>
+                        <div class="grow"></div>
+                        <div class="search-wrap">
+                            <input id="searchInput" type="search" placeholder="Search versions..." autocomplete="off" aria-label="Search versions">
+                        </div>
+                    </div>
+                    <div class="toolbar-row">
+                        <label for="bundleSelect" class="sr-only">Select device/app</label>
+                        <select id="bundleSelect"></select>
+                        <button id="refreshBtn" class="btn btn-ghost" aria-label="Refresh list">Refresh</button>
+                    </div>
+                </div>
+
+                <h2 id="resultsTitle" class="results-title"></h2>
+
+                <div class="table-wrap" id="tableWrap">
+                    <table id="resultsTable" class="data-table">
+                        <thead>
+                            <tr>
+                                <th data-sort="versionName">Version Name</th>
+                                <th data-sort="versionCode">Version Code</th>
+                                <th data-sort="uploaded">Uploaded</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                    <div class="empty" id="emptyState" hidden>No results</div>
+                </div>
+            </section>
+
+            <!-- Details -->
+            <section id="screen-details" class="screen hidden">
+                <button class="btn btn-ghost" id="backToList">Back to list</button>
+                <h2 id="detailsTitle" class="page-title">Item Details</h2>
+                <dl id="detailsList" class="details"></dl>
+                <div class="details-actions">
+                    <a id="openUrl" class="btn btn-primary" target="_blank" rel="noopener">Open URL</a>
+                    <button id="copyUrl" class="btn">Copy URL</button>
+                </div>
+            </section>
+
+            <!-- Manual -->
+            <section id="screen-manual" class="screen hidden">
+                <h2 class="page-title">Manual: Capturing Update URLs</h2>
+                <p>Enable ADB debugging on your Fire TV, connect with <code>adb connect [device IP]</code>, then run <code>adb logcat</code>. Look for .bin or .apk URLs, and submit them.</p>
+            </section>
+
+            <!-- Submit -->
+            <section id="screen-submit" class="screen hidden">
+                <h2 class="page-title">Submit URLs</h2>
+                <form id="submitForm" class="form">
+                    <input type="url" id="urlInput" placeholder="Paste update URL..." required aria-label="Update URL">
+                        <button type="submit" id="submitBtn" class="btn btn-primary">Submit</button>
+                </form>
+                <p id="submitMessage" role="status" aria-live="polite"></p>
+            </section>
+
+            <!-- Credits -->
+            <section id="screen-credits" class="screen hidden">
+                <h2 class="page-title">Credits</h2>
+                <ul class="credits">
+                    <li><strong><a href="https://xdaforums.com/m/8978978/" target="_blank" rel="noopener">R0rt1z2</a></strong> – Fire TV Stick 4K Max - 1st Gen, Fire TV - 1st Gen, Amazon Echo Input, Echo Show 15 (2021), Amazon Echo 2nd Gen, Echo Show 5 1st Gen (2019), Echo Show 8 2nd Gen (2021)</li>
+                    <li><strong><a href="https://xdaforums.com/t/4088247/" target="_blank" rel="noopener">Ighor</a></strong> – Fire TV Stick 4K - 1st Gen</li>
+                    <li><strong><a href="https://xdaforums.com/t/4259961/" target="_blank" rel="noopener">bibikalka</a></strong> – Fire TV Stick - 2nd Gen</li>
+                </ul>
+            </section>
+
+            <!-- API Docs -->
+            <section id="screen-api" class="screen hidden">
+                <h2 class="page-title">API Documentation</h2>
+                <p>GET: https://api.ftvdb.com/submit-url?url=ENCODED_URL</p>
+                <p>OR</p>
+                <p>POST: https://api.ftvdb.com/submit-url</p>
+                <pre>{ "url": "https://example.com/update.bin" }</pre>
+                <p>Returns JSON with <strong>error</strong> and <strong>message</strong>.</p>
+            </section>
+        </main>
+
+        <footer class="site-footer" role="contentinfo">
+            <div class="container">
+                <p>Hosted on <a href="https://github.com/FTVDB/FTVDB" target="_blank" rel="noopener">GitHub</a>. Contact: <a href="mailto:support@ftvdb.com">support@ftvdb.com</a></p>
+                <p>If you are a rights holder and believe that any linked content violates your rights, please contact us at <a href="mailto:support@ftvdb.com">support@ftvdb.com</a> before submitting a DMCA request. We will review and respond promptly.</p>
+            </div>
+        </footer>
+
+        <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+        <script src="script.js" defer></script>
+    </body>
 </html>

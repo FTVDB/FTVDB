@@ -8,7 +8,7 @@
     "com.amazon.biscuit.android.os": {
         "model": "AEOBC",
         "title": [
-            "Amazon Echo Dot 2nd Gen (2016)"
+            "Echo Dot 2nd Gen (2016)"
         ]
     },
     "com.amazon.bueller.android.os": {
@@ -32,19 +32,19 @@
     "com.amazon.crumpet.android.os": {
         "model": "AEOCP",
         "title": [
-            "Amazon Echo Dot 3nd Gen (2019)"
+            "Echo Dot 3nd Gen (2019)"
         ]
     },
     "com.amazon.cupcake.android.os": {
         "model": "AEOCK",
         "title": [
-            "Amazon Echo Input (2018)"
+            "Echo Input (2018)"
         ]
     },
     "com.amazon.donut.android.os": {
         "model": "AEODN",
         "title": [
-            "Amazon Echo Dot 3rd Gen (2018)"
+            "Echo Dot 3rd Gen (2018)"
         ]
     },
     "com.amazon.kara.android.os": {
@@ -68,7 +68,7 @@
     "com.amazon.rook.android.os": {
         "model": "AEORK",
         "title": [
-            "Amazon Echo Spot - 1st Gen (2017)"
+            "Echo Spot - 1st Gen (2017)"
         ]
     },
     "com.amazon.sheldon.android.os": {

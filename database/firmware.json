@@ -59,6 +59,12 @@
             "Fire TV Stick 4K - 1st Gen (2018)"
         ]
     },
+    "com.amazon.maverick.android.os": {
+        "model": "",
+        "title": [
+            "Fire HD10 (2019)"
+        ]
+    },
     "com.amazon.montoya.android.os": {
         "model": "AFTM",
         "title": [

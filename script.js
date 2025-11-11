@@ -175,13 +175,19 @@ function populateBundleSelect(type, selected) {
     bundleSelect.appendChild(optDefault);
     
     const source = (type === 'firmware') ? firmwareList : appsList;
-    for (const id in source) {
+    Object.keys(source)
+    .sort((a, b) => {
+        const ta = (type === 'firmware') ? source[a].title.join(', ') : source[a];
+        const tb = (type === 'firmware') ? source[b].title.join(', ') : source[b];
+        return ta.localeCompare(tb);
+    })
+    .forEach(id => {
         const o = document.createElement('option');
         o.value = id;
         o.textContent = (type === 'firmware') ? source[id].title.join(', ') : source[id];
         if (id === selected) o.selected = true;
         bundleSelect.appendChild(o);
-    }
+    });
     
     bundleSelect.onchange = () => navigateToBrowse(type, bundleSelect.value);
 }

@@ -23,6 +23,12 @@
             "Echo Show 5 1st Gen (2019)"
         ]
     },
+    "com.amazon.cronos.android.os": {
+        "model": "AEOCN",
+        "title": [
+            "Amazon AEOCN"
+        ]
+    },
     "com.amazon.crown.android.os": {
         "model": "AEOCW",
         "title": [

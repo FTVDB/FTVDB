@@ -109,6 +109,12 @@
             "Fire TV Stick - Basic Edition (2017)"
         ]
     },
+    "com.ftvdb.kindle.basic2-2016.os": {
+        "model": "",
+        "title": [
+            "Kindle Basic 2 (2016)"
+        ]
+    },
     "com.ftvdb.kindle.basic3-2019.os": {
         "model": "",
         "title": [
@@ -137,6 +143,12 @@
         "model": "",
         "title": [
             "Kindle 1 (2007)"
+        ]
+    },
+    "com.ftvdb.kindle.oasis1-2016.os": {
+        "model": "",
+        "title": [
+            "Kindle Oasis (2016)"
         ]
     },
     "com.ftvdb.kindle.oasis2-2017.os": {

@@ -108,5 +108,11 @@
             "Fire TV Stick - 2nd Gen (2016-2019)",
             "Fire TV Stick - Basic Edition (2017)"
         ]
+    },
+    "com.ftvdb.kindle.pw6-2024.os": {
+        "model": "",
+        "title": [
+            "Kindle PaperWhite 6 (2024)"
+        ]
     }
 }

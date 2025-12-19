@@ -11,6 +11,17 @@
     --danger: #f85149;
 }
 
+#screen-submit .form {
+  width: 100%;
+  max-width: 900px;
+}
+
+#urlInput {
+  width: 100%;
+  box-sizing: border-box;
+  resize: vertical;
+}
+
 @media (prefers-color-scheme: light) {
     :root {
         --bg: #ffffff;

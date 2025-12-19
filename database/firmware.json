@@ -151,6 +151,18 @@
             "Kindle 1 (2007)"
         ]
     },
+    "com.ftvdb.kindle.k3wifi-2010.os": {
+        "model": "",
+        "title": [
+            "Kindle 3 WiFi (2010)"
+        ]
+    },
+    "com.ftvdb.kindle.k3wifi3g-2010.os": {
+        "model": "",
+        "title": [
+            "Kindle 3 WiFi+3G (2010)"
+        ]
+    },
     "com.ftvdb.kindle.k4nt-2011.os": {
         "model": "",
         "title": [

@@ -1,5 +1,12 @@
 [
     {
+        "md5": "b2f6727ed36ee457ee08c588bbf9773b",
+        "uploaded": "2018-10-15",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.10.1.1.bin",
+        "versionCode": "3358230034",
+        "versionName": "5.10.1.1"
+    },
+    {
         "md5": "4a50817b302d5b58625601091773546e",
         "uploaded": "2022-02-03",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.14.2.bin",

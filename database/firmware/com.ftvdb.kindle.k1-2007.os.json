@@ -1,5 +1,12 @@
 [
     {
+        "md5": "0e6847de3a0dab5d6a4ba6f23e1a57c7",
+        "uploaded": "2009-04-16",
+        "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_1.2.bin",
+        "versionCode": "299870016",
+        "versionName": "1.2"
+    },
+    {
         "md5": "35b21010312b2e42116f4b8ba32d3639",
         "uploaded": "2015-11-19",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_1.2.1.bin",

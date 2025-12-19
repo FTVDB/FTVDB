@@ -151,6 +151,12 @@
             "Kindle 1 (2007)"
         ]
     },
+    "com.ftvdb.kindle.k4nt-2011.os": {
+        "model": "",
+        "title": [
+            "Kindle 4 Non-Touch (2011)"
+        ]
+    },
     "com.ftvdb.kindle.oasis1-2016.os": {
         "model": "",
         "title": [
@@ -203,6 +209,12 @@
         "model": "",
         "title": [
             "Kindle Scribe 2 (2024)"
+        ]
+    },
+    "com.ftvdb.kindle.touch-2011.os": {
+        "model": "",
+        "title": [
+            "Kindle Touch (2011)"
         ]
     },
     "com.ftvdb.kindle.voyage-2014.os": {

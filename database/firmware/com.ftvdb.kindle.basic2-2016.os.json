@@ -1,5 +1,12 @@
 [
     {
+        "md5": "5097ecf156a454f074e8d282ca0598e5",
+        "uploaded": "2022-02-03",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.14.2.bin",
+        "versionCode": "3807120059",
+        "versionName": "5.14.2"
+    },
+    {
         "md5": "0e2ab753a25825cd02986513a11cd3bd",
         "uploaded": "2023-08-04",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.16.2.1.1.bin",

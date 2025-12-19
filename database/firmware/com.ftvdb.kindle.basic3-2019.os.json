@@ -1,5 +1,12 @@
 [
     {
+        "md5": "2d1b4e7e1c6e9e7f6cadb4fb1410fcf8",
+        "uploaded": "2022-02-03",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.14.2.bin",
+        "versionCode": "3807160059",
+        "versionName": "5.14.2"
+    },
+    {
         "md5": "35118028b135db6188c3418c7ae4ed63",
         "uploaded": "2025-03-25",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.18.1.bin",

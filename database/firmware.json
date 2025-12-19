@@ -145,6 +145,12 @@
             "Kindle ColorSoft (2024)"
         ]
     },
+    "com.ftvdb.kindle.dxus-2009.os": {
+        "model": "",
+        "title": [
+            "Kindle DX US (2009)"
+        ]
+    },
     "com.ftvdb.kindle.k1-2007.os": {
         "model": "",
         "title": [
@@ -161,6 +167,12 @@
         "model": "",
         "title": [
             "Kindle 3 WiFi+3G (2010)"
+        ]
+    },
+    "com.ftvdb.kindle.k3wifi3geu-2010.os": {
+        "model": "",
+        "title": [
+            "Kindle 3 WiFi+3G EU (2010)"
         ]
     },
     "com.ftvdb.kindle.k4nt-2011.os": {

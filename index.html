@@ -17,8 +17,8 @@
                 <a class="brand" href="#/home" id="brandHome" aria-label="FTV DB home">FTV DB</a>
                 <nav class="nav" role="navigation" aria-label="Primary">
                     <a href="#/home" id="navHome">Home</a>
-                    <a href="#/browse?type=firmware" id="navFirmware">Firmware</a>
-                    <a href="#/browse?type=apps" id="navApps">Apps</a>
+                    <a href="#/browse?type=firmware" id="navFirmware">Firmware (Fire TV, Kindle)</a>
+                    <a href="#/browse?type=apps" id="navApps">Apps (Fire TV)</a>
                     <a href="#/submit" id="navSubmit">Submit</a>
                     <a href="#/manual" id="navManual">Manual</a>
                     <a href="#/api" id="navApi">API Docs</a>
@@ -32,15 +32,15 @@
         <main id="app" class="container" role="main">
             <!-- Home -->
             <section id="screen-home" class="screen">
-                <h1 class="page-title">Fire TV Database</h1>
+                <h1 class="page-title">Fire TV and Kindle Update Database</h1>
                 <p class="lede">
-                Community-driven index of publicly accessible Fire TV firmware and app update URLs.
-                Use the tabs to browse versions, view details, or submit new links captured from ADB logs.
+                Community-driven index of publicly accessible firmware update URLs for Fire TV and Kindle devices, plus Fire TV app update URLs.
+                Use the tabs to browse versions, view details, or submit new links you have captured from your devices.
                 </p>
                 <div class="callouts">
                     <article class="card">
                         <h2>About</h2>
-                        <p>This is a fully automated indexing service. Submitted URLs appear in the database shortly and reflect data visible via ADB on user-owned devices. FTVDB does not host any firmware or app files, and it does not promote firmware modifications, downgrades, or jailbreaking.</p>
+                        <p>This is a fully automated indexing service. Submitted URLs appear in the database shortly and reflect update URLs captured from user-owned devices. FTVDB does not host any firmware or app files, and it does not promote firmware modifications, downgrades, or jailbreaking.</p>
                     </article>
                     <article class="card">
                         <h2>Affiliation</h2>
@@ -52,8 +52,8 @@
                     </article>
                 </div>
                 <div class="cta-row">
-                    <a class="btn btn-primary" href="#/browse?type=firmware">Browse Firmware</a>
-                    <a class="btn" href="#/browse?type=apps">Browse Apps</a>
+                    <a class="btn btn-primary" href="#/browse?type=firmware">Browse Firmware (Fire TV, Kindle)</a>
+                    <a class="btn" href="#/browse?type=apps">Browse Apps (Fire TV)</a>
                 </div>
             </section>
 
@@ -62,8 +62,8 @@
                 <div class="toolbar">
                     <div class="toolbar-row">
                         <div class="segmented" role="tablist" aria-label="Data type">
-                            <button class="seg-btn" data-type="firmware" id="segFirmware" role="tab" aria-selected="false">Firmware</button>
-                            <button class="seg-btn" data-type="apps" id="segApps" role="tab" aria-selected="false">Apps</button>
+                            <button class="seg-btn" data-type="firmware" id="segFirmware" role="tab" aria-selected="false">Firmware (Fire TV, Kindle)</button>
+                            <button class="seg-btn" data-type="apps" id="segApps" role="tab" aria-selected="false">Apps (Fire TV)</button>
                         </div>
                         <div class="grow"></div>
                         <div class="search-wrap">
@@ -109,7 +109,7 @@
             <!-- Manual -->
             <section id="screen-manual" class="screen hidden">
                 <h2 class="page-title">Manual: Capturing Update URLs</h2>
-                <p>Enable ADB debugging on your Fire TV, connect with <code>adb connect [device IP]</code>, then run <code>adb logcat</code>. Look for .bin or .apk URLs, and submit them.</p>
+                <p>Fire TV: enable ADB debugging, connect with <code>adb connect [device IP]</code>, then run <code>adb logcat</code> and submit any firmware or app URLs you see. Kindle: submit firmware update URLs you have captured from your device update process.</p>
             </section>
 
             <!-- Submit -->

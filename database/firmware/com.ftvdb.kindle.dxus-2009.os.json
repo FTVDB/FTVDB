@@ -5,5 +5,12 @@
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_2.5.8_B004.bin",
         "versionCode": "555370010",
         "versionName": "2.5.8"
+    },
+    {
+        "md5": "eaf9a5df34241ee90a4a8d70bf7e65e0",
+        "uploaded": "2015-12-21",
+        "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update-caupdate-04.bin",
+        "versionCode": "4294967295",
+        "versionName": "2.5.8"
     }
 ]

@@ -126,6 +126,16 @@ function readBrowseParams() {
     };
 }
 
+function isValidUrl(s) {
+    if (!s) return false;
+    try {
+        const u = new URL(s);
+        return u.protocol === "http:" || u.protocol === "https:";
+    } catch (_) {
+        return false;
+    }
+}
+
 async function initBrowse(type, bundleId, q) {
     // Populate selector
     populateBundleSelect(type, bundleId);
@@ -333,28 +343,77 @@ backToList.addEventListener('click', () => {
 });
 
 // Submit form
-submitForm?.addEventListener('submit', async (e) => {
+submitForm?.addEventListener("submit", async (e) => {
     e.preventDefault();
-    const url = urlInput.value.trim();
-    if (!url) return;
+
+    const raw = urlInput.value || "";
+    const urls = raw
+    .split(/\r?\n/)
+    .map(s => s.trim())
+    .filter(Boolean);
+
+    if (!urls.length) return;
+
     submitBtn.disabled = true;
-    submitMessage.textContent = '';
-    try {
-        const res = await fetch('https://api.ftvdb.com/submit-url', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ url }),
-        });
-        const data = await res.json();
-        submitMessage.style.color = data.error ? 'var(--danger)' : 'var(--success)';
-        submitMessage.textContent = data.message || (data.error ? 'Submission failed.' : 'Submitted.');
-        if (!data.error) { urlInput.value = ''; showToast('Thanks for contributing'); }
-    } catch (err) {
-        submitMessage.style.color = 'var(--danger)';
-        submitMessage.textContent = 'Submission failed.';
-    } finally {
-        submitBtn.disabled = false;
+    urlInput.disabled = true;
+
+    submitMessage.textContent = "";
+    submitMessage.style.whiteSpace = "pre-wrap";
+
+    let ok = 0;
+    let fail = 0;
+    const lines = [];
+
+    for (const url of urls) {
+        if (!isValidUrl(url)) {
+            fail += 1;
+            lines.push(`${url} -> Invalid URL`);
+            submitMessage.textContent = `Submitted ${ok + fail} of ${urls.length}\n` + lines.join("\n");
+            continue;
+        }
+
+        try {
+            const res = await fetch("https://api.ftvdb.com/submit-url", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ url }),
+            });
+
+            let data = null;
+            try {
+                data = await res.json();
+            } catch (_) {
+                data = { error: true, message: "Invalid response" };
+            }
+
+            const isError = !res.ok || data?.error;
+            if (isError) {
+                fail += 1;
+                lines.push(`${url} -> ${data?.message || "Submission failed."}`);
+            } else {
+                ok += 1;
+                lines.push(`${url} -> ${data?.message || "Submitted."}`);
+            }
+        } catch (_) {
+            fail += 1;
+            lines.push(`${url} -> Submission failed.`);
+        }
+
+        submitMessage.textContent = `Submitted ${ok + fail} of ${urls.length}\n` + lines.join("\n");
     }
+
+    submitMessage.style.color = fail ? "var(--danger)" : "var(--success)";
+    submitMessage.textContent = `${ok} succeeded, ${fail} failed\n` + lines.join("\n");
+
+    if (fail === 0) {
+        urlInput.value = "";
+        showToast("Thanks for contributing");
+    } else if (ok > 0) {
+        showToast("Some URLs submitted");
+    }
+
+    submitBtn.disabled = false;
+    urlInput.disabled = false;
 });
 
 // Helpers

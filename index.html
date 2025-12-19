@@ -116,8 +116,17 @@
             <section id="screen-submit" class="screen hidden">
                 <h2 class="page-title">Submit URLs</h2>
                 <form id="submitForm" class="form">
-                    <input type="url" id="urlInput" placeholder="Paste update URL..." required aria-label="Update URL">
-                        <button type="submit" id="submitBtn" class="btn btn-primary">Submit</button>
+                    <textarea
+                        id="urlInput"
+                        rows="6"
+                        placeholder="Paste one or more update URLs, one per line..."
+                        required
+                        aria-label="Update URLs"
+                        autocapitalize="off"
+                        autocomplete="off"
+                        spellcheck="false"
+                        ></textarea>
+                    <button type="submit" id="submitBtn" class="btn btn-primary">Submit</button>
                 </form>
                 <p id="submitMessage" role="status" aria-live="polite"></p>
             </section>

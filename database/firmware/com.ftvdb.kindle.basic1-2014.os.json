@@ -1,5 +1,12 @@
 [
     {
+        "md5": "dde376219b571937214ce69963e466f6",
+        "uploaded": "2016-11-30",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_5.8.7.bin",
+        "versionCode": "3095600028",
+        "versionName": "5.8.7"
+    },
+    {
         "md5": "a64619d4bdd8292234e5a195421ba31e",
         "uploaded": "2017-07-12",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_5.8.10.bin",

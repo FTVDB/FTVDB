@@ -91,6 +91,13 @@
         "versionName": "5.13.5"
     },
     {
+        "md5": "b43e342a57b083ad5df0d2eff60a78fd",
+        "uploaded": "2021-05-11",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.13.6.bin",
+        "versionCode": "3732030038",
+        "versionName": "5.13.6"
+    },
+    {
         "md5": "5097ecf156a454f074e8d282ca0598e5",
         "uploaded": "2022-02-03",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.14.2.bin",

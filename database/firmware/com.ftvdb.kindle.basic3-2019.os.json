@@ -1,5 +1,12 @@
 [
     {
+        "md5": "7871cb068d01538725bc771cfc3bf4b2",
+        "uploaded": "2019-03-20",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.11.1.bin",
+        "versionCode": "3528030035",
+        "versionName": "5.11.1"
+    },
+    {
         "md5": "9820ef9296e5d8188bbbf5673e62c952",
         "uploaded": "2019-12-02",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.12.3.bin",

@@ -12,5 +12,12 @@
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_paperwhite_v2_5.12.2.bin",
         "versionCode": "3569620025",
         "versionName": "5.12.2"
+    },
+    {
+        "md5": "7bcf81eb30bf1fc5f3dbc2e822edef61",
+        "uploaded": "2022-01-05",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_paperwhite_v2_5.12.2.2.bin",
+        "versionCode": "3791510038",
+        "versionName": "5.12.2.2"
     }
 ]

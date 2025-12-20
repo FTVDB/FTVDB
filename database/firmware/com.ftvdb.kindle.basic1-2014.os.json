@@ -7,6 +7,20 @@
         "versionName": "5.10.1.1"
     },
     {
+        "md5": "8b86dfb27e670d19e83814e04dded9be",
+        "uploaded": "2019-02-08",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_5.10.3.bin",
+        "versionCode": "3383200041",
+        "versionName": "5.10.3"
+    },
+    {
+        "md5": "37441fa08f55e94357eb5f655d564eb0",
+        "uploaded": "2019-03-26",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_5.11.1.1.bin",
+        "versionCode": "3528530001",
+        "versionName": "5.11.1.1"
+    },
+    {
         "md5": "831947cf7ea94df960e05c52fbf606da",
         "uploaded": "2019-07-05",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_5.12.1.bin",

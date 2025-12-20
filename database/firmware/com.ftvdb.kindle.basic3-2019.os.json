@@ -49,6 +49,20 @@
         "versionName": "5.12.5"
     },
     {
+        "md5": "3c82ff07cd1793adedfdc746091d238b",
+        "uploaded": "2020-07-01",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.13.1.bin",
+        "versionCode": "3643200037",
+        "versionName": "5.13.1"
+    },
+    {
+        "md5": "f1367a44a6352f02510fe8f19ea4146a",
+        "uploaded": "2020-08-20",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.13.2.bin",
+        "versionCode": "3661450039",
+        "versionName": "5.13.2"
+    },
+    {
         "md5": "2d1b4e7e1c6e9e7f6cadb4fb1410fcf8",
         "uploaded": "2022-02-03",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.14.2.bin",

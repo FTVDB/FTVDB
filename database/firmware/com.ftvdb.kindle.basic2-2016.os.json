@@ -1,5 +1,12 @@
 [
     {
+        "md5": "13d93f61496042f5fb078127da3d6d2f",
+        "uploaded": "2019-02-08",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.10.3.bin",
+        "versionCode": "3383160040",
+        "versionName": "5.10.3"
+    },
+    {
         "md5": "7902c20898aa954ffb99411a474a2fcb",
         "uploaded": "2019-07-05",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.12.1.bin",

@@ -110,163 +110,157 @@
         ]
     },
     "com.ftvdb.kindle.basic1-2014.os": {
-        "model": "",
+        "model": "BASIC1-2014",
         "title": [
             "Kindle Basic (2014)"
         ]
     },
     "com.ftvdb.kindle.basic2-2016.os": {
-        "model": "",
+        "model": "BASIC2-2016",
         "title": [
             "Kindle Basic 2 (2016)"
         ]
     },
     "com.ftvdb.kindle.basic3-2019.os": {
-        "model": "",
+        "model": "BASIC3-2019",
         "title": [
             "Kindle Basic 3 (2019)"
         ]
     },
     "com.ftvdb.kindle.basic4-2022.os": {
-        "model": "",
+        "model": "BASIC4-2022",
         "title": [
             "Kindle Basic 4 (2022)"
         ]
     },
     "com.ftvdb.kindle.basic5-2024.os": {
-        "model": "",
+        "model": "BASIC5-2024",
         "title": [
             "Kindle Basic 5 (2024)"
         ]
     },
     "com.ftvdb.kindle.colorsoft-2024.os": {
-        "model": "",
+        "model": "COLORSOFT-2024",
         "title": [
             "Kindle ColorSoft (2024)"
         ]
     },
     "com.ftvdb.kindle.dxg-2010.os": {
-        "model": "",
+        "model": "DXG-2010",
         "title": [
             "Kindle DX Graphite (2010)"
         ]
     },
     "com.ftvdb.kindle.dxint-2010.os": {
-        "model": "",
+        "model": "DXINT-2010",
         "title": [
             "Kindle DX International (2010)"
         ]
     },
     "com.ftvdb.kindle.dxus-2009.os": {
-        "model": "",
+        "model": "DXUS-2009",
         "title": [
             "Kindle DX US (2009)"
         ]
     },
     "com.ftvdb.kindle.k1-2007.os": {
-        "model": "",
+        "model": "K1-2007",
         "title": [
             "Kindle 1 (2007)"
         ]
     },
     "com.ftvdb.kindle.k2int-2009.os": {
-        "model": "",
+        "model": "K2INT-2009",
         "title": [
             "Kindle 2 International (2009)"
         ]
     },
     "com.ftvdb.kindle.k2us-2009.os": {
-        "model": "",
+        "model": "K2US-2009",
         "title": [
             "Kindle 2 US (2009)"
         ]
     },
     "com.ftvdb.kindle.k3wifi-2010.os": {
-        "model": "",
+        "model": "K3WIFI-2010",
         "title": [
             "Kindle 3 WiFi (2010)"
         ]
     },
     "com.ftvdb.kindle.k3wifi3g-2010.os": {
-        "model": "",
+        "model": "K3WIFI3G-2010",
         "title": [
             "Kindle 3 WiFi+3G (2010)"
         ]
     },
     "com.ftvdb.kindle.k3wifi3geu-2010.os": {
-        "model": "",
+        "model": "K3WIFI3GEU-2010",
         "title": [
             "Kindle 3 WiFi+3G EU (2010)"
         ]
     },
     "com.ftvdb.kindle.k4nt-2011.os": {
-        "model": "",
+        "model": "K4NT-2011",
         "title": [
             "Kindle 4 Non-Touch (2011)"
         ]
     },
     "com.ftvdb.kindle.oasis1-2016.os": {
-        "model": "",
+        "model": "OASIS1-2016",
         "title": [
             "Kindle Oasis (2016)"
         ]
     },
     "com.ftvdb.kindle.oasis2-2017.os": {
-        "model": "",
+        "model": "OASIS2-2017",
         "title": [
             "Kindle Oasis 2 (2017)"
         ]
     },
     "com.ftvdb.kindle.oasis3-2019.os": {
-        "model": "",
+        "model": "OASIS3-2019",
         "title": [
             "Kindle Oasis 3 (2019)"
         ]
     },
-    "com.ftvdb.kindle.pw1-2012.os": {
-        "model": "",
-        "title": [
-            "Kindle PaperWhite (2012)"
-        ]
-    },
     "com.ftvdb.kindle.pw3-2015.os": {
-        "model": "",
+        "model": "PW3-2015",
         "title": [
             "Kindle PaperWhite 3 (2015)"
         ]
     },
     "com.ftvdb.kindle.pw4-2018.os": {
-        "model": "",
+        "model": "PW4-2018",
         "title": [
             "Kindle PaperWhite 4 (2018)"
         ]
     },
     "com.ftvdb.kindle.pw6-2024.os": {
-        "model": "",
+        "model": "PW6-2024",
         "title": [
             "Kindle PaperWhite 6 (2024)"
         ]
     },
     "com.ftvdb.kindle.scribe1-2022.os": {
-        "model": "",
+        "model": "SCRIBE1-2022",
         "title": [
             "Kindle Scribe (2022)"
         ]
     },
     "com.ftvdb.kindle.scribe2-2024.os": {
-        "model": "",
+        "model": "SCRIBE2-2024",
         "title": [
             "Kindle Scribe 2 (2024)"
         ]
     },
     "com.ftvdb.kindle.touch-2011.os": {
-        "model": "",
+        "model": "TOUCH-2011",
         "title": [
             "Kindle Touch (2011)"
         ]
     },
     "com.ftvdb.kindle.voyage-2014.os": {
-        "model": "",
+        "model": "VOYAGE-2014",
         "title": [
             "Kindle Voyage (2014)"
         ]

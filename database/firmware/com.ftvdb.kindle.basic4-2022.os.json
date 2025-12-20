@@ -1,5 +1,12 @@
 [
     {
+        "md5": "45de52f51be5f6936099296e37d1439a",
+        "uploaded": "2022-10-07",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.15.1.bin",
+        "versionCode": "3889300042",
+        "versionName": "5.15.1"
+    },
+    {
         "md5": "e2d797106938c336d0af2c5ce4fbdd8b",
         "uploaded": "2023-02-20",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.15.1.1.bin",

@@ -1,5 +1,12 @@
 [
     {
+        "md5": "4bee502940d34bea23b46ba70ea1ab7e",
+        "uploaded": "2019-07-05",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_oasis_5.12.1.bin",
+        "versionCode": "3552170044",
+        "versionName": "5.12.1"
+    },
+    {
         "md5": "17bd058f81c279384bb32d87797eea0d",
         "uploaded": "2022-02-03",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_oasis_5.14.2.bin",

@@ -21,11 +21,25 @@
         "versionName": "5.18.3"
     },
     {
+        "md5": "bcab9173a2fe19ff13ab2dd4268810c1",
+        "uploaded": "2025-07-30",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.18.4.bin",
+        "versionCode": "4507440022",
+        "versionName": "5.18.4"
+    },
+    {
         "md5": "5987b6eef8c2fa5e485f4d2032fac32e",
         "uploaded": "2025-08-19",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.18.4.0.1.bin",
         "versionCode": "4527750001",
         "versionName": "5.18.4.0.1"
+    },
+    {
+        "md5": "414c0240e7bc53368ef7abe63131390b",
+        "uploaded": "2025-09-16",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.18.5.bin",
+        "versionCode": "4546040025",
+        "versionName": "5.18.5"
     },
     {
         "md5": "27b625afb0f8c45e12262d2866222afb",

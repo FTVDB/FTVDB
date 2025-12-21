@@ -14,6 +14,20 @@
         "versionName": "5.9.2.0.1"
     },
     {
+        "md5": "10ecb8f680035afd2ecfb349f4a84225",
+        "uploaded": "2018-01-31",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_5.9.4.bin",
+        "versionCode": "3278760045",
+        "versionName": "5.9.4"
+    },
+    {
+        "md5": "24b46753ce3c35b224fb0b7e572cf08b",
+        "uploaded": "2018-04-06",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_5.9.5.bin",
+        "versionCode": "3295170015",
+        "versionName": "5.9.5"
+    },
+    {
         "md5": "f6cd313378b03ca83fccee1082af3995",
         "uploaded": "2018-05-31",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_5.9.6.bin",

@@ -14,11 +14,25 @@
         "versionName": "5.8.5.0.1"
     },
     {
+        "md5": "e309ff5da1bff725df1627e660b474be",
+        "uploaded": "2016-11-07",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.8.5.0.2.bin",
+        "versionCode": "3085210002",
+        "versionName": "5.8.5.0.2"
+    },
+    {
         "md5": "2d56ac205a135d410efcceacba303b2d",
         "uploaded": "2016-11-30",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.8.7.bin",
         "versionCode": "3095600028",
         "versionName": "5.8.7"
+    },
+    {
+        "md5": "8f2bc3f4a9c77b6dc1c4c968d75cf7f4",
+        "uploaded": "2017-01-27",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.8.7.0.1.bin",
+        "versionCode": "3115940037",
+        "versionName": "5.8.7.0.1"
     },
     {
         "md5": "e9afd0e91564d620b79b799bf02a554d",

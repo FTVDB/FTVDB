@@ -84,6 +84,13 @@
         "versionName": "5.13.4"
     },
     {
+        "md5": "ef727d210244d2b81be4cf8e1dfe0354",
+        "uploaded": "2021-02-26",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.13.5.bin",
+        "versionCode": "3716750030",
+        "versionName": "5.13.5"
+    },
+    {
         "md5": "f588ea0c411810398aa2d7d46dd279e8",
         "uploaded": "2021-05-11",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.13.6.bin",

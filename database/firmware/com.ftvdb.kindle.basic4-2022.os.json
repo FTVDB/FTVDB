@@ -105,6 +105,20 @@
         "versionName": "5.18.2"
     },
     {
+        "md5": "c0d407222bc3e52a8a1cf267100a077e",
+        "uploaded": "2025-06-12",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.18.3.bin",
+        "versionCode": "4466680029",
+        "versionName": "5.18.3"
+    },
+    {
+        "md5": "b0d6c51271cb1f6219692d39b11b1cdc",
+        "uploaded": "2025-07-30",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.18.4.bin",
+        "versionCode": "4507430022",
+        "versionName": "5.18.4"
+    },
+    {
         "md5": "82aeae200e6783e3673142207db53cdf",
         "uploaded": "2025-11-04",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.18.6.bin",

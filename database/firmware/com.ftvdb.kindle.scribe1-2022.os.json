@@ -154,6 +154,13 @@
         "versionName": "5.18.5"
     },
     {
+        "md5": "0ca7fe8dd3256b7cd2a2ae4a6a9c1534",
+        "uploaded": "2025-09-25",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.18.5.0.1.bin",
+        "versionCode": "4556830001",
+        "versionName": "5.18.5.0.1"
+    },
+    {
         "md5": "54ff412f91f25eee00a3abc41aa25452",
         "uploaded": "2025-11-04",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.18.6.bin",

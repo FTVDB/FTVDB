@@ -7,6 +7,20 @@
         "versionName": "5.18.1"
     },
     {
+        "md5": "5e14f0ea38d5d052b098a4bb5dbf9976",
+        "uploaded": "2025-04-24",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.18.2.bin",
+        "versionCode": "4434570025",
+        "versionName": "5.18.2"
+    },
+    {
+        "md5": "61d79e5cacc47b0d777bc71bfb3ac61a",
+        "uploaded": "2025-06-12",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.18.3.bin",
+        "versionCode": "4466670029",
+        "versionName": "5.18.3"
+    },
+    {
         "md5": "ba0e15ed7d0edf0f10273f96f3d8f902",
         "uploaded": "2025-11-04",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.18.6.bin",

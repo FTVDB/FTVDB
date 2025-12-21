@@ -1,5 +1,12 @@
 [
     {
+        "md5": "c916a7b88698429b1da6ee6c371f4759",
+        "uploaded": "2016-10-07",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.8.5.bin",
+        "versionCode": "3048470064",
+        "versionName": "5.8.5"
+    },
+    {
         "md5": "2d56ac205a135d410efcceacba303b2d",
         "uploaded": "2016-11-30",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.8.7.bin",

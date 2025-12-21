@@ -63,6 +63,13 @@
         "versionName": "5.16.6"
     },
     {
+        "md5": "a6cabdd99a1942b341dca0980d2d9b02",
+        "uploaded": "2024-02-23",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.16.7.bin",
+        "versionCode": "4193150020",
+        "versionName": "5.16.7"
+    },
+    {
         "md5": "82aeae200e6783e3673142207db53cdf",
         "uploaded": "2025-11-04",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.18.6.bin",

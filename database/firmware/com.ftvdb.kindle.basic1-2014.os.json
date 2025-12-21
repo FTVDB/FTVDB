@@ -140,6 +140,20 @@
         "versionName": "5.9.6"
     },
     {
+        "md5": "d8329e02b7dc266512f312b443bf230a",
+        "uploaded": "2018-06-12",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_5.9.6.1.bin",
+        "versionCode": "3314460001",
+        "versionName": "5.9.6.1"
+    },
+    {
+        "md5": "194b08f0b9e8f640351ae5edfa9097de",
+        "uploaded": "2018-07-25",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_5.9.7.bin",
+        "versionCode": "3330440020",
+        "versionName": "5.9.7"
+    },
+    {
         "md5": "c5b3eb900edd1ce0b4795d4a86e2f8b4",
         "uploaded": "2018-10-15",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_5.10.1.1.bin",

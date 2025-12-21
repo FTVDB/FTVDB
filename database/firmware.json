@@ -282,5 +282,11 @@
         "title": [
             "Kindle Voyage (2014)"
         ]
+    },
+    "com.ftvdb.kindle.wario-.os": {
+        "model": "WARIO-",
+        "title": [
+            "Wario"
+        ]
     }
 }

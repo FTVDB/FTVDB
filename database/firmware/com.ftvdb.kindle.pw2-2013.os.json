@@ -77,6 +77,20 @@
         "versionName": "5.9.4"
     },
     {
+        "md5": "33d55f5d131a353ab1af626851048f25",
+        "uploaded": "2018-04-06",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_paperwhite_v2_5.9.5.bin",
+        "versionCode": "3295150015",
+        "versionName": "5.9.5"
+    },
+    {
+        "md5": "52d7a5bc60e6e0f503514f19e2fe368e",
+        "uploaded": "2018-04-27",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_paperwhite_v2_5.9.5.1.bin",
+        "versionCode": "3301940011",
+        "versionName": "5.9.5.1"
+    },
+    {
         "md5": "ffc9fb91a232532c1c397ac07ca31c6d",
         "uploaded": "2018-05-31",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_paperwhite_v2_5.9.6.bin",

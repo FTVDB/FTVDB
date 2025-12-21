@@ -56,6 +56,20 @@
         "versionName": "5.16.5"
     },
     {
+        "md5": "bd7ed325e131bd961b1173ddc3d6066d",
+        "uploaded": "2024-01-08",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.16.6.bin",
+        "versionCode": "4169630030",
+        "versionName": "5.16.6"
+    },
+    {
+        "md5": "06d95ed4d83dda742e28b4d9b71e859d",
+        "uploaded": "2024-01-23",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.16.6.1.bin",
+        "versionCode": "4181730001",
+        "versionName": "5.16.6.1"
+    },
+    {
         "md5": "54ff412f91f25eee00a3abc41aa25452",
         "uploaded": "2025-11-04",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.18.6.bin",

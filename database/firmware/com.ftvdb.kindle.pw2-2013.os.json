@@ -42,6 +42,20 @@
         "versionName": "5.8.7.0.1"
     },
     {
+        "md5": "53ce53eb913057fc4d7d3021bb3afe88",
+        "uploaded": "2017-03-02",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_paperwhite_v2_5.8.8.bin",
+        "versionCode": "3144280022",
+        "versionName": "5.8.8"
+    },
+    {
+        "md5": "5093333a0512661dbdf18727cb166e6f",
+        "uploaded": "2017-04-10",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_paperwhite_v2_5.8.9.bin",
+        "versionCode": "3164600017",
+        "versionName": "5.8.9"
+    },
+    {
         "md5": "4ca109921b825d8c9236590002ec623c",
         "uploaded": "2017-07-12",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_paperwhite_v2_5.8.10.bin",

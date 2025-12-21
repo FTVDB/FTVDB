@@ -1,5 +1,12 @@
 [
     {
+        "md5": "54a61689bb36d7a94708e96e236f354d",
+        "uploaded": "2011-01-05",
+        "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_2.5.7_B002.bin",
+        "versionCode": "550650009",
+        "versionName": "2.5.7"
+    },
+    {
         "md5": "fc507a144e5e7f7a1a05085f0cfca199",
         "uploaded": "2015-09-25",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_2.5.8_B002.bin",

@@ -288,5 +288,11 @@
         "title": [
             "Wario"
         ]
+    },
+    "com.ftvdb.kindle.yoshime3-.os": {
+        "model": "YOSHIME3-",
+        "title": [
+            "Yoshime (Yoshime3)"
+        ]
     }
 }

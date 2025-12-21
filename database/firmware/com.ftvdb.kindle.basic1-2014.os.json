@@ -1,5 +1,12 @@
 [
     {
+        "md5": "13123c90fb07f3e1d5ceaa90f3dd5353",
+        "uploaded": "2014-11-03",
+        "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_5.6.1.bin",
+        "versionCode": "2531760037",
+        "versionName": "5.6.1"
+    },
+    {
         "md5": "b7921b3745766f505c22bc94d71b3940",
         "uploaded": "2015-08-10",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_5.6.5.bin",

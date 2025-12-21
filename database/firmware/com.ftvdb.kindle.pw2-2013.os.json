@@ -1,5 +1,12 @@
 [
     {
+        "md5": "f749da9964c68ea48401012462a227ba",
+        "uploaded": "2014-07-21",
+        "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_5.4.5.bin",
+        "versionCode": "2411510035",
+        "versionName": "5.4.5"
+    },
+    {
         "md5": "b432c2f3eb70294952cc1633263091e9",
         "uploaded": "2016-11-30",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_paperwhite_v2_5.8.7.bin",

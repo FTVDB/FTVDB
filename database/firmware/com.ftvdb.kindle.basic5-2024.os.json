@@ -14,6 +14,20 @@
         "versionName": "5.18.1.5"
     },
     {
+        "md5": "38d7c62c8e97c167d669297b8fede197",
+        "uploaded": "2025-06-12",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.18.3.bin",
+        "versionCode": "4466650029",
+        "versionName": "5.18.3"
+    },
+    {
+        "md5": "e06a924eeed7dec5a6d31b0bfc1d76b4",
+        "uploaded": "2025-07-30",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.18.4.bin",
+        "versionCode": "4507420022",
+        "versionName": "5.18.4"
+    },
+    {
         "md5": "6474706f0cf959e51b39f34584b32bbb",
         "uploaded": "2025-11-04",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.18.6.bin",

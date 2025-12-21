@@ -7,6 +7,13 @@
         "versionName": "5.4.2"
     },
     {
+        "md5": "3318444a013f1deec3416cea6a9110ef",
+        "uploaded": "2014-03-03",
+        "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_5.4.3.bin",
+        "versionCode": "2258990016",
+        "versionName": "5.4.3"
+    },
+    {
         "md5": "39bdf04cd8486bc140faedb662665545",
         "uploaded": "2014-05-02",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_5.4.3.2.bin",

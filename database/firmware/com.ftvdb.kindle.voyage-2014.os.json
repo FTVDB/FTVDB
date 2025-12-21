@@ -1,5 +1,19 @@
 [
     {
+        "md5": "15509bdf0625d6c81464a8f2e96eb167",
+        "uploaded": "2019-02-08",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.10.3.bin",
+        "versionCode": "3383200041",
+        "versionName": "5.10.3"
+    },
+    {
+        "md5": "5adbb9f3bdb51db78abd63fbe4388b1c",
+        "uploaded": "2019-03-26",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.11.1.1.bin",
+        "versionCode": "3528530001",
+        "versionName": "5.11.1.1"
+    },
+    {
         "md5": "35884c20b8bfaf532e018793658ec6c1",
         "uploaded": "2019-07-05",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.12.1.bin",

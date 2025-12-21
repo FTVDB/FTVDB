@@ -112,6 +112,13 @@
         "versionName": "5.9.6.1"
     },
     {
+        "md5": "b13ec0a6920bafea62e0335340c7ba22",
+        "uploaded": "2018-07-25",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.9.7.bin",
+        "versionCode": "3330440020",
+        "versionName": "5.9.7"
+    },
+    {
         "md5": "b2f6727ed36ee457ee08c588bbf9773b",
         "uploaded": "2018-10-15",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.10.1.1.bin",

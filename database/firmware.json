@@ -193,6 +193,12 @@
             "Kindle 3 WiFi+3G (2010)"
         ]
     },
+    "com.ftvdb.kindle.k3wifi3geu-2010.os": {
+        "model": "K3WIFI3GEU-2010",
+        "title": [
+            "Kindle 3 WiFi+3G EU (2010)"
+        ]
+    },
     "com.ftvdb.kindle.k4nt-2011.os": {
         "model": "K4NT-2011",
         "title": [

@@ -1,5 +1,12 @@
 [
     {
+        "md5": "ee9ea6fae8a50cde7d7ac8bc3f266137",
+        "uploaded": "2010-09-08",
+        "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_3.0.1_B006.bin",
+        "versionCode": "525120101",
+        "versionName": "3.0.1"
+    },
+    {
         "md5": "a56207cd48a157ee0e352c599fc7b43c",
         "uploaded": "2011-02-07",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_3.1_B006.bin",

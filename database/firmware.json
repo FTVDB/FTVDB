@@ -205,6 +205,12 @@
             "Kindle 4 Non-Touch (2011)"
         ]
     },
+    "com.ftvdb.kindle.k5-2011.os": {
+        "model": "K5-",
+        "title": [
+            "Kindle 5 Touch (2011)"
+        ]
+    },
     "com.ftvdb.kindle.oasis1-2016.os": {
         "model": "OASIS1-2016",
         "title": [

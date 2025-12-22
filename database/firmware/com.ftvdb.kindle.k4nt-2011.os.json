@@ -7,6 +7,20 @@
         "versionName": "4.1.1"
     },
     {
+        "md5": "a73333f34e77d9cab6ad7b03a912b891",
+        "uploaded": "2015-08-06",
+        "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_4.1.3.bin",
+        "versionCode": "2692310002",
+        "versionName": "4.1.3"
+    },
+    {
+        "md5": "b27a47799ae917aeaf7cee3840cfb5a2",
+        "uploaded": "2016-03-04",
+        "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_4.1.2.bin",
+        "versionCode": "2540270001",
+        "versionName": "4.1.2"
+    },
+    {
         "md5": "d9e86f8b627e57b6c8222d56d328412f",
         "uploaded": "2019-07-11",
         "url": "https://firmwareupdates.s3.amazonaws.com/1435/Update_2692310002-3543630001.bin",

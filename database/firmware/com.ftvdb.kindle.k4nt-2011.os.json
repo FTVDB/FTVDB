@@ -1,5 +1,12 @@
 [
     {
+        "md5": "8e998d5868f0e7dda94507abf162cddd",
+        "uploaded": "2011-09-28",
+        "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_4.0.1_B00E.bin",
+        "versionCode": "1331440003",
+        "versionName": "4.0.1"
+    },
+    {
         "md5": "25ce176a7cdda96c89e6ec2ef1227c2e",
         "uploaded": "2013-01-21",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_4.1.1.bin",
@@ -12,6 +19,13 @@
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_4.1.3.bin",
         "versionCode": "2692310002",
         "versionName": "4.1.3"
+    },
+    {
+        "md5": "54f5dfa22ac2c4fd44d1b1aa0928a600",
+        "uploaded": "2016-03-04",
+        "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_4.1.0_B00E.bin",
+        "versionCode": "1615370055",
+        "versionName": "4.1.0"
     },
     {
         "md5": "b27a47799ae917aeaf7cee3840cfb5a2",

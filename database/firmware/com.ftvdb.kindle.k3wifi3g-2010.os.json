@@ -1,5 +1,19 @@
 [
     {
+        "md5": "a56207cd48a157ee0e352c599fc7b43c",
+        "uploaded": "2011-02-07",
+        "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_3.1_B006.bin",
+        "versionCode": "558700031",
+        "versionName": "3.1"
+    },
+    {
+        "md5": "eadbdd9609a05f50335338a52aff2395",
+        "uploaded": "2011-09-29",
+        "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_3.3_B006.bin",
+        "versionCode": "611680021",
+        "versionName": "3.3"
+    },
+    {
         "md5": "9a1f01c496fb0f9fcb4bbbfb73c6a648",
         "uploaded": "2019-06-27",
         "url": "https://firmwareupdates.s3.amazonaws.com/06/Update_2687240004-3543620001.bin",

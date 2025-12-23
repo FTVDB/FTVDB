@@ -126,6 +126,13 @@
         "versionName": "5.8.11"
     },
     {
+        "md5": "c3ad2a29ac0daa17a94f1ea51515ebab",
+        "uploaded": "2017-12-07",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_5.9.2.0.1.bin",
+        "versionCode": "3262860017",
+        "versionName": "5.9.2.0.1"
+    },
+    {
         "md5": "bd6f0f189ee562ad758898ed9f8e0285",
         "uploaded": "2018-01-31",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_5.9.4.bin",

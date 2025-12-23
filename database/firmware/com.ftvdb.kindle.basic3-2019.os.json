@@ -217,6 +217,13 @@
         "versionName": "5.16.9"
     },
     {
+        "md5": "77316c5d27b2343ce259aff85b2fff53",
+        "uploaded": "2024-07-23",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.16.10.0.1.bin",
+        "versionCode": "4270260001",
+        "versionName": "5.16.10.0.1"
+    },
+    {
         "md5": "36f05f968e49e570943605fea2835d3f",
         "uploaded": "2024-10-17",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.17.1.bin",

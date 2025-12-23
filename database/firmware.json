@@ -59,6 +59,12 @@
             "Fire TV Stick 4K Max - 1st Gen (2021)"
         ]
     },
+    "com.amazon.karat.android.os": {
+        "model": "",
+        "title": [
+            "Fire TV Stick 4K 2nd Gen (2023)"
+        ]
+    },
     "com.amazon.mantis.android.os": {
         "model": "AFTMM",
         "title": [

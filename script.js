@@ -218,7 +218,7 @@ function renderTable(rows, type, bundleId) {
     rows = sortRows(rows, 'uploaded', 'desc');
     
     tbody.innerHTML = rows.map((item, idx) => {
-        const viewHash = `#/details?type=${encodeURIComponent(type)}&bundle=${encodeURIComponent(bundleId)}&i=${idx}`;
+        const viewHash = `#/details?type=${encodeURIComponent(type)}&bundle=${encodeURIComponent(bundleId)}&url=${encodeURIComponent(String(item.url || ''))}`;
         // Inline-flex container for actions with small gap
         return `
       <tr>
@@ -239,7 +239,7 @@ function renderTable(rows, type, bundleId) {
         const list = document.createElement('div');
         list.className = 'mobile-cards';
         rows.forEach((item, idx) => {
-            const viewHash = `#/details?type=${encodeURIComponent(type)}&bundle=${encodeURIComponent(bundleId)}&i=${idx}`;
+            const viewHash = `#/details?type=${encodeURIComponent(type)}&bundle=${encodeURIComponent(bundleId)}&url=${encodeURIComponent(String(item.url || ''))}`;
             const card = document.createElement('div');
             card.className = 'mobile-card';
             // Actions as inline-flex with gap for horizontal layout
@@ -301,7 +301,8 @@ searchInput.addEventListener('input', () => {
 function showDetailsFromParams(params) {
     const type = (params.get('type') === 'apps') ? 'apps' : 'firmware';
     const bundle = params.get('bundle');
-    const i = Number(params.get('i')) || 0;
+    const urlParam = params.get('url') || '';
+    const i = Number(params.get('i')) || 0; // fallback for older hashes
     const key = `/database/${type}/${bundle}.json`;
     const title = (type === 'firmware') ? (firmwareList[bundle]?.title?.join(', ') || bundle) : (appsList[bundle] || bundle);
     
@@ -312,7 +313,13 @@ function showDetailsFromParams(params) {
         return;
     }
     
-    const item = data[i];
+    let item = null;
+    if (urlParam) {
+        item = data.find(it => String(it.url || '') === urlParam) || null;
+    }
+    if (!item) {
+        item = data[i] || null;
+    }
     if (!item) { location.hash = `#/browse?type=${type}&bundle=${encodeURIComponent(bundle)}`; return; }
     
     detailsTitle.textContent = `${title} — Item Details`;
@@ -345,25 +352,25 @@ backToList.addEventListener('click', () => {
 // Submit form
 submitForm?.addEventListener("submit", async (e) => {
     e.preventDefault();
-
+    
     const raw = urlInput.value || "";
     const urls = raw
     .split(/\r?\n/)
     .map(s => s.trim())
     .filter(Boolean);
-
+    
     if (!urls.length) return;
-
+    
     submitBtn.disabled = true;
     urlInput.disabled = true;
-
+    
     submitMessage.textContent = "";
     submitMessage.style.whiteSpace = "pre-wrap";
-
+    
     let ok = 0;
     let fail = 0;
     const lines = [];
-
+    
     for (const url of urls) {
         if (!isValidUrl(url)) {
             fail += 1;
@@ -371,21 +378,21 @@ submitForm?.addEventListener("submit", async (e) => {
             submitMessage.textContent = `Submitted ${ok + fail} of ${urls.length}\n` + lines.join("\n");
             continue;
         }
-
+        
         try {
             const res = await fetch("https://api.ftvdb.com/submit-url", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({ url }),
             });
-
+            
             let data = null;
             try {
                 data = await res.json();
             } catch (_) {
                 data = { error: true, message: "Invalid response" };
             }
-
+            
             const isError = !res.ok || data?.error;
             if (isError) {
                 fail += 1;
@@ -398,20 +405,20 @@ submitForm?.addEventListener("submit", async (e) => {
             fail += 1;
             lines.push(`${url} -> Submission failed.`);
         }
-
+        
         submitMessage.textContent = `Submitted ${ok + fail} of ${urls.length}\n` + lines.join("\n");
     }
-
+    
     submitMessage.style.color = fail ? "var(--danger)" : "var(--success)";
     submitMessage.textContent = `${ok} succeeded, ${fail} failed\n` + lines.join("\n");
-
+    
     if (fail === 0) {
         urlInput.value = "";
         showToast("Thanks for contributing");
     } else if (ok > 0) {
         showToast("Some URLs submitted");
     }
-
+    
     submitBtn.disabled = false;
     urlInput.disabled = false;
 });

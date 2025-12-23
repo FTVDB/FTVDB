@@ -14,6 +14,13 @@
         "versionName": "5.14.2"
     },
     {
+        "md5": "c6cb2e2e7cb1e349e567772883e7d5c7",
+        "uploaded": "2022-04-07",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/b6e7fba3126249c453367c104ae03643/update-J1403-bellatrix_malbec-069-fwo_3829500069.bin",
+        "versionCode": "3829500069",
+        "versionName": "5.14.3"
+    },
+    {
         "md5": "5f34d1a19cd69a8e83a216ad26f96fed",
         "uploaded": "2022-04-25",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_11th_5.14.3.bin",

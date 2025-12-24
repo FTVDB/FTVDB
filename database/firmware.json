@@ -294,5 +294,11 @@
         "title": [
             "Kindle Voyage (2014)"
         ]
+    },
+    "com.lab126.eink.malbec.os": {
+        "model": "PW5-2021",
+        "title": [
+            "Kindle PaperWhite 5 (2021)"
+        ]
     }
 }

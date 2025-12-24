@@ -115,42 +115,6 @@
             "Fire TV Stick - Basic Edition (2017)"
         ]
     },
-    "com.ftvdb.kindle.basic1-2014.os": {
-        "model": "BASIC1-2014",
-        "title": [
-            "Kindle Basic (2014)"
-        ]
-    },
-    "com.ftvdb.kindle.basic2-2016.os": {
-        "model": "BASIC2-2016",
-        "title": [
-            "Kindle Basic 2 (2016)"
-        ]
-    },
-    "com.ftvdb.kindle.basic3-2019.os": {
-        "model": "BASIC3-2019",
-        "title": [
-            "Kindle Basic 3 (2019)"
-        ]
-    },
-    "com.ftvdb.kindle.basic4-2022.os": {
-        "model": "BASIC4-2022",
-        "title": [
-            "Kindle Basic 4 (2022)"
-        ]
-    },
-    "com.ftvdb.kindle.basic5-2024.os": {
-        "model": "BASIC5-2024",
-        "title": [
-            "Kindle Basic 5 (2024)"
-        ]
-    },
-    "com.ftvdb.kindle.colorsoft-2024.os": {
-        "model": "COLORSOFT-2024",
-        "title": [
-            "Kindle ColorSoft (2024)"
-        ]
-    },
     "com.ftvdb.kindle.dxg-2010.os": {
         "model": "DXG-2010",
         "title": [
@@ -217,88 +181,118 @@
             "Kindle 5 Touch (2011)"
         ]
     },
-    "com.ftvdb.kindle.oasis1-2016.os": {
-        "model": "OASIS1-2016",
-        "title": [
-            "Kindle Oasis (2016)"
-        ]
-    },
-    "com.ftvdb.kindle.oasis2-2017.os": {
-        "model": "OASIS2-2017",
-        "title": [
-            "Kindle Oasis 2 (2017)"
-        ]
-    },
-    "com.ftvdb.kindle.oasis3-2019.os": {
-        "model": "OASIS3-2019",
-        "title": [
-            "Kindle Oasis 3 (2019)"
-        ]
-    },
-    "com.ftvdb.kindle.pw1-2012.os": {
-        "model": "PW1-2012",
-        "title": [
-            "Kindle PaperWhite (2012)"
-        ]
-    },
-    "com.ftvdb.kindle.pw2-2013.os": {
-        "model": "PW2-2013",
-        "title": [
-            "Kindle PaperWhite 2 (2013)"
-        ]
-    },
-    "com.ftvdb.kindle.pw3-2015.os": {
-        "model": "PW3-2015",
-        "title": [
-            "Kindle PaperWhite 3 (2015)"
-        ]
-    },
-    "com.ftvdb.kindle.pw4-2018.os": {
-        "model": "PW4-2018",
-        "title": [
-            "Kindle PaperWhite 4 (2018)"
-        ]
-    },
-    "com.ftvdb.kindle.pw5-2021.os": {
-        "model": "PW5-2021",
-        "title": [
-            "Kindle PaperWhite 5 (2021)"
-        ]
-    },
-    "com.ftvdb.kindle.pw6-2024.os": {
-        "model": "PW6-2024",
-        "title": [
-            "Kindle PaperWhite 6 (2024)"
-        ]
-    },
-    "com.ftvdb.kindle.scribe1-2022.os": {
+    "com.lab126.eink.barolo.os": {
         "model": "SCRIBE1-2022",
         "title": [
             "Kindle Scribe (2022)"
         ]
     },
-    "com.ftvdb.kindle.scribe2-2024.os": {
-        "model": "SCRIBE2-2024",
+    "com.lab126.eink.bourbon.os": {
+        "model": "BASIC1-2014",
         "title": [
-            "Kindle Scribe 2 (2024)"
+            "Kindle Basic (2014)"
         ]
     },
-    "com.ftvdb.kindle.touch-2011.os": {
-        "model": "TOUCH-2011",
+    "com.lab126.eink.cava.os": {
+        "model": "BASIC4-2022",
         "title": [
-            "Kindle Touch (2011)"
+            "Kindle Basic 4 (2022)"
         ]
     },
-    "com.ftvdb.kindle.voyage-2014.os": {
+    "com.lab126.eink.cognac.os": {
+        "model": "OASIS2-2017",
+        "title": [
+            "Kindle Oasis 2 (2017)"
+        ]
+    },
+    "com.lab126.eink.eanab.os": {
+        "model": "BASIC2-2016",
+        "title": [
+            "Kindle Basic 2 (2016)"
+        ]
+    },
+    "com.lab126.eink.icewine.os": {
         "model": "VOYAGE-2014",
         "title": [
             "Kindle Voyage (2014)"
+        ]
+    },
+    "com.lab126.eink.jaeger.os": {
+        "model": "BASIC3-2019",
+        "title": [
+            "Kindle Basic 3 (2019)"
         ]
     },
     "com.lab126.eink.malbec.os": {
         "model": "PW5-2021",
         "title": [
             "Kindle PaperWhite 5 (2021)"
+        ]
+    },
+    "com.lab126.eink.moonshine.os": {
+        "model": "PW4-2018",
+        "title": [
+            "Kindle PaperWhite 4 (2018)"
+        ]
+    },
+    "com.lab126.eink.muscat.os": {
+        "model": "PW3-2015",
+        "title": [
+            "Kindle PaperWhite 3 (2015)"
+        ]
+    },
+    "com.lab126.eink.pisco.os": {
+        "model": "SCRIBE2-2024",
+        "title": [
+            "Kindle Scribe 2 (2024)"
+        ]
+    },
+    "com.lab126.eink.rossini.os": {
+        "model": "BASIC5-2024",
+        "title": [
+            "Kindle Basic 5 (2024)"
+        ]
+    },
+    "com.lab126.eink.sangria.os": {
+        "model": "PW6-2024",
+        "title": [
+            "Kindle PaperWhite 6 (2024)"
+        ]
+    },
+    "com.lab126.eink.seabreeze.os": {
+        "model": "COLORSOFT-2024",
+        "title": [
+            "Kindle ColorSoft (2024)"
+        ]
+    },
+    "com.lab126.eink.stinger.os": {
+        "model": "OASIS3-2019",
+        "title": [
+            "Kindle Oasis 3 (2019)"
+        ]
+    },
+    "com.lab126.eink.wario.os": {
+        "model": "PW2-2013",
+        "title": [
+            "Kindle PaperWhite 2 (2013)"
+        ]
+    },
+    "com.lab126.eink.whisky.os": {
+        "model": "OASIS1-2016",
+        "title": [
+            "Kindle Oasis (2016)"
+        ]
+    },
+    "com.lab126.eink.yoshi.os": {
+        "model": "TOUCH-2011",
+        "title": [
+            "Kindle Touch (2011)"
+        ]
+    },
+    "com.lab126.eink.yoshime3.os": {
+        "model": "PW1-2012",
+        "title": [
+            "Kindle PaperWhite (2012)"
         ]
     }
 }

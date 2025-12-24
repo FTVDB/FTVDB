@@ -77,6 +77,13 @@
         "versionName": "5.8.11"
     },
     {
+        "md5": "82498279e7445a170d95d2cd70f0e68e",
+        "uploaded": "2017-12-11",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.9.2.0.1.bin",
+        "versionCode": "3262870017",
+        "versionName": "5.9.2.0.1"
+    },
+    {
         "md5": "872b923c30ec383706934961ff125b13",
         "uploaded": "2018-01-31",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.9.4.bin",

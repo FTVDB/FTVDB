@@ -199,6 +199,12 @@
             "Kindle Basic 4 (2022)"
         ]
     },
+    "com.lab126.eink.celeste.os": {
+        "model": "PW1-2012",
+        "title": [
+            "Kindle PaperWhite (2012)"
+        ]
+    },
     "com.lab126.eink.cognac.os": {
         "model": "OASIS2-2017",
         "title": [
@@ -293,12 +299,6 @@
         "model": "TOUCH-2011",
         "title": [
             "Kindle Touch (2011)"
-        ]
-    },
-    "com.lab126.eink.yoshime3.os": {
-        "model": "PW1-2012",
-        "title": [
-            "Kindle PaperWhite (2012)"
         ]
     }
 }

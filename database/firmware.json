@@ -122,69 +122,69 @@
         ]
     },
     "com.ftvdb.kindle.dxg-2010.os": {
-        "model": "",
+        "model": "DXG-2010",
         "title": [
-            "Amazon "
+            "Kindle DX Graphite (2010)"
         ]
     },
     "com.ftvdb.kindle.dxint-2010.os": {
-        "model": "",
+        "model": "DXINT-2010",
         "title": [
-            "Amazon "
+            "Kindle DX International (2010)"
         ]
     },
     "com.ftvdb.kindle.dxus-2009.os": {
-        "model": "",
+        "model": "DXUS-2009",
         "title": [
-            "Amazon "
+            "Kindle DX US (2009)"
         ]
     },
     "com.ftvdb.kindle.k1-2007.os": {
-        "model": "",
+        "model": "K1-2007",
         "title": [
-            "Amazon "
+            "Kindle 1 (2007)"
         ]
     },
     "com.ftvdb.kindle.k2int-2009.os": {
-        "model": "",
+        "model": "K2INT-2009",
         "title": [
-            "Amazon "
+            "Kindle 2 International (2009)"
         ]
     },
     "com.ftvdb.kindle.k2us-2009.os": {
-        "model": "",
+        "model": "K2US-2009",
         "title": [
-            "Amazon "
+            "Kindle 2 US (2009)"
         ]
     },
     "com.ftvdb.kindle.k3wifi-2010.os": {
-        "model": "",
+        "model": "K3WIFI-2010",
         "title": [
-            "Amazon "
+            "indle 3 WiFi (2010)"
         ]
     },
     "com.ftvdb.kindle.k3wifi3g-2010.os": {
-        "model": "",
+        "model": "K3WIFI3G-2010",
         "title": [
-            "Amazon "
+            "Kindle 3 WiFi+3G (2010)"
         ]
     },
     "com.ftvdb.kindle.k3wifi3geu-2010.os": {
-        "model": "",
+        "model": "K3WIFI3GEU-2010",
         "title": [
-            "Amazon "
+            "Kindle 3 WiFi+3G EU (2010)"
         ]
     },
     "com.ftvdb.kindle.k4nt-2011.os": {
-        "model": "",
+        "model": "K4NT-2011",
         "title": [
-            "Amazon "
+            "Kindle 4 Non-Touch (2011)"
         ]
     },
     "com.ftvdb.kindle.k5t-2011.os": {
-        "model": "",
+        "model": "K5T-2011",
         "title": [
-            "Amazon "
+            "Kindle 5 Touch (2011)"
         ]
     },
     "com.lab126.eink.barolo.os": {

@@ -53,6 +53,12 @@
             "Echo Input (2018)"
         ]
     },
+    "com.amazon.cypress.android.os": {
+        "model": "AEOCY",
+        "title": [
+            "Amazon AEOCY"
+        ]
+    },
     "com.amazon.donut.android.os": {
         "model": "AEODN",
         "title": [

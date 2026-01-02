@@ -33,7 +33,6 @@ Join our [**Telegram channel**](https://t.me/FTVDB) for:
 ## Repository Contents
 
 - **/database**: Stores firmware and app data in `.json` format.
-- **index.html**, **styles.css**, **script.js**: Reference website code (for local testing or development).
 
 Note: you do not need to clone this repo just to use FTV DB. Everything is available at [ftvdb.com](https://ftvdb.com).
 

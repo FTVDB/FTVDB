@@ -1,5 +1,14 @@
 {
-    "echo": "Echo",
-    "firetv": "Fire TV",
-    "kindle": "Kindle"
+    "echo": {
+        "apps_url_regex": "\\.apk$",
+        "title": "Echo"
+    },
+    "firetv": {
+        "apps_url_regex": "\\.apk$",
+        "title": "Fire TV"
+    },
+    "kindle": {
+        "apps_url_regex": "\\.mobi$",
+        "title": "Kindle"
+    }
 }

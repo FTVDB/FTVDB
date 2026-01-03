@@ -32,24 +32,24 @@
         ]
     },
     "com.amazon.checkers.android.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "echo",
+        "categoryName": "Echo",
         "model": "AEOCH",
         "title": [
             "Echo Show 5 1st Gen (2019)"
         ]
     },
     "com.amazon.cronos.android.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "echo",
+        "categoryName": "Echo",
         "model": "AEOCN",
         "title": [
             "Echo Show 5 2nd Gen (2021)"
         ]
     },
     "com.amazon.crown.android.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "echo",
+        "categoryName": "Echo",
         "model": "AEOCW",
         "title": [
             "Echo Show 8 1st Gen (2019)"
@@ -72,16 +72,16 @@
         ]
     },
     "com.amazon.cypress.android.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "echo",
+        "categoryName": "Echo",
         "model": "AEOCY",
         "title": [
             "Echo Show 15 2nd Gen (2024)"
         ]
     },
     "com.amazon.donut.android.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "echo",
+        "categoryName": "Echo",
         "model": "AEODN",
         "title": [
             "Echo Dot 3rd Gen (2018)"
@@ -96,8 +96,8 @@
         ]
     },
     "com.amazon.karat.android.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "firetv",
+        "categoryName": "Fire TV",
         "model": "",
         "title": [
             "Fire TV Stick 4K 2nd Gen (2023)"
@@ -170,240 +170,240 @@
         ]
     },
     "com.ftvdb.kindle.dxg-2010.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "DXG-2010",
         "title": [
             "Kindle DX Graphite (2010)"
         ]
     },
     "com.ftvdb.kindle.dxint-2010.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "DXINT-2010",
         "title": [
             "Kindle DX International (2010)"
         ]
     },
     "com.ftvdb.kindle.dxus-2009.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "DXUS-2009",
         "title": [
             "Kindle DX US (2009)"
         ]
     },
     "com.ftvdb.kindle.k1-2007.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "K1-2007",
         "title": [
             "Kindle 1 (2007)"
         ]
     },
     "com.ftvdb.kindle.k2int-2009.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "K2INT-2009",
         "title": [
             "Kindle 2 International (2009)"
         ]
     },
     "com.ftvdb.kindle.k2us-2009.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "K2US-2009",
         "title": [
             "Kindle 2 US (2009)"
         ]
     },
     "com.ftvdb.kindle.k3wifi-2010.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "K3WIFI-2010",
         "title": [
             "Kindle 3 WiFi (2010)"
         ]
     },
     "com.ftvdb.kindle.k3wifi3g-2010.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "K3WIFI3G-2010",
         "title": [
             "Kindle 3 WiFi+3G (2010)"
         ]
     },
     "com.ftvdb.kindle.k3wifi3geu-2010.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "K3WIFI3GEU-2010",
         "title": [
             "Kindle 3 WiFi+3G EU (2010)"
         ]
     },
     "com.ftvdb.kindle.k4nt-2011.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "K4NT-2011",
         "title": [
             "Kindle 4 Non-Touch (2011)"
         ]
     },
     "com.ftvdb.kindle.k5t-2011.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "K5T-2011",
         "title": [
             "Kindle 5 Touch (2011)"
         ]
     },
     "com.lab126.eink.barolo.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "SCRIBE1-2022",
         "title": [
             "Kindle Scribe (2022)"
         ]
     },
     "com.lab126.eink.bourbon.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "BASIC1-2014",
         "title": [
             "Kindle Basic (2014)"
         ]
     },
     "com.lab126.eink.cava.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "BASIC4-2022",
         "title": [
             "Kindle Basic 4 (2022)"
         ]
     },
     "com.lab126.eink.celeste.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "PW1-2012",
         "title": [
             "Kindle PaperWhite (2012)"
         ]
     },
     "com.lab126.eink.cognac.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "OASIS2-2017",
         "title": [
             "Kindle Oasis 2 (2017)"
         ]
     },
     "com.lab126.eink.eanab.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "BASIC2-2016",
         "title": [
             "Kindle Basic 2 (2016)"
         ]
     },
     "com.lab126.eink.icewine.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "VOYAGE-2014",
         "title": [
             "Kindle Voyage (2014)"
         ]
     },
     "com.lab126.eink.jaeger.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "BASIC3-2019",
         "title": [
             "Kindle Basic 3 (2019)"
         ]
     },
     "com.lab126.eink.malbec.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "PW5-2021",
         "title": [
             "Kindle PaperWhite 5 (2021)"
         ]
     },
     "com.lab126.eink.moonshine.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "PW4-2018",
         "title": [
             "Kindle PaperWhite 4 (2018)"
         ]
     },
     "com.lab126.eink.muscat.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "PW3-2015",
         "title": [
             "Kindle PaperWhite 3 (2015)"
         ]
     },
     "com.lab126.eink.pinot.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "PW2-2013",
         "title": [
             "Kindle PaperWhite 2 (2013)"
         ]
     },
     "com.lab126.eink.pisco.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "SCRIBE2-2024",
         "title": [
             "Kindle Scribe 2 (2024)"
         ]
     },
     "com.lab126.eink.rossini.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "BASIC5-2024",
         "title": [
             "Kindle Basic 5 (2024)"
         ]
     },
     "com.lab126.eink.sangria.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "PW6-2024",
         "title": [
             "Kindle PaperWhite 6 (2024)"
         ]
     },
     "com.lab126.eink.seabreeze.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "COLORSOFT-2024",
         "title": [
             "Kindle ColorSoft (2024)"
         ]
     },
     "com.lab126.eink.stinger.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "OASIS3-2019",
         "title": [
             "Kindle Oasis 3 (2019)"
         ]
     },
     "com.lab126.eink.whisky.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "OASIS1-2016",
         "title": [
             "Kindle Oasis (2016)"
         ]
     },
     "com.lab126.eink.yoshi.os": {
-        "categoryId": "",
-        "categoryName": "",
+        "categoryId": "kindle",
+        "categoryName": "Kindle",
         "model": "TOUCH-2011",
         "title": [
             "Kindle Touch (2011)"

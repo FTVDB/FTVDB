@@ -98,7 +98,7 @@
         ]
     },
     "com.amazon.maverick.android.os": {
-        "category": "",
+        "category": "firetablet",
         "model": "",
         "title": [
             "Fire HD10 (2019)"

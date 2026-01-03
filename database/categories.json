@@ -3,6 +3,10 @@
         "apps_url_regex": "\\.apk$",
         "title": "Echo"
     },
+    "firetablet": {
+        "apps_url_regex": "\\.apk$",
+        "title": "Fire Tablet"
+    },
     "firetv": {
         "apps_url_regex": "\\.apk$",
         "title": "Fire TV"

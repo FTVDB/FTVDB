@@ -1,5 +1,7 @@
 [
     {
+        "categories": [
+        ],
         "md5": "44dd78ad33366dfb7425d0f64a705bb6",
         "uploaded": "2023-03-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c9e37129965873a01aae633e09a581cb/signed_FireTvAIVProxy-release.apk",
@@ -7,6 +9,8 @@
         "versionName": "6240001.1"
     },
     {
+        "categories": [
+        ],
         "md5": "da5e0be452babd3610e8c4ea8baf3cba",
         "uploaded": "2024-08-01",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/8/1/6e1d824e-94a9-408a-bf0f-1449649017e9/1722532504663-signed_FireTvAIVProxy-fos-release.apk",

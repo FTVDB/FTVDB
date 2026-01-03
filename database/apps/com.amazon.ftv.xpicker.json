@@ -1,5 +1,7 @@
 [
     {
+        "categories": [
+        ],
         "md5": "b77a73b751709c04c800e9138d51128f",
         "uploaded": "2020-08-05",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/9ba348d6ba7a6df058956a76be2d6f7a/FireTVExperiencePicker-release-signed_1.0.1924.0.apk",
@@ -7,6 +9,8 @@
         "versionName": "FireTVExperiencePicker_v1.2.0_Build-1.0.1924.0.2684"
     },
     {
+        "categories": [
+        ],
         "md5": "563bb2198734338a428e22fa8e6a9030",
         "uploaded": "2020-09-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/36446b728516bed74819cab148216cf5/signed_1.0.2008.0.apk",
@@ -14,6 +18,8 @@
         "versionName": "FireTVExperiencePicker_v1.3.0_Build-1.0.2008.0.2809"
     },
     {
+        "categories": [
+        ],
         "md5": "c6e45f12cce4e52cb548866f618224d3",
         "uploaded": "2021-01-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/30f2eee12603af2e5d3f0b1805c1552e/FireTVExperiencePicker-release-signed_1.0.2191.0.apk",

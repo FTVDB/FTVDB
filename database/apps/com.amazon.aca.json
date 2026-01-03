@@ -1,5 +1,7 @@
 [
     {
+        "categories": [
+        ],
         "md5": "c7f43bef1fe664712380b0a8f30725f9",
         "uploaded": "2020-08-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b7bf2cae95eb5f92e686b6983acbff56/ACAFireTVAndroidClient-fos5-release-signed_706.apk",
@@ -7,6 +9,8 @@
         "versionName": "ACAFireTVAndroidClient-2019.3.0-1.1.706.0-26260010"
     },
     {
+        "categories": [
+        ],
         "md5": "20d944531a97fa8fd372aff69262cea7",
         "uploaded": "2020-10-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/abe931e7be238153f9f46e05632d4db3/ACAFireTVAndroidClient-fos5-release-signed_800.apk",
@@ -14,6 +18,8 @@
         "versionName": "ACAFireTVAndroidClient-2019.3.0-1.1.800.0-27470010"
     },
     {
+        "categories": [
+        ],
         "md5": "66e7b592c7823fad22e1ddc27ea2b449",
         "uploaded": "2020-11-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/a0ba0bf6d9f8bfda334b85c796c667e7/ACAFireTVAndroidClient-fos5-release-signed_836.apk",
@@ -21,6 +27,8 @@
         "versionName": "ACAFireTVAndroidClient-2019.3.0-1.1.836.0-28080010"
     },
     {
+        "categories": [
+        ],
         "md5": "f2be55b87ecec06cd2428fe091ab503f",
         "uploaded": "2021-10-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/334c93fd023f060211b99f7d43738edb/ACAFireTVAndroidClient-fos5-release-signed1179.apk",
@@ -28,6 +36,8 @@
         "versionName": "ACAFireTVAndroidClient-2019.3.0-1.1.1179.0-30170010"
     },
     {
+        "categories": [
+        ],
         "md5": "876a39fa2846d5727e8455973b99baf9",
         "uploaded": "2023-08-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6dca8a9c1482a47917a2e910bcb650e2/com.amazon.aca.apk",
@@ -35,6 +45,8 @@
         "versionName": "ACAFireTVAndroidClient-2019.3.0-1.1.1422.0-32550010"
     },
     {
+        "categories": [
+        ],
         "md5": "8318b9c1f23a3978ae44caa037b2d553",
         "uploaded": "2023-10-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c9a28c47d18a3b93841252f4c67a9248/ACAFireTVAndroidClient-fos5-release-signed_9.apk",

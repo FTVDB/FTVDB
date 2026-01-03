@@ -1,5 +1,7 @@
 [
     {
+        "categories": [
+        ],
         "md5": "5dd89d795f42177af5041c0d47a98cf6",
         "uploaded": "2021-06-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/ff1b908f13fba6e0e5f152f46b7c8415/signed_FireTvReleaseNotes-jarvis-release-juv.apk",
@@ -7,6 +9,8 @@
         "versionName": "1.0.706.0-com.amazon.tv.releasenotes-jarvis_620255310"
     },
     {
+        "categories": [
+        ],
         "md5": "f71d35419440421a431e3aab614ab0fd",
         "uploaded": "2023-01-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/06d9089ac002c8ca75d448d6f013b5df/signed_FireTvReleaseNotes-jarvis-release-1.0.949.0.apk",

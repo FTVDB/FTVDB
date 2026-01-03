@@ -1,5 +1,7 @@
 [
     {
+        "categories": [
+        ],
         "md5": "4154292916d318f77412762159054fd8",
         "uploaded": "2020-02-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/38fef46c7c7a3dea7f7b35cd83938a76/31.apk",
@@ -7,6 +9,8 @@
         "versionName": "2.0.210839.0-com.amazon.tv.livetv_1200803110"
     },
     {
+        "categories": [
+        ],
         "md5": "b8011a795ca884440fa555b8c9c98eba",
         "uploaded": "2020-09-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/35e056896a4c0d24e75ea32c1c9d6941/com.amazon.tv.livetv5.apk",
@@ -14,6 +18,8 @@
         "versionName": "2.0.213906.0-com.amazon.tv.livetv_1201260310"
     },
     {
+        "categories": [
+        ],
         "md5": "9d15265ffc94f5cff9c98d8adb162a1d",
         "uploaded": "2020-12-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/a5887261512d8c951123506a1aa759b2/com.amazon.tv.livetv24.apk",
@@ -21,6 +27,8 @@
         "versionName": "2.0.214799.0-com.amazon.tv.livetv_1201306510"
     },
     {
+        "categories": [
+        ],
         "md5": "6a4f98588188da8f5f70293598b515d6",
         "uploaded": "2021-05-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/032619195a292735fa7635521ed63562/Warhawk3Plus.apk",
@@ -28,6 +36,8 @@
         "versionName": "2.0.216222.0-com.amazon.tv.livetv_1201361210"
     },
     {
+        "categories": [
+        ],
         "md5": "4a48e3eb85278f1af715ce6eb8fbfaba",
         "uploaded": "2021-06-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/cde5ca55e847e8b909f6026c82e5fc63/MP69.apk",
@@ -35,6 +45,8 @@
         "versionName": "2.0.216523.0-com.amazon.tv.livetv_1210206910"
     },
     {
+        "categories": [
+        ],
         "md5": "76298caf727f473fcdcbf57fd6e0be32",
         "uploaded": "2021-07-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d264616ee2265bfd319c9b707f237b48/Marco_palmice_1210207310.apk",
@@ -42,6 +54,8 @@
         "versionName": "2.0.216763.0-com.amazon.tv.livetv_1210207310"
     },
     {
+        "categories": [
+        ],
         "md5": "153cdb7caa34a897d1fdf96d4a06b425",
         "uploaded": "2021-07-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6c66ac6f3c5ec139df1061d9a1b59b83/Orange_apk_1210302310.apk",
@@ -49,6 +63,8 @@
         "versionName": "2.0.216781.0-com.amazon.tv.livetv_1210302310"
     },
     {
+        "categories": [
+        ],
         "md5": "8d3e1d730e388484f28a0149c0885090",
         "uploaded": "2021-09-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c1589b58518ca671e749a84ddddca882/com.amazon.tv.livetv.apk",
@@ -56,6 +72,8 @@
         "versionName": "2.0.217250.0-com.amazon.tv.livetv_1210450610"
     },
     {
+        "categories": [
+        ],
         "md5": "ee25a9a8d9cc5752621497fbf9937234",
         "uploaded": "2021-12-31",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d464569e4f32cef7f2dbef68fa3a3caa/12105088.apk",
@@ -63,6 +81,8 @@
         "versionName": "2.0.218066.0-com.amazon.tv.livetv_1210508810"
     },
     {
+        "categories": [
+        ],
         "md5": "52d5fcdb31605337c5d3eba91a2926eb",
         "uploaded": "2022-02-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c4a392f9e2396c1902b220006de32625/com.amazon.tv.livetv10.apk",
@@ -70,6 +90,8 @@
         "versionName": "2.0.218491.0-com.amazon.tv.livetv_1210603210"
     },
     {
+        "categories": [
+        ],
         "md5": "d09cdaebe56f841f4cfc2da48f18e44a",
         "uploaded": "2022-04-05",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/06ef3fc7d51f109f0fd85318a2b0368a/1210701910.apk",
@@ -77,6 +99,8 @@
         "versionName": "2.0.218755.0-com.amazon.tv.livetv_1210701910"
     },
     {
+        "categories": [
+        ],
         "md5": "e0ae9cc2a061e8f8b9c4840958f09902",
         "uploaded": "2022-04-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/3297daa12ee944d34a7d12d90ca0cdd5/signed_Gordon-release_1.apk",
@@ -84,6 +108,8 @@
         "versionName": "2.0.218875.0-com.amazon.tv.livetv_1210702010"
     },
     {
+        "categories": [
+        ],
         "md5": "f56ee6576fa0a6ab0273f02cbf4031c3",
         "uploaded": "2022-05-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c6253487b189b87e1353d504943d1206/signed_Gordon-release_2.apk",
@@ -91,6 +117,8 @@
         "versionName": "2.0.219046.0-com.amazon.tv.livetv_1210702110"
     },
     {
+        "categories": [
+        ],
         "md5": "07a9cdddbcfbaea62a80bd6d646b4984",
         "uploaded": "2022-05-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/dacec8041f75d2362d2246054601f7ec/12108021.apk",
@@ -98,6 +126,8 @@
         "versionName": "2.0.219056.0-com.amazon.tv.livetv_1210802110"
     },
     {
+        "categories": [
+        ],
         "md5": "c01c0b1a8a60af685d96b6b36dab6165",
         "uploaded": "2022-08-08",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/1111208cc18901a6a6467305e7a3f47d/12110018.apk",
@@ -105,6 +135,8 @@
         "versionName": "2.0.219759.0-com.amazon.tv.livetv_1211001810"
     },
     {
+        "categories": [
+        ],
         "md5": "c39aa05ae5b85e819c5619eb509a1bae",
         "uploaded": "2022-09-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/a34825690de3b3e9575f9bd852c877fc/com.amazon.tv.livetv.apk",
@@ -112,6 +144,8 @@
         "versionName": "2.0.220164.0-com.amazon.tv.livetv_1211201910"
     },
     {
+        "categories": [
+        ],
         "md5": "e4dfba8349954999e4e27d91b277971a",
         "uploaded": "2022-12-23",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/43d2a9cb2bd8af48aa2371f15460bacb/com.amazon.tv.livetv.apk",
@@ -119,6 +153,8 @@
         "versionName": "2.0.220813.0-com.amazon.tv.livetv_1211450110"
     },
     {
+        "categories": [
+        ],
         "md5": "3538a85d8b415a60dc09b4974d0055d8",
         "uploaded": "2023-01-31",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/af8286aa130294569654f93ed89b612b/com.amazon.tv.livetv.apk",
@@ -126,6 +162,8 @@
         "versionName": "2.0.221083.0-com.amazon.tv.livetv_1211503310"
     },
     {
+        "categories": [
+        ],
         "md5": "05bbe9d4dab1d9c8d91f319e82a408ee",
         "uploaded": "2023-02-23",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/47880265b340483a6c24a7adf1fe4b30/com.amazon.tv.livetv.apk",
@@ -133,6 +171,8 @@
         "versionName": "2.0.221234.0-com.amazon.tv.livetv_1211601710"
     },
     {
+        "categories": [
+        ],
         "md5": "873b48a1727093bfb5e8b30f44a80153",
         "uploaded": "2023-10-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/59fd429cc81e93e8c51289fa5e6f3e6d/com.amazon.tv.livetv.apk",
@@ -140,6 +180,8 @@
         "versionName": "2.0.223998.0-com.amazon.tv.livetv_1212750510"
     },
     {
+        "categories": [
+        ],
         "md5": "a5d400b2e2a0fdef78a1c7b4aa410674",
         "uploaded": "2023-11-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/299e34c6b9f63b1f2bf29f9ae587fd63/com.amazon.tv.livetv.apk",
@@ -147,6 +189,8 @@
         "versionName": "2.0.224021.0-com.amazon.tv.livetv_1212750610"
     },
     {
+        "categories": [
+        ],
         "md5": "c31c4a6bdbb538911c49dfcfe488953e",
         "uploaded": "2023-12-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e2e4e3f7e163ca0dd199053c49b8efe0/com.amazon.tv.livetv.apk",
@@ -154,6 +198,8 @@
         "versionName": "2.0.224281.0-com.amazon.tv.livetv_1212809110"
     },
     {
+        "categories": [
+        ],
         "md5": "54a3597aafb5eab281323268f8b1b9fb",
         "uploaded": "2024-02-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/2/20/75763a7a-9831-4a39-b4ab-f2e935ecd0e3/1708418876444-1212809410.apk",
@@ -161,6 +207,8 @@
         "versionName": "2.0.224906.0-com.amazon.tv.livetv_1212809410"
     },
     {
+        "categories": [
+        ],
         "md5": "9dee5e3fd26371f409b04faf396423ae",
         "uploaded": "2025-04-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/4/16/61963ba5-c585-4ac4-a3b2-0bf328fa63bd/1744782353476-signed_com.amazon.tv.livetv_Storage_PrefetchFix.apk",

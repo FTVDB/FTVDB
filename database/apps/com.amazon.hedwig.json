@@ -1,5 +1,7 @@
 [
     {
+        "categories": [
+        ],
         "md5": "781f75751a31ab511cccebf7ee6aed10",
         "uploaded": "2020-07-31",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/db39faee68ab3b0e5879119ef241dce3/signed_HedwigNews-release_5069.apk",
@@ -7,6 +9,8 @@
         "versionName": "1.0.5069.0_1698910"
     },
     {
+        "categories": [
+        ],
         "md5": "252df32c366471a4818fc87f0724e185",
         "uploaded": "2020-11-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/74edf06e4ec6b667e34e67bab54b9467/signed_HedwigNews-release_5690.apk",
@@ -14,6 +18,8 @@
         "versionName": "1.0.5690.0_1829610"
     },
     {
+        "categories": [
+        ],
         "md5": "058b83045fa3ba8c67f0a1c118881798",
         "uploaded": "2020-11-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6a9185d78e529649578ad6f726756169/signed_HedwigNews-release_1.0.5743.0.apk",
@@ -21,6 +27,8 @@
         "versionName": "1.0.5743.0_1841210"
     },
     {
+        "categories": [
+        ],
         "md5": "2f0af82a1ecd12ef6a2fb44d9b331d86",
         "uploaded": "2021-01-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/dfc1ec24867ac77aee1b3e69dd87ea50/signed_HedwigNews-release-6018.apk",
@@ -28,6 +36,8 @@
         "versionName": "1.0.6018.0_1899410"
     },
     {
+        "categories": [
+        ],
         "md5": "d11ee0d342780aca7f00104b700815f0",
         "uploaded": "2021-02-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/14d4a0f0d4545fcbfecf928e38ad5250/signed_HedwigNews-release-1.0.6177.0.apk",
@@ -35,6 +45,8 @@
         "versionName": "1.0.6177.0_1937410"
     },
     {
+        "categories": [
+        ],
         "md5": "f04f140f04e086492b2988e0ec5cf9e0",
         "uploaded": "2021-05-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/4a0af893825ab2c7f1fa9701c95a72f9/signed_HedwigNews-release6505.apk",
@@ -42,6 +54,8 @@
         "versionName": "1.0.6505.0_11006510"
     },
     {
+        "categories": [
+        ],
         "md5": "5a46424d406688f869fe82ae68e00966",
         "uploaded": "2021-07-08",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/36f1daf2374c7f0e46c822bd2ef3d3b8/signed_HedwigNews-release_6558_LD.apk",
@@ -49,6 +63,8 @@
         "versionName": "1.0.6558.0_11016110"
     },
     {
+        "categories": [
+        ],
         "md5": "04f5179eeb797af0e0e08f2d2c94bd59",
         "uploaded": "2021-09-23",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/58ce3f3880af2b934d80fbeb8c491b98/signed_HedwigNews-release_LD4-6736.apk",
@@ -56,6 +72,8 @@
         "versionName": "1.0.6736.0_11057110"
     },
     {
+        "categories": [
+        ],
         "md5": "93a0f4b180e7f94df1aa53314376d09b",
         "uploaded": "2022-08-05",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/a4bfafd5fa42df72dba5410d124eeb6a/signed_HedwigNews-release_7294_Prod_LD.apk",
@@ -63,6 +81,8 @@
         "versionName": "1.0.7294.0_11190110"
     },
     {
+        "categories": [
+        ],
         "md5": "3b06d36047ca354c3640879db351add4",
         "uploaded": "2022-11-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/290ff5a81bb219643f4a174e1c260c77/signed_HedwigNews-release_8132_R1_HF1.apk",
@@ -70,6 +90,8 @@
         "versionName": "1.0.8132.0_11386610"
     },
     {
+        "categories": [
+        ],
         "md5": "586d09352ede38e83728347a082520e6",
         "uploaded": "2023-03-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/3a3f05d9141264bc0e75679f8eaf52f9/signed_HedwigNews-release_HF3_1.0.9250.0_11654310.apk",
@@ -77,6 +99,8 @@
         "versionName": "1.0.9250.0_11654310"
     },
     {
+        "categories": [
+        ],
         "md5": "c1cdd5fea1285929dfad1a9997ea0c35",
         "uploaded": "2023-04-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/74f7dafb638721ba123c0c39d86daac8/signed_HedwigNews-release_rollback_9825.apk",
@@ -84,6 +108,8 @@
         "versionName": "1.0.9825.0_11794110"
     },
     {
+        "categories": [
+        ],
         "md5": "71dd172c423bd9bece032e6625ce04b2",
         "uploaded": "2023-05-05",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6f5789d46c84e216628dc9e341591bc3/signed_Podium-FC-R2-QA-E2E-Test-release-v47.apk",
@@ -91,6 +117,8 @@
         "versionName": "1.0.9965.0_11824210"
     },
     {
+        "categories": [
+        ],
         "md5": "e6d990df13f1c6069f7a85930d7883e2",
         "uploaded": "2023-08-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/25030e46f18609b63e198e78f8ccbf4d/signed_HedwigNews-release_v44.apk",
@@ -98,6 +126,8 @@
         "versionName": "1.0.11296.0_12112010"
     },
     {
+        "categories": [
+        ],
         "md5": "8120e85636484245dcf5edfb88d1e389",
         "uploaded": "2023-10-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2023/10/24/06379d8f-b2fc-424a-843a-f1a510737e2d/1698108210395-signed_Hedwig_release_FC_V19.apk",
@@ -105,6 +135,8 @@
         "versionName": "1.0.11905.0_12198010"
     },
     {
+        "categories": [
+        ],
         "md5": "5b53198659bc926747649f161b6b0ed9",
         "uploaded": "2024-03-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/3/18/e767f14f-1d85-47c7-b3a3-b5e64c436725/1710783070487-signed_HedwigNews-release-V0314.apk",
@@ -112,6 +144,8 @@
         "versionName": "1.0.12974.0_12359710"
     },
     {
+        "categories": [
+        ],
         "md5": "25235d4340fcb19dc113c4c6102bed2c",
         "uploaded": "2024-12-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/12/12/34e45a9e-cbcf-457b-9138-7ceb30446ed1/1733984367534-signed_HedwigNews-release-R7-V14(1).apk",
@@ -119,6 +153,8 @@
         "versionName": "1.0.14946.0_12613410"
     },
     {
+        "categories": [
+        ],
         "md5": "d80f5b3cf327a888af277a783458802d",
         "uploaded": "2025-01-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/1/20/66a0f87e-8609-424d-a8ab-b923506384e7/1737352830211-FC-R8-HOTFIX-1.apk",
@@ -126,6 +162,8 @@
         "versionName": "1.0.15113.0_12633210"
     },
     {
+        "categories": [
+        ],
         "md5": "9073feb032b0400a1838188f4c3c55ea",
         "uploaded": "2025-02-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/2/28/7c465352-7ce7-4bb3-b4a3-014cdbdb2a35/1740724951327-signed_HedwigNews-release(11).apk",
@@ -133,6 +171,8 @@
         "versionName": "1.0.15332.0_12663510"
     },
     {
+        "categories": [
+        ],
         "md5": "4bdaeabadfbfc16bc8f80be9c1d2623e",
         "uploaded": "2025-05-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/26/0e1bef8f-6c95-4d82-b166-2fe6cd559958/1748243008061-signed_HedwigNews-release-R10-V14.apk",
@@ -140,6 +180,8 @@
         "versionName": "1.0.15821.0_12724510"
     },
     {
+        "categories": [
+        ],
         "md5": "40ef40bb80ff4a2b6f1ecd80d23b82ad",
         "uploaded": "2025-09-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/9/30/6b869631-adc0-4d1f-b483-a30b8f29ef2b/1759208077234-signed-fc-release-09-28-R11V20.apk",
@@ -147,6 +189,8 @@
         "versionName": "1.0.16602.0_12813710"
     },
     {
+        "categories": [
+        ],
         "md5": "a5b51b42267e80a5992de37811b09d0b",
         "uploaded": "2025-10-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/10/27/ee59f136-213a-4ddd-bb4a-44c81772ccd9/1761546949388-signed_HedwigNews-release-R12-V13.apk",
@@ -154,6 +198,8 @@
         "versionName": "1.0.16883.0_12843210"
     },
     {
+        "categories": [
+        ],
         "md5": "4fe815d3f3ce9947b37cde6a518cf142",
         "uploaded": "2025-11-13",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/13/7c30cf2a-0e31-45a9-a37c-e003b25072fe/1763072920097-signed-fc-r12-v14.apk",

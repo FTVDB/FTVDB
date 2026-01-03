@@ -1,5 +1,7 @@
 [
     {
+        "categories": [
+        ],
         "md5": "33f12d042c0ff848f33aafdeb130e7b7",
         "uploaded": "2020-08-25",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/8ccb12d29e40cfc23597d1647bac5381/DialService.apk",
@@ -7,6 +9,8 @@
         "versionName": "1.0.100038.00"
     },
     {
+        "categories": [
+        ],
         "md5": "f6d20867031f2640b976a631ec0c6698",
         "uploaded": "2022-09-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/8dfd7f1fa246c1797d5bc0f081090bed/DialService.apk",

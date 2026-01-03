@@ -1,7 +1,5 @@
 [
     {
-        "categories": [
-        ],
         "md5": "27cdd9325ae21659c731b7572935d0bd",
         "uploaded": "2020-03-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/4c360e81cf43ea959ca08c7d21825e86/signed_KsoBlackbird-fireOs-release.apk",
@@ -9,8 +7,6 @@
         "versionName": "7.5.242.0-com.amazon.kso.blackbird-fireOs_1750064810"
     },
     {
-        "categories": [
-        ],
         "md5": "ee793bc3b43eef1dfad6f8be1fcb196e",
         "uploaded": "2020-12-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/a21447684fa1c636ad997709dfb22adb/KsoBlackbird-fireOs-release-signed-diablo-514.apk",
@@ -18,8 +14,6 @@
         "versionName": "7.5.514.0-com.amazon.kso.blackbird-fireOs_1750099310"
     },
     {
-        "categories": [
-        ],
         "md5": "fcb17671172abec5fbe52b987b1fa039",
         "uploaded": "2021-08-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/57ba051dadcacd0c66389dc578bb7bc2/KsoBlackbird-fireOs-release-signed-WCAPWave1.apk",
@@ -27,8 +21,6 @@
         "versionName": "7.5.618.0-com.amazon.kso.blackbird-fireOs_1750108810"
     },
     {
-        "categories": [
-        ],
         "md5": "2438254adeebbc5a6a9afb46b7d75a20",
         "uploaded": "2021-10-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/429357b6dd75dbbac54074d9cdd145fd/KsoBlackbird-fireOs-release-signed.apk",
@@ -36,8 +28,6 @@
         "versionName": "7.5.700.0-com.amazon.kso.blackbird-fireOs_1750114410"
     },
     {
-        "categories": [
-        ],
         "md5": "fb29b54af3ba3c8af7ae78dbe679c2fe",
         "uploaded": "2021-12-01",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/bf0cb71bb13bdb45fd2175a9c9b6aa15/KsoBlackbird-fireOs-release-signed.apk",
@@ -45,8 +35,6 @@
         "versionName": "7.5.741.0-com.amazon.kso.blackbird-fireOs_1750120310"
     },
     {
-        "categories": [
-        ],
         "md5": "babe572d760e4eea27ebcb789a18c433",
         "uploaded": "2022-01-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/8d3db382e9a5e598da3aa7b54cc70039/signed_KsoBlackbird_fireOs-release-BlackbirdOTAOne2022.apk",
@@ -54,8 +42,6 @@
         "versionName": "7.5.763.0-com.amazon.kso.blackbird-fireOs_1750122810"
     },
     {
-        "categories": [
-        ],
         "md5": "0c67e00aa533982538dad6944f3bc5d6",
         "uploaded": "2022-05-04",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6500221338a4a0cb032b01f8022408ef/KsoBlackbird-fireOs-release-signed-848.apk",
@@ -63,8 +49,6 @@
         "versionName": "7.5.848.0-com.amazon.kso.blackbird-fireOs_1750135110"
     },
     {
-        "categories": [
-        ],
         "md5": "97fa9a8889512499a8d8e5e7e27e230a",
         "uploaded": "2022-10-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e98588f9e3163dcd6980b234dea63180/signed_KsoBlackbird-fireOs-release-BlackbirdOTAThree2022.apk",
@@ -72,8 +56,6 @@
         "versionName": "7.5.939.0-com.amazon.kso.blackbird-fireOs_1750147410"
     },
     {
-        "categories": [
-        ],
         "md5": "0814293a7235277262569ba9c3d62306",
         "uploaded": "2022-11-08",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/5fcfbe487a4f143df194ce5307de5371/KsoBlackbird-fireOs-release-signed-956.apk",
@@ -81,8 +63,6 @@
         "versionName": "7.5.956.0-com.amazon.kso.blackbird-fireOs_1750149710"
     },
     {
-        "categories": [
-        ],
         "md5": "999e574ce0feb2fd01e59d46558bce8c",
         "uploaded": "2023-01-23",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/17b6b650cbe9991b32c6d41cd108b290/KsoBlackbird-fireOs-release-signed-978Latest.apk",
@@ -90,8 +70,6 @@
         "versionName": "7.5.978.0-com.amazon.kso.blackbird-fireOs_1750152310"
     },
     {
-        "categories": [
-        ],
         "md5": "e83a99326e4f79c8c19c9ef9b108254e",
         "uploaded": "2023-06-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/7f094ee1be07b8680281fa56ca4e59a4/KsoBlackbird-fireOs-release-signed-blackbirdOTATwo2023.apk",

@@ -1,7 +1,5 @@
 [
     {
-        "categories": [
-        ],
         "md5": "a817760b4e20b406352bac529b781b87",
         "uploaded": "2020-08-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/9e7f3dbb5cbc4bc05773b53b77e56958/signed_FireTvSettings-release3.apk",
@@ -9,8 +7,6 @@
         "versionName": "1.0.1503.0-com.amazon.tv.settings.v2_614015110"
     },
     {
-        "categories": [
-        ],
         "md5": "226efea0d61b3023f69512030d4d5b32",
         "uploaded": "2020-11-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/04f7c5810b89a75356536407c524dc66/signed_FireTvSettings-release.apk",
@@ -18,8 +14,6 @@
         "versionName": "1.0.1916.0-com.amazon.tv.settings.v2_616003710"
     },
     {
-        "categories": [
-        ],
         "md5": "32d5f51683cf55fa92246712c8575a14",
         "uploaded": "2021-06-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/4ce1d02586742f6650131e9d1aa399ad/signed_FireTvSettings-jarvis-release-juv.apk",
@@ -27,8 +21,6 @@
         "versionName": "1.0.2582.0-com.amazon.tv.settings.v2-jarvis_617045110"
     },
     {
-        "categories": [
-        ],
         "md5": "d938c9bf4d82dc98ce4d89202f12a1be",
         "uploaded": "2021-08-13",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/46a2c5700cf02dc46e44aa5aef1e8731/signed_FireTvSettings-jarvis-release_11.apk",
@@ -36,8 +28,6 @@
         "versionName": "1.0.3117.0-com.amazon.tv.settings.v2-jarvis_617113210"
     },
     {
-        "categories": [
-        ],
         "md5": "77857242f48bc6e3e0747687f8f8f0ce",
         "uploaded": "2021-09-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/3fb9d31141638a2bfd065f6e248a84d0/signed_FireTvSettings-jarvis-release-1.0.3444.0.apk",
@@ -45,8 +35,6 @@
         "versionName": "1.0.3444.0-com.amazon.tv.settings.v2-jarvis_618071910"
     },
     {
-        "categories": [
-        ],
         "md5": "b5daa567b5caeb560502ffa55e2a36ce",
         "uploaded": "2022-05-10",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/cd185f28014810a3df62bd2faf665661/signed_FireTvSettings-jarvis-release-1.0.4941.0.apk",
@@ -54,8 +42,6 @@
         "versionName": "1.0.4941.0-com.amazon.tv.settings.v2-jarvis_621038910"
     },
     {
-        "categories": [
-        ],
         "md5": "42fc1553fec55db45fd2cea2ab489bba",
         "uploaded": "2022-06-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/dc9911d658ddad28068d91553825c3ab/signed_FireTvSettings-jarvis-release1.0.5210.0.apk",
@@ -63,8 +49,6 @@
         "versionName": "1.0.5210.0-com.amazon.tv.settings.v2-jarvis_622016310"
     },
     {
-        "categories": [
-        ],
         "md5": "e756258030e520f4508ab4d58335c121",
         "uploaded": "2022-08-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/626d9f707554433f08e98728a25db9de/signed_FireTvSettings-jarvis-release_1.0.5579.0.apk",
@@ -72,8 +56,6 @@
         "versionName": "1.0.5579.0-com.amazon.tv.settings.v2-jarvis_623019510"
     },
     {
-        "categories": [
-        ],
         "md5": "22cd2ea93c0d5c045b8d8cf3acf98de0",
         "uploaded": "2022-10-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d5cb45546eeacf98fdd44966eb223664/signed_FireTvSettings-jarvis-release_1.0.6176.0.apk",
@@ -81,8 +63,6 @@
         "versionName": "1.0.6176.0-com.amazon.tv.settings.v2-jarvis_624091410"
     },
     {
-        "categories": [
-        ],
         "md5": "cd6b9ff7327e3876a7557e6042034914",
         "uploaded": "2022-12-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/067fc81e364b91e409e2514369a13ac3/signed_FireTvSettings-jarvis-release1.0.6670.0_ota_release.apk",
@@ -90,8 +70,6 @@
         "versionName": "1.0.6670.0-com.amazon.tv.settings.v2-jarvis_626013510"
     },
     {
-        "categories": [
-        ],
         "md5": "e48fe2f726fbad76791eb33346cdd904",
         "uploaded": "2023-05-05",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2364f7c6b590acd2bdd9a80bbf67eec4/signed_FireTvSettings-jarvis-release_1.0.7980.0.apk",
@@ -99,8 +77,6 @@
         "versionName": "1.0.7980.0-com.amazon.tv.settings.v2-jarvis_630018310"
     },
     {
-        "categories": [
-        ],
         "md5": "f4bbb9c8e2c9b59e4c554529143990dc",
         "uploaded": "2023-06-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/72bd15c4946cfa658f9ad1d990e5a0ab/signed_FireTvSettings-jarvis-release_1.0.8260.0.apk",
@@ -108,8 +84,6 @@
         "versionName": "1.0.8260.0-com.amazon.tv.settings.v2-jarvis_631013010"
     },
     {
-        "categories": [
-        ],
         "md5": "9d439951f0d229ed49a554504fa887cc",
         "uploaded": "2023-09-25",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/0d2145b9f8d258e4ca8b431088024e02/signed_FireTvSettings-jarvis-release_1.0.8947.0_RNfixlatest.apk",
@@ -117,8 +91,6 @@
         "versionName": "1.0.8947.0-com.amazon.tv.settings.v2-jarvis_636078010"
     },
     {
-        "categories": [
-        ],
         "md5": "5ab1cd10a4e92418cf5af8bc02d5c6e1",
         "uploaded": "2023-11-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/07974d128c31fa5203d2a3870048f19e/signed_FireTvSettings-jarvis-release__1.0.9315.0_Dublin.apk",

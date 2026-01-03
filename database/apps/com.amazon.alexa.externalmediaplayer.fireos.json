@@ -1,7 +1,5 @@
 [
     {
-        "categories": [
-        ],
         "md5": "adc46b32a77d9d8088c76d51fce057b7",
         "uploaded": "2020-04-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b8ecce879b0d4d6e63544b7d4c9e41e8/com.amazon.alexa.externalmediaplayer.fireos-1271610.apk",
@@ -9,8 +7,6 @@
         "versionName": "1.0.856.0-firetv_1271610"
     },
     {
-        "categories": [
-        ],
         "md5": "1559c284e296939632ad514a0f43f34a",
         "uploaded": "2022-02-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/62e388113705b8553f32566e5cc66f3d/signed_AlexaExternalMediaPlayerAgent-Application-FOS-multimodal-release.apk",
@@ -18,8 +14,6 @@
         "versionName": "1.0.3022.0-multimodal_12450610"
     },
     {
-        "categories": [
-        ],
         "md5": "0a5e9c1ea6f6add5fb1c0c74b152bfcf",
         "uploaded": "2022-07-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b014ea7df15acd2e77280b00cb417ae0/signed_AlexaExternalMediaPlayerAgent-Application-FOS-headless-armeabi-v7a-release.apk",

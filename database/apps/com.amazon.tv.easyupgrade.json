@@ -1,7 +1,5 @@
 [
     {
-        "categories": [
-        ],
         "md5": "fb0a814d49939b81893e1de2ae1628ab",
         "uploaded": "2020-08-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/def720e02ee5e2849d848aeb428cd2c3/signed_FireTvEasyUpgrade-release2.apk",
@@ -9,8 +7,6 @@
         "versionName": "1.0.181.0-com.amazon.tv.easyupgrade_1019110"
     },
     {
-        "categories": [
-        ],
         "md5": "9cff50037876b01edc36fa2278d72543",
         "uploaded": "2020-11-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e7cefc497680ddb06521191cbfa12bc2/signed_FireTvEasyUpgrade-release.apk",
@@ -18,8 +14,6 @@
         "versionName": "1.0.220.0-com.amazon.tv.easyupgrade_2001510"
     },
     {
-        "categories": [
-        ],
         "md5": "277aae9e63daef9ebae7a7c0064223fd",
         "uploaded": "2022-07-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/cf47a727408433c8b120b956c3d12689/signed_FireTvEasyUpgrade-jarvis-release.apk",

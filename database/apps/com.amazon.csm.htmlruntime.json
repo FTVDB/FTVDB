@@ -1,7 +1,5 @@
 [
     {
-        "categories": [
-        ],
         "md5": "1679beb13555107f218a4034472ce191",
         "uploaded": "2020-01-31",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/9bf668894c0825e6da95a3e7e4291ad8/CommonSpeechMiddleware_HtmlRuntime-release-signed.apk",
@@ -9,8 +7,6 @@
         "versionName": "0.8.30.0_1050810"
     },
     {
-        "categories": [
-        ],
         "md5": "d0702a0703369983f1dd99ee397614e9",
         "uploaded": "2020-10-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/76673cc9445351928ccb0103e826ce70/signed_CommonSpeechMiddleware_HtmlRuntime-release.apk",
@@ -18,8 +14,6 @@
         "versionName": "1.1.27.0_1196610"
     },
     {
-        "categories": [
-        ],
         "md5": "0a694c5ce73c1b46e108d980f39468e8",
         "uploaded": "2021-01-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/83b12df0c9efe8f892faf0454bd1103c/signed_1234910.apk",
@@ -27,8 +21,6 @@
         "versionName": "1.1.73.0_1234910"
     },
     {
-        "categories": [
-        ],
         "md5": "f7cae7ee10759a5fcbe8b3d8160ad8d1",
         "uploaded": "2022-07-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/3c6d9b0f6e411fb3cb78348cc67a1995/signed_CommonSpeechMiddleware_HtmlRuntime-release-1.1.337.0.apk",
@@ -36,8 +28,6 @@
         "versionName": "1.1.337.0-general_1317210"
     },
     {
-        "categories": [
-        ],
         "md5": "df4936d2cc9fd5ce912d1b75ca3b4616",
         "uploaded": "2024-05-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/5/21/799cced9-261b-482b-9184-b30afaf3e103/1716306303981-signed_CommonSpeechMiddleware_HtmlRuntime-general-x86-release.apk",
@@ -45,8 +35,6 @@
         "versionName": "1.1.696.0-general_1470910"
     },
     {
-        "categories": [
-        ],
         "md5": "05ca7c8e928a5e24b1a2f921636ba7ee",
         "uploaded": "2024-05-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/5/21/c55a43a1-11cb-40fb-897a-ec9ccb871ec7/1716306505526-signed_CommonSpeechMiddleware_HtmlRuntime-general-armeabi-v7a-release(1)(1).apk",

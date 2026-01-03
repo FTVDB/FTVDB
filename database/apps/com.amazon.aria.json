@@ -1,7 +1,5 @@
 [
     {
-        "categories": [
-        ],
         "md5": "cc8aaf883678f2f486f94461bc028d9a",
         "uploaded": "2020-03-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/444a5db261124bac698f9aa35e297881/signed_AriaRuntime-1.3.119.0-release.apk",
@@ -9,8 +7,6 @@
         "versionName": "AriaRuntime-1.3.119.0"
     },
     {
-        "categories": [
-        ],
         "md5": "e481bd9f0f8a2a30dda9e45881236c9c",
         "uploaded": "2020-08-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/cf74facda09d239d7eabb25cb96e8b1e/signed_AriaRuntime-1.4.44.0-release.apk",
@@ -18,8 +14,6 @@
         "versionName": "AriaRuntime-1.4.44.0"
     },
     {
-        "categories": [
-        ],
         "md5": "6315c5e2c69137f3c1f558118eff9bc8",
         "uploaded": "2020-09-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/ad9240ecc8df12dcc38aaa280672b4f1/signed_AriaRuntime-1.4.103.0-release.apk",
@@ -27,8 +21,6 @@
         "versionName": "AriaRuntime-1.4.103.0"
     },
     {
-        "categories": [
-        ],
         "md5": "b38a98fbfebc7f8d8d2059bd1e956e04",
         "uploaded": "2020-10-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/be887e7fcd99ef99d2728b78b2c76c32/signed_AriaRuntime-1.5.22.0-release.apk",
@@ -36,8 +28,6 @@
         "versionName": "AriaRuntime-1.5.22.0"
     },
     {
-        "categories": [
-        ],
         "md5": "6ec3c7510b554b6aa946d2d217124e04",
         "uploaded": "2020-11-25",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2fe68729245ad6eba76c17f741e13a51/signed_AriaRuntime-1.5.39.0-release.apk",
@@ -45,8 +35,6 @@
         "versionName": "AriaRuntime-1.5.39.0"
     },
     {
-        "categories": [
-        ],
         "md5": "6edf7cba4b39d89392a3f59701d4496d",
         "uploaded": "2021-03-25",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/9b0abf9214583b0f0c8fa5e31ea47fcb/signed_AriaRuntime-1.6.66.0-release.apk",
@@ -54,8 +42,6 @@
         "versionName": "AriaRuntime-1.6.66.0"
     },
     {
-        "categories": [
-        ],
         "md5": "7922c615662aa89aa48e1975ffe4292b",
         "uploaded": "2021-06-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/aa1c4db06c77cb896892eb9edaa85faa/signed_AriaRuntime-1.6.1265.0-release.apk",
@@ -63,8 +49,6 @@
         "versionName": "AriaRuntime-1.6.1265.0"
     },
     {
-        "categories": [
-        ],
         "md5": "a20aa1e8812fa30c0e8cceba48a2370f",
         "uploaded": "2021-07-08",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e911ade7cca78b6e156faf70bd2530f4/signed_AriaRuntime-1.7.73.0-release.apk",
@@ -72,8 +56,6 @@
         "versionName": "AriaRuntime-1.7.73.0"
     },
     {
-        "categories": [
-        ],
         "md5": "31f7674513f1de8ca4149ab77e875e2d",
         "uploaded": "2021-09-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/9cc0e1763841ad9e515561e22552ea47/signed_AriaRuntime-1.8.102.0-universal-release.apk",
@@ -81,8 +63,6 @@
         "versionName": "AriaRuntime-1.8.102.0"
     },
     {
-        "categories": [
-        ],
         "md5": "888356b64f0043248c2e9a007df8af27",
         "uploaded": "2021-11-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/34d95559400bcead933b0cb70de2a36e/signed_AriaRuntime-1.9.570.0-standard-universal-release.apk",
@@ -90,8 +70,6 @@
         "versionName": "AriaRuntime-1.9.570.0"
     },
     {
-        "categories": [
-        ],
         "md5": "d58126cdf9cb30050e861e9b0e99ae0c",
         "uploaded": "2022-02-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/052fc79e3a01c29ef03db09c84abe74f/signed_AriaRuntime-1.9.771.0-standard-universal-release.apk",
@@ -99,8 +77,6 @@
         "versionName": "AriaRuntime-1.9.771.0"
     },
     {
-        "categories": [
-        ],
         "md5": "09266735e13bbd997cc7b2c20eeff98a",
         "uploaded": "2022-04-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c5e9a97ead16e216fed59fa456106921/signed_AriaRuntime-1.10.334.0-standard-universal-release.apk",
@@ -108,8 +84,6 @@
         "versionName": "AriaRuntime-1.10.334.0"
     },
     {
-        "categories": [
-        ],
         "md5": "76aec33b8ab68ef1f7e9595cb8a91a4a",
         "uploaded": "2022-08-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/ccd1919c326418a1b70f404a3741b37c/signed_AriaRuntime-1.10.841.0-standard-universal-release.apk",
@@ -117,8 +91,6 @@
         "versionName": "AriaRuntime-1.10.841.0"
     },
     {
-        "categories": [
-        ],
         "md5": "8617d604883458fdab44b6d52bbcfd8f",
         "uploaded": "2023-01-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/495e5175e00625ba5e72e3db9478cd5c/signed_AriaRuntime-2023.1.165.0-standard-armeabi-v7a-release.apk",
@@ -126,8 +98,6 @@
         "versionName": "AriaRuntime-2023.1.165.0"
     },
     {
-        "categories": [
-        ],
         "md5": "5119e6c779e0b4c1f002cba31247f29b",
         "uploaded": "2023-06-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/f4317dc2e5d9a17bb07ee363fbdff1e8/signed_AriaRuntime-2023.2.612.0-standard-armeabi-v7a-release.apk",
@@ -135,8 +105,6 @@
         "versionName": "AriaRuntime-2023.2.612.0"
     },
     {
-        "categories": [
-        ],
         "md5": "7d4bd4291e5cde5cca58e05c216b7472",
         "uploaded": "2024-06-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/6/6/28a6c58c-246b-403e-970e-f865ff869ecb/1717667949593-signed_AriaRuntime-2024.2.404.0-standard-armeabi-v7a-release.apk",
@@ -144,8 +112,6 @@
         "versionName": "AriaRuntime-2024.2.404.0"
     },
     {
-        "categories": [
-        ],
         "md5": "c83cd408860d7388330305f7c7fd09f5",
         "uploaded": "2025-09-04",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/9/4/0507f286-692f-4dfe-82bc-e30a9efc69ab/1756981227907-signed_AriaRuntime-2025.1.690.0-standard-armeabi-v7a-release.apk",
@@ -153,8 +119,6 @@
         "versionName": "AriaRuntime-2025.1.690.0"
     },
     {
-        "categories": [
-        ],
         "md5": "5b6600f64edb6b83b57fae398935845d",
         "uploaded": "2025-10-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/10/3/ba470a48-f4da-402f-9cde-23831c1cd7b5/1759469443268-signed_AriaRuntime-2025.1.853.0-standard-armeabi-v7a-release.apk",

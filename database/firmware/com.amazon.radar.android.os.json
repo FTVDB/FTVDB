@@ -12,5 +12,19 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c94cf112b3d9e1a422b57df88eb07e8b/update-kindle-radar_puffin-NS6555_user_4305M_0008087720314.bin",
         "versionCode": "8087720314",
         "versionName": "Fire OS 6.5.5.5 (NS6555/4305)"
+    },
+    {
+        "md5": "46ffbc005f577c24a3893e995f366e95",
+        "uploaded": "2025-04-13",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/4/13/a36b9ebb-4b98-4788-ac82-e7a0f2432d14/update-kindle-radar_puffin-NS6466_user_6302_0011712110212.bin",
+        "versionCode": "11712110212",
+        "versionName": "Fire OS 6.4.6.6 (NS6466/6302)"
+    },
+    {
+        "md5": "1d8806400251d604d0c83388f37bc4ec",
+        "uploaded": "2025-05-15",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/15/0f8045ed-9120-4f00-9a3b-39fcd5dd7c14/update-kindle-radar_puffin-NS6566_user_6813_0011779349892.bin",
+        "versionCode": "11779349892",
+        "versionName": "Fire OS 6.5.6.6 (NS6566/6813)"
     }
 ]

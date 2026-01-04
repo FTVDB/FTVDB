@@ -111,6 +111,13 @@
             "Fire TV Stick - 1st Gen (2014)"
         ]
     },
+    "com.amazon.radar.android.os": {
+        "category": "echo",
+        "model": "AEORD",
+        "title": [
+            "Echo - 2nd Gen (2017)"
+        ]
+    },
     "com.amazon.rook.android.os": {
         "category": "echo",
         "model": "AEORK",

@@ -155,6 +155,13 @@
             "Fire TV Stick - Basic Edition (2017)"
         ]
     },
+    "com.amazon.theia.android.os": {
+        "category": "echo",
+        "model": "AEOTA",
+        "title": [
+            "Echo Show 10 - 3rd Gen (2021)"
+        ]
+    },
     "com.ftvdb.kindle.dxg-2010.os": {
         "category": "kindle",
         "model": "DXG-2010",

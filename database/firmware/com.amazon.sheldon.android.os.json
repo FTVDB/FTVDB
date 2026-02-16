@@ -7,6 +7,13 @@
         "versionName": "Fire OS 7.2.4.9 (PS7249/2719)"
     },
     {
+        "md5": "6eee2af1b00bf56f52a03608bc572107",
+        "uploaded": "2021-09-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/5f9dd13a1c247e9b2d8f34d81c3c9f57/update-kindle-sheldon-PS7242_user_2896_0021710459012.bin",
+        "versionCode": "21710459012",
+        "versionName": "Fire OS 7.2.4.2 (PS7242/2896)"
+    },
+    {
         "md5": "3bec15e0d9f46e966c902fadb7053c9b",
         "uploaded": "2021-10-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/7e285812abde4d6c678f19e1671cebb6/update-kindle-sheldon-PS7242_user_2907_0021710461828.bin",
@@ -33,6 +40,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/35272638b7c142912d80fe82e7852266/update-kindle-sheldon-PS7285_user_2880_0023723720836.bin",
         "versionCode": "23723720836",
         "versionName": "Fire OS 7.2.8.5 (PS7285/2880)"
+    },
+    {
+        "md5": "5576feaaae7427c3453f9a3807481dbc",
+        "uploaded": "2022-10-14",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/341dde963eedd762d43dc2c614a42ae3/update-kindle-sheldon-PS7608_user_3614_0025468739204.bin",
+        "versionCode": "25468739204",
+        "versionName": "Fire OS 7.6.0.8 (PS7608/3614)"
     },
     {
         "md5": "3a3eae9b682b999871a4514175be613c",

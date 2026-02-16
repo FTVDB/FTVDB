@@ -129,7 +129,6 @@
         "category": "firetv",
         "model": "AFTSS",
         "title": [
-            "Fire TV Stick HD Alexa Voice Remote (2024)",
             "Fire TV Stick Lite - 1st Gen (2020)"
         ]
     },
@@ -151,8 +150,7 @@
         "category": "firetv",
         "model": "AFTT",
         "title": [
-            "Fire TV Stick - 2nd Gen (2016-2019)",
-            "Fire TV Stick - Basic Edition (2017)"
+            "Fire TV Stick - 2nd Gen (2016-2019)"
         ]
     },
     "com.amazon.theia.android.os": {

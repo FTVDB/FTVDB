@@ -315,10 +315,10 @@
         ]
     },
     "com.lab126.eink.paloma.os": {
-        "category": "",
-        "model": "0X0F-",
+        "category": "kindle",
+        "model": "SCRIBE4-2025",
         "title": [
-            "Unknown (0x10A4)"
+            "Kindle Scribe 3 (2025)"
         ]
     },
     "com.lab126.eink.pinot.os": {

@@ -314,6 +314,13 @@
             "Kindle PaperWhite 3 (2015)"
         ]
     },
+    "com.lab126.eink.paloma.os": {
+        "category": "",
+        "model": "0X0F-",
+        "title": [
+            "Unknown (0x10A4)"
+        ]
+    },
     "com.lab126.eink.pinot.os": {
         "category": "kindle",
         "model": "PW2-2013",

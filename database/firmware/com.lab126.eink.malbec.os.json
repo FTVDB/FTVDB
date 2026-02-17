@@ -208,5 +208,12 @@
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_11th_5.18.6.bin",
         "versionCode": "4586180041",
         "versionName": "5.18.6"
+    },
+    {
+        "md5": "21e8cd3626fdb2322a0244bfed1f5bbb",
+        "uploaded": "2026-02-16",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_11th_5.19.2.bin",
+        "versionCode": "4670760040",
+        "versionName": "5.19.2"
     }
 ]

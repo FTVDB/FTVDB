@@ -252,10 +252,10 @@
         ]
     },
     "com.lab126.eink.calvados.os": {
-        "category": "",
-        "model": "0X10-",
+        "category": "kindle",
+        "model": "SCRIBE-CS-2025",
         "title": [
-            "Unknown (0x10D7)"
+            "Kindle Scribe Colorsoft (2025)"
         ]
     },
     "com.lab126.eink.cava.os": {

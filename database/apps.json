@@ -60,5 +60,6 @@
     "com.amazon.tv.turnstile": "Turnstile",
     "com.amazon.venezia": "Amazon Appstore",
     "com.amazon.vizzini": "Alexa",
-    "com.amazon.webview.chromium": "Chromium"
+    "com.amazon.webview.chromium": "Chromium",
+    "com.google.android.youtube.tv": "YouTube"
 }

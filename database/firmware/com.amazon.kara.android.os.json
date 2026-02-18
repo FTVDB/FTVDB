@@ -82,5 +82,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/23/57edee07-19ca-470a-934f-96337e088494/update-kindle-kara-PS7708_user_5501_0034394701188.bin",
         "versionCode": "34394701188",
         "versionName": "Fire OS 7.7.0.8 (PS7708/5501)"
+    },
+    {
+        "md5": "035dd7b4d8661bc396e028ad70900439",
+        "uploaded": "2026-01-07",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/1/7/3e1b2541-3231-498c-95ba-ca60c79cae63/update-kindle-kara-PS7711_user_5272_0034763741316.bin",
+        "versionCode": "34763741316",
+        "versionName": "Fire OS 7.7.1.1 (PS7711/5272)"
     }
 ]

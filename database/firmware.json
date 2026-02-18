@@ -251,6 +251,13 @@
             "Kindle Basic (2014)"
         ]
     },
+    "com.lab126.eink.calvados.os": {
+        "category": "",
+        "model": "0X10-",
+        "title": [
+            "Unknown (0x10D7)"
+        ]
+    },
     "com.lab126.eink.cava.os": {
         "category": "kindle",
         "model": "BASIC4-2022",

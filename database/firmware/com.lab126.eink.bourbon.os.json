@@ -239,6 +239,13 @@
     },
     {
         "md5": "86d28e4238cbee335605d6ca470dacc1",
+        "uploaded": "2021-12-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/9753ac88c540d7769ec8957ceb3fa1f2/update-J120202-wario_bourbon-038-fwo_3791510038.bin",
+        "versionCode": "3791510038",
+        "versionName": "5.12.2.2"
+    },
+    {
+        "md5": "86d28e4238cbee335605d6ca470dacc1",
         "uploaded": "2022-01-05",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_5.12.2.2.bin",
         "versionCode": "3791510038",

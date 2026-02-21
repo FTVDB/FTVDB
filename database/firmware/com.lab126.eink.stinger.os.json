@@ -232,6 +232,13 @@
     },
     {
         "md5": "7f6cf203c6cd17b94928b88a8ecdf3fe",
+        "uploaded": "2025-04-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/4/10/c55a39cd-33ef-4fb4-9f97-6dee40191dab/update-J1802-zelda_stinger-025-fwo_4434550025.bin",
+        "versionCode": "4434550025",
+        "versionName": "5.18.2"
+    },
+    {
+        "md5": "7f6cf203c6cd17b94928b88a8ecdf3fe",
         "uploaded": "2025-04-24",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.18.2.bin",
         "versionCode": "4434550025",

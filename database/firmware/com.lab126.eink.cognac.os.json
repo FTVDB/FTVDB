@@ -232,6 +232,13 @@
     },
     {
         "md5": "fb970695017dac5b7004372e3d04c131",
+        "uploaded": "2023-08-01",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/41f2d49e2df1abc3ef2bad04f52322d6/update-J16020101-zelda_cognac-002-fwo_4097450002.bin",
+        "versionCode": "4097450002",
+        "versionName": "5.16.2.1.1"
+    },
+    {
+        "md5": "fb970695017dac5b7004372e3d04c131",
         "uploaded": "2023-08-04",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_5.16.2.1.1.bin",
         "versionCode": "4097450002",

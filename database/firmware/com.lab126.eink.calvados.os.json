@@ -1,5 +1,12 @@
 [
     {
+        "md5": "aad639cc1edd67e4c75185b6b86ac732",
+        "uploaded": "2025-12-02",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/2/50a60054-dce1-4125-b4ac-5c00445b3288/update-J1901-platcs8_calvados-110-fwo_4614850110.bin",
+        "versionCode": "4614850110",
+        "versionName": "5.19.1"
+    },
+    {
         "md5": "9c8402638466d6b068e2e98fbed57a51",
         "uploaded": "2026-02-17",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_colorsoft_1st_generation_5.19.2.bin",

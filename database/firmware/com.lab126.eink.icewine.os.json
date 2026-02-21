@@ -218,6 +218,13 @@
     },
     {
         "md5": "f588ea0c411810398aa2d7d46dd279e8",
+        "uploaded": "2021-04-08",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/183206c5c03f858c0a36d170336cf595/update-J1306-wario_icewine-038-fwo_3731990038.bin",
+        "versionCode": "3731990038",
+        "versionName": "5.13.6"
+    },
+    {
+        "md5": "f588ea0c411810398aa2d7d46dd279e8",
         "uploaded": "2021-05-11",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.13.6.bin",
         "versionCode": "3731990038",

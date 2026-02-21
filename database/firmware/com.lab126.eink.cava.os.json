@@ -155,6 +155,13 @@
     },
     {
         "md5": "82aeae200e6783e3673142207db53cdf",
+        "uploaded": "2025-10-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/10/29/f4221b7a-b442-44ca-b65a-15d2a97cf857/update-J1806-bellatrix_cava-041-fwo_4586170041.bin",
+        "versionCode": "4586170041",
+        "versionName": "5.18.6"
+    },
+    {
+        "md5": "82aeae200e6783e3673142207db53cdf",
         "uploaded": "2025-11-04",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.18.6.bin",
         "versionCode": "4586170041",

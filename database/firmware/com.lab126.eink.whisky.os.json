@@ -274,6 +274,13 @@
     },
     {
         "md5": "8f5a349b4c38d3cf3fcd4ba8ea468f21",
+        "uploaded": "2023-08-01",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/7132a05a263b9547ced5130abb477662/update-J16020101-duet_whisky-002-fwo_4097550002.bin",
+        "versionCode": "4097550002",
+        "versionName": "5.16.2.1.1"
+    },
+    {
+        "md5": "8f5a349b4c38d3cf3fcd4ba8ea468f21",
         "uploaded": "2023-08-04",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_oasis_5.16.2.1.1.bin",
         "versionCode": "4097550002",

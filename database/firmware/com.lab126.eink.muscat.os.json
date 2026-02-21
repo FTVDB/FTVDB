@@ -274,6 +274,13 @@
     },
     {
         "md5": "675bfde17bcd5bc55c97f99e680c60fd",
+        "uploaded": "2023-08-01",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/6b6e51ebde59a0dc9f142fc4e5448db1/update-J16020101-wario_muscat-002-fwo_4097470002.bin",
+        "versionCode": "4097470002",
+        "versionName": "5.16.2.1.1"
+    },
+    {
+        "md5": "675bfde17bcd5bc55c97f99e680c60fd",
         "uploaded": "2023-08-04",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.16.2.1.1.bin",
         "versionCode": "4097470002",

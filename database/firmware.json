@@ -160,6 +160,13 @@
             "Echo Show 10 - 3rd Gen (2021)"
         ]
     },
+    "com.amazon.tungsten.android.os": {
+        "category": "firetablet",
+        "model": "",
+        "title": [
+            "Fire HD 10 (2023)"
+        ]
+    },
     "com.ftvdb.kindle.dxg-2010.os": {
         "category": "kindle",
         "model": "DXG-2010",

@@ -211,6 +211,13 @@
     },
     {
         "md5": "21e8cd3626fdb2322a0244bfed1f5bbb",
+        "uploaded": "2026-02-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/12/3eb6236e-537f-4ba2-96db-1f125638b39a/update-J1902-bellatrix_malbec-040-fwo_4670760040.bin",
+        "versionCode": "4670760040",
+        "versionName": "5.19.2"
+    },
+    {
+        "md5": "21e8cd3626fdb2322a0244bfed1f5bbb",
         "uploaded": "2026-02-16",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_11th_5.19.2.bin",
         "versionCode": "4670760040",

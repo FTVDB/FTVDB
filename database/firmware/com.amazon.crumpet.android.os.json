@@ -1,5 +1,19 @@
 [
     {
+        "md5": "51fd9be15b07b0dbba8e432e7800ffbb",
+        "uploaded": "2021-09-09",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/9706cd977e5ea2ca8a021c3cadb620ce/update-kindle-crumpet-NS6548_user_3252_0005805749380.bin",
+        "versionCode": "5805749380",
+        "versionName": "Fire OS 6.5.4.8 (NS6548/3252)"
+    },
+    {
+        "md5": "0c31bceedf1bcacc6a215ab681645529",
+        "uploaded": "2022-11-11",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/0485845e3f9082ae176fbd54f0183bbe/update-kindle-crumpet-NS6555_user_4307_0008087720836.bin",
+        "versionCode": "8087720836",
+        "versionName": "Fire OS 6.5.5.5 (NS6555/4307)"
+    },
+    {
         "md5": "8099ab1591217439cf58aa74c61213ab",
         "uploaded": "2025-05-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/15/e3e28ff9-b9bf-4946-9793-900df1c389ac/update-kindle-crumpet-NS6566_user_6813_0011779349892.bin",

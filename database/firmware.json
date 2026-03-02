@@ -76,6 +76,13 @@
             "Echo Dot - 3rd Gen (2018)"
         ]
     },
+    "com.amazon.douglas.android.os": {
+        "category": "firetablet",
+        "model": "",
+        "title": [
+            "Fire HD 8 (2017)"
+        ]
+    },
     "com.amazon.kara.android.os": {
         "category": "firetv",
         "model": "AFTKA",

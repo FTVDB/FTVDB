@@ -70,6 +70,20 @@
         "versionName": "Fire OS 5.2.8.7 (674730620)"
     },
     {
+        "md5": "e2d59f1be450d45c78b44cd4ac608603",
+        "uploaded": "2022-04-07",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/bc7bad4c0b5d7300fc27f8b7f57104a5/update-kindle-full_tank-288.6.7.6_user_676742620.bin",
+        "versionCode": "676742620",
+        "versionName": "Fire OS 5.2.8.8 (676742620)"
+    },
+    {
+        "md5": "e40c57d6cf3706d91daa2d69f48b1dc7",
+        "uploaded": "2022-07-13",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/6b45be2a4aa689df55f69967eb67e2f2/update-kindle-full_tank-288.6.7.8_user_678752620.bin",
+        "versionCode": "678752620",
+        "versionName": "Fire OS 5.2.8.9 (678752620)"
+    },
+    {
         "md5": "a8cfb6957e2f107a95531609db0518a0",
         "uploaded": "2022-08-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/1cfc4e361772c166a0276f7e6fb471dd/update-kindle-full_tank-288.6.8.0_user_680761420.bin",

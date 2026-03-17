@@ -33,5 +33,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/1/18/1ebf6c88-e8b6-48b5-aa3e-8ce332b67a70/update-kindle-sheldonp-PS7711_user_5273_0034763741572.bin",
         "versionCode": "34763741572",
         "versionName": "Fire OS 7.7.1.1 (PS7711/5273)"
+    },
+    {
+        "md5": "d1f04a90b71ed4633da38f579ff3072e",
+        "uploaded": "2026-02-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/25/30e8dd78-9a29-47c7-a458-e43adfee3021/update-kindle-sheldonp-PS7712_user_5370_0035199974020.bin",
+        "versionCode": "35199974020",
+        "versionName": "Fire OS 7.7.1.2 (PS7712/5370)"
     }
 ]

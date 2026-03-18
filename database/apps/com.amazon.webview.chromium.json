@@ -194,5 +194,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/14/44c1fa1e-82f8-49da-9a54-395eec67c6d3/1771056943268-signed_AmazonWebView.SIGNMEawv_v118_amazon-webview-v118-5993-mmACOSawv118Nightly133.apk",
         "versionCode": "61429032",
         "versionName": "118.amazon-webview-v118-5993-mm.5993.155.133"
+    },
+    {
+        "md5": "f1f17819d72faff31c930c94e84779c2",
+        "uploaded": "2026-03-14",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/14/7dc09c42-f05b-44e0-9c1d-0fcea72cf352/1773477237384-signed_AmazonWebView-debug-32-signed.apk",
+        "versionCode": "61483432",
+        "versionName": "118.amazon-webview-v118-5993-mm.5993.155.164"
     }
 ]

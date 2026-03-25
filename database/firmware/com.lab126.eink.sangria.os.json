@@ -1,5 +1,12 @@
 [
     {
+        "md5": "f928af52d477a3297423425ade1c40ea",
+        "uploaded": "2024-11-12",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.17.1.0.2.bin",
+        "versionCode": "4334430001",
+        "versionName": "5.17.1.0.2"
+    },
+    {
         "md5": "3932bc3cf0b5f273162a71685159517c",
         "uploaded": "2025-03-25",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.18.1.bin",

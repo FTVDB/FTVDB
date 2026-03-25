@@ -71,6 +71,13 @@
     },
     {
         "md5": "0cb8fd484c3a91883ec84754095dc8eb",
+        "uploaded": "2026-02-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/12/297b78a9-e089-4dc8-94a9-1efe355c5da1/update-J1902-bellatrix3_pisco-040-fwo_4670810040.bin",
+        "versionCode": "4670810040",
+        "versionName": "5.19.2"
+    },
+    {
+        "md5": "0cb8fd484c3a91883ec84754095dc8eb",
         "uploaded": "2026-02-16",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_2024_5.19.2.bin",
         "versionCode": "4670810040",

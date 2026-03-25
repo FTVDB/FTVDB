@@ -112,6 +112,13 @@
         "versionName": "5.16.10.0.1"
     },
     {
+        "md5": "b25827ee98d4a64bacc2297434c895c5",
+        "uploaded": "2024-11-06",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.17.1.0.1.bin",
+        "versionCode": "4333700042",
+        "versionName": "5.17.1.0.1"
+    },
+    {
         "md5": "d23c5c9e7e3fa1a7b48481f88efe305d",
         "uploaded": "2024-12-04",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.17.2.bin",

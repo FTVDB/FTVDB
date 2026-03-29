@@ -7,6 +7,20 @@
         "versionName": "Fire OS 5.2.6.6 (617513220)"
     },
     {
+        "md5": "fc0803a740e759b05a5ac35a2b9d8070",
+        "uploaded": "2018-09-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/816c9f7111db9d4120402d5a01e87ac4/update-kindle-bueller-51.5.8.7_user_587700720.bin",
+        "versionCode": "587700720",
+        "versionName": "Fire OS 5.2.6.2 (587700720)"
+    },
+    {
+        "md5": "938c95f634897c4807b81285eea677be",
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/4e9e1bbabc1283c590f2bf338b25ae2d/update-kindle-bueller-51.5.7.3_user_573210720.bin",
+        "versionCode": "573210720",
+        "versionName": "Fire OS 5.2.4.1 (573210720)"
+    },
+    {
         "md5": "ec84b8b9f6ab1cfa4641ba27f4c6fe5c",
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/06d006341b5b02421df1545b6eebf981/update-kindle-bueller-51.5.3.7_user_537175520.bin",

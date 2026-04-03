@@ -117,5 +117,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e29cd908b43e700bea46f50a3ff45226/update-kindle-raven-PS7652_user_3564_0028488625284.bin",
         "versionCode": "28488625284",
         "versionName": "Fire OS 7.6.5.2 (PS7652/3564)"
+    },
+    {
+        "md5": "571a0f1efd694aac06925938a9887d9f",
+        "uploaded": "2023-09-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/58a36094fb8135e68da92f825ab62bd9/update-kindle-raven-PS7664_user_3772_0029159767172.bin",
+        "versionCode": "29159767172",
+        "versionName": "Fire OS 7.6.6.4 (PS7664/3772)"
     }
 ]

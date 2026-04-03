@@ -243,5 +243,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/23/7bbc12a2-bbe1-44f8-b3b7-612fd85fc631/update-kindle-raven-PS7708_user_5501_0034394701188.bin",
         "versionCode": "34394701188",
         "versionName": "Fire OS 7.7.0.8 (PS7708/5501)"
+    },
+    {
+        "md5": "88111ca4f45a3be57af0899bdcbe0899",
+        "uploaded": "2026-01-08",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/1/8/e503f201-dda6-4815-b64f-047af75436a7/update-kindle-raven-PS7711_user_5272_0034763741316.bin",
+        "versionCode": "34763741316",
+        "versionName": "Fire OS 7.7.1.1 (PS7711/5272)"
     }
 ]

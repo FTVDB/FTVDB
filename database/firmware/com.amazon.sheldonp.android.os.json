@@ -7,11 +7,25 @@
         "versionName": "Fire OS 7.2.3.4 (PS7234/2042)"
     },
     {
+        "md5": "aed0b8eb5649c3196ac16c5854fd0092",
+        "uploaded": "2021-06-28",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/0d11e1cb5c03ec816ec3426caafaf668/update-kindle-sheldonp-PS7249_user_2719_0021039325060.bin",
+        "versionCode": "21039325060",
+        "versionName": "Fire OS 7.2.4.9 (PS7249/2719)"
+    },
+    {
         "md5": "d25f47dc3d8a4edaa78454fc349ab26a",
         "uploaded": "2021-10-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/32ebaddc937b967c5801af3c7f30007a/update-kindle-sheldonp-PS7242_user_2907_0021710461828.bin",
         "versionCode": "21710461828",
         "versionName": "Fire OS 7.2.4.2 (PS7242/2907)"
+    },
+    {
+        "md5": "a6e13dda66af06d457f639ead3f2678d",
+        "uploaded": "2022-03-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/e9fee56484c0ac6be2d2d7978b081836/update-kindle-sheldonp-PS7273_user_2625_0022851240324.bin",
+        "versionCode": "22851240324",
+        "versionName": "Fire OS 7.2.7.3 (PS7273/2625)"
     },
     {
         "md5": "e74f6eec35dce0b4ed88450ac78fb582",

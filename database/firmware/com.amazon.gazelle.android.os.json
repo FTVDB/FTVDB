@@ -96,5 +96,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/1/11/c97fc75c-11a9-4c50-92c4-0c7d62e96bc0/update-kindle-gazelle-PS7688_user_4591_0032112766852.bin",
         "versionCode": "32112766852",
         "versionName": "Fire OS 7.6.8.8 (PS7688/4591)"
+    },
+    {
+        "md5": "036d97e774c241b18ebc0a0ec5e6772c",
+        "uploaded": "2025-03-05",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/3/5/47089ed5-a3f4-4a35-9cc4-426de4fb03c4/update-kindle-gazelle-PS7690_user_4714_0032381233796.bin",
+        "versionCode": "32381233796",
+        "versionName": "Fire OS 7.6.9.0 (PS7690/4714)"
     }
 ]

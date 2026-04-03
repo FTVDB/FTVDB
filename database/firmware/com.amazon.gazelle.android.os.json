@@ -117,5 +117,19 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/4/14/14b30707-1b4f-4271-8c04-32c7a3316f1b/update-kindle-gazelle-PS7696_user_5226_0032649800324.bin",
         "versionCode": "32649800324",
         "versionName": "Fire OS 7.6.9.6 (PS7696/5226)"
+    },
+    {
+        "md5": "9f620972f10821df56d0e6e76cdaefbb",
+        "uploaded": "2025-05-09",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/9/b2c10cae-f3b1-4545-a1b3-21ae54172342/update-kindle-gazelle-PS7696_user_5229_0032649801092.bin",
+        "versionCode": "32649801092",
+        "versionName": "Fire OS 7.6.9.6 (PS7696/5229)"
+    },
+    {
+        "md5": "cae4c03fb8727b4dbf3a2c883787511e",
+        "uploaded": "2025-05-30",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/30/655f2aea-3039-4862-b478-c8d3a8af444e/update-kindle-gazelle-PS7699_user_4894_0033052368516.bin",
+        "versionCode": "33052368516",
+        "versionName": "Fire OS 7.6.9.9 (PS7699/4894)"
     }
 ]

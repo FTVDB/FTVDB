@@ -173,5 +173,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/30/a9e173f6-b9f0-4cfe-8730-52b637fe5b4a/update-kindle-raven-PS7685_user_4486_0031642977924.bin",
         "versionCode": "31642977924",
         "versionName": "Fire OS 7.6.8.5 (PS7685/4486)"
+    },
+    {
+        "md5": "0598ebd23fab1a14bb6c4a03187c1901",
+        "uploaded": "2025-01-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/1/10/bcc87113-2c5c-48f5-b09d-8bd193915752/update-kindle-raven-PS7688_user_4591_0032112766852.bin",
+        "versionCode": "32112766852",
+        "versionName": "Fire OS 7.6.8.8 (PS7688/4591)"
     }
 ]

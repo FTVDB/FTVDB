@@ -201,5 +201,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/4/16/a60d4be5-3de5-4f19-bc40-da08f2943c0d/update-kindle-raven-PS7697_user_4800_0032783908996.bin",
         "versionCode": "32783908996",
         "versionName": "Fire OS 7.6.9.7 (PS7697/4800)"
+    },
+    {
+        "md5": "345a8132feb4657ba15f62c2ea0432e2",
+        "uploaded": "2025-05-30",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/30/6f0e3740-77ff-46e7-8104-aac4dac9dc05/update-kindle-raven-PS7699_user_4894_0033052368516.bin",
+        "versionCode": "33052368516",
+        "versionName": "Fire OS 7.6.9.9 (PS7699/4894)"
     }
 ]

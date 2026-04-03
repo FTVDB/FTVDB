@@ -229,5 +229,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/8/18/3b119f74-fb49-4c99-a712-f0c2b9a66160/update-kindle-raven-PS7704_user_5024_0033723490436.bin",
         "versionCode": "33723490436",
         "versionName": "Fire OS 7.7.0.4 (PS7704/5024)"
+    },
+    {
+        "md5": "37c4a48618a9891d5232219152e3a508",
+        "uploaded": "2025-09-30",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/9/30/cb9d21a7-02bc-47bb-9916-87b7f7314526/update-kindle-raven-PS7706_user_5106_0033924838020.bin",
+        "versionCode": "33924838020",
+        "versionName": "Fire OS 7.7.0.6 (PS7706/5106)"
     }
 ]

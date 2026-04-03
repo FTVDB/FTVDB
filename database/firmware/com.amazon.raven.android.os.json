@@ -12,5 +12,19 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/547475808a4599501d4f6e2af25eaa70/update-kindle-raven-PS7229_user_1853_0019562708356.bin",
         "versionCode": "19562708356",
         "versionName": "Fire OS 7.2.2.9 (PS7229/1853)"
+    },
+    {
+        "md5": "4fff4d20b8eb4a71c3e0eed2f38dad7a",
+        "uploaded": "2022-03-15",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/687c198b93c1b5bbc372630839d37ca6/update-kindle-raven-PS7242_user_3516_0021710617732.bin",
+        "versionCode": "21710617732",
+        "versionName": "Fire OS 7.2.4.2 (PS7242/3516)"
+    },
+    {
+        "md5": "21aaa390ceda55ad1d6f035f055d1e7d",
+        "uploaded": "2022-03-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/a7ab0960dbce73b3dadef971a6a6e841/update-kindle-raven-PS7273_user_2625_0022851240324.bin",
+        "versionCode": "22851240324",
+        "versionName": "Fire OS 7.2.7.3 (PS7273/2625)"
     }
 ]

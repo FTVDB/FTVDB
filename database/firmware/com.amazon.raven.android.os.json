@@ -68,5 +68,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/96b36f83efb9d71e0107382ffd92121d/update-kindle-raven-PS7603_user_3110_0025065956996.bin",
         "versionCode": "25065956996",
         "versionName": "Fire OS 7.6.0.3 (PS7603/3110)"
+    },
+    {
+        "md5": "6ffa919f98f10fb7879a08de0e6ee611",
+        "uploaded": "2022-10-14",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/d0fe5bc9268a3fb673783e285d7fb3ac/update-kindle-raven-PS7608_user_3614_0025468739204.bin",
+        "versionCode": "25468739204",
+        "versionName": "Fire OS 7.6.0.8 (PS7608/3614)"
     }
 ]

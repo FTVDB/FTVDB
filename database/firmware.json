@@ -83,6 +83,13 @@
             "Fire HD 8 (2017)"
         ]
     },
+    "com.amazon.gazelle.android.os": {
+        "category": "firetv",
+        "model": "AFTGAZL",
+        "title": [
+            "Fire TV Cube - 3rd Gen (2022)"
+        ]
+    },
     "com.amazon.kara.android.os": {
         "category": "firetv",
         "model": "AFTKA",

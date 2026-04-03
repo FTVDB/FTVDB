@@ -103,5 +103,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2851b232dd9fba73fda61578c5be43e7/update-kindle-raven-PS7646_user_3550_0028085968516.bin",
         "versionCode": "28085968516",
         "versionName": "Fire OS 7.6.4.6 (PS7646/3550)"
+    },
+    {
+        "md5": "dd1939e38fd5fb620db1ce3c81e7a379",
+        "uploaded": "2023-08-26",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/7df46db52524a0a0d9ed6c4eb8f2eed0/update-kindle-raven-PS7646_user_3565_0028085972356.bin",
+        "versionCode": "28085972356",
+        "versionName": "Fire OS 7.6.4.6 (PS7646/3565)"
     }
 ]

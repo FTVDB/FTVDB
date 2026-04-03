@@ -125,6 +125,13 @@
             "Echo - 2nd Gen (2017)"
         ]
     },
+    "com.amazon.raven.android.os": {
+        "category": "firetv",
+        "model": "AFTR",
+        "title": [
+            "Fire TV Cube - 2nd Gen (2019)"
+        ]
+    },
     "com.amazon.rook.android.os": {
         "category": "echo",
         "model": "AEORK",

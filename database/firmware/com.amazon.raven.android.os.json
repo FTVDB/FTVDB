@@ -33,5 +33,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/5adc0bb8184ed3cafaa81e5689b0b9c9/update-kindle-raven-PS7279_user_2766_0023253929604.bin",
         "versionCode": "23253929604",
         "versionName": "Fire OS 7.2.7.9 (PS7279/2766)"
+    },
+    {
+        "md5": "9d8b64c9e1634292651b292c0ad2a0a6",
+        "uploaded": "2022-05-26",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/368f59cde83bc75cdd89a0b025693bc1/update-kindle-raven-PS7285_user_2877_0023723720068.bin",
+        "versionCode": "23723720068",
+        "versionName": "Fire OS 7.2.8.5 (PS7285/2877)"
     }
 ]

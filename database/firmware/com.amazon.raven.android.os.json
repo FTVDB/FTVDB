@@ -215,5 +215,19 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/6/21/a5d456ba-2a01-4a10-9d51-8dee575a10f6/update-kindle-raven-PS7699_user_4896_0033052369028.bin",
         "versionCode": "33052369028",
         "versionName": "Fire OS 7.6.9.9 (PS7699/4896)"
+    },
+    {
+        "md5": "30ab848f5c8e5a49b4b80800d1eb456f",
+        "uploaded": "2025-07-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/7/17/a9851908-281e-433f-b8f4-d94e035b8a00/update-kindle-raven-PS7702_user_4965_0033455039876.bin",
+        "versionCode": "33455039876",
+        "versionName": "Fire OS 7.7.0.2 (PS7702/4965)"
+    },
+    {
+        "md5": "b1919004e99dc3806a32c7ded92cba87",
+        "uploaded": "2025-08-18",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/8/18/3b119f74-fb49-4c99-a712-f0c2b9a66160/update-kindle-raven-PS7704_user_5024_0033723490436.bin",
+        "versionCode": "33723490436",
+        "versionName": "Fire OS 7.7.0.4 (PS7704/5024)"
     }
 ]

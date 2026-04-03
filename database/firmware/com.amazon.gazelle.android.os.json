@@ -19,5 +19,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/26ea8e7e046767da72b0e27901ae75c1/update-kindle-gazelle-PS7646_user_3565_0028085972356.bin",
         "versionCode": "28085972356",
         "versionName": "Fire OS 7.6.4.6 (PS7646/3565)"
+    },
+    {
+        "md5": "41548a9005c34f54d884fefcf3b3352a",
+        "uploaded": "2023-08-27",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/654ae6d5f6d9c317f56ff110ac8beb56/update-kindle-gazelle-PS7652_user_3564_0028488625284.bin",
+        "versionCode": "28488625284",
+        "versionName": "Fire OS 7.6.5.2 (PS7652/3564)"
     }
 ]

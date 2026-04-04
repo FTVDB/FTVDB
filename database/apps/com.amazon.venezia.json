@@ -154,11 +154,25 @@
         "versionName": "release-8.5020.5.v.x.221977.0_423245510"
     },
     {
+        "md5": "f4b354ea0dac88f2d15266d5006e2c8b",
+        "uploaded": "2023-07-05",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/1919521207ad1d025d763f8d7dbb0ee3/MiniTVsigned.apk",
+        "versionCode": "423471710",
+        "versionName": "release-8.5023.5.v.x.222809.0_423471710"
+    },
+    {
         "md5": "03a49bb06153f1b2505130770a067488",
         "uploaded": "2023-08-01",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b602ce4a2a0e7946e2712541f248a765/com.amazon.venezia.apk",
         "versionCode": "423673510",
         "versionName": "release-8.5024.5.v.x.223487.0_423673510"
+    },
+    {
+        "md5": "dc859054f6a986ac2a02b8fe22e952c3",
+        "uploaded": "2023-08-28",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/e3ddecb5847e4899d425543dd89a0b8c/MASClientNapkinAPK-ftv-release-signed-A8.1.1-5.v.x.224085.0.apk",
+        "versionCode": "423866810",
+        "versionName": "release-8.5024.5.v.x.224085.0_423866810"
     },
     {
         "md5": "535114f00e60e25c505f8aaf467ab9fa",

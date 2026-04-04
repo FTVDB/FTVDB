@@ -84,6 +84,13 @@
         "versionName": "3.0.204061.0_2042910"
     },
     {
+        "md5": "9c5deea05f9f6cb386148cced936c64b",
+        "uploaded": "2023-06-26",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/41fbff7d70c44159294dd90f92852b15/MShopAndroidTV3PClient-release-signed-release0622.apk",
+        "versionCode": "2045110",
+        "versionName": "3.0.204098.0_2045110"
+    },
+    {
         "md5": "6aae6248ebb0dec7daf130b4b8dcfab2",
         "uploaded": "2023-10-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/0413f56740da8dfe4eeaae02f29b73fb/MShopAndroidTV3PClient-release-signed-release1017.apk",
@@ -96,6 +103,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/5e79b88ee57c35352347dfd2aa9add72/MShopAndroidTV3PClient-release-231213release-signed.apk",
         "versionCode": "2050610",
         "versionName": "3.0.204179.0_2050610"
+    },
+    {
+        "md5": "5403806e5beabd732ad151706a86bf5d",
+        "uploaded": "2024-05-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/5/24/02c77670-c798-48a9-803d-540061879ac2/1716576375666-MShopAndroidTV3PClient-release-20240522release-signed.apk",
+        "versionCode": "2051910",
+        "versionName": "3.0.204199.0_2051910"
     },
     {
         "md5": "a579afb69510b1c0e3597cdb76eefbb5",

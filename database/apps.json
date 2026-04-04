@@ -1,6 +1,7 @@
 {
     "com.amazon.aca": "ACA",
     "com.amazon.aiondec": "AionDec",
+    "com.amazon.alexa.datastore.app": "Amazon Data Store",
     "com.amazon.alexa.externalmediaplayer.fireos": "Alexa Media Controller",
     "com.amazon.alexamediaplayer.runtime.ftv": "Alexa Media Player",
     "com.amazon.alexashopping": "Alexa Shopping",

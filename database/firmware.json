@@ -6,6 +6,13 @@
             "Echo Show 8 - 2nd Gen (2021)"
         ]
     },
+    "com.amazon.austin.android.os": {
+        "category": "firetablet",
+        "model": "",
+        "title": [
+            "Fire 7 (2017)"
+        ]
+    },
     "com.amazon.biscuit.android.os": {
         "category": "echo",
         "model": "AEOBC",

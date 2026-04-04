@@ -1,10 +1,24 @@
 [
     {
+        "md5": "d72d3dfe00f2179dc2dbdc71e9ffc80c",
+        "uploaded": "2017-12-04",
+        "url": "https://fireos-tablet-src.s3.amazonaws.com/nachheflb20tca1zcilvlco11ae49hnab/update-kindle-40.5.9.5_user_595457320.bin",
+        "versionCode": "595457320",
+        "versionName": "Fire OS 5.3.6.0 (595457320)"
+    },
+    {
         "md5": "5d0c7fdd49ad72fb458a1a71afc7c8a8",
         "uploaded": "2018-07-07",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/1rwRZU26r5k9gfGzXsGP5Seup3/update-kindle-40.6.1.2_user_612495820.bin",
         "versionCode": "612495820",
         "versionName": "Fire OS 5.3.6.3 (612495820)"
+    },
+    {
+        "md5": "edccb5de6fd971cb187cc6b0ea5fbd8c",
+        "uploaded": "2018-07-26",
+        "url": "https://fireos-tablet-src.s3.amazonaws.com/HYVEuFHo7fyolxBkqoyRFW6thr/update-kindle-40.6.1.2_user_612496320.bin",
+        "versionCode": "612496320",
+        "versionName": "Fire OS 5.3.6.3 (612496320)"
     },
     {
         "md5": "fc4622c61c8a97d6871d14db6dc798b6",

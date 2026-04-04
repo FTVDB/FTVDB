@@ -98,6 +98,13 @@
         "versionName": "release-8.5010.5.v.x.217901.0_422303610"
     },
     {
+        "md5": "3a42d5ff9eca4eb3938abd4f9a36658d",
+        "uploaded": "2022-10-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/74d41af2620121deaec49610e89940ff/com.amazon.venezia.apk",
+        "versionCode": "422472210",
+        "versionName": "release-8.5011.5.v.x.218736.0_422472210"
+    },
+    {
         "md5": "e7df55a801fb23ae14f5db7e02e83db4",
         "uploaded": "2022-11-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/f92bdf1adaa676787fcd823da6fcf579/Nairobi_nontank.apk",
@@ -180,6 +187,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/3/21/2f207a8b-d274-4d30-add5-19b3e5b092af/com.amazon.venezia.apk",
         "versionCode": "424778510",
         "versionName": "release-8.5029.5.v.x.226296.0_424778510"
+    },
+    {
+        "md5": "cbb0a35276bbe38488f7d457ac2d861f",
+        "uploaded": "2024-09-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/9/25/61d90a5f-c67c-4d47-a6b3-dc590530fa60/com.amazon.venezia.apk",
+        "versionCode": "425816810",
+        "versionName": "release-8.5037.5.v.x.229699.0_425816810"
     },
     {
         "md5": "2e76c907c1f71cce36ff7d1b59e2dd74",

@@ -39,6 +39,7 @@
     "com.amazon.storage.manager": "Amazon Storage Manager",
     "com.amazon.storm.lightning.services": "Lightning Server",
     "com.amazon.tahoe": "FreeTime!",
+    "com.amazon.tigris": "Tigris",
     "com.amazon.tv.alexaalerts": "Fire TV Alexa Alerts",
     "com.amazon.tv.arc": "ClientRenderer",
     "com.amazon.tv.csapp": "CS App Fire TV",

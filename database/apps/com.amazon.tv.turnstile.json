@@ -54,5 +54,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/79b050e74dfe7cb252870417fd5b442b/signed_BisonTurnstileServer-release-2.6.0.apk",
         "versionCode": "113300110",
         "versionName": "1133001.1"
+    },
+    {
+        "md5": "186b77be06b27c7fc7b4aff77eea9b3a",
+        "uploaded": "2024-05-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/5/16/129370de-c19d-4e3f-a073-53071f3496bd/1715842974621-BisonTurnstileServer-release-signed.apk",
+        "versionCode": "124000410",
+        "versionName": "1240004.1"
     }
 ]

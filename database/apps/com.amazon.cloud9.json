@@ -28,6 +28,20 @@
         "versionName": "100.2.23.4896.162.30"
     },
     {
+        "md5": "f06852725990d5a5f486cafc53147a5b",
+        "uploaded": "2022-12-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/4b0c7dbd5ce6a4c48a0e9417c094daa4/signed_slate_fire_tv_v106_5_14_arm.apk",
+        "versionCode": "1065501410",
+        "versionName": "106.5.14.5249.208.30"
+    },
+    {
+        "md5": "8a2cbc6973ff4b598d5fe352a71c5fea",
+        "uploaded": "2023-01-11",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/5121081fb323a7bd7a6e45a3e034f3e8/signed_slate_fire_tv_v108_1_135_arm.apk",
+        "versionCode": "1081513510",
+        "versionName": "108.1.135.5359.160.30"
+    },
+    {
         "md5": "b85af4754419d94cdf1cfe861c179d42",
         "uploaded": "2023-10-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d63b37440b774bc967491e947f845556/signed_slate_fire_tv_v116_6_1_arm.apk",

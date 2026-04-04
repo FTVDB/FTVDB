@@ -595,11 +595,25 @@
         "versionName": "PVFTV-69.0048-L"
     },
     {
+        "md5": "ef74bf0cf31f07dff46785a9e0c201ac",
+        "uploaded": "2023-11-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2023/11/10/6495012e-1ff6-4663-8e8e-112deb9f4147/1699581840759-Firebat-livingRoom-release-signed_70011610.apk",
+        "versionCode": "70011610",
+        "versionName": "PVFTV-70.0116-L"
+    },
+    {
         "md5": "53f9d888c93e10775ed46ca9f895388e",
         "uploaded": "2023-11-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2023/11/14/48e30901-d39d-4d66-a2b7-f2ba2af59f40/1699999908800-Firebat-livingRoom-release-signed_70011810.apk",
         "versionCode": "70011810",
         "versionName": "PVFTV-70.0118-L"
+    },
+    {
+        "md5": "48ce7e87b475d786c71d66b9cc4d1686",
+        "uploaded": "2023-11-30",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/82fa7ec39243cbf6d7e419539e090f2f/Firebat-livingRoom-release-signed_71013210.apk",
+        "versionCode": "71013210",
+        "versionName": "PVFTV-71.0132-L"
     },
     {
         "md5": "098784bd5e895993dba806593ee2b96b",

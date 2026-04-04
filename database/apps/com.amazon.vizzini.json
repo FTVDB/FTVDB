@@ -224,11 +224,25 @@
         "versionName": "3.0.6824.0-com.amazon.vizzini.648.1.0_648804210"
     },
     {
+        "md5": "9de45b233a92e77e1fbce8c57ae2381c",
+        "uploaded": "2023-07-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/131420d8ef3036867d060919e586bc7c/com.amazon.vizzini_648_1_3.apk",
+        "versionCode": "648807410",
+        "versionName": "3.0.7585.0-com.amazon.vizzini.648.1.3_648807410"
+    },
+    {
         "md5": "901dbb77fc659e0c4f0000acc03365f0",
         "uploaded": "2023-09-04",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/57911ee61e226a880a2c350fe878356b/signed_com.amazon.vizzini10.apk",
         "versionCode": "650099810",
         "versionName": "3.0.8068.0-com.amazon.vizzini.650.0.1_650099810"
+    },
+    {
+        "md5": "9768d79a6892f4ba5042adff5e7b4679",
+        "uploaded": "2023-10-04",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/e87e2649a724460bc2ee2620f9f58fd5/signed_com.amazon.vizzini_1.apk",
+        "versionCode": "650810110",
+        "versionName": "3.0.8464.0-com.amazon.vizzini.649.0.1_650810110"
     },
     {
         "md5": "5720983b707e2ab60c90b68275ee91eb",

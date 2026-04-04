@@ -5,5 +5,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/f16b8a74aa56f89952457b0e90651f14/MSTLightningServer-release-signed_1_1.apk",
         "versionCode": "102023610",
         "versionName": "1.0.384.0_102023610"
+    },
+    {
+        "md5": "4a5eb324f84c5689d7f28485b7926fec",
+        "uploaded": "2023-04-06",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/b5b3f4ef21c2de5765157d08ee4df382/MSTLightningServer-release-signed_3.apk",
+        "versionCode": "102023710",
+        "versionName": "1.0.385.0_102023710"
     }
 ]

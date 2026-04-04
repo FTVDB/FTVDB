@@ -83,6 +83,13 @@
             "Fire HD 8 (2017)"
         ]
     },
+    "com.amazon.ford.android.os": {
+        "category": "firetablet",
+        "model": "",
+        "title": [
+            "Fire 7 (2015)"
+        ]
+    },
     "com.amazon.gazelle.android.os": {
         "category": "firetv",
         "model": "AFTGAZL",

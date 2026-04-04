@@ -238,6 +238,13 @@
         "versionName": "3.0.8068.0-com.amazon.vizzini.650.0.1_650099810"
     },
     {
+        "md5": "8fe045baaeea1846809f8f7cdbab7f9c",
+        "uploaded": "2023-09-22",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/cae72245b4157c062291dbcc7fe3059c/signed_rollback-3.0.8365.0-com.amazon.vizzini.648.1.3_650800310.apk",
+        "versionCode": "650800310",
+        "versionName": "3.0.8365.0-com.amazon.vizzini.648.1.3_650800310"
+    },
+    {
         "md5": "9768d79a6892f4ba5042adff5e7b4679",
         "uploaded": "2023-10-04",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e87e2649a724460bc2ee2620f9f58fd5/signed_com.amazon.vizzini_1.apk",
@@ -292,5 +299,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/6/13/284f3030-1230-410c-be3a-601a70fe3713/1718299898337-signed_com.amazon.vizzini_653_01_13_june.apk",
         "versionCode": "653057410",
         "versionName": "3.0.11134.0-com.amazon.vizzini.653.0.1_653057410"
+    },
+    {
+        "md5": "7669e98a9fc8b9ec6d259b264d26ee98",
+        "uploaded": "2024-09-26",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/9/26/d9c79856-afca-49bf-bf0a-af1fa1888ddc/1727389810824-signed_com.amazon.vizzini_655_1_3.apk",
+        "versionCode": "655057810",
+        "versionName": "3.0.13271.0-com.amazon.vizzini.655.1.3_655057810"
     }
 ]

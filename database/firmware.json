@@ -118,6 +118,13 @@
             "Fire TV Stick 4K - 2nd Gen (2023)"
         ]
     },
+    "com.amazon.karnak.android.os": {
+        "category": "firetablet",
+        "model": "",
+        "title": [
+            "Fire HD 8 (2018)"
+        ]
+    },
     "com.amazon.mantis.android.os": {
         "category": "firetv",
         "model": "AFTMM",

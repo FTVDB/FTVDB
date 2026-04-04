@@ -5,5 +5,12 @@
         "url": "https://fireos-tablet-src.s3.amazonaws.com/1rwRZU26r5k9gfGzXsGP5Seup3/update-kindle-40.6.1.2_user_612495820.bin",
         "versionCode": "612495820",
         "versionName": "Fire OS 5.3.6.3 (612495820)"
+    },
+    {
+        "md5": "fc4622c61c8a97d6871d14db6dc798b6",
+        "uploaded": "2018-11-13",
+        "url": "https://fireos-tablet-src.s3.amazonaws.com/93olgKwMW8ecGINzUwwqQmLz43/update-kindle-40.6.2.6_user_626533320.bin",
+        "versionCode": "626533320",
+        "versionName": "Fire OS 5.3.6.4 (626533320)"
     }
 ]

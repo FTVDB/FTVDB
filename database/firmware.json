@@ -132,6 +132,13 @@
             "Fire TV Stick - 1st Gen (2014)"
         ]
     },
+    "com.amazon.mustang.android.os": {
+        "category": "firetablet",
+        "model": "",
+        "title": [
+            "Fire 7 (2019)"
+        ]
+    },
     "com.amazon.radar.android.os": {
         "category": "echo",
         "model": "AEORD",

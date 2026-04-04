@@ -28,11 +28,25 @@
         "versionName": "ACAFireTVAndroidClient-2019.3.0-1.1.1179.0-30170010"
     },
     {
+        "md5": "3b80b40ef299daa821b3494c810de873",
+        "uploaded": "2023-03-01",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/718646c83d2741ae9e3ef97fc025d179/ACAFireTVAndroidClient-fos5-release-signed1246.apk",
+        "versionCode": "30670010",
+        "versionName": "ACAFireTVAndroidClient-2019.3.0-1.1.1246.0-30670010"
+    },
+    {
         "md5": "6228d4aeb8b3c361fb45f2837d411e62",
         "uploaded": "2023-07-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b4f7ef3812ca6b56b000212c6c72001e/signed_ACAFireTVAndroidClient-fos5-release_1.apk",
         "versionCode": "32150010",
         "versionName": "ACAFireTVAndroidClient-2019.3.0-1.1.1390.0-32150010"
+    },
+    {
+        "md5": "b7de55272cc3a8a3d5f81337f3fbfd4a",
+        "uploaded": "2023-07-18",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/6c71a62398a6d4d9a945ecd5985c0c33/ACAFireTVAndroidClient-fos5-release-signed.apk",
+        "versionCode": "32160010",
+        "versionName": "ACAFireTVAndroidClient-2019.3.0-1.1.1393.0-32160010"
     },
     {
         "md5": "876a39fa2846d5727e8455973b99baf9",

@@ -75,5 +75,19 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/741262913c080718a7c69094e30bff06/10171_FireTV_DeviceControlSettings-jarvis-release-signed.apk",
         "versionCode": "1001827310",
         "versionName": "1.0.10171.0-jarvis_1001827310"
+    },
+    {
+        "md5": "baa37a73745883293eb9b86a263e4977",
+        "uploaded": "2022-11-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/ecfc26b8c38f61c7b3625f5e476ed369/215723_FireTV_OZ_OOBE_Settings-jarvis-release-signed.apk",
+        "versionCode": "1011923010",
+        "versionName": "1.0.215723.0-jarvis_1011923010"
+    },
+    {
+        "md5": "e12d2600c74c1db1c63568d4a80972a1",
+        "uploaded": "2023-05-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/24062daba9a7cf55d46fa55fa02a52f1/FireTV_OZ_OOBE_Settings-jarvis-release-signed_1_7.apk",
+        "versionCode": "1012014010",
+        "versionName": "1.0.216308.0-jarvis_1012014010"
     }
 ]

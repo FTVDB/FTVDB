@@ -399,11 +399,25 @@
         "versionName": "FireTv.349.22601"
     },
     {
+        "md5": "837b244af7aae17bf84612506019340f",
+        "uploaded": "2023-07-18",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/18c93d62a1480af1dc15928d3485aa16/com.amazon.avod.apk",
+        "versionCode": "350013010",
+        "versionName": "FireTv.350.13001"
+    },
+    {
         "md5": "aa1136b32add38ab5e9bfff3ab786793",
         "uploaded": "2023-08-04",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/a9764461ed37c8819a88ee321af96a4a/com.amazon.avod.apk",
         "versionCode": "351010310",
         "versionName": "FireTv.351.10301"
+    },
+    {
+        "md5": "5e8859d21c5ef787771938aaf92d9651",
+        "uploaded": "2023-08-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/dfb087c9735300c9d6907540b0a8e494/com.amazon.avod.apk",
+        "versionCode": "352027510",
+        "versionName": "FireTv.352.27501"
     },
     {
         "md5": "94212887a480ed6fc89f40d799fe9327",

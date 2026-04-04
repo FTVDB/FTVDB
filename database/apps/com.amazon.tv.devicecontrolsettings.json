@@ -14,11 +14,25 @@
         "versionName": "1.0.5600.0_100416110"
     },
     {
+        "md5": "71538e441fddfd6f7e3117a33c07feda",
+        "uploaded": "2020-08-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/78d9dc8c2ec3028895f2b7ce18ad2656/FireTV_OZ_OOBE_Settings-release-signed_1.apk",
+        "versionCode": "101435510",
+        "versionName": "1.0.210034.0_101435510"
+    },
+    {
         "md5": "8d44944c089e80bfa178837a0b94e0e5",
         "uploaded": "2020-10-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/a2e2b525d84deb51ccda4c6899205de9/FireTV_DeviceControlSettings-caltrain-release-signed1.apk",
         "versionCode": "100600610",
         "versionName": "1.0.6161.0-caltrain_100600610"
+    },
+    {
+        "md5": "113aef9c99e066c8e87f4ecc3331ce39",
+        "uploaded": "2020-11-27",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/bd39b928408e3ffd0a76adb09ffc1f28/FireTV_OZ_OOBE_Settings-caltrain-release-signed_4.apk",
+        "versionCode": "101764410",
+        "versionName": "1.0.211024.0-caltrain_101764410"
     },
     {
         "md5": "d0c2b5e03e297ecc95f11795cee3d68a",

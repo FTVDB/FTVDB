@@ -49,6 +49,20 @@
         "versionName": "1.0.6460.0-com.amazon.tv.oobe-jarvis_624016310"
     },
     {
+        "md5": "709556aaaada94380b12e030f79c8f22",
+        "uploaded": "2022-11-08",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/6c41aed5316d2c5a0853725c8033f8ff/signed_FireTvOobe-jarvis-release-1.0.6856.0.apk",
+        "versionCode": "625001910",
+        "versionName": "1.0.6856.0-com.amazon.tv.oobe-jarvis_625001910"
+    },
+    {
+        "md5": "c172e700e3a4d1f1d73b5e95b60017e2",
+        "uploaded": "2022-11-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/d73bdf82e3fb720972200510093df558/signed_FireTvOobe-jarvis-release3.apk",
+        "versionCode": "625002710",
+        "versionName": "1.0.7123.0-com.amazon.tv.oobe-jarvis_625002710"
+    },
+    {
         "md5": "17af3fb9a59ed101ae1c006b3bdfa905",
         "uploaded": "2022-12-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/df80ff2ecd01628c528af8bf96b26b38/signed_FireTvOobe-jarvis-release-1.0.7367.0.apk",

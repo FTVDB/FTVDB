@@ -133,11 +133,25 @@
         "versionName": "2.0.221234.0-com.amazon.tv.livetv_1211601710"
     },
     {
+        "md5": "0caaf02f040cdfa079cf35cca1c008c2",
+        "uploaded": "2023-05-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/45eac13e4096360e2a71532a8c645149/com.amazon.tv.livetv.apk",
+        "versionCode": "1211702810",
+        "versionName": "2.0.221698.0-com.amazon.tv.livetv_1211702810"
+    },
+    {
         "md5": "9a10344c1c72359a2a5bc060346ba6fd",
         "uploaded": "2023-06-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/f9d7a7157448235e6df3db00b59d819c/com.amazon.tv.livetv.apk",
         "versionCode": "1211803810",
         "versionName": "2.0.222233.0-com.amazon.tv.livetv_1211803810"
+    },
+    {
+        "md5": "58b9fdafdca0f40576a5a2aed002a38d",
+        "uploaded": "2023-07-14",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/5470ca9074554cd23b84132d07282731/com.amazon.tv.livetv.apk",
+        "versionCode": "1211803910",
+        "versionName": "2.0.222404.0-com.amazon.tv.livetv_1211803910"
     },
     {
         "md5": "04bb4efc47ea17c36d3501061aa83300",

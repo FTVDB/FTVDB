@@ -208,5 +208,26 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/30/03311746-9205-4417-a7b9-2f2a207afc71/1767076224380-R13_V6.apk",
         "versionCode": "12868510",
         "versionName": "1.0.17108.0_12868510"
+    },
+    {
+        "md5": "ad32510eacb02bbe7a5954fa89076877",
+        "uploaded": "2026-01-27",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/1/27/8274c920-ced5-4389-a002-1c4e3b909d85/1769539230642-signed_HedwigNews-release-R13-HF.apk",
+        "versionCode": "12875310",
+        "versionName": "1.0.17191.0_12875310"
+    },
+    {
+        "md5": "5343e2842b55a41dd83b197e06b2b121",
+        "uploaded": "2026-02-23",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/23/f2aa032d-a637-47ea-87d5-a8eee54cf5e1/1771821810218-V3-signed_HedwigNews-releaseJDK17V11.apk",
+        "versionCode": "12896010",
+        "versionName": "2.0.184.0_12896010"
+    },
+    {
+        "md5": "24f7638e04f2eb8e39fdd3c07a7d54b5",
+        "uploaded": "2026-03-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/12/8c3eb74b-b65c-44a2-a21d-4d1c7ac5ff54/1773293569532-signed_FC-R14-V8.apk",
+        "versionCode": "12908510",
+        "versionName": "2.0.307.0_12908510"
     }
 ]

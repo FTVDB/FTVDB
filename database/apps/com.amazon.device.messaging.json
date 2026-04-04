@@ -1,0 +1,16 @@
+[
+    {
+        "md5": "b32a3cef05481d1d16d96641fd2a3cd7",
+        "uploaded": "2023-04-13",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/e988dbc13ef26569cc63199e75fcb820/DeviceMessagingAndroid-release-signed.apk",
+        "versionCode": "2345810",
+        "versionName": "6.2.881.0_2345810"
+    },
+    {
+        "md5": "883df77bf06eb339532a46837c2addc9",
+        "uploaded": "2023-06-01",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/83e97116c1a2f170b6bd24026c55602d/DeviceMessagingAndroid.apk",
+        "versionCode": "2356810",
+        "versionName": "6.2.937.0-fosJackson19_2356810"
+    }
+]

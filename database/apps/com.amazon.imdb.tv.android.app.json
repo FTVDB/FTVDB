@@ -175,6 +175,13 @@
         "versionName": "1.0.10610.0"
     },
     {
+        "md5": "8bf6e8313edb97e408d778363891de29",
+        "uploaded": "2022-11-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/9607cdcc8512e49798a72239aca9b2d2/signed-app-scorpion-patch-1-prod-RC-build-10742.apk",
+        "versionCode": "21961210",
+        "versionName": "1.0.10742.0"
+    },
+    {
         "md5": "ae85ee8543cfed3f8d174d79095ed263",
         "uploaded": "2023-01-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e6cc0e044c63ee937755794c790f49b2/signed_app-prod-Jan-2023-release-11568.apk",
@@ -250,6 +257,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d22eae596647ae36bed63a109e1b3e9a/signed-app-RC-prod-may-patch-release-1.0.13145.0.apk",
         "versionCode": "22510810",
         "versionName": "1.0.13145.0"
+    },
+    {
+        "md5": "59fbd66be6179f5af83c15f91067d0b7",
+        "uploaded": "2023-08-31",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/9d5a0d34113e1c49aeaac50d1c76ec8a/signed_app-prod-release.apk",
+        "versionCode": "22695610",
+        "versionName": "1.0.14071.0"
     },
     {
         "md5": "74c1fac66bbfa77ac597d5bca2db7b4a",

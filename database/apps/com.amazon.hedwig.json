@@ -147,6 +147,13 @@
         "versionName": "1.0.14381.0_12539410"
     },
     {
+        "md5": "ad01f405f9d50235bd3b5ff229671c40",
+        "uploaded": "2024-10-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/17/96fc5da8-e90d-48ca-b7c7-0aa79003e76f/1729154303932-signed-HedwigNews-release-R6-V7-2.apk",
+        "versionCode": "12562110",
+        "versionName": "1.0.14561.0_12562110"
+    },
+    {
         "md5": "25235d4340fcb19dc113c4c6102bed2c",
         "uploaded": "2024-12-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/12/12/34e45a9e-cbcf-457b-9138-7ceb30446ed1/1733984367534-signed_HedwigNews-release-R7-V14(1).apk",
@@ -194,5 +201,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/13/7c30cf2a-0e31-45a9-a37c-e003b25072fe/1763072920097-signed-fc-r12-v14.apk",
         "versionCode": "12848110",
         "versionName": "1.0.16946.0_12848110"
+    },
+    {
+        "md5": "ee73ef0075b7570b4b249999406b52e8",
+        "uploaded": "2025-12-30",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/30/03311746-9205-4417-a7b9-2f2a207afc71/1767076224380-R13_V6.apk",
+        "versionCode": "12868510",
+        "versionName": "1.0.17108.0_12868510"
     }
 ]

@@ -119,6 +119,13 @@
         "versionName": "3.4.594.0"
     },
     {
+        "md5": "0508ae367de9229df4ef6551a3d8c48e",
+        "uploaded": "2022-10-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/ba1a80a964a8495aa6699f105e8b60ba/signed_DMTVAndroid-firetv-prod-arm32-3.4.653.0.apk",
+        "versionCode": "304064810",
+        "versionName": "3.4.653.0"
+    },
+    {
         "md5": "9e054c73bc9e736e482765457f8c436f",
         "uploaded": "2022-10-31",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/3b991e8bfca1002ed03576a102b6cefe/signed_DMTVAndroid-firetv-prod-arm32-release.apk",
@@ -138,6 +145,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/60b84a1d4b1f8022757373dee70fffd1/signed_DMTVAndroid-firetv-prod-arm32-3.4.733.0.apk",
         "versionCode": "304071110",
         "versionName": "3.4.733.0"
+    },
+    {
+        "md5": "3e2f0a8563b127c26ca33ad1105169dc",
+        "uploaded": "2023-02-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2331f9c48ac44f925e54aff02b2fea08/signed_DMTVAndroid-firetv-prod-arm32-3.4.856.0.apk",
+        "versionCode": "304077110",
+        "versionName": "3.4.856.0"
     },
     {
         "md5": "4934a310742297d81a7831accb472bbd",

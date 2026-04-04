@@ -98,6 +98,20 @@
         "versionName": "1.0.8260.0-com.amazon.tv.settings.v2-jarvis_631013010"
     },
     {
+        "md5": "ee0efd62079935041a4d0c06d7cbfca7",
+        "uploaded": "2023-08-01",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/b72be3cf10e954581d61ca69e0f4f999/signed_FireTvSettings-jarvis-release_Brussels11.0.8594.0.apk",
+        "versionCode": "634003010",
+        "versionName": "1.0.8594.0-com.amazon.tv.settings.v2-jarvis_634003010"
+    },
+    {
+        "md5": "4dd2830008b49f03a0110baa8a3e6dff",
+        "uploaded": "2023-08-23",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/6942d8d7e89864e01adda35015247e2e/signed_FireTvSettings-jarvis-release_1.0.8739.0.apk",
+        "versionCode": "635006110",
+        "versionName": "1.0.8739.0-com.amazon.tv.settings.v2-jarvis_635006110"
+    },
+    {
         "md5": "9d439951f0d229ed49a554504fa887cc",
         "uploaded": "2023-09-25",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/0d2145b9f8d258e4ca8b431088024e02/signed_FireTvSettings-jarvis-release_1.0.8947.0_RNfixlatest.apk",

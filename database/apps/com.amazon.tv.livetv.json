@@ -112,6 +112,13 @@
         "versionName": "2.0.220164.0-com.amazon.tv.livetv_1211201910"
     },
     {
+        "md5": "85229bd0982644b54bf6b331f298f1aa",
+        "uploaded": "2022-10-28",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/aa359dc0ffe6dc5341b348cc8740fb93/12113016.apk",
+        "versionCode": "1211301610",
+        "versionName": "2.0.220319.0-com.amazon.tv.livetv_1211301610"
+    },
+    {
         "md5": "e4dfba8349954999e4e27d91b277971a",
         "uploaded": "2022-12-23",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/43d2a9cb2bd8af48aa2371f15460bacb/com.amazon.tv.livetv.apk",
@@ -152,6 +159,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/5470ca9074554cd23b84132d07282731/com.amazon.tv.livetv.apk",
         "versionCode": "1211803910",
         "versionName": "2.0.222404.0-com.amazon.tv.livetv_1211803910"
+    },
+    {
+        "md5": "b03abb3b19140aac074ef07b42c4ba74",
+        "uploaded": "2023-08-11",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/cf02b975a6ed6f18f7f75dabe3267724/6A_Rollback_12126499.apk",
+        "versionCode": "1212649910",
+        "versionName": "2.0.222817.0-com.amazon.tv.livetv_1212649910"
     },
     {
         "md5": "04bb4efc47ea17c36d3501061aa83300",

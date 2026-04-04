@@ -63,11 +63,25 @@
         "versionName": "1.0.6176.0-com.amazon.tv.settings.v2-jarvis_624091410"
     },
     {
+        "md5": "489341648b602ece928ca782ac22cde4",
+        "uploaded": "2022-11-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/af297f38ae53b00ede46f029164107ff/signed_FireTvSettings-jarvis-release2.apk",
+        "versionCode": "625018010",
+        "versionName": "1.0.6457.0-com.amazon.tv.settings.v2-jarvis_625018010"
+    },
+    {
         "md5": "cd6b9ff7327e3876a7557e6042034914",
         "uploaded": "2022-12-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/067fc81e364b91e409e2514369a13ac3/signed_FireTvSettings-jarvis-release1.0.6670.0_ota_release.apk",
         "versionCode": "626013510",
         "versionName": "1.0.6670.0-com.amazon.tv.settings.v2-jarvis_626013510"
+    },
+    {
+        "md5": "85e4d2e4680249edd20618171779339e",
+        "uploaded": "2023-02-09",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/a3f38a7b1a6a0e71b784b343d716d672/signed_FireTvSettings-jarvis-release_1.0.7388.0_sheffield_ota_release.apk",
+        "versionCode": "627031310",
+        "versionName": "1.0.7388.0-com.amazon.tv.settings.v2-jarvis_627031310"
     },
     {
         "md5": "e48fe2f726fbad76791eb33346cdd904",

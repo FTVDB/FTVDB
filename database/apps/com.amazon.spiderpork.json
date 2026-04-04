@@ -5,5 +5,19 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/4/17/782950af-5577-4055-9de2-a2e2c46acec4/1744881509975-signed_SpiderPorkClientAndroidAPK-tv-universal-14903release.apk",
         "versionCode": "131001710",
         "versionName": "1.13101.0017.0-release"
+    },
+    {
+        "md5": "6d1e3ae3f3fdec00e4964d66bf4dc07f",
+        "uploaded": "2025-06-02",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/6/2/6bfa47f2-0d62-4a30-83dd-4e05c5fb481e/1748858862547-signed_SpiderPorkClientAndroidAPK-tv-universal-15145release.apk",
+        "versionCode": "132001410",
+        "versionName": "1.13201.0014.0-release"
+    },
+    {
+        "md5": "92ec9080b01756546c5b15d0d84b167e",
+        "uploaded": "2025-07-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/7/21/ec969db7-465b-40fa-909c-d8927cb4520a/1753083513625-signed_SpiderPorkClientAndroidAPK-tv-universal-15264release.apk",
+        "versionCode": "133000310",
+        "versionName": "1.13300.0003.0-release"
     }
 ]

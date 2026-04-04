@@ -1349,5 +1349,19 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/1/20/81945fd3-5765-4547-ae58-3a3a483c6c44/1768950913113-Signed_Firebat-ignitionx-release_214005010.apk",
         "versionCode": "214005010",
         "versionName": "PVFTV-214.0050-L"
+    },
+    {
+        "md5": "2786b503ab82724055f3612b37707d49",
+        "uploaded": "2026-01-30",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/1/30/bc5fd6e8-0343-41bc-b0ba-f7b5d920d84e/1769808299542-Signed_Firebat-ignitionx-release_214005410.apk",
+        "versionCode": "214005410",
+        "versionName": "PVFTV-214.0054-L"
+    },
+    {
+        "md5": "ee82c6d8d978a3a67bba2281c40602bb",
+        "uploaded": "2026-02-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/17/b9ec7d19-94d8-4b69-b721-55502616c9ed/1771359393794-Signed_Firebat-ignitionx-release_215005310.apk",
+        "versionCode": "215005310",
+        "versionName": "PVFTV-215.0053-L"
     }
 ]

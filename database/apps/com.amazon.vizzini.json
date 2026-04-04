@@ -196,6 +196,20 @@
         "versionName": "3.0.5503.0-com.amazon.vizzini.648.0.0_648193910"
     },
     {
+        "md5": "70f969f5ff1806fe65dc67fa1a903bbf",
+        "uploaded": "2023-04-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/69946651d59c7807fa54834afbd546b7/signed_com.amazon.vizzini_3.apk",
+        "versionCode": "648196010",
+        "versionName": "3.0.5839.0-com.amazon.vizzini.648.1.0_648196010"
+    },
+    {
+        "md5": "53123fb249232563b0549f1dc6d2bc26",
+        "uploaded": "2023-04-13",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/d195e8c06ea9f3ae1a9e3e2da4774310/signed_FTVSIM-release_648_1_rollback.apk",
+        "versionCode": "648800710",
+        "versionName": "3.0.5998.0-com.amazon.vizzini.648.0.0_648800710"
+    },
+    {
         "md5": "1fa82e020b1620d71963ff33da0b26c2",
         "uploaded": "2023-05-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d13f148ec99a7fadf8aee420c01405ed/signed_com.amazon.vizzini_1.apk",

@@ -84,6 +84,13 @@
         "versionName": "98.amazon-webview-v98-4758-tv.4758.101.39"
     },
     {
+        "md5": "3e9c436025fd2be6da60fde5016750b2",
+        "uploaded": "2022-05-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/fb86d93c0919cf733d3a8a76004896ce/signed_AmazonWebView-debug-32-signed.apk",
+        "versionCode": "60334632",
+        "versionName": "100.amazon-webview-v100-4896-tv.4896.127.36"
+    },
+    {
         "md5": "06d1b6725f246699ba90690affa20b41",
         "uploaded": "2022-07-08",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e3a87520bc92a5489ecaf3db12a3a359/signed_AmazonWebView-debug-32-signed.apk",
@@ -152,6 +159,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/1/17/48458294-f4ab-459c-a065-36c09b690d1f/1705533761935-v11851_tv_signed_AmazonWebView-debug-32-signed.apk",
         "versionCode": "60806632",
         "versionName": "118.amazon-webview-v118-5993-tv.5993.155.51"
+    },
+    {
+        "md5": "ce686dc72b9d421ddf0933ca163b0d8a",
+        "uploaded": "2024-02-14",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/2/14/beb6ed12-c762-4641-a630-cef9aa156135/1707948292865-v120Tv32.apk",
+        "versionCode": "60827832",
+        "versionName": "120.amazon-webview-v120-6099-tv.6099.266.51"
     },
     {
         "md5": "4d8413b993d0a668a444dfa5443ff1ff",

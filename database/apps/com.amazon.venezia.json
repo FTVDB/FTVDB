@@ -112,6 +112,13 @@
         "versionName": "release-8.5012.5.v.x.218938.0_422517410"
     },
     {
+        "md5": "7bbb99b6511bf69574904832791dcd3f",
+        "uploaded": "2022-12-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/c818e2ab45804b6e95ca844f0b0d5896/A1_5.v.x.219477.0.apk",
+        "versionCode": "422639210",
+        "versionName": "release-8.5013.5.v.x.219477.0_422639210"
+    },
+    {
         "md5": "0ac52f98f2bd763d2465821550de1147",
         "uploaded": "2023-01-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c3ebb563e0dbc2c9fdcea4f5f169c0b0/5.v.x.219750.0-signed.apk",
@@ -145,6 +152,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/26fdfce2920ef2cb6ee2267628377179/5.v.x.221977.0A6.apk",
         "versionCode": "423245510",
         "versionName": "release-8.5020.5.v.x.221977.0_423245510"
+    },
+    {
+        "md5": "03a49bb06153f1b2505130770a067488",
+        "uploaded": "2023-08-01",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/b602ce4a2a0e7946e2712541f248a765/com.amazon.venezia.apk",
+        "versionCode": "423673510",
+        "versionName": "release-8.5024.5.v.x.223487.0_423673510"
     },
     {
         "md5": "535114f00e60e25c505f8aaf467ab9fa",

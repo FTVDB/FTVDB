@@ -1,4 +1,11 @@
 {
+    "com.amazon.ariel.android.os": {
+        "category": "firetablet",
+        "model": "",
+        "title": [
+            "Fire HD 6 / HD 7 (2014)"
+        ]
+    },
     "com.amazon.athena.android.os": {
         "category": "echo",
         "model": "AEOAT",

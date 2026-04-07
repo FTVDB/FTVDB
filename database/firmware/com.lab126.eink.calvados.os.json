@@ -26,5 +26,12 @@
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_colorsoft_1st_generation_5.19.3.bin",
         "versionCode": "4716130047",
         "versionName": "5.19.3"
+    },
+    {
+        "md5": "ed6997f6894213810ce647e72b2dc567",
+        "uploaded": "2026-04-07",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_colorsoft_1st_generation_5.19.3.0.1.bin",
+        "versionCode": "4723050002",
+        "versionName": "5.19.3.0.1"
     }
 ]

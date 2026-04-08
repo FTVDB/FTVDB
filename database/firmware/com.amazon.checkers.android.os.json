@@ -47,5 +47,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/4/f2f377a9-324b-4ecb-88c6-9b1ef9cc3980/update-kindle-checkers-NS6571_user_6225_0012584505732.bin",
         "versionCode": "12584505732",
         "versionName": "Fire OS 6.5.7.1 (NS6571/6225)"
+    },
+    {
+        "md5": "436ff8145224607e6f0873dbaff4f751",
+        "uploaded": "2026-03-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/21/a34ef475-8927-4471-9c32-4e4d25850879/update-kindle-checkers-NS6572_user_6436_0012718777476.bin",
+        "versionCode": "12718777476",
+        "versionName": "Fire OS 6.5.7.2 (NS6572/6436)"
     }
 ]

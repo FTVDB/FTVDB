@@ -1,4 +1,11 @@
 {
+    "com.amazon.almond.android.os": {
+        "category": "",
+        "model": "",
+        "title": [
+            "com.amazon.almond.android.os"
+        ]
+    },
     "com.amazon.ariel.android.os": {
         "category": "firetablet",
         "model": "",

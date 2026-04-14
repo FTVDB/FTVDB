@@ -1,9 +1,114 @@
 [
     {
+        "md5": "9c51bd6a53d8fdb6df9cca2cc7af966b",
+        "optout": 1,
+        "uploaded": "2023-01-24",
+        "url": "",
+        "versionCode": "26810845572",
+        "versionName": "Fire OS 7.6.2.4 (PS7624/3337)"
+    },
+    {
+        "md5": "bbbabeb5ee58b36455198bb4476cc639",
+        "optout": 1,
+        "uploaded": "2023-03-29",
+        "url": "",
+        "versionCode": "27347744132",
+        "versionName": "Fire OS 7.6.3.3 (PS7633/3445)"
+    },
+    {
         "md5": "b72d76655e84c81540e613d9c95ecdc9",
+        "optout": 1,
         "uploaded": "2023-05-23",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/05b5e0c063f3aac47ebdeaab2acf64f1/update-kindle-almond-bt-PS7646_user_3550_0028085968516.bin",
+        "url": "",
         "versionCode": "28085968516",
         "versionName": "Fire OS 7.6.4.6 (PS7646/3550)"
+    },
+    {
+        "md5": "655a2673895341c1ad459b3d24b8ad0b",
+        "optout": 1,
+        "uploaded": "2023-07-27",
+        "url": "",
+        "versionCode": "28488623236",
+        "versionName": "Fire OS 7.6.5.2 (PS7652/3556)"
+    },
+    {
+        "md5": "34275f38c14a4efeb23b44a4110230b9",
+        "optout": 1,
+        "uploaded": "2023-09-25",
+        "url": "",
+        "versionCode": "29159767172",
+        "versionName": "Fire OS 7.6.6.4 (PS7664/3772)"
+    },
+    {
+        "md5": "848a016069d080fde4a284d6cd42a28f",
+        "optout": 1,
+        "uploaded": "2023-12-27",
+        "url": "",
+        "versionCode": "29562451588",
+        "versionName": "Fire OS 7.6.6.8 (PS7668/3894)"
+    },
+    {
+        "md5": "c20243f18ab6b406574dc2e2b607a33d",
+        "optout": 1,
+        "uploaded": "2024-04-16",
+        "url": "",
+        "versionCode": "29965156740",
+        "versionName": "Fire OS 7.6.7.1 (PS7671/4097)"
+    },
+    {
+        "md5": "26e337b169814d52902450ce8f617486",
+        "optout": 1,
+        "uploaded": "2024-09-02",
+        "url": "",
+        "versionCode": "31106080900",
+        "versionName": "Fire OS 7.6.8.1 (PS7681/4384)"
+    },
+    {
+        "md5": "a51ba43cef210a7592fe963a12db5ef1",
+        "optout": 1,
+        "uploaded": "2024-11-11",
+        "url": "",
+        "versionCode": "31642978180",
+        "versionName": "Fire OS 7.6.8.5 (PS7685/4487)"
+    },
+    {
+        "md5": "be2ea9a9cb0efd2f3842acb2dccc754a",
+        "optout": 1,
+        "uploaded": "2025-03-19",
+        "url": "",
+        "versionCode": "32381234308",
+        "versionName": "Fire OS 7.6.9.0 (PS7690/4716)"
+    },
+    {
+        "md5": "28cb0138f5f40d1778b80621130706cd",
+        "optout": 1,
+        "uploaded": "2025-06-26",
+        "url": "",
+        "versionCode": "33052369540",
+        "versionName": "Fire OS 7.6.9.9 (PS7699/4898)"
+    },
+    {
+        "md5": "d8f47144ccd223631eac5225067ccb35",
+        "optout": 1,
+        "uploaded": "2025-08-04",
+        "url": "",
+        "versionCode": "33455040388",
+        "versionName": "Fire OS 7.7.0.2 (PS7702/4967)"
+    },
+    {
+        "md5": "918a48f30639b92ec6e14471c5b3821f",
+        "optout": 1,
+        "uploaded": "2025-08-18",
+        "url": "",
+        "versionCode": "33723490436",
+        "versionName": "Fire OS 7.7.0.4 (PS7704/5024)"
+    },
+    {
+        "md5": "f43a39c05a24a3ac58428ea0d2296a99",
+        "optout": 1,
+        "uploaded": "2025-11-24",
+        "url": "",
+        "versionCode": "34394701188",
+        "versionName": "Fire OS 7.7.0.8 (PS7708/5501)"
     }
 ]

@@ -1,15 +1,17 @@
 [
     {
         "md5": "aad08971a17a5085cfecf524be410fcd",
+        "optout": 1,
         "uploaded": "2024-08-14",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/8/14/e8089798-a32d-4f85-83c3-de8c41b946c5/1723651544025-signed_com.amazon.alexa.datastore.app(4).apk",
+        "url": "",
         "versionCode": "2010611",
         "versionName": "0.1.155.0"
     },
     {
         "md5": "7988c082d4267d55d5f1206ebcb2e4c1",
+        "optout": 1,
         "uploaded": "2024-09-27",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/9/27/6dd80309-aaca-406a-9f6d-610e85b11370/1727432514284-signed_com.amazon.alexa.datastore.app.apk",
+        "url": "",
         "versionCode": "2017011",
         "versionName": "0.1.235.0"
     }

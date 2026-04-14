@@ -43,8 +43,9 @@
     },
     {
         "md5": "12731deb3a9e31a90467397ef6a87bc7",
+        "optout": 1,
         "uploaded": "2023-04-11",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/525afe9dba5d5a64d7f698cd70dad5f5/signed_CevicheService-release_1444910.apk",
+        "url": "",
         "versionCode": "1444910",
         "versionName": "1.0.3136.0_1444910"
     },
@@ -57,8 +58,9 @@
     },
     {
         "md5": "5aae7b7daa33f0cefe7c12a822e2d429",
+        "optout": 1,
         "uploaded": "2023-08-14",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/df7d655cfadde80355e51650e73c4090/signed_CevicheService-release.apk",
+        "url": "",
         "versionCode": "1462310",
         "versionName": "1.0.3377.0_1462310"
     },

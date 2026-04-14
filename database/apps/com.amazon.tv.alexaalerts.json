@@ -8,8 +8,9 @@
     },
     {
         "md5": "6573d8b8a71c00a752e8808458582251",
+        "optout": 1,
         "uploaded": "2022-06-22",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/3c801522e0b62ff2e1c6755e84c0c811/signed_FireTvAlexaAlerts-nonStark-release_1.apk",
+        "url": "",
         "versionCode": "103061010",
         "versionName": "1.0.201445.0-com.amazon.tv.alexaalerts-nonStark_103061010"
     },

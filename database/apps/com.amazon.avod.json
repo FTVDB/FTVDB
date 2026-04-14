@@ -253,8 +253,9 @@
     },
     {
         "md5": "ed94989f967c40fe1df83a62915c25e4",
+        "optout": 1,
         "uploaded": "2022-09-06",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/498a7f56247996e8b17bd95c61f346bd/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "330024010",
         "versionName": "FireTv.330.24001"
     },
@@ -281,8 +282,9 @@
     },
     {
         "md5": "b0899887b927ba3ba81e32cbb45d19cb",
+        "optout": 1,
         "uploaded": "2022-10-08",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/3759ca1a9ec735e77472beff5579f346/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "332022210",
         "versionName": "FireTv.332.22201"
     },
@@ -295,50 +297,57 @@
     },
     {
         "md5": "6dc270972b03ba69cd32fe293c09fad4",
+        "optout": 1,
         "uploaded": "2022-10-25",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/ea19070ec7b05b7ac504ec57db1df659/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "334008410",
         "versionName": "FireTv.334.8401"
     },
     {
         "md5": "5efb79f1e2103b8761c6220f5ac008b4",
+        "optout": 1,
         "uploaded": "2022-11-07",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/0b832e41ecbd3b166b6518f1a0042d14/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "335007210",
         "versionName": "FireTv.335.7201"
     },
     {
         "md5": "6c593b3a327b94dc6634820dd2daf4c3",
+        "optout": 1,
         "uploaded": "2022-11-23",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2afd729976f6e366ae0528645096eb7b/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "336012810",
         "versionName": "FireTv.336.12801"
     },
     {
         "md5": "d64c7cfaf79c663d14b98c7493dd06a0",
+        "optout": 1,
         "uploaded": "2022-12-07",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/22bdf76dae784b59d63bae1ef8544ee6/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "336023110",
         "versionName": "FireTv.336.23101"
     },
     {
         "md5": "d564b29b0603d27ea45c3f7b707dd82c",
+        "optout": 1,
         "uploaded": "2022-12-24",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/ad5298230766aa6d0f05fac57801a241/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "337013810",
         "versionName": "FireTv.337.13801"
     },
     {
         "md5": "578935dea017acc6f66457958d204a08",
+        "optout": 1,
         "uploaded": "2023-01-10",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/7156b88f94e6eee23b80688603151c94/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "338011510",
         "versionName": "FireTv.338.11501"
     },
     {
         "md5": "39dd4676a03808fbd7bb453b9fa167ab",
+        "optout": 1,
         "uploaded": "2023-01-26",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/41a7d69e559abd8b780a4f3dcc4c1af6/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "339009710",
         "versionName": "FireTv.339.9701"
     },
@@ -421,85 +430,97 @@
     },
     {
         "md5": "f21d8e4b2ed088b783044fe3d6c655d2",
+        "optout": 1,
         "uploaded": "2023-06-29",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/94721262e29d59f2ccb30d274f58e4ba/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "349022610",
         "versionName": "FireTv.349.22601"
     },
     {
         "md5": "837b244af7aae17bf84612506019340f",
+        "optout": 1,
         "uploaded": "2023-07-18",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/18c93d62a1480af1dc15928d3485aa16/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "350013010",
         "versionName": "FireTv.350.13001"
     },
     {
         "md5": "aa1136b32add38ab5e9bfff3ab786793",
+        "optout": 1,
         "uploaded": "2023-08-04",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/a9764461ed37c8819a88ee321af96a4a/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "351010310",
         "versionName": "FireTv.351.10301"
     },
     {
         "md5": "5e8859d21c5ef787771938aaf92d9651",
+        "optout": 1,
         "uploaded": "2023-08-12",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/dfb087c9735300c9d6907540b0a8e494/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "352027510",
         "versionName": "FireTv.352.27501"
     },
     {
         "md5": "94212887a480ed6fc89f40d799fe9327",
+        "optout": 1,
         "uploaded": "2023-08-18",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/cc3d58a129f04673e2f1a21267f4845f/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "352029510",
         "versionName": "FireTv.352.29501"
     },
     {
         "md5": "3ecdedc15225b984d955626a8941e86d",
+        "optout": 1,
         "uploaded": "2023-08-21",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/478b5fb89244634b506b5767af9238e1/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "352032310",
         "versionName": "FireTv.352.32301"
     },
     {
         "md5": "d05efe8462d2b688e2df6571fbfd72b9",
+        "optout": 1,
         "uploaded": "2023-08-24",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/30c8428e5118f1bd8f7b84254380003c/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "352033410",
         "versionName": "FireTv.352.33401"
     },
     {
         "md5": "10a944fba54bd7b4e94098fae0e5edda",
+        "optout": 1,
         "uploaded": "2023-09-01",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/d623c75b4b73d1c8f9894c4746e2228c/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "353506910",
         "versionName": "FireTv.353.506901"
     },
     {
         "md5": "ce5e9a1a054dd77db22fdae329edc48c",
+        "optout": 1,
         "uploaded": "2023-09-09",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/3036c7c5c5ad5637d10c65fc03a15eb1/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "353507410",
         "versionName": "FireTv.353.507401"
     },
     {
         "md5": "23c678c40c4ed819d2e2ce2786e78f9a",
+        "optout": 1,
         "uploaded": "2023-09-12",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/a1c3a728fe97063e8bd2b5cdef664949/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "353507510",
         "versionName": "FireTv.353.507501"
     },
     {
         "md5": "ee17f822ea5c776f8616d54f2757dc6a",
+        "optout": 1,
         "uploaded": "2023-09-25",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/635af7cf2e7b4256c0bf7a30d1365fde/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "354506610",
         "versionName": "FireTv.354.506601"
     },
     {
         "md5": "d9f8aec789c97f716f91755440eb3b75",
+        "optout": 1,
         "uploaded": "2023-10-07",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/920329e892a55c72c6f3f12c0f4fb0a0/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "355505610",
         "versionName": "FireTv.355.505601"
     },
@@ -512,15 +533,17 @@
     },
     {
         "md5": "3b06856cbd9532515dcdab7aad5b622f",
+        "optout": 1,
         "uploaded": "2023-10-17",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/25ba762a5c940e396eaf5a7b98d1af63/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "357502410",
         "versionName": "FireTv.357.502401"
     },
     {
         "md5": "ef37069cb39e11067cfb1b851b5f4f0f",
+        "optout": 1,
         "uploaded": "2023-10-24",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/9364be0e985cd54ad9cdf9ba96b0d05e/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "357502910",
         "versionName": "FireTv.357.502901"
     },
@@ -554,29 +577,33 @@
     },
     {
         "md5": "c23be34adde96ff165931b9c1cb1400c",
+        "optout": 1,
         "uploaded": "2023-12-16",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/c1f3177f8c1cb7d3646b8cfc15ff7934/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "360503910",
         "versionName": "FireTv.360.503901"
     },
     {
         "md5": "27d19f4a50abdcec460632d8109e3221",
+        "optout": 1,
         "uploaded": "2023-12-18",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/ccd77ee9566aa57370055291f978c177/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "360504310",
         "versionName": "FireTv.360.504301"
     },
     {
         "md5": "a109dc2f72c877c608d557960676153c",
+        "optout": 1,
         "uploaded": "2023-12-29",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/89d236b2cd191b8d5645a6863ed7fc7e/com.amazon.avod.apk",
+        "url": "",
         "versionCode": "360504510",
         "versionName": "FireTv.360.504501"
     },
     {
         "md5": "2454ced8b47f69d23c92a653e02ef84e",
+        "optout": 1,
         "uploaded": "2024-01-13",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/1/13/fcbc10f3-e7dd-47f1-81f5-8b60edac54f6/1705117597107-com.amazon.avod.apk",
+        "url": "",
         "versionCode": "361502910",
         "versionName": "FireTv.361.502901"
     },
@@ -624,8 +651,9 @@
     },
     {
         "md5": "fb03b477568fa530d873df021419700a",
+        "optout": 1,
         "uploaded": "2024-04-01",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/4/1/92e0c0e6-21fa-466b-aea4-b5c6e347907b/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_366502410.apk",
+        "url": "",
         "versionCode": "366502410",
         "versionName": "FireTv.366.502401"
     },
@@ -645,162 +673,185 @@
     },
     {
         "md5": "a7f67eae97fd8bbf1b2aa590324d60e4",
+        "optout": 1,
         "uploaded": "2024-05-09",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/5/9/74253b26-dc0a-4187-8b1f-264c1ee414df/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_369502510.apk",
+        "url": "",
         "versionCode": "369502510",
         "versionName": "FireTv.369.502501"
     },
     {
         "md5": "cc6961efd2c062f4db4c568d18dae014",
+        "optout": 1,
         "uploaded": "2024-05-20",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/5/20/0ce0514d-7909-4496-b12f-8fcc17384179/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_370501910.apk",
+        "url": "",
         "versionCode": "370501910",
         "versionName": "FireTv.370.501901"
     },
     {
         "md5": "90cb143cd4fa36938b12d229e1573377",
+        "optout": 1,
         "uploaded": "2024-06-04",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/6/4/771c7927-7b26-4ace-af85-e2fd0a8a4fa3/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_371500810.apk",
+        "url": "",
         "versionCode": "371500810",
         "versionName": "FireTv.371.500801"
     },
     {
         "md5": "a3cab23a4101fa83441717baab42812c",
+        "optout": 1,
         "uploaded": "2024-06-12",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/6/12/72ca2d4a-826f-4025-b240-92af54cf808d/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_372500510.apk",
+        "url": "",
         "versionCode": "372500510",
         "versionName": "FireTv.372.500501"
     },
     {
         "md5": "97995f406c4e68c2f209140b8955ff92",
+        "optout": 1,
         "uploaded": "2024-07-02",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/2/35fc074b-3261-45dc-afa1-a39deaf93cff/1719939842369-com.amazon.avod.apk",
+        "url": "",
         "versionCode": "373501010",
         "versionName": "FireTv.373.501001"
     },
     {
         "md5": "8ce898e1a8e77f989f903e56f424cdb5",
+        "optout": 1,
         "uploaded": "2024-07-12",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/12/abc8e0ff-467b-40d9-924b-90eaaa057c74/1720768170346-com.amazon.avod.apk",
+        "url": "",
         "versionCode": "374501410",
         "versionName": "FireTv.374.501401"
     },
     {
         "md5": "7bea9e9c3eea83eacc2a864c6df4f521",
+        "optout": 1,
         "uploaded": "2024-07-20",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/20/dbe7f4b8-38de-4fed-90aa-5bbb2c71b7a1/1721458597983-com.amazon.avod.apk",
+        "url": "",
         "versionCode": "375502810",
         "versionName": "FireTv.375.502801"
     },
     {
         "md5": "45699f11a8f2bead7cfff739a6a60f01",
+        "optout": 1,
         "uploaded": "2024-08-01",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/8/1/e36f1c86-3171-41e4-90bf-b016b6fa8ce8/1722485892812-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_376502810.apk",
+        "url": "",
         "versionCode": "376502810",
         "versionName": "FireTv.376.502801"
     },
     {
         "md5": "7e738c5acca3d19e05c01428e75eb4a3",
+        "optout": 1,
         "uploaded": "2024-08-02",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/8/2/29b8a81c-d5af-40bb-9298-e16a42121d6f/1722636740405-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_376502910.apk",
+        "url": "",
         "versionCode": "376502910",
         "versionName": "FireTv.376.502901"
     },
     {
         "md5": "7849013c411ea4c5fb7c6aae044a1c58",
+        "optout": 1,
         "uploaded": "2024-08-09",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/8/9/0098b13f-ae3e-460e-8db4-eba3be5c93b9/1723178278925-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_376503210.apk",
+        "url": "",
         "versionCode": "376503210",
         "versionName": "FireTv.376.503201"
     },
     {
         "md5": "c5f0257f6fd85700e46c298ca324395b",
+        "optout": 1,
         "uploaded": "2024-08-09",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/8/9/f1673318-cb43-4cfe-bc06-7c537455a6be/1723241392448-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_377502110.apk",
+        "url": "",
         "versionCode": "377502110",
         "versionName": "FireTv.377.502101"
     },
     {
         "md5": "5e92f1976528fcb6b07dcdc021dd5aba",
+        "optout": 1,
         "uploaded": "2024-08-14",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/8/14/80460ba2-a80b-401b-8ab3-9cf5c5208eaf/1723596742125-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_377502610.apk",
+        "url": "",
         "versionCode": "377502610",
         "versionName": "FireTv.377.502601"
     },
     {
         "md5": "ee5a8e16dfcba821c9390be2ffb41ae3",
+        "optout": 1,
         "uploaded": "2024-08-28",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/8/28/a595d375-2aaf-44bd-b796-dd355ad43f8a/1724803675745-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_377503310.apk",
+        "url": "",
         "versionCode": "377503310",
         "versionName": "FireTv.377.503301"
     },
     {
         "md5": "c0fa1f0d9bb2e364052a58bb0171f70f",
+        "optout": 1,
         "uploaded": "2024-09-13",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/9/13/06900699-42eb-465c-91d6-85889eb0a9d6/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_377503610.apk",
+        "url": "",
         "versionCode": "377503610",
         "versionName": "FireTv.377.503601"
     },
     {
         "md5": "45172cb2f79f0565196816067f01ab7b",
+        "optout": 1,
         "uploaded": "2024-09-20",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/9/20/b42ebc67-af46-4b84-a0c1-cc9ca3d87c0d/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_380501210.apk",
+        "url": "",
         "versionCode": "380501210",
         "versionName": "FireTv.380.501201"
     },
     {
         "md5": "9690b96b6c978b6e7705106bcc005218",
+        "optout": 1,
         "uploaded": "2024-09-30",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/9/30/cb69eb99-1cae-4032-a60e-8acf2f620b16/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_382500610.apk",
+        "url": "",
         "versionCode": "382500610",
         "versionName": "FireTv.382.500601"
     },
     {
         "md5": "85dd43dbffc412e743f138e306435318",
+        "optout": 1,
         "uploaded": "2024-10-15",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/15/4d8afa7b-0e62-4339-9a4d-94b80a15b7e1/1728979105522-com.amazon.avod.apk",
+        "url": "",
         "versionCode": "384500910",
         "versionName": "FireTv.384.500901"
     },
     {
         "md5": "eb9c12c890d1267d2b90567af86827d1",
+        "optout": 1,
         "uploaded": "2024-11-01",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/11/1/de687644-489a-4cdc-bc66-2b6721c85b9b/1730483044127-com.amazon.avod.apk",
+        "url": "",
         "versionCode": "387501010",
         "versionName": "FireTv.387.501001"
     },
     {
         "md5": "b69c5ae92a3e890f7e792358d48e48b4",
+        "optout": 1,
         "uploaded": "2024-11-12",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/11/12/4471d83b-20e1-44aa-b50a-36f3b008d845/1731438281226-com.amazon.avod.apk",
+        "url": "",
         "versionCode": "388500810",
         "versionName": "FireTv.388.500801"
     },
     {
         "md5": "0ace2082d2f3a2d1ccb660df1c983a30",
+        "optout": 1,
         "uploaded": "2024-11-17",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/11/17/1f64fada-dc79-4157-a801-1a1d61469db5/1731875370318-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_388500910.apk",
+        "url": "",
         "versionCode": "388500910",
         "versionName": "FireTv.388.500901"
     },
     {
         "md5": "60ab89078f4bb008c3125b82c24be5eb",
+        "optout": 1,
         "uploaded": "2024-11-21",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/11/21/85b806c1-9b6c-4234-a48d-f7d3ea8b5c1c/1732178276127-com.amazon.avod.apk",
+        "url": "",
         "versionCode": "389501510",
         "versionName": "FireTv.389.501501"
     },
     {
         "md5": "70c42317ba0001910b77800838f46ecd",
+        "optout": 1,
         "uploaded": "2024-11-25",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/11/25/ca5f9a82-c64d-483c-ba5e-d6c4b576ed96/1732554013397-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_389501810.apk",
+        "url": "",
         "versionCode": "389501810",
         "versionName": "FireTv.389.501801"
     },
     {
         "md5": "7a2126170f2b86092a65e9af93d44757",
+        "optout": 1,
         "uploaded": "2024-12-03",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/12/3/df5046b4-835b-48f4-b0bb-044b99844f1f/1733211345248-ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_390500310.apk",
+        "url": "",
         "versionCode": "390500310",
         "versionName": "FireTv.390.500301"
     },

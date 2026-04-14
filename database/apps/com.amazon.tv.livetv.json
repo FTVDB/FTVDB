@@ -113,8 +113,9 @@
     },
     {
         "md5": "85229bd0982644b54bf6b331f298f1aa",
+        "optout": 1,
         "uploaded": "2022-10-28",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/aa359dc0ffe6dc5341b348cc8740fb93/12113016.apk",
+        "url": "",
         "versionCode": "1211301610",
         "versionName": "2.0.220319.0-com.amazon.tv.livetv_1211301610"
     },
@@ -141,57 +142,65 @@
     },
     {
         "md5": "0caaf02f040cdfa079cf35cca1c008c2",
+        "optout": 1,
         "uploaded": "2023-05-16",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/45eac13e4096360e2a71532a8c645149/com.amazon.tv.livetv.apk",
+        "url": "",
         "versionCode": "1211702810",
         "versionName": "2.0.221698.0-com.amazon.tv.livetv_1211702810"
     },
     {
         "md5": "9a10344c1c72359a2a5bc060346ba6fd",
+        "optout": 1,
         "uploaded": "2023-06-28",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/f9d7a7157448235e6df3db00b59d819c/com.amazon.tv.livetv.apk",
+        "url": "",
         "versionCode": "1211803810",
         "versionName": "2.0.222233.0-com.amazon.tv.livetv_1211803810"
     },
     {
         "md5": "58b9fdafdca0f40576a5a2aed002a38d",
+        "optout": 1,
         "uploaded": "2023-07-14",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/5470ca9074554cd23b84132d07282731/com.amazon.tv.livetv.apk",
+        "url": "",
         "versionCode": "1211803910",
         "versionName": "2.0.222404.0-com.amazon.tv.livetv_1211803910"
     },
     {
         "md5": "b03abb3b19140aac074ef07b42c4ba74",
+        "optout": 1,
         "uploaded": "2023-08-11",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/cf02b975a6ed6f18f7f75dabe3267724/6A_Rollback_12126499.apk",
+        "url": "",
         "versionCode": "1212649910",
         "versionName": "2.0.222817.0-com.amazon.tv.livetv_1212649910"
     },
     {
         "md5": "04bb4efc47ea17c36d3501061aa83300",
+        "optout": 1,
         "uploaded": "2023-08-14",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/3f86122c85a8dc67ea9aef626a1f3f8f/com.amazon.tv.livetv.apk",
+        "url": "",
         "versionCode": "1212603610",
         "versionName": "2.0.222853.0-com.amazon.tv.livetv_1212603610"
     },
     {
         "md5": "2b79a4a1edeb82f793551b4cad3bd6c6",
+        "optout": 1,
         "uploaded": "2023-09-06",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/cdae84c2dd473beb2d6eda78c39bc40a/com.amazon.tv.livetv.apk",
+        "url": "",
         "versionCode": "1212650110",
         "versionName": "2.0.223236.0-com.amazon.tv.livetv_1212650110"
     },
     {
         "md5": "f2bc23e7c1023f526e9b78559d6720a8",
+        "optout": 1,
         "uploaded": "2023-09-19",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/9c55c7cb7d53495ddb6342ab12d8d15e/com.amazon.tv.livetv6.apk",
+        "url": "",
         "versionCode": "1212749910",
         "versionName": "2.0.223337.0-com.amazon.tv.livetv_1212749910"
     },
     {
         "md5": "26c3e0e52a2dcee3ed600bbc1a3b5896",
+        "optout": 1,
         "uploaded": "2023-09-27",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/53464a529af38cec0508de2c1a7c8b05/com.amazon.tv.livetv.apk",
+        "url": "",
         "versionCode": "1212704610",
         "versionName": "2.0.223590.0-com.amazon.tv.livetv_1212704610"
     },

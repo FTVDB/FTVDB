@@ -8,8 +8,9 @@
     },
     {
         "md5": "abb581fb94a5d413b4448b8fe8047627",
+        "optout": 1,
         "uploaded": "2022-10-12",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/fc89572c6f7ff508c934aecc2fb1b4ad/com.amazon.ssmsys.apk",
+        "url": "",
         "versionCode": "5053110",
         "versionName": "1.0.625.0-com.amazon.ssmsys_5053110"
     },

@@ -1,15 +1,17 @@
 [
     {
         "md5": "980788557a35f7c5a4ca8048555da342",
+        "optout": 1,
         "uploaded": "2023-04-25",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/50b6ada834f0696bf921e1ab7c80a2a4/signed_com.amazon.perfcollection_v1009210.apk",
+        "url": "",
         "versionCode": "1009210",
         "versionName": "1.009.210"
     },
     {
         "md5": "f846d0ed4b451c5bed1f456e7109b4ee",
+        "optout": 1,
         "uploaded": "2023-05-20",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/546efbb7f76beb92d203aba50202d959/signed_com.amazon.perfcollection_v1010110.apk",
+        "url": "",
         "versionCode": "1010110",
         "versionName": "1.010.110"
     }

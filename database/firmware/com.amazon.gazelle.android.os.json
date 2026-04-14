@@ -1,190 +1,217 @@
 [
     {
         "md5": "ba22a775d46fd39f533a6684631b41ee",
+        "optout": 1,
         "uploaded": "2023-02-09",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/b3dc079f5eac223fea9f8666e7be990d/update-kindle-gazelle-PS7613_user_3701_0025401652612.bin",
+        "url": "",
         "versionCode": "25401652612",
         "versionName": "Fire OS 7.6.1.3 (PS7613/3701)"
     },
     {
         "md5": "8fb2db5a46a7a09fc9f35dd393e693fe",
+        "optout": 1,
         "uploaded": "2023-05-23",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/ded5f6297c3a43e5b415a03e23e29527/update-kindle-gazelle-PS7646_user_3550_0028085968516.bin",
+        "url": "",
         "versionCode": "28085968516",
         "versionName": "Fire OS 7.6.4.6 (PS7646/3550)"
     },
     {
         "md5": "2849b0e0d9a1955a5f0d0bf904c8b42f",
+        "optout": 1,
         "uploaded": "2023-08-26",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/26ea8e7e046767da72b0e27901ae75c1/update-kindle-gazelle-PS7646_user_3565_0028085972356.bin",
+        "url": "",
         "versionCode": "28085972356",
         "versionName": "Fire OS 7.6.4.6 (PS7646/3565)"
     },
     {
         "md5": "41548a9005c34f54d884fefcf3b3352a",
+        "optout": 1,
         "uploaded": "2023-08-27",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/654ae6d5f6d9c317f56ff110ac8beb56/update-kindle-gazelle-PS7652_user_3564_0028488625284.bin",
+        "url": "",
         "versionCode": "28488625284",
         "versionName": "Fire OS 7.6.5.2 (PS7652/3564)"
     },
     {
         "md5": "411bcda42496d261a60d2e9c91851bfe",
+        "optout": 1,
         "uploaded": "2023-09-25",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/267a77329e0a9cff77ffdb54e79c34ac/update-kindle-gazelle-PS7664_user_3772_0029159767172.bin",
+        "url": "",
         "versionCode": "29159767172",
         "versionName": "Fire OS 7.6.6.4 (PS7664/3772)"
     },
     {
         "md5": "980abb5d345a0cef57e0da76a9bc08ee",
+        "optout": 1,
         "uploaded": "2023-12-27",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2023/12/27/d345bda0-a17e-4999-a74b-4e509012de48/update-kindle-gazelle-PS7668_user_3894_0029562451588.bin",
+        "url": "",
         "versionCode": "29562451588",
         "versionName": "Fire OS 7.6.6.8 (PS7668/3894)"
     },
     {
         "md5": "4cb5d6426e619faf2d4243b71732be15",
+        "optout": 1,
         "uploaded": "2024-02-01",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/2/1/f92688f7-20e5-49f9-9680-c3b7cf726853/update-kindle-gazelle-PS7669_user_4007_0029696698244.bin",
+        "url": "",
         "versionCode": "29696698244",
         "versionName": "Fire OS 7.6.6.9 (PS7669/4007)"
     },
     {
         "md5": "91f3251b4a5b00e3f8784331464658c4",
+        "optout": 1,
         "uploaded": "2024-04-16",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/4/16/380f84b4-378e-471a-8182-8797dff1d9f0/update-kindle-gazelle-PS7671_user_4097_0029965156740.bin",
+        "url": "",
         "versionCode": "29965156740",
         "versionName": "Fire OS 7.6.7.1 (PS7671/4097)"
     },
     {
         "md5": "a5d7e418679e3b765fe07b29c82d0f7a",
+        "optout": 1,
         "uploaded": "2024-05-20",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/5/20/e103157d-3b8d-4057-b6ca-00f0a47ea1b4/update-kindle-gazelle-PS7673_user_4183_0030367831940.bin",
+        "url": "",
         "versionCode": "30367831940",
         "versionName": "Fire OS 7.6.7.3 (PS7673/4183)"
     },
     {
         "md5": "da449f79c9e5a34929f347b569c3f29c",
+        "optout": 1,
         "uploaded": "2024-07-08",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/8/c0688229-f272-4a4a-a405-83874d096a70/update-kindle-gazelle-PS7679_user_4292_0030971839620.bin",
+        "url": "",
         "versionCode": "30971839620",
         "versionName": "Fire OS 7.6.7.9 (PS7679/4292)"
     },
     {
         "md5": "6ae309a66e04cf17b4a03262d10ddf3d",
+        "optout": 1,
         "uploaded": "2024-09-02",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/9/2/2ea31e67-db2e-4dc2-82c6-a8db5bc981f8/update-kindle-gazelle-PS7681_user_4384_0031106080900.bin",
+        "url": "",
         "versionCode": "31106080900",
         "versionName": "Fire OS 7.6.8.1 (PS7681/4384)"
     },
     {
         "md5": "affb4e3c7f13c32eb966379be407aab6",
+        "optout": 1,
         "uploaded": "2024-10-30",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/30/e7a14b29-5bea-4fbd-90c3-e049cd3a96c8/update-kindle-gazelle-PS7685_user_4486_0031642977924.bin",
+        "url": "",
         "versionCode": "31642977924",
         "versionName": "Fire OS 7.6.8.5 (PS7685/4486)"
     },
     {
         "md5": "5d7ab3b47c60ae947f542c1fcdf7419c",
+        "optout": 1,
         "uploaded": "2024-12-12",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/12/12/71dc6993-1c21-4c1c-83ab-d892a59426f4/update-kindle-gazelle-PS7685_user_4490_0031642978948.bin",
+        "url": "",
         "versionCode": "31642978948",
         "versionName": "Fire OS 7.6.8.5 (PS7685/4490)"
     },
     {
         "md5": "c5273c0309010ee86d7618ac9be4f7ad",
+        "optout": 1,
         "uploaded": "2025-01-11",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/1/11/c97fc75c-11a9-4c50-92c4-0c7d62e96bc0/update-kindle-gazelle-PS7688_user_4591_0032112766852.bin",
+        "url": "",
         "versionCode": "32112766852",
         "versionName": "Fire OS 7.6.8.8 (PS7688/4591)"
     },
     {
         "md5": "036d97e774c241b18ebc0a0ec5e6772c",
+        "optout": 1,
         "uploaded": "2025-03-05",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/3/5/47089ed5-a3f4-4a35-9cc4-426de4fb03c4/update-kindle-gazelle-PS7690_user_4714_0032381233796.bin",
+        "url": "",
         "versionCode": "32381233796",
         "versionName": "Fire OS 7.6.9.0 (PS7690/4714)"
     },
     {
         "md5": "ef4868d81d25fd6bd9482b748454ad54",
+        "optout": 1,
         "uploaded": "2025-03-19",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/3/19/db9095b8-4145-41de-b87a-80c0366a1f94/update-kindle-gazelle-PS7690_user_4716_0032381234308.bin",
+        "url": "",
         "versionCode": "32381234308",
         "versionName": "Fire OS 7.6.9.0 (PS7690/4716)"
     },
     {
         "md5": "55471250b02163027cdfa97c62496b07",
+        "optout": 1,
         "uploaded": "2025-04-14",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/4/14/14b30707-1b4f-4271-8c04-32c7a3316f1b/update-kindle-gazelle-PS7696_user_5226_0032649800324.bin",
+        "url": "",
         "versionCode": "32649800324",
         "versionName": "Fire OS 7.6.9.6 (PS7696/5226)"
     },
     {
         "md5": "9f620972f10821df56d0e6e76cdaefbb",
+        "optout": 1,
         "uploaded": "2025-05-09",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/9/b2c10cae-f3b1-4545-a1b3-21ae54172342/update-kindle-gazelle-PS7696_user_5229_0032649801092.bin",
+        "url": "",
         "versionCode": "32649801092",
         "versionName": "Fire OS 7.6.9.6 (PS7696/5229)"
     },
     {
         "md5": "cae4c03fb8727b4dbf3a2c883787511e",
+        "optout": 1,
         "uploaded": "2025-05-30",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/30/655f2aea-3039-4862-b478-c8d3a8af444e/update-kindle-gazelle-PS7699_user_4894_0033052368516.bin",
+        "url": "",
         "versionCode": "33052368516",
         "versionName": "Fire OS 7.6.9.9 (PS7699/4894)"
     },
     {
         "md5": "7c21c8d4e6614bc2c5c62673eead33c4",
+        "optout": 1,
         "uploaded": "2025-06-22",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/6/22/a62219ab-60e0-49eb-9bb3-932cc74c90fe/update-kindle-gazelle-PS7699_user_4896_0033052369028.bin",
+        "url": "",
         "versionCode": "33052369028",
         "versionName": "Fire OS 7.6.9.9 (PS7699/4896)"
     },
     {
         "md5": "e110a7bdf09ca5dfd926e33d892f780b",
+        "optout": 1,
         "uploaded": "2025-07-17",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/7/17/5a8c8d3e-b480-4443-8f32-b287cd31b254/update-kindle-gazelle-PS7702_user_4965_0033455039876.bin",
+        "url": "",
         "versionCode": "33455039876",
         "versionName": "Fire OS 7.7.0.2 (PS7702/4965)"
     },
     {
         "md5": "b09cce3b6885304b321381f54c559f03",
+        "optout": 1,
         "uploaded": "2025-08-18",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/8/18/8b41fe94-e858-4f2c-9f02-0bdd7daf6841/update-kindle-gazelle-PS7704_user_5024_0033723490436.bin",
+        "url": "",
         "versionCode": "33723490436",
         "versionName": "Fire OS 7.7.0.4 (PS7704/5024)"
     },
     {
         "md5": "f2259d1bddd996693fcd9c5aacf77f19",
+        "optout": 1,
         "uploaded": "2025-09-29",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/9/29/fe637728-0ab4-4177-89a6-d4624136c4c0/update-kindle-gazelle-PS7706_user_5106_0033924838020.bin",
+        "url": "",
         "versionCode": "33924838020",
         "versionName": "Fire OS 7.7.0.6 (PS7706/5106)"
     },
     {
         "md5": "a0a796c06a5a4d4997d3178488c386ad",
+        "optout": 1,
         "uploaded": "2025-11-03",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/3/677f4a54-2bf3-4e29-9f3c-3b50a517473d/update-kindle-gazelle-PS7707_user_5376_0034394669188.bin",
+        "url": "",
         "versionCode": "34394669188",
         "versionName": "Fire OS 7.7.0.7 (PS7707/5376)"
     },
     {
         "md5": "a9a53d1e09ab2210f2917ccc1341b6ce",
+        "optout": 1,
         "uploaded": "2025-11-26",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/26/34da1bf0-a648-42d9-add0-5d921a4185ca/update-kindle-gazelle-PS7710_user_6003_0034730374020.bin",
+        "url": "",
         "versionCode": "34730374020",
         "versionName": "Fire OS 7.7.1.0 (PS7710/6003)"
     },
     {
         "md5": "7dfedd3f453fcf1f9d3a8b8615864bbb",
+        "optout": 1,
         "uploaded": "2026-01-06",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/1/6/5cea4858-8457-4554-b338-5dc0cd6b0798/update-kindle-gazelle-PS7711_user_5272_0034763741316.bin",
+        "url": "",
         "versionCode": "34763741316",
         "versionName": "Fire OS 7.7.1.1 (PS7711/5272)"
     },
     {
         "md5": "8007b48564bf35723b99df3979dc8f0d",
+        "optout": 1,
         "uploaded": "2026-02-25",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/25/d7a139d0-37f9-4b9c-857b-b3de764d1888/update-kindle-gazelle-PS7712_user_5371_0035199974276.bin",
+        "url": "",
         "versionCode": "35199974276",
         "versionName": "Fire OS 7.7.1.2 (PS7712/5371)"
     }

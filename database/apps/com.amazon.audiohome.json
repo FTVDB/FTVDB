@@ -1,36 +1,41 @@
 [
     {
         "md5": "35b5bf9b8cca58208c5211d46af25a61",
+        "optout": 1,
         "uploaded": "2023-12-07",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/e7897425f12414224031632633958c93/app-armeabi-v7a-release-prod-signed-10048811.apk",
+        "url": "",
         "versionCode": "10048811",
         "versionName": "1.00488.1.1"
     },
     {
         "md5": "5089b5ebc3bd8b055313a6911bbbd61b",
+        "optout": 1,
         "uploaded": "2024-05-15",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/5/15/62f88cef-f262-4d14-a7a9-375e79b35b98/app-armeabi-v7a-release-prod-signed-10075911.apk",
+        "url": "",
         "versionCode": "10075911",
         "versionName": "1.00759.1.1"
     },
     {
         "md5": "a7c2a7a0fe5245e29c5be5fde0472bb4",
+        "optout": 1,
         "uploaded": "2024-07-30",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/30/15b4e965-c19d-4f4e-a04f-38c2d9570f91/app-fireTv-armeabi-v7a-release-prod-signed-10103411.apk",
+        "url": "",
         "versionCode": "10103411",
         "versionName": "1.01034.1.1"
     },
     {
         "md5": "42ee29178409eab139e795721b156453",
+        "optout": 1,
         "uploaded": "2025-02-11",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/2/11/62ad9a7d-51b8-4f24-b09b-789505981bf4/app-fireTv-armeabi-v7a-release-prod-signed-10166211.apk",
+        "url": "",
         "versionCode": "10166211",
         "versionName": "1.01662.1.1"
     },
     {
         "md5": "2b1678d7ab1a8b63fc6b8cf08b3415f9",
+        "optout": 1,
         "uploaded": "2025-06-27",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/6/27/8d6150a3-0743-404c-8398-2e7ad74c1154/app-fireTv-armeabi-v7a-release-prod-signed-10514211.apk",
+        "url": "",
         "versionCode": "10514211",
         "versionName": "1.05142.1.1"
     },

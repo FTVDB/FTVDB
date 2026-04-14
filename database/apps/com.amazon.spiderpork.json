@@ -1,29 +1,33 @@
 [
     {
         "md5": "59d393785be027b38c2f93995dc655a4",
+        "optout": 1,
         "uploaded": "2025-04-17",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/4/17/782950af-5577-4055-9de2-a2e2c46acec4/1744881509975-signed_SpiderPorkClientAndroidAPK-tv-universal-14903release.apk",
+        "url": "",
         "versionCode": "131001710",
         "versionName": "1.13101.0017.0-release"
     },
     {
         "md5": "6d1e3ae3f3fdec00e4964d66bf4dc07f",
+        "optout": 1,
         "uploaded": "2025-06-02",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/6/2/6bfa47f2-0d62-4a30-83dd-4e05c5fb481e/1748858862547-signed_SpiderPorkClientAndroidAPK-tv-universal-15145release.apk",
+        "url": "",
         "versionCode": "132001410",
         "versionName": "1.13201.0014.0-release"
     },
     {
         "md5": "92ec9080b01756546c5b15d0d84b167e",
+        "optout": 1,
         "uploaded": "2025-07-21",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/7/21/ec969db7-465b-40fa-909c-d8927cb4520a/1753083513625-signed_SpiderPorkClientAndroidAPK-tv-universal-15264release.apk",
+        "url": "",
         "versionCode": "133000310",
         "versionName": "1.13300.0003.0-release"
     },
     {
         "md5": "4f741e59ed16477aaf0d21f39d3b6a83",
+        "optout": 1,
         "uploaded": "2026-02-11",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/11/bc476e7c-eb15-43f1-a318-11eb96f7e2b4/1770796075612-signed_SpiderPorkClientAndroidAPK-tv17372-universal-release.apk",
+        "url": "",
         "versionCode": "136001510",
         "versionName": "1.13600.0015.0-release"
     }

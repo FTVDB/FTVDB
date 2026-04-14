@@ -50,15 +50,17 @@
     },
     {
         "md5": "709556aaaada94380b12e030f79c8f22",
+        "optout": 1,
         "uploaded": "2022-11-08",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/6c41aed5316d2c5a0853725c8033f8ff/signed_FireTvOobe-jarvis-release-1.0.6856.0.apk",
+        "url": "",
         "versionCode": "625001910",
         "versionName": "1.0.6856.0-com.amazon.tv.oobe-jarvis_625001910"
     },
     {
         "md5": "c172e700e3a4d1f1d73b5e95b60017e2",
+        "optout": 1,
         "uploaded": "2022-11-24",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/d73bdf82e3fb720972200510093df558/signed_FireTvOobe-jarvis-release3.apk",
+        "url": "",
         "versionCode": "625002710",
         "versionName": "1.0.7123.0-com.amazon.tv.oobe-jarvis_625002710"
     },

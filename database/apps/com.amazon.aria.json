@@ -92,15 +92,17 @@
     },
     {
         "md5": "ebd7d402b8b79d743bbcf2fef9fa19bd",
+        "optout": 1,
         "uploaded": "2022-09-28",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/239f36f2bae71d0e3ffb31cf5698aa82/signed_AriaRuntime-2022.2.643.0-standard-armeabi-v7a-release.apk",
+        "url": "",
         "versionCode": "31307210",
         "versionName": "AriaRuntime-2022.2.643.0"
     },
     {
         "md5": "5e4cf924d2d9bd57957b9cc8d0c7b8a2",
+        "optout": 1,
         "uploaded": "2022-11-30",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/595ac228cd28046e5ebb26b3ad4cfb27/signed_AriaRuntime-2022.2.1.19.0-standard-armeabi-v7a-release.apk",
+        "url": "",
         "versionCode": "31701210",
         "versionName": "AriaRuntime-2022.2.1.19.0"
     },

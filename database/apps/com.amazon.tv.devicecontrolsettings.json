@@ -15,8 +15,9 @@
     },
     {
         "md5": "71538e441fddfd6f7e3117a33c07feda",
+        "optout": 1,
         "uploaded": "2020-08-24",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/78d9dc8c2ec3028895f2b7ce18ad2656/FireTV_OZ_OOBE_Settings-release-signed_1.apk",
+        "url": "",
         "versionCode": "101435510",
         "versionName": "1.0.210034.0_101435510"
     },
@@ -29,8 +30,9 @@
     },
     {
         "md5": "113aef9c99e066c8e87f4ecc3331ce39",
+        "optout": 1,
         "uploaded": "2020-11-27",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/bd39b928408e3ffd0a76adb09ffc1f28/FireTV_OZ_OOBE_Settings-caltrain-release-signed_4.apk",
+        "url": "",
         "versionCode": "101764410",
         "versionName": "1.0.211024.0-caltrain_101764410"
     },
@@ -78,15 +80,17 @@
     },
     {
         "md5": "baa37a73745883293eb9b86a263e4977",
+        "optout": 1,
         "uploaded": "2022-11-03",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/ecfc26b8c38f61c7b3625f5e476ed369/215723_FireTV_OZ_OOBE_Settings-jarvis-release-signed.apk",
+        "url": "",
         "versionCode": "1011923010",
         "versionName": "1.0.215723.0-jarvis_1011923010"
     },
     {
         "md5": "e12d2600c74c1db1c63568d4a80972a1",
+        "optout": 1,
         "uploaded": "2023-05-29",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/24062daba9a7cf55d46fa55fa02a52f1/FireTV_OZ_OOBE_Settings-jarvis-release-signed_1_7.apk",
+        "url": "",
         "versionCode": "1012014010",
         "versionName": "1.0.216308.0-jarvis_1012014010"
     }

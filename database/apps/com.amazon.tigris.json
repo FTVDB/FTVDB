@@ -1,15 +1,17 @@
 [
     {
         "md5": "8cbb88bbbf7c575ed76e4106e67d2756",
+        "optout": 1,
         "uploaded": "2024-08-19",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/8/19/dd6771f1-ede3-4e94-91e3-fc2987c7631e/1724041207597-signed_Tigris-v1-final.apk",
+        "url": "",
         "versionCode": "100610",
         "versionName": "v8.10.33.1006"
     },
     {
         "md5": "59b9561ba7b6a0ec5d3ad41fd3921e6f",
+        "optout": 1,
         "uploaded": "2024-09-12",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/9/12/f0fcaee2-140a-4a7e-8f32-347686dbd4b9/1726136040560-tigris-v1.1-hotfix-final-signed(1).apk",
+        "url": "",
         "versionCode": "100810",
         "versionName": "v8.10.33.1008"
     }

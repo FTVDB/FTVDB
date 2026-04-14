@@ -15,8 +15,9 @@
     },
     {
         "md5": "32e37d3759a4037965c845adb8b50fe8",
+        "optout": 1,
         "uploaded": "2022-11-11",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/7a6bd4125f9153603f9d25081a9406f6/885.0-GameHubAPK-tv-release-signed_1048510.apk",
+        "url": "",
         "versionCode": "1049110",
         "versionName": "1.0.885.0-com.amazon.gamehub-tv_1049110"
     },

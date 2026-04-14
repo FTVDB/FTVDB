@@ -99,8 +99,9 @@
     },
     {
         "md5": "3a42d5ff9eca4eb3938abd4f9a36658d",
+        "optout": 1,
         "uploaded": "2022-10-12",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/74d41af2620121deaec49610e89940ff/com.amazon.venezia.apk",
+        "url": "",
         "versionCode": "422472210",
         "versionName": "release-8.5011.5.v.x.218736.0_422472210"
     },
@@ -113,8 +114,9 @@
     },
     {
         "md5": "7bbb99b6511bf69574904832791dcd3f",
+        "optout": 1,
         "uploaded": "2022-12-25",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/c818e2ab45804b6e95ca844f0b0d5896/A1_5.v.x.219477.0.apk",
+        "url": "",
         "versionCode": "422639210",
         "versionName": "release-8.5013.5.v.x.219477.0_422639210"
     },
@@ -155,22 +157,25 @@
     },
     {
         "md5": "f4b354ea0dac88f2d15266d5006e2c8b",
+        "optout": 1,
         "uploaded": "2023-07-05",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/1919521207ad1d025d763f8d7dbb0ee3/MiniTVsigned.apk",
+        "url": "",
         "versionCode": "423471710",
         "versionName": "release-8.5023.5.v.x.222809.0_423471710"
     },
     {
         "md5": "03a49bb06153f1b2505130770a067488",
+        "optout": 1,
         "uploaded": "2023-08-01",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/b602ce4a2a0e7946e2712541f248a765/com.amazon.venezia.apk",
+        "url": "",
         "versionCode": "423673510",
         "versionName": "release-8.5024.5.v.x.223487.0_423673510"
     },
     {
         "md5": "dc859054f6a986ac2a02b8fe22e952c3",
+        "optout": 1,
         "uploaded": "2023-08-28",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/e3ddecb5847e4899d425543dd89a0b8c/MASClientNapkinAPK-ftv-release-signed-A8.1.1-5.v.x.224085.0.apk",
+        "url": "",
         "versionCode": "423866810",
         "versionName": "release-8.5024.5.v.x.224085.0_423866810"
     },
@@ -218,22 +223,25 @@
     },
     {
         "md5": "f1d5fbb0f64e35fd562458684e92f533",
+        "optout": 1,
         "uploaded": "2024-04-23",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/4/23/71c156de-7490-4f8f-9711-49400d328098/1713852608993-com.amazon.venezia-5.v.x.226796.0-AR2.apk",
+        "url": "",
         "versionCode": "424950710",
         "versionName": "release-8.5030.5.v.x.226796.0_424950710"
     },
     {
         "md5": "8392f8104c260a5a811e8eeecf76b3c1",
+        "optout": 1,
         "uploaded": "2024-07-18",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/18/4e8e24b9-8f0d-424f-b822-dc069cebaaee/1721318593338-AR3_DOT_8.5032.5.v.x.228309.0_425474110.apk",
+        "url": "",
         "versionCode": "425474110",
         "versionName": "release-8.5032.5.v.x.228309.0_425474110"
     },
     {
         "md5": "cbb0a35276bbe38488f7d457ac2d861f",
+        "optout": 1,
         "uploaded": "2024-09-25",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/9/25/61d90a5f-c67c-4d47-a6b3-dc590530fa60/com.amazon.venezia.apk",
+        "url": "",
         "versionCode": "425816810",
         "versionName": "release-8.5037.5.v.x.229699.0_425816810"
     },

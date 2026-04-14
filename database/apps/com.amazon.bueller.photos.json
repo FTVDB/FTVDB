@@ -36,8 +36,9 @@
     },
     {
         "md5": "7fb9da5edc4834c3f442fa64e8c36517",
+        "optout": 1,
         "uploaded": "2023-05-17",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/58911b9d5658bc3054fa8f6b55f3ee73/signed_Gallery-4.0.0.3032-fireTvRelease-armeabi-v7a.apk",
+        "url": "",
         "versionCode": "888303210",
         "versionName": "2.17.0-888303210"
     },
@@ -57,8 +58,9 @@
     },
     {
         "md5": "a0fda3ba751132c40c61235c3625e844",
+        "optout": 1,
         "uploaded": "2023-12-21",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/eac6f87ec8c8b9045885b48cc48dda65/signed_Gallery-4.0.0.3121-fireTvRelease-armeabi-v7a.apk",
+        "url": "",
         "versionCode": "891312110",
         "versionName": "2.19.0-891312110"
     },

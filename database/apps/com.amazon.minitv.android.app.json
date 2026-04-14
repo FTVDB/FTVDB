@@ -8,15 +8,17 @@
     },
     {
         "md5": "72568859ef6788316b3b192786dc98a4",
+        "optout": 1,
         "uploaded": "2024-03-28",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/3/28/db70b4f1-de6a-4469-af60-d75624af2a41/1711623033768-signed_com.amazon.minitv.android.app.release_V2.apk",
+        "url": "",
         "versionCode": "2002210",
         "versionName": "1.2.1.100"
     },
     {
         "md5": "2fcd933d925e07d36e0dd948e398afa7",
+        "optout": 1,
         "uploaded": "2024-05-06",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/5/6/03ecbc24-f7d7-476a-a537-372d91886191/1714992770215-signed_com.amazon.minitv.android.app.release.apk",
+        "url": "",
         "versionCode": "2002510",
         "versionName": "1.2.2.100"
     },

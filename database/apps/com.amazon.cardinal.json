@@ -29,15 +29,17 @@
     },
     {
         "md5": "910adb83f5db059e1cb3724c74d0d00e",
+        "optout": 1,
         "uploaded": "2022-10-18",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/cc3c9aff919542f628a2ea239e7de9d0/signed_Cardinal-1.0.210255.0-267904110-firetv-armeabi-v7a-release.apk",
+        "url": "",
         "versionCode": "267904110",
         "versionName": "1.0.210255.0-firetv_267904110"
     },
     {
         "md5": "53461e6f167dc3072f0a0bfeba65ccd5",
+        "optout": 1,
         "uploaded": "2023-01-04",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/7e64c36aa45fc7441ab56c4998eb5774/signed_Cardinal-1.0.210574.0-268258610-firetv-armeabi-v7a-release.apk",
+        "url": "",
         "versionCode": "268258610",
         "versionName": "1.0.210574.0-firetv_268258610"
     },

@@ -120,8 +120,9 @@
     },
     {
         "md5": "0508ae367de9229df4ef6551a3d8c48e",
+        "optout": 1,
         "uploaded": "2022-10-20",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/ba1a80a964a8495aa6699f105e8b60ba/signed_DMTVAndroid-firetv-prod-arm32-3.4.653.0.apk",
+        "url": "",
         "versionCode": "304064810",
         "versionName": "3.4.653.0"
     },
@@ -148,8 +149,9 @@
     },
     {
         "md5": "3e2f0a8563b127c26ca33ad1105169dc",
+        "optout": 1,
         "uploaded": "2023-02-16",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2331f9c48ac44f925e54aff02b2fea08/signed_DMTVAndroid-firetv-prod-arm32-3.4.856.0.apk",
+        "url": "",
         "versionCode": "304077110",
         "versionName": "3.4.856.0"
     },
@@ -162,8 +164,9 @@
     },
     {
         "md5": "9813bab64b929490633e65284cdaad16",
+        "optout": 1,
         "uploaded": "2023-08-04",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/5114883f99bd773d9e6b1917b1eddec0/signed_DMTVAndroid-firetv-prod-arm32-3.4.1201-release.apk",
+        "url": "",
         "versionCode": "304098510",
         "versionName": "3.4.1201.0"
     },
@@ -197,50 +200,57 @@
     },
     {
         "md5": "e1a90029a6906ac94381129aed05a203",
+        "optout": 1,
         "uploaded": "2024-06-20",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/6/20/096cde08-dc61-4384-931d-bfcb6f74e6c7/1718884666281-signed_3.4.1475.0-firetv-prod-arm32-release.apk",
+        "url": "",
         "versionCode": "304150610",
         "versionName": "3.4.1506"
     },
     {
         "md5": "5f89ad753939e0ccc9b7c30c1cc0d101",
+        "optout": 1,
         "uploaded": "2024-07-26",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/26/62034189-e718-4b67-8689-876b36e6f931/1721988173584-signed_3.4.1528-firetv-prod-arm32-release.apk",
+        "url": "",
         "versionCode": "304152810",
         "versionName": "3.4.1528"
     },
     {
         "md5": "0da6f1986d0a282a0bae9d07e4c1e469",
+        "optout": 1,
         "uploaded": "2024-08-20",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/8/20/2aaa4176-ed5e-4577-a492-31b0b0158278/1724154520604-signed_3.4.1481-firetv-prod-arm32-release.apk",
+        "url": "",
         "versionCode": "304152910",
         "versionName": "3.4.1529"
     },
     {
         "md5": "2d86b9cde3f51c6cb37cc700cf884c23",
+        "optout": 1,
         "uploaded": "2024-10-01",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/1/ec376188-e154-4d31-b331-c7d31ebe04bb/1727785289762-Uploadsigned_DMTVAndroid-firetv-prod-arm32-release.apk",
+        "url": "",
         "versionCode": "304156310",
         "versionName": "3.4.1563"
     },
     {
         "md5": "42d4d5afef9e02edf63eda042ed3fad4",
+        "optout": 1,
         "uploaded": "2024-10-30",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/30/b810a668-394a-4e39-8ac3-6117a1816832/1730308709675-DMTVAndroid-firetv-prod-arm32-release.55_signed.apk",
+        "url": "",
         "versionCode": "424210010",
         "versionName": "24.21.0.55"
     },
     {
         "md5": "ce7722b45809c65b048fd27ba5dce0a7",
+        "optout": 1,
         "uploaded": "2024-11-06",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/11/6/e1d5d444-ed72-4c6f-a00f-a7a147021982/1730914314647-signed_DMTVAndroid-firetv-prod-arm32-release.apk",
+        "url": "",
         "versionCode": "424210110",
         "versionName": "24.21.1.70"
     },
     {
         "md5": "46713c6c60f334e4f289937a969de06a",
+        "optout": 1,
         "uploaded": "2024-11-11",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/11/11/d04ff0f6-8728-4a96-9b7f-964bbef631b5/1731366997160-signed_DMTVAndroid-firetv-prod-arm32-release.apk",
+        "url": "",
         "versionCode": "424210210",
         "versionName": "24.21.2.74"
     },
@@ -302,29 +312,33 @@
     },
     {
         "md5": "472b8beb7a9af697b4ad57cc07989352",
+        "optout": 1,
         "uploaded": "2025-12-03",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/3/993eec05-9085-49a1-9694-dffc89973585/1764789069802-signed_DMTVAndroid-firetv-prod-arm32-release-25.15.0.735.735.0.apk",
+        "url": "",
         "versionCode": "425150010",
         "versionName": "25.15.0.735"
     },
     {
         "md5": "47daae81381d2715f11d7b3dfe2ab73e",
+        "optout": 1,
         "uploaded": "2025-12-09",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/9/4a2b4fc6-9c79-4859-9ef7-ef4cdae3460c/1765306601876-signed_DMTVAndroid-firetv-prod-arm32-release-25.15.1.766.766.0.apk",
+        "url": "",
         "versionCode": "425150110",
         "versionName": "25.15.1.766"
     },
     {
         "md5": "0c9355c4425b76fb3ee68a45130c57d3",
+        "optout": 1,
         "uploaded": "2026-01-06",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/1/6/32102ded-65b2-4c3c-a2ca-25e0abd5402c/1767682973409-signed_DMTVAndroid-firetv-prod-arm32-release-26.1.0.782.782.0.apk",
+        "url": "",
         "versionCode": "426010010",
         "versionName": "26.1.0.782"
     },
     {
         "md5": "8c9dcd8a5cb03885de68666e6cea953f",
+        "optout": 1,
         "uploaded": "2026-02-03",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/3/62dcbd4e-564b-45a4-86f8-02371388c851/1770117035886-signed_DMTVAndroid-firetv-prod-arm32-release-26.2.0.861.861.0.apk",
+        "url": "",
         "versionCode": "426020010",
         "versionName": "26.2.0.861"
     },

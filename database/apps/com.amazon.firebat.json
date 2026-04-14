@@ -302,8 +302,9 @@
     },
     {
         "md5": "ce76872f9bcf7b739227ebae564a8f27",
+        "optout": 1,
         "uploaded": "2022-10-10",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/814d4e2435c6df0701235a4a93d9b39a/Firebat-livingRoom-release-signed_48247610.apk",
+        "url": "",
         "versionCode": "48247610",
         "versionName": "PVFTV-48.2476-L"
     },
@@ -323,57 +324,65 @@
     },
     {
         "md5": "78bf8fb94cf3f1ae223fb2d01b560035",
+        "optout": 1,
         "uploaded": "2022-10-26",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/39f1a41077a816e3f8ecd0ef1dbf37df/Firebat-livingRoom-release-signed_49126410.apk",
+        "url": "",
         "versionCode": "49126410",
         "versionName": "PVFTV-49.1264-L"
     },
     {
         "md5": "0d85b9688d3778a4ea1502760b27bdba",
+        "optout": 1,
         "uploaded": "2022-10-31",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/c9ebc5aeff69b8d2f8a915326b819eef/Firebat-livingRoom-release-signed_50061310.apk",
+        "url": "",
         "versionCode": "50061310",
         "versionName": "PVFTV-50.0613-L"
     },
     {
         "md5": "0647f48ad9f2d739d2bc14f1ca6070e3",
+        "optout": 1,
         "uploaded": "2022-11-04",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/565e201c0efeb8b44ff83916307e81d9/Firebat-livingRoom-release-signed_50062510.apk",
+        "url": "",
         "versionCode": "50062510",
         "versionName": "PVFTV-50.0625-L"
     },
     {
         "md5": "4678acb41bf841521e010b3cf6f7844d",
+        "optout": 1,
         "uploaded": "2022-11-14",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/de02b9270ab8cce42fc1579af06ee9c8/Firebat-livingRoom-release-signed_51149810.apk",
+        "url": "",
         "versionCode": "51149810",
         "versionName": "PVFTV-51.1498-L"
     },
     {
         "md5": "378ab042401ae53ea9840137ed9ea5a0",
+        "optout": 1,
         "uploaded": "2022-12-05",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/dfd8daa56486edf41e52f1d4e69d9506/Firebat-livingRoom-release-signed_51159710.apk",
+        "url": "",
         "versionCode": "51159710",
         "versionName": "PVFTV-51.1597-L"
     },
     {
         "md5": "6ee8dcdf69e21e7f5358a3c42de4d86a",
+        "optout": 1,
         "uploaded": "2022-12-07",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/fa48cf5976861a5265250d46881cc3ab/Firebat-livingRoom-release-signed_51160010.apk",
+        "url": "",
         "versionCode": "51160010",
         "versionName": "PVFTV-51.1600-L"
     },
     {
         "md5": "c763f48afc10f12f3bdffc83b3a67bb9",
+        "optout": 1,
         "uploaded": "2022-12-21",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2ccae56f7c432ade2a6bac77eeedb78d/Firebat-livingRoom-release-signed_51163910.apk",
+        "url": "",
         "versionCode": "51163910",
         "versionName": "PVFTV-51.1639-L"
     },
     {
         "md5": "daa653f2f83a3b6a867dbe76b0315167",
+        "optout": 1,
         "uploaded": "2022-12-27",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/55cab9051b6e8bc21fcb992543e85972/Firebat-livingRoom-release-signed_51164510.apk",
+        "url": "",
         "versionCode": "51164510",
         "versionName": "PVFTV-51.1645-L"
     },
@@ -435,8 +444,9 @@
     },
     {
         "md5": "4a37e05b85e55fcd0fe8cc3608805314",
+        "optout": 1,
         "uploaded": "2023-05-01",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/5cdd887e0efcaf0db7cd45eaddc9f2ce/Firebat-livingRoom-release-signed_58196810.apk",
+        "url": "",
         "versionCode": "58196810",
         "versionName": "PVFTV-58.1968-L"
     },
@@ -456,29 +466,33 @@
     },
     {
         "md5": "24dc713ad204f2234041bdfd7e4b5daf",
+        "optout": 1,
         "uploaded": "2023-05-30",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/3760678ae8f7471d4e05d6b7c6afffa5/Firebat-livingRoom-release-signed_60154810.apk",
+        "url": "",
         "versionCode": "60154810",
         "versionName": "PVFTV-60.1548-L"
     },
     {
         "md5": "e5873bb0f03a1ff4cdff8e35226bdbf9",
+        "optout": 1,
         "uploaded": "2023-06-12",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/8204a92bdeed76ea85baa864ffdb8ac8/Firebat-livingRoom-release-signed_61107810.apk",
+        "url": "",
         "versionCode": "61107810",
         "versionName": "PVFTV-61.1078-L"
     },
     {
         "md5": "59919ffa1ad55dda08fc27f2cfe2c17f",
+        "optout": 1,
         "uploaded": "2023-06-21",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/4cbd3e6b2f46f6ef8e37ad51babb7605/Firebat-livingRoom-release-signed_61108410.apk",
+        "url": "",
         "versionCode": "61108410",
         "versionName": "PVFTV-61.1084-L"
     },
     {
         "md5": "130b6135af024ec2d6f8bd9a3f42e0ce",
+        "optout": 1,
         "uploaded": "2023-06-23",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/c8356cba0b9513660f49f91b054f8fcf/Firebat-livingRoom-release-signed_61108910.apk",
+        "url": "",
         "versionCode": "61108910",
         "versionName": "PVFTV-61.1089-L"
     },
@@ -491,64 +505,73 @@
     },
     {
         "md5": "01d423dce9d295907028ae25c5d21574",
+        "optout": 1,
         "uploaded": "2023-07-06",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/ebdb6ef52746c90a6cc5bc32154e5a12/Firebat-livingRoom-release-signed_62159610.apk",
+        "url": "",
         "versionCode": "62159610",
         "versionName": "PVFTV-62.1596-L"
     },
     {
         "md5": "5d5b31be19eb7f790218d777b0245ccb",
+        "optout": 1,
         "uploaded": "2023-07-19",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/9bc063e16e35654f607c18ccb4c8969b/Firebat-livingRoom-release-signed_62163310.apk",
+        "url": "",
         "versionCode": "62163310",
         "versionName": "PVFTV-62.1633-L"
     },
     {
         "md5": "a4350138d2edb16f19a8b65097d675e4",
+        "optout": 1,
         "uploaded": "2023-07-25",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/47a8bb4ece1b555a3398bf2e661c2260/Firebat-livingRoom-release-signed_63015210.apk",
+        "url": "",
         "versionCode": "63015210",
         "versionName": "PVFTV-63.0152-L"
     },
     {
         "md5": "e77522c7fb1721702b1e676c3a145baa",
+        "optout": 1,
         "uploaded": "2023-08-08",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/00fe28bbdceef99c0f1470319abcab8a/Firebat-livingRoom-release-signed_64014410.apk",
+        "url": "",
         "versionCode": "64014410",
         "versionName": "PVFTV-64.0144-L"
     },
     {
         "md5": "1389c48ffa587f9f775769908ba562da",
+        "optout": 1,
         "uploaded": "2023-08-12",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2133a64166b0d28c975fb4ab492ba157/Firebat-livingRoom-release-signed_64015610.apk",
+        "url": "",
         "versionCode": "64015610",
         "versionName": "PVFTV-64.0156-L"
     },
     {
         "md5": "b388f2f5745d10901592d6c009ed7796",
+        "optout": 1,
         "uploaded": "2023-08-21",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/fa838b0b1bc6783743cf1b6c2881e32c/Firebat-livingRoom-release-signed_64016410.apk",
+        "url": "",
         "versionCode": "64016410",
         "versionName": "PVFTV-64.0164-L"
     },
     {
         "md5": "c12e8be742a223fbf5b828bfc7f13b7d",
+        "optout": 1,
         "uploaded": "2023-08-28",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/d38d1a68ad9916b160e0b91c70e8b08c/Firebat-livingRoom-release-signed_64017010.apk",
+        "url": "",
         "versionCode": "64017010",
         "versionName": "PVFTV-64.0170-L"
     },
     {
         "md5": "311375fb8f198c60c67fd9a47c20ea38",
+        "optout": 1,
         "uploaded": "2023-09-05",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/7f00b24dca294e53b68f89c23780cad5/Firebat-livingRoom-release-signed_65017810.apk",
+        "url": "",
         "versionCode": "65017810",
         "versionName": "PVFTV-65.0178-L"
     },
     {
         "md5": "77a213b15957d1a7bb47f4aed415f3bf",
+        "optout": 1,
         "uploaded": "2023-09-11",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/1a711ff687fb95fdf040394cd65d20e2/Firebat-livingRoom-release-signed_65018210.apk",
+        "url": "",
         "versionCode": "65018210",
         "versionName": "PVFTV-65.0182-L"
     },
@@ -561,15 +584,17 @@
     },
     {
         "md5": "f4ae92272f06ee9dff76299ae75caa97",
+        "optout": 1,
         "uploaded": "2023-10-02",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2023/10/2/92fae7d3-49b4-4f99-9968-db5788db486c/1696216408448-Firebat-livingRoom-release-signed_67008610.apk",
+        "url": "",
         "versionCode": "67008610",
         "versionName": "PVFTV-67.0086-L"
     },
     {
         "md5": "f2443844fe887af7d0ddacae25e8010a",
+        "optout": 1,
         "uploaded": "2023-10-06",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2023/10/6/70f90e79-f7b1-4f2b-89c1-4a60c1210cb2/1696609885613-Firebat-livingRoom-release-signed_67009010.apk",
+        "url": "",
         "versionCode": "67009010",
         "versionName": "PVFTV-67.0090-L"
     },
@@ -582,8 +607,9 @@
     },
     {
         "md5": "7f2dc4323bc64d5573315933b2842b18",
+        "optout": 1,
         "uploaded": "2023-11-01",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2023/11/1/d9b4a434-fa6b-476b-b9ac-5a88317a05b2/1698876704688-Firebat-livingRoom-release-signed_69004410.apk",
+        "url": "",
         "versionCode": "69004410",
         "versionName": "PVFTV-69.0044-L"
     },
@@ -596,8 +622,9 @@
     },
     {
         "md5": "ef74bf0cf31f07dff46785a9e0c201ac",
+        "optout": 1,
         "uploaded": "2023-11-10",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2023/11/10/6495012e-1ff6-4663-8e8e-112deb9f4147/1699581840759-Firebat-livingRoom-release-signed_70011610.apk",
+        "url": "",
         "versionCode": "70011610",
         "versionName": "PVFTV-70.0116-L"
     },
@@ -610,8 +637,9 @@
     },
     {
         "md5": "48ce7e87b475d786c71d66b9cc4d1686",
+        "optout": 1,
         "uploaded": "2023-11-30",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/82fa7ec39243cbf6d7e419539e090f2f/Firebat-livingRoom-release-signed_71013210.apk",
+        "url": "",
         "versionCode": "71013210",
         "versionName": "PVFTV-71.0132-L"
     },
@@ -624,8 +652,9 @@
     },
     {
         "md5": "04be010e0712669ef24d5d8eccd2e943",
+        "optout": 1,
         "uploaded": "2023-12-08",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/8b92199dcf1ff6b492b252c417dce9df/Firebat-livingRoom-release-signed_71013610.apk",
+        "url": "",
         "versionCode": "71013610",
         "versionName": "PVFTV-71.0136-L"
     },
@@ -645,8 +674,9 @@
     },
     {
         "md5": "0fa87d9540da1d9466d4e2ec3a61652d",
+        "optout": 1,
         "uploaded": "2024-01-23",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/1/23/07a3e8ed-712f-45e0-baee-50920c97175e/1706050425746-Firebat-livingRoom-release-signed_73009210.apk",
+        "url": "",
         "versionCode": "73009210",
         "versionName": "PVFTV-73.0092-L"
     },
@@ -680,8 +710,9 @@
     },
     {
         "md5": "3d56e2c5a0adda439c52037416e62a75",
+        "optout": 1,
         "uploaded": "2024-02-22",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/2/22/da425dce-bdf7-419f-be63-9f4d548602b2/1708562210730-Firebat-livingRoom-release-signed_75012610.apk",
+        "url": "",
         "versionCode": "75012610",
         "versionName": "PVFTV-75.0126-L"
     },
@@ -694,8 +725,9 @@
     },
     {
         "md5": "59c17de683acf843848dfb6592e01e07",
+        "optout": 1,
         "uploaded": "2024-02-26",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/2/26/631c53bc-0e9e-40ba-a2b5-a1f4785bf4de/1708985300804-Firebat-livingRoom-release-signed_75013210.apk",
+        "url": "",
         "versionCode": "75013210",
         "versionName": "PVFTV-75.0132-L"
     },
@@ -715,8 +747,9 @@
     },
     {
         "md5": "7d3214606a74a4d65c1bf77c71828a67",
+        "optout": 1,
         "uploaded": "2024-03-29",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/3/29/90bff6e8-3557-495a-94b2-d9059c256928/1711743905188-Firebat-livingRoom-release-signed_78008010.apk",
+        "url": "",
         "versionCode": "78008010",
         "versionName": "PVFTV-78.0080-L"
     },
@@ -750,232 +783,265 @@
     },
     {
         "md5": "b90bbe29dbd1ea5257cbc3ea8e6fd879",
+        "optout": 1,
         "uploaded": "2024-05-09",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/5/9/67c8be82-8d28-4fd3-bf71-8f3db32c54e5/1715216888822-Firebat-livingRoom-release-signed_80017210.apk",
+        "url": "",
         "versionCode": "80017210",
         "versionName": "PVFTV-80.0172-L"
     },
     {
         "md5": "11d3c4e712e95a3d4125bd61a6989f75",
+        "optout": 1,
         "uploaded": "2024-05-25",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/5/25/78bec54b-7144-48de-bd82-ad815493ea01/1716598612875-Firebat-livingRoom-release-signed_81015210.apk",
+        "url": "",
         "versionCode": "81015210",
         "versionName": "PVFTV-81.0152-L"
     },
     {
         "md5": "91602948d2e37fb53cba467ddce4e98e",
+        "optout": 1,
         "uploaded": "2024-05-31",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/5/31/fa926352-e255-40f7-ad49-2ec420a2e1a9/1717114142788-Firebat-livingRoom-release-signed_81015410.apk",
+        "url": "",
         "versionCode": "81015410",
         "versionName": "PVFTV-81.0154-L"
     },
     {
         "md5": "65c5c3e6cb8726a471f037ec021bf649",
+        "optout": 1,
         "uploaded": "2024-06-05",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/6/5/bb22a6e8-6c30-4d2c-8052-7418b49fc67a/1717546542958-Firebat-livingRoom-release-signed_81015610.apk",
+        "url": "",
         "versionCode": "81015610",
         "versionName": "PVFTV-81.0156-L"
     },
     {
         "md5": "d9f9ee3a1e46665b04d9590c27588754",
+        "optout": 1,
         "uploaded": "2024-06-07",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/6/7/d419b83a-16cd-4d95-bfaa-cecfcf90d008/1717801889547-Firebat-livingRoom-release-signed_82007610.apk",
+        "url": "",
         "versionCode": "82007610",
         "versionName": "PVFTV-82.0076-L"
     },
     {
         "md5": "addb50dde5600bfed18824dd6d14308c",
+        "optout": 1,
         "uploaded": "2024-06-13",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/6/13/db187b32-501b-49a7-af32-012c39fd2ee3/1718309893726-Firebat-livingRoom-release-signed_82008610.apk",
+        "url": "",
         "versionCode": "82008610",
         "versionName": "PVFTV-82.0086-L"
     },
     {
         "md5": "5bea9f80900a108c75baa2682d3fb4a6",
+        "optout": 1,
         "uploaded": "2024-06-18",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/6/18/f607a309-0d64-4a2d-95ac-d94e7cd954d0/1718670865684-Firebat-livingRoom-release-signed_82008810.apk",
+        "url": "",
         "versionCode": "82008810",
         "versionName": "PVFTV-82.0088-L"
     },
     {
         "md5": "44568d4f517e204cf81223a92a043cd7",
+        "optout": 1,
         "uploaded": "2024-06-26",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/6/26/cd1ba9a0-4047-46b0-860d-25895bfcf918/1719383823876-Firebat-livingRoom-release-signed_83009610.apk",
+        "url": "",
         "versionCode": "83009610",
         "versionName": "PVFTV-83.0096-L"
     },
     {
         "md5": "af19f0bfbd2bc8249cf5a02334c23fed",
+        "optout": 1,
         "uploaded": "2024-06-27",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/6/27/4574e617-c023-4c80-96c9-917f3d118a09/1719532568286-Firebat-livingRoom-release-signed_83009810.apk",
+        "url": "",
         "versionCode": "83009810",
         "versionName": "PVFTV-83.0098-L"
     },
     {
         "md5": "345a40a882db3614e00a8c747dcf335f",
+        "optout": 1,
         "uploaded": "2024-07-07",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/7/0f2a5cbb-8480-4b85-b192-f6a131c3c63a/1720392591840-Firebat-livingRoom-release-signed_84015210.apk",
+        "url": "",
         "versionCode": "84015210",
         "versionName": "PVFTV-84.0152-L"
     },
     {
         "md5": "3f8e5bc501f8b5b34e7234c097df33bf",
+        "optout": 1,
         "uploaded": "2024-07-12",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/12/649581cd-b41a-47e0-ac80-0c12372f2ed1/1720807094136-Firebat-livingRoom-release-signed_84019810.apk",
+        "url": "",
         "versionCode": "84019810",
         "versionName": "PVFTV-84.0198-L"
     },
     {
         "md5": "0b07cb02c0d877de45f94573e784c9d5",
+        "optout": 1,
         "uploaded": "2024-07-17",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/17/74a04b31-cfa2-42e6-a19c-b790d9ae6022/1721251083265-Firebat-livingRoom-release-signed_84020810.apk",
+        "url": "",
         "versionCode": "84020810",
         "versionName": "PVFTV-84.0208-L"
     },
     {
         "md5": "10f7988f3953a0d8d2202588b42043ee",
+        "optout": 1,
         "uploaded": "2024-07-19",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/19/d721cf85-119e-432c-a73f-e7e3cb3dc744/1721426570919-Firebat-livingRoom-release-signed_84021010.apk",
+        "url": "",
         "versionCode": "84021010",
         "versionName": "PVFTV-84.0210-L"
     },
     {
         "md5": "d22f4fbaab2de14d8b87b0945f9a6c74",
+        "optout": 1,
         "uploaded": "2024-07-24",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/24/8128dd79-1843-4bb1-b2e2-84786a837b53/1721781394764-Firebat-livingRoom-release-signed_85016210.apk",
+        "url": "",
         "versionCode": "85016210",
         "versionName": "PVFTV-85.0162-L"
     },
     {
         "md5": "3c7bd83debe139109cdc948e575157e4",
+        "optout": 1,
         "uploaded": "2024-07-25",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/25/ad8fb1e7-a946-4d6d-9571-429e18f3ec02/1721939002547-Firebat-livingRoom-release-signed_85016610.apk",
+        "url": "",
         "versionCode": "85016610",
         "versionName": "PVFTV-85.0166-L"
     },
     {
         "md5": "8d7d3180933b02136ce47475c4f77c90",
+        "optout": 1,
         "uploaded": "2024-08-02",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/8/2/254eae89-bc8f-40d3-b98a-6477fdb270b7/1722569331136-Firebat-livingRoom-release-signed_85018210.apk",
+        "url": "",
         "versionCode": "85018210",
         "versionName": "PVFTV-85.0182-L"
     },
     {
         "md5": "a9ae5b6d75b7b682a25c391ed0197e95",
+        "optout": 1,
         "uploaded": "2024-08-03",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/8/3/13a2305f-abd6-4be9-8755-7e59624770d5/1722646322475-Firebat-livingRoom-release-signed_85019010.apk",
+        "url": "",
         "versionCode": "85019010",
         "versionName": "PVFTV-85.0190-L"
     },
     {
         "md5": "4f16dc89d310f938cfac6cd90dafe116",
+        "optout": 1,
         "uploaded": "2024-08-09",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/8/9/5d7e4c22-b009-40ae-bb9e-beaf13193d7d/1723237307314-Firebat-livingRoom-release-signed_87021410.apk",
+        "url": "",
         "versionCode": "87021410",
         "versionName": "PVFTV-87.0214-L"
     },
     {
         "md5": "fc600b6a7fa37f31833d63cb547bd556",
+        "optout": 1,
         "uploaded": "2024-08-16",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/8/16/8e78af3a-b615-474c-b598-8cf5154cd081/1723841880818-Firebat-livingRoom-release-signed_87023410.apk",
+        "url": "",
         "versionCode": "87023410",
         "versionName": "PVFTV-87.0234-L"
     },
     {
         "md5": "9a929b9ec070339366316d3ada60317b",
+        "optout": 1,
         "uploaded": "2024-08-20",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/8/20/502abfc1-dd01-4484-812e-a1a11cff9488/1724116470915-Firebat-livingRoom-release-signed_87024010.apk",
+        "url": "",
         "versionCode": "87024010",
         "versionName": "PVFTV-87.0240-L"
     },
     {
         "md5": "d818c149549b1e364289cc10b5c89ca8",
+        "optout": 1,
         "uploaded": "2024-08-23",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/8/23/465eff02-3272-43e8-a793-590b5d95a9d9/1724456008117-Firebat-livingRoom-release-signed_87024410.apk",
+        "url": "",
         "versionCode": "87024410",
         "versionName": "PVFTV-87.0244-L"
     },
     {
         "md5": "bc158f6805e13971edd150e72db5ba4b",
+        "optout": 1,
         "uploaded": "2024-08-30",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/8/30/d6f26de8-f937-4b94-a9cf-e104b24fe19e/1724977594146-Firebat-livingRoom-release-signed_88007610.apk",
+        "url": "",
         "versionCode": "88007610",
         "versionName": "PVFTV-88.0076-L"
     },
     {
         "md5": "82b337dfd28364e18808dc9a3c9cb302",
+        "optout": 1,
         "uploaded": "2024-08-30",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/8/30/8a17ffed-b7d5-4f37-bc28-a31c22abb74e/1724977791067-Firebat-livingRoom-release-signed_87024610.apk",
+        "url": "",
         "versionCode": "87024610",
         "versionName": "PVFTV-87.0246-L"
     },
     {
         "md5": "fe6eb4ce6b9df8dee0c1535086a7a94e",
+        "optout": 1,
         "uploaded": "2024-09-20",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/9/20/14c24799-cd48-4acb-b70d-24d8012e8eb9/1726856652452-Firebat-livingRoom-release-signed_89011010.apk",
+        "url": "",
         "versionCode": "89011010",
         "versionName": "PVFTV-89.0110-L"
     },
     {
         "md5": "3b9a614d922b6f5108be3f1171b4756d",
+        "optout": 1,
         "uploaded": "2024-09-21",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/9/21/f9ad781c-4b8a-437c-8f1f-120216106518/1726880210272-Firebat-livingRoom-release-signed_89011110.apk",
+        "url": "",
         "versionCode": "89011110",
         "versionName": "PVFTV-89.0111-L"
     },
     {
         "md5": "33c1366da945b1bf16abde2bc8218882",
+        "optout": 1,
         "uploaded": "2024-10-04",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/4/a604bf49-4943-48ab-a3a3-d3b53eab9e34/1728073498122-Firebat-livingRoom-release-signed_90013610.apk",
+        "url": "",
         "versionCode": "90013610",
         "versionName": "PVFTV-90.0136-L"
     },
     {
         "md5": "086895e694c5added19f13912fd13010",
+        "optout": 1,
         "uploaded": "2024-10-18",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/18/2bcab8c8-19db-4ef9-923b-7613bf8e91ab/1729295158314-Firebat-livingRoom-release-signed_91015410.apk",
+        "url": "",
         "versionCode": "91015410",
         "versionName": "PVFTV-91.0154-L"
     },
     {
         "md5": "55a58617ee9c4e4a637483be94ae0443",
+        "optout": 1,
         "uploaded": "2024-11-01",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/11/1/3be6b489-d717-41c0-a446-2d21ca9c9609/1730478442882-signed_Firebat-livingRoom-release_92015010.apk",
+        "url": "",
         "versionCode": "92015010",
         "versionName": "PVFTV-92.0150-L"
     },
     {
         "md5": "69f3341bb281d71886724a8467838ef8",
+        "optout": 1,
         "uploaded": "2024-11-12",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/11/12/9565f299-c1d0-4706-8e48-dc8d1be9763b/1731435248254-signed_Firebat-livingRoom-release_93015010.apk",
+        "url": "",
         "versionCode": "93015010",
         "versionName": "PVFTV-93.0150-L"
     },
     {
         "md5": "9a27272ed2d21ecea6e7e93fcf4f505a",
+        "optout": 1,
         "uploaded": "2024-11-18",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/11/18/537bc65e-46d8-42f5-8145-5ffdbdc2d87f/1731899461226-signed_Firebat-livingRoom-release_93015410.apk",
+        "url": "",
         "versionCode": "93015410",
         "versionName": "PVFTV-93.0154-L"
     },
     {
         "md5": "2161f5ebf9f46d3612a0dd30c106d898",
+        "optout": 1,
         "uploaded": "2024-12-06",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/12/6/6f37ca14-3443-4464-ad16-5f78eba41611/1733517703906-signed_Firebat-livingRoom-release_94019410.apk",
+        "url": "",
         "versionCode": "94019410",
         "versionName": "PVFTV-94.0194-L"
     },
     {
         "md5": "7ca4f5284f74f28b103211e7b214e7c2",
+        "optout": 1,
         "uploaded": "2024-12-07",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/12/7/af4bea69-ebec-46b6-9ce0-80aef0a3c385/1733537420612-signed_Firebat-livingRoom-release_94020210.apk",
+        "url": "",
         "versionCode": "94020210",
         "versionName": "PVFTV-94.0202-L"
     },
     {
         "md5": "807f5690bfedbd070258d7561aaa3b6e",
+        "optout": 1,
         "uploaded": "2024-12-11",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/12/11/2e17bfef-7787-4f14-9503-de7e5cd7d3de/1733880431780-signed_Firebat-livingRoom-release_94020810.apk",
+        "url": "",
         "versionCode": "94020810",
         "versionName": "PVFTV-94.0208-L"
     },
@@ -1002,8 +1068,9 @@
     },
     {
         "md5": "e079785fb694030151853834d3fac92d",
+        "optout": 1,
         "uploaded": "2025-02-07",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/2/7/fab321c7-1220-4db3-829c-8a51aca445b9/1738962055242-signed_Firebat-release_95039910.apk",
+        "url": "",
         "versionCode": "95039910",
         "versionName": "PVFTV-95.0399-L"
     },
@@ -1023,8 +1090,9 @@
     },
     {
         "md5": "12bb6d6759508c401e769bbfe8fb8d8c",
+        "optout": 1,
         "uploaded": "2025-03-03",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/3/3/19f6544d-f671-4e8b-993c-f63bc06d54e4/1741043283987-signed_Firebatiap-release_96041510.apk",
+        "url": "",
         "versionCode": "96041510",
         "versionName": "PVFTV-96.0415-L"
     },
@@ -1051,8 +1119,9 @@
     },
     {
         "md5": "bee47384a74dd9d0694113531eff0bfe",
+        "optout": 1,
         "uploaded": "2025-04-03",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/4/3/548aa540-aa6f-442a-861d-5d75a600552c/1743650542256-signed_Firebatiap-release_97052910.apk",
+        "url": "",
         "versionCode": "97052910",
         "versionName": "PVFTV-97.0529-L"
     },
@@ -1107,8 +1176,9 @@
     },
     {
         "md5": "2e0e054e6fbe7de85e498b5be1d9ef04",
+        "optout": 1,
         "uploaded": "2025-04-28",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/4/28/49beb8d5-dca8-4462-9e98-1030bf796baf/1745863590723-signed_Firebatiap-release_98029510.apk",
+        "url": "",
         "versionCode": "98029510",
         "versionName": "PVFTV-98.0295-L"
     },
@@ -1156,8 +1226,9 @@
     },
     {
         "md5": "d0a903205652a783f3aebd00c8797210",
+        "optout": 1,
         "uploaded": "2025-07-09",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/7/9/423300e9-bf54-4b5e-98c0-bc8ee53446a3/1752024602020-signed_Firebat-release_102020210.apk",
+        "url": "",
         "versionCode": "102020210",
         "versionName": "PVFTV-102.0202-L"
     },
@@ -1317,22 +1388,25 @@
     },
     {
         "md5": "6a8b9beede822398dc8fefebb5e4dc6e",
+        "optout": 1,
         "uploaded": "2025-12-04",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/4/60ca5422-ccd7-4b0f-a15c-b315c42b733d/1764873777974-Signed_Firebat-release_112300110.apk",
+        "url": "",
         "versionCode": "112300110",
         "versionName": "PVFTV-112.3001-L"
     },
     {
         "md5": "97acaae37e7b0f1cb5cb1d172173482a",
+        "optout": 1,
         "uploaded": "2025-12-08",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/8/3d772226-156a-494f-93bd-9b3a691e8ae0/1765214305220-Signed_Firebat-ignitionx-release_213100210.apk",
+        "url": "",
         "versionCode": "213100210",
         "versionName": "PVFTV-213.1002-L"
     },
     {
         "md5": "948b2fa33704e9019b3c29379b30f570",
+        "optout": 1,
         "uploaded": "2025-12-15",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/15/b4e24c32-9f92-4dcc-a573-ad7aa911cd1a/1765819722422-Signed_Firebat-ignitionx-release_213100810.apk",
+        "url": "",
         "versionCode": "213100810",
         "versionName": "PVFTV-213.1008-L"
     },
@@ -1345,29 +1419,33 @@
     },
     {
         "md5": "00c54fd6285249cfc0c9ce4d882457b4",
+        "optout": 1,
         "uploaded": "2026-01-20",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/1/20/81945fd3-5765-4547-ae58-3a3a483c6c44/1768950913113-Signed_Firebat-ignitionx-release_214005010.apk",
+        "url": "",
         "versionCode": "214005010",
         "versionName": "PVFTV-214.0050-L"
     },
     {
         "md5": "2786b503ab82724055f3612b37707d49",
+        "optout": 1,
         "uploaded": "2026-01-30",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/1/30/bc5fd6e8-0343-41bc-b0ba-f7b5d920d84e/1769808299542-Signed_Firebat-ignitionx-release_214005410.apk",
+        "url": "",
         "versionCode": "214005410",
         "versionName": "PVFTV-214.0054-L"
     },
     {
         "md5": "ee82c6d8d978a3a67bba2281c40602bb",
+        "optout": 1,
         "uploaded": "2026-02-17",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/17/b9ec7d19-94d8-4b69-b721-55502616c9ed/1771359393794-Signed_Firebat-ignitionx-release_215005310.apk",
+        "url": "",
         "versionCode": "215005310",
         "versionName": "PVFTV-215.0053-L"
     },
     {
         "md5": "4d5200e37b2053c83b15893bd24b4865",
+        "optout": 1,
         "uploaded": "2026-02-19",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/19/a8a15dfe-4e34-4cc5-8b6b-6b02bc87c58a/1771545059935-Signed_Firebat-ignitionx-release_215405810.apk",
+        "url": "",
         "versionCode": "215405810",
         "versionName": "PVFTV-215.4058-L"
     },

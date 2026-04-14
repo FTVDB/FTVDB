@@ -29,85 +29,97 @@
     },
     {
         "md5": "f06852725990d5a5f486cafc53147a5b",
+        "optout": 1,
         "uploaded": "2022-12-03",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/4b0c7dbd5ce6a4c48a0e9417c094daa4/signed_slate_fire_tv_v106_5_14_arm.apk",
+        "url": "",
         "versionCode": "1065501410",
         "versionName": "106.5.14.5249.208.30"
     },
     {
         "md5": "8a2cbc6973ff4b598d5fe352a71c5fea",
+        "optout": 1,
         "uploaded": "2023-01-11",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/5121081fb323a7bd7a6e45a3e034f3e8/signed_slate_fire_tv_v108_1_135_arm.apk",
+        "url": "",
         "versionCode": "1081513510",
         "versionName": "108.1.135.5359.160.30"
     },
     {
         "md5": "dc84987a55c702948282d6295d7a2ad5",
+        "optout": 1,
         "uploaded": "2023-04-04",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/ec6ff53eacbcddfdb9aecb1f271a1ddf/signed_slate_fire_tv_v110_4_3_arm.apk",
+        "url": "",
         "versionCode": "1104500310",
         "versionName": "110.4.3.5481.212.30"
     },
     {
         "md5": "aed0beaaca050f27747a07539e94fcdb",
+        "optout": 1,
         "uploaded": "2023-04-21",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/9aacc95feb64ff016596b00c67b6ecc7/signed_slate_fire_tv_v110_6_7_arm.apk",
+        "url": "",
         "versionCode": "1106500710",
         "versionName": "110.6.7.5481.212.30"
     },
     {
         "md5": "8a1cfb8d034d1e02e6b3a9e1d68c8ffe",
+        "optout": 1,
         "uploaded": "2023-06-11",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/194a7166546300866020849731ebdd51/signed_slate_fire_tv_v112_5_1_arm.apk",
+        "url": "",
         "versionCode": "1125500110",
         "versionName": "112.5.1.5615.213.30"
     },
     {
         "md5": "60d03d873173ad3c6b749080f6076f8c",
+        "optout": 1,
         "uploaded": "2023-06-24",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/bae60a5024ef891fcb30fd233ed947c2/signed_slate_fire_tv_v112_6_11_arm.apk",
+        "url": "",
         "versionCode": "1126501110",
         "versionName": "112.6.11.5615.213.30"
     },
     {
         "md5": "f190934867f4cebd3b4ac229ccf1f289",
+        "optout": 1,
         "uploaded": "2023-07-05",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/a6db4adfada7a68c03f9c69fa405907a/signed_slate_fire_tv_v112_7_5_arm.apk",
+        "url": "",
         "versionCode": "1127500510",
         "versionName": "112.7.5.5615.213.30"
     },
     {
         "md5": "4844848da8b6294afe702d1f140f2ed4",
+        "optout": 1,
         "uploaded": "2023-07-25",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/a36f76b020626f30f82f7a10e8d41bac/signed_slate_fire_tv_v114_2_7_arm.apk",
+        "url": "",
         "versionCode": "1142500710",
         "versionName": "114.2.7.5735.220.30"
     },
     {
         "md5": "cfa6a03a325903cafa40e9103af784be",
+        "optout": 1,
         "uploaded": "2023-08-09",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/068be7bbbd1119a1ce655305dd35a632/signed_slate_fire_tv_v114_3_11_arm.apk",
+        "url": "",
         "versionCode": "1143501110",
         "versionName": "114.3.11.5735.220.30"
     },
     {
         "md5": "37deea8c0a8485758aff7d6aef03f8a9",
+        "optout": 1,
         "uploaded": "2023-09-12",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/86a6860a5410c472e5461238568c075a/signed_slate_fire_tv_v116_3_2_arm.apk",
+        "url": "",
         "versionCode": "1163500210",
         "versionName": "116.3.2.5845.187.30"
     },
     {
         "md5": "b6825358257676b1a1d821c4fdcf4572",
+        "optout": 1,
         "uploaded": "2023-09-25",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/bf5ec9aa9d16cd62d02013a8767b30c6/signed_slate_fire_tv_v116_4_3_arm.apk",
+        "url": "",
         "versionCode": "1164500310",
         "versionName": "116.4.3.5845.187.30"
     },
     {
         "md5": "e9308ec9cc7cd485577bbca8aec1d86a",
+        "optout": 1,
         "uploaded": "2023-09-29",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/7e0d2fb1fe1387d601264135c6825672/signed_slate_fire_tv_v116_5_1_arm.apk",
+        "url": "",
         "versionCode": "1165500110",
         "versionName": "116.5.1.5845.229.30"
     },
@@ -141,15 +153,17 @@
     },
     {
         "md5": "e57925d33ef871c2c3302ca7fbae3bda",
+        "optout": 1,
         "uploaded": "2023-12-21",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/f9b8160799591d6cd3a810828ec9c885/signed_slate_fire_tv_v118_4_2_arm.apk",
+        "url": "",
         "versionCode": "1184500210",
         "versionName": "118.4.2.5993.155.30"
     },
     {
         "md5": "406b556957b04fb895f4f68dd35ab4ad",
+        "optout": 1,
         "uploaded": "2024-01-16",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/1/16/027f9a66-3b3b-4105-9afd-0df5d956653e/1705443224053-signed_slate_fire_tv_v120_2_3_arm.apk",
+        "url": "",
         "versionCode": "1202500310",
         "versionName": "120.2.3.6099.232.30"
     },
@@ -162,8 +176,9 @@
     },
     {
         "md5": "f849be9f5cd5e8c44536920091b0f2c9",
+        "optout": 1,
         "uploaded": "2024-02-01",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/2/1/f44f097d-9ede-49cf-a450-9ee99d81efa7/1706809859075-signed_slate_fire_tv_v120_4_3_arm.apk",
+        "url": "",
         "versionCode": "1204500310",
         "versionName": "120.4.3.6099.266.30"
     },
@@ -176,120 +191,137 @@
     },
     {
         "md5": "cfc0de7dac2755a0547cba603f02408b",
+        "optout": 1,
         "uploaded": "2024-02-23",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/2/23/03bfd23e-7b8f-44d9-9af0-2da08088928a/1708731019033-signed_slate_fire_tv_v120_5_10_arm.apk",
+        "url": "",
         "versionCode": "1205501010",
         "versionName": "120.5.10.6099.295.30"
     },
     {
         "md5": "f49df50ed8ace6b68e4cac7b763aa558",
+        "optout": 1,
         "uploaded": "2024-03-11",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/3/11/0c7c3255-c8af-4ad7-bc25-33f45b4c41ac/1710186822224-signed_slate_fire_tv_v122_1_60_arm.apk",
+        "url": "",
         "versionCode": "1221506010",
         "versionName": "122.1.60.6261.105.30"
     },
     {
         "md5": "47c5af215f0122bb768e968fd0de8bfb",
+        "optout": 1,
         "uploaded": "2024-03-20",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/3/20/e1cdc43c-eafa-4ae2-a748-1d5d2c87e2f9/1710955091844-signed_slate_fire_tv_v122_2_2_arm.apk",
+        "url": "",
         "versionCode": "1222500210",
         "versionName": "122.2.2.6261.119.30"
     },
     {
         "md5": "5f72bf321cb7d73b2c809b82a8c598ca",
+        "optout": 1,
         "uploaded": "2024-04-10",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/4/10/5b3900f7-b468-406f-960c-63a37f600659/1712775888870-signed_slate_fire_tv_v122_3_1_arm.apk",
+        "url": "",
         "versionCode": "1223500110",
         "versionName": "122.3.1.6261.160.30"
     },
     {
         "md5": "b4e7ffbc6329ee2ce0d791af650ab0ea",
+        "optout": 1,
         "uploaded": "2024-04-25",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/4/25/995aa9a2-1fd9-4048-815b-83664d044306/1714070093420-signed_slate_fire_tv_v122_4_1_arm.apk",
+        "url": "",
         "versionCode": "1224500110",
         "versionName": "122.4.1.6261.160.30"
     },
     {
         "md5": "b75304138449e78b70614fcee9928144",
+        "optout": 1,
         "uploaded": "2024-05-09",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/5/9/de8e57ab-acc4-4980-9d30-679f24fcaafb/1715278388768-signed_slate_fire_tv_v122_5_1_arm.apk",
+        "url": "",
         "versionCode": "1225500110",
         "versionName": "122.5.1.6261.160.30"
     },
     {
         "md5": "dbfa628586f633ad99b5378ee647a302",
+        "optout": 1,
         "uploaded": "2024-05-15",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/5/15/d89189a8-e66d-4d30-8915-32570c1ad6fe/1715793856117-signed_slate_fire_tv_v122_6_4_arm.apk",
+        "url": "",
         "versionCode": "1226500410",
         "versionName": "122.6.4.6261.160.30"
     },
     {
         "md5": "5fb46951ac7c35f7b0270b4814967bde",
+        "optout": 1,
         "uploaded": "2024-05-24",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/5/24/fbf15170-4e3a-428b-99d8-d00a49e7f910/1716570638864-signed_slate_fire_tv_v124_3_2_arm.apk",
+        "url": "",
         "versionCode": "1243500210",
         "versionName": "124.3.2.6367.221.30"
     },
     {
         "md5": "a841493b2083fa5edbea471193d11eff",
+        "optout": 1,
         "uploaded": "2024-06-18",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/6/18/ab4b6170-45c5-49a9-8fa4-7e10cf89f2ec/1718751450134-signed_slate_fire_tv_v124_5_2_arm.apk",
+        "url": "",
         "versionCode": "1245500210",
         "versionName": "124.5.2.6367.248.30"
     },
     {
         "md5": "ed48e7ac4ecffc10eafaf124a9319832",
+        "optout": 1,
         "uploaded": "2024-07-24",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/24/a577f200-20a8-41bf-bfb1-2fd9f586dfd2/1721851643524-signed_slate_fire_tv_v126_2_1_arm.apk",
+        "url": "",
         "versionCode": "1262500110",
         "versionName": "126.2.1.6478.186.30"
     },
     {
         "md5": "290b06577e86bd981f514a9f3ebbe9c3",
+        "optout": 1,
         "uploaded": "2024-07-30",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/30/f8ce272f-ed46-4bf0-bbe0-5d94044c73d5/1722360691747-signed_slate_fire_tv_v126_3_3_arm.apk",
+        "url": "",
         "versionCode": "1263500310",
         "versionName": "126.3.3.6478.186.30"
     },
     {
         "md5": "485d6ff1d5104f99d675aee2bec6a484",
+        "optout": 1,
         "uploaded": "2024-08-21",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/8/21/c9e96a38-a458-4b0f-b33f-11747d4a6644/1724270090151-signed_slate_fire_tv_v126_5_1_arm.apk",
+        "url": "",
         "versionCode": "1265500110",
         "versionName": "126.5.1.6478.238.30"
     },
     {
         "md5": "6587954518120038f2758f9111ca00e2",
+        "optout": 1,
         "uploaded": "2024-08-26",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/8/26/e479e643-b4f2-469b-970e-ee6c267dc6d8/1724697817490-signed_slate_fire_tv_v126_6_2_arm.apk",
+        "url": "",
         "versionCode": "1266500210",
         "versionName": "126.6.2.6478.238.30"
     },
     {
         "md5": "0219c5cca8740a520a76aaa7222376da",
+        "optout": 1,
         "uploaded": "2024-09-24",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/9/24/136ee867-9c1a-4fdf-9e82-fdbe1b1c407e/1727197335096-signed_slate_fire_tv_v128_3_2_arm.apk",
+        "url": "",
         "versionCode": "1283500210",
         "versionName": "128.3.2.6613.146.30"
     },
     {
         "md5": "2dd4fb9d825cae69b25acbc2d4d9423c",
+        "optout": 1,
         "uploaded": "2024-10-24",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/24/885c97bb-f4c1-4bbf-80f4-679cf0343ae3/1729800069413-signed_slate_fire_tv_v128_5_4_arm.apk",
+        "url": "",
         "versionCode": "1285500410",
         "versionName": "128.5.4.6613.194.30"
     },
     {
         "md5": "0d63333473c513ace0f818ad80ff8511",
+        "optout": 1,
         "uploaded": "2024-10-28",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/28/7067bf1c-d5f0-4914-a5fb-7564f791062d/1730139154167-signed_slate_fire_tv_v128_6_1_arm.apk",
+        "url": "",
         "versionCode": "1286500110",
         "versionName": "128.6.1.6613.194.30"
     },
     {
         "md5": "4d4339cdd8911345fbee9d2a027603fb",
+        "optout": 1,
         "uploaded": "2024-11-06",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/11/6/6fa073f4-06e6-4be4-8edd-d365a68f804c/1730916421748-signed_slate_fire_tv_v130_1_71_arm.apk",
+        "url": "",
         "versionCode": "1301507110",
         "versionName": "130.1.71.6723.86.30"
     },
@@ -316,8 +348,9 @@
     },
     {
         "md5": "d9118e7d501b3789300d85338f7a022b",
+        "optout": 1,
         "uploaded": "2025-03-14",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/3/14/52954904-09a8-4708-9985-9fd6b910acc1/1741983439571-signed_slate_fire_tv_v132_4_1_arm.apk",
+        "url": "",
         "versionCode": "1324500110",
         "versionName": "132.4.1.6834.209.30"
     },
@@ -344,8 +377,9 @@
     },
     {
         "md5": "4fb704cda6c63a253d2c12e82e012d65",
+        "optout": 1,
         "uploaded": "2025-05-27",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/27/0dcbd76d-6f7f-487b-b15b-91002450fb10/1748336083093-signed_slate_fire_tv_v136_1_129_arm(2).apk",
+        "url": "",
         "versionCode": "1361512910",
         "versionName": "136.1.129.7103.125.30"
     },
@@ -393,8 +427,9 @@
     },
     {
         "md5": "8060fa1e2d90f84d9c05e3dd5419bb22",
+        "optout": 1,
         "uploaded": "2026-02-16",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/16/47f39915-72d8-410c-ad4e-a7fb67a58287/1771235398414-signed_slate_fire_tv_v138_12_2_arm.apk",
+        "url": "",
         "versionCode": "1392502010",
         "versionName": "138.12.2.0.7204.244.30"
     },

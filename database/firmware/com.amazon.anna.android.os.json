@@ -1,0 +1,34 @@
+[
+    {
+        "md5": "824fa3d144c23805d3934c8e8dedf2ac",
+        "optout": 1,
+        "uploaded": "2025-10-03",
+        "url": "",
+        "versionCode": "33924838276",
+        "versionName": "Fire OS 7.7.0.6 (PS7706/5107)"
+    },
+    {
+        "md5": "68fcef5e9d217d0219f53ab34fcc6598",
+        "optout": 1,
+        "uploaded": "2025-11-23",
+        "url": "",
+        "versionCode": "34394701188",
+        "versionName": "Fire OS 7.7.0.8 (PS7708/5501)"
+    },
+    {
+        "md5": "ed3e4b6b4e22e39de6e99256f6a8dde2",
+        "optout": 1,
+        "uploaded": "2026-01-06",
+        "url": "",
+        "versionCode": "34763741316",
+        "versionName": "Fire OS 7.7.1.1 (PS7711/5272)"
+    },
+    {
+        "md5": "324e06c661db620b523648cf5a5c790d",
+        "optout": 1,
+        "uploaded": "2026-02-23",
+        "url": "",
+        "versionCode": "35199974020",
+        "versionName": "Fire OS 7.7.1.2 (PS7712/5370)"
+    }
+]

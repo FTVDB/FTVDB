@@ -141,8 +141,9 @@
     },
     {
         "md5": "fe136c5d3c5602a66b2d583069f7653b",
+        "optout": 1,
         "uploaded": "2022-12-01",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/4e494a97da11e77773aa0f4e70e0446d/FireTvLauncher-release.apk",
+        "url": "",
         "versionCode": "641002810",
         "versionName": "6410028.1"
     },
@@ -183,8 +184,9 @@
     },
     {
         "md5": "7e82408a079172412f07446f89eae033",
+        "optout": 1,
         "uploaded": "2023-07-19",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/4dd4e09b13405cee1756b0d2dba62e8d/R4.1_launcher_hotfix_64600371.apk",
+        "url": "",
         "versionCode": "646003710",
         "versionName": "6460037.1"
     },
@@ -211,22 +213,25 @@
     },
     {
         "md5": "bf11a1712464322da58fd0b128d7f6cd",
+        "optout": 1,
         "uploaded": "2024-04-11",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/4/11/45117ee9-86da-4d2a-b32e-e88ec9d29e69/1712816817024-R13.1_651011810.apk",
+        "url": "",
         "versionCode": "651011810",
         "versionName": "6510118.1"
     },
     {
         "md5": "cbad373dc3df8420aee328adb1549102",
+        "optout": 1,
         "uploaded": "2024-05-02",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/5/2/fced82de-7fe8-4b9a-afb7-17a8f3389dd2/1714633389114-6510123.apk",
+        "url": "",
         "versionCode": "651012310",
         "versionName": "6510123.1"
     },
     {
         "md5": "0e16a4ce3191e1ede12e5213593bff46",
+        "optout": 1,
         "uploaded": "2024-06-05",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/6/5/4b38aa5a-c752-43d0-8c0d-eed8bc08ecd9/1717611114437-FireTvLauncher-fos-release-signed-2.apk",
+        "url": "",
         "versionCode": "652005810",
         "versionName": "6520058.1"
     },

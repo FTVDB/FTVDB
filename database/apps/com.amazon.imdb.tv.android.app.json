@@ -169,22 +169,25 @@
     },
     {
         "md5": "1f06a94987ee6250c3fef57e088a62c3",
+        "optout": 1,
         "uploaded": "2022-10-28",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/035ccb73d011bbe006556f3f228a14d4/signed-app-scorpion-prod-RC-build-10610.apk",
+        "url": "",
         "versionCode": "21927410",
         "versionName": "1.0.10610.0"
     },
     {
         "md5": "8bf6e8313edb97e408d778363891de29",
+        "optout": 1,
         "uploaded": "2022-11-10",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/9607cdcc8512e49798a72239aca9b2d2/signed-app-scorpion-patch-1-prod-RC-build-10742.apk",
+        "url": "",
         "versionCode": "21961210",
         "versionName": "1.0.10742.0"
     },
     {
         "md5": "be1c2b4bfbbb7d1334bf1d74aa57237e",
+        "optout": 1,
         "uploaded": "2022-12-10",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/9a900bde5c8b83d5e8649ee316816a53/signed_app-prod-release.apk",
+        "url": "",
         "versionCode": "22053010",
         "versionName": "1.0.11203.0"
     },
@@ -267,22 +270,25 @@
     },
     {
         "md5": "7e35943e4f3dc897211f8c3718b29bab",
+        "optout": 1,
         "uploaded": "2023-07-07",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/c839404a62ce85d2391adb84eae48801/signed_july-_app-prod-RC-13363.apk",
+        "url": "",
         "versionCode": "22558410",
         "versionName": "1.0.13363.0"
     },
     {
         "md5": "412388fc85cb342a41310da93a0dc869",
+        "optout": 1,
         "uploaded": "2023-08-03",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/79e87e1ccdeb8530f859c042a3d925d3/signed-app-RC-prod-july-patch-release-1.0.13755.0.apk",
+        "url": "",
         "versionCode": "22643810",
         "versionName": "1.0.13755.0"
     },
     {
         "md5": "59fbd66be6179f5af83c15f91067d0b7",
+        "optout": 1,
         "uploaded": "2023-08-31",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/9d5a0d34113e1c49aeaac50d1c76ec8a/signed_app-prod-release.apk",
+        "url": "",
         "versionCode": "22695610",
         "versionName": "1.0.14071.0"
     },

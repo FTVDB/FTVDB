@@ -1,22 +1,25 @@
 [
     {
         "md5": "8b8dc83de5d81afb55b61199f0674f0c",
+        "optout": 1,
         "uploaded": "2025-11-08",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/8/d5575af0-6fcf-42af-a5cd-59ac1c954bdd/1762635352761-com.amazon.whasettings.apk",
+        "url": "",
         "versionCode": "1450910",
         "versionName": "1.0.1086.0-com.amazon.whasettings-jarvis_1450910"
     },
     {
         "md5": "4ebaa3b95862ca1b99cff25608e70916",
+        "optout": 1,
         "uploaded": "2025-11-21",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/21/4ff2703e-17f8-4010-9a13-9b55ec41a63f/1763769323001-com.amazon.whasettings.apk",
+        "url": "",
         "versionCode": "1465010",
         "versionName": "1.0.1156.0-com.amazon.whasettings-jarvis_1465010"
     },
     {
         "md5": "a9b6f48ed46ff0a53ca9f1460cb4e1d3",
+        "optout": 1,
         "uploaded": "2025-12-02",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/2/ab5a7a3d-7519-4907-99b8-b5a5ba180c0d/1764646464298-com.amazon.whasettings.apk",
+        "url": "",
         "versionCode": "1473610",
         "versionName": "1.0.1195.0-com.amazon.whasettings-jarvis_1473610"
     }

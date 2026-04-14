@@ -1,9 +1,17 @@
 {
     "com.amazon.almond.android.os": {
-        "category": "",
-        "model": "",
+        "category": "firetv",
+        "model": "AFTKRT",
         "title": [
-            "com.amazon.almond.android.os"
+            "Fire TV Stick 4K Max - 2nd Gen (2023) - 16 GB"
+        ]
+    },
+    "com.amazon.anna.android.os": {
+        "category": "firetv",
+        "model": "AFTANNA0",
+        "title": [
+            "ok 4K - Fire TV (2021)",
+            "Xiaomi F2 4K - Fire TV (2022)"
         ]
     },
     "com.amazon.ariel.android.os": {
@@ -32,6 +40,13 @@
         "model": "AEOBC",
         "title": [
             "Echo Dot 2nd Gen (2016)"
+        ]
+    },
+    "com.amazon.brandenburg.android.os": {
+        "category": "firetv",
+        "model": "AFTTI43",
+        "title": [
+            "Fire TV 4-Series (2021)"
         ]
     },
     "com.amazon.bueller.android.os": {
@@ -104,6 +119,13 @@
             "Fire HD 8 (2017)"
         ]
     },
+    "com.amazon.duckie.android.os": {
+        "category": "firetv",
+        "model": "",
+        "title": [
+            "Insignia HD/FHD Fire TV (2020)"
+        ]
+    },
     "com.amazon.ford.android.os": {
         "category": "firetablet",
         "model": "",
@@ -116,6 +138,13 @@
         "model": "AFTGAZL",
         "title": [
             "Fire TV Cube - 3rd Gen (2022)"
+        ]
+    },
+    "com.amazon.hazel.android.os": {
+        "category": "firetv",
+        "model": "AFTHA004",
+        "title": [
+            "Toshiba 4K UHD - Fire TV (2022)"
         ]
     },
     "com.amazon.kara.android.os": {

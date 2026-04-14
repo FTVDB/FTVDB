@@ -1,8 +1,9 @@
 [
     {
         "md5": "6cf86ec635264c96e36921428b16ed87",
+        "optout": 1,
         "uploaded": "2021-04-01",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/3cac32750229ea2ec260da0fa5b65ed4/signed_FireTvFFSProvisionee-release20.apk",
+        "url": "",
         "versionCode": "4011110",
         "versionName": "1.0.117.0-com.amazon.tv.ffsprovisioneeclient_4011110"
     },

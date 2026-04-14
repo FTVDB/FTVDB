@@ -1,29 +1,33 @@
 [
     {
         "md5": "566197cb762cda3afdab06c21d54e75b",
+        "optout": 1,
         "uploaded": "2025-07-17",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/7/17/e768d78c-65d4-4df5-b1f6-b9a6122d3823/update-kindle-karat-RS8145_user_3070_0028186508932.bin",
+        "url": "",
         "versionCode": "28186508932",
         "versionName": "Fire OS 8.1.4.5 (RS8145/3070)"
     },
     {
         "md5": "bcafdbd588121e395a138ff718bb8719",
+        "optout": 1,
         "uploaded": "2025-08-18",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/8/18/5d6ed2d4-4b3b-4056-989c-870b49bc788a/update-kindle-karat-RS8149_user_3133_0028723395972.bin",
+        "url": "",
         "versionCode": "28723395972",
         "versionName": "Fire OS 8.1.4.9 (RS8149/3133)"
     },
     {
         "md5": "3f6956eeb5671e3aa992e47d9eb34bb5",
+        "optout": 1,
         "uploaded": "2025-09-29",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/9/29/f7eb0d5b-8677-443c-8992-2b30390469f1/update-kindle-karat-RS8153_user_3202_0029528720004.bin",
+        "url": "",
         "versionCode": "29528720004",
         "versionName": "Fire OS 8.1.5.3 (RS8153/3202)"
     },
     {
         "md5": "5106a5b92ae3b4e2e6bb94849bdf5128",
+        "optout": 1,
         "uploaded": "2025-11-03",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/3/4b26134f-bdfa-471c-abb7-168bf0a45ab2/update-kindle-karat-RS8155_user_3474_0029998551684.bin",
+        "url": "",
         "versionCode": "29998551684",
         "versionName": "Fire OS 8.1.5.5 (RS8155/3474)"
     },

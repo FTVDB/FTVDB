@@ -8,22 +8,25 @@
     },
     {
         "md5": "bef69af4f7e786cf79775737d6091c42",
+        "optout": 1,
         "uploaded": "2023-07-28",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/44c8cdc68025de449e3549eaf2fdd0fa/com.amazon.tv.developer.dataservice_1001201010.apk",
+        "url": "",
         "versionCode": "1001201010",
         "versionName": "1.0-AlbertoService-1001201000"
     },
     {
         "md5": "21fb9323b8745dae1bb0ce511d40a6b4",
+        "optout": 1,
         "uploaded": "2023-08-23",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/7cdee074791027271c4f17932cad3b63/com.amazon.tv.developer.dataservice.apk",
+        "url": "",
         "versionCode": "1001210310",
         "versionName": "1.0-AlbertoService-1001210300"
     },
     {
         "md5": "2c9dfc734eacd57ff35f1409f2db2513",
+        "optout": 1,
         "uploaded": "2023-08-30",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/dae39fad06b64d6ce6f7ee1ea7b3b206/com.amazon.tv.developer.dataservice_B2_1_1001210510.apk",
+        "url": "",
         "versionCode": "1001210510",
         "versionName": "1.0-AlbertoService-1001210500"
     },

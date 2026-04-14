@@ -57,8 +57,9 @@
     },
     {
         "md5": "186b77be06b27c7fc7b4aff77eea9b3a",
+        "optout": 1,
         "uploaded": "2024-05-16",
-        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/5/16/129370de-c19d-4e3f-a073-53071f3496bd/1715842974621-BisonTurnstileServer-release-signed.apk",
+        "url": "",
         "versionCode": "124000410",
         "versionName": "1240004.1"
     }

@@ -287,6 +287,13 @@
             "Fire TV Stick - 2nd Gen (2016-2019)"
         ]
     },
+    "com.amazon.thebes.android.os": {
+        "category": "firetablet",
+        "model": "",
+        "title": [
+            "Fire HD 8 / HD 10 (2015)"
+        ]
+    },
     "com.amazon.theia.android.os": {
         "category": "echo",
         "model": "AEOTA",

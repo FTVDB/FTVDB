@@ -49,6 +49,13 @@
         "versionName": "Fire OS 7.3.1.9 (PS7319/1726)"
     },
     {
+        "md5": "6aafdfbdd1a45ce2826cfbfb7e21af7b",
+        "uploaded": "2021-11-08",
+        "url": "https://fireos-tablet-src.s3.amazonaws.com/pI6mQ831K0LFKsm9PpzlZq5iRy/update-kindle-Fire_7_9th_Gen-PS7322_user_2514_0022247232132.bin",
+        "versionCode": "22247232132",
+        "versionName": "Fire OS 7.3.2.2 (PS7322/2514)"
+    },
+    {
         "md5": "5923e2f23b9aa3a59cd1e8e6152de556",
         "uploaded": "2022-07-05",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/Y1Hsm8O6UezsiMdqSA04IjyyrO/update-kindle-Fire_7_9th_Gen-PS7323_user_2834_0023455273604.bin",

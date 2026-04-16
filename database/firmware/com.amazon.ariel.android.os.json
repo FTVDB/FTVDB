@@ -5,5 +5,19 @@
         "url": "https://fireos-tablet-src.s3.amazonaws.com/4lZB73kWBGIIliKULTlDZW6woE/update-kindle-20.5.5.4_user_554207020.bin",
         "versionCode": "554207020",
         "versionName": "Fire OS 5.3.1.1 (554207020)"
+    },
+    {
+        "md5": "5c5d9e82de8371c46ccf3e6243c615d9",
+        "uploaded": "2017-09-27",
+        "url": "https://fireos-tablet-src.s3.amazonaws.com/ZAsacHmumgrMpCXPdw6oykKMaw/update-kindle-20.5.7.9_user_579279320.bin",
+        "versionCode": "579279320",
+        "versionName": "Fire OS 5.3.4.0 (579279320)"
+    },
+    {
+        "md5": "8e161a66728a34a0a22a85a4ca081303",
+        "uploaded": "2020-08-12",
+        "url": "https://fireos-tablet-src.s3.amazonaws.com/xLuF2GFiqnx6WFfhCPyFRN0h0j/update-kindle-20.6.0.5_user_605487420.bin",
+        "versionCode": "605487420",
+        "versionName": "Fire OS 5.3.6.2 (605487420)"
     }
 ]

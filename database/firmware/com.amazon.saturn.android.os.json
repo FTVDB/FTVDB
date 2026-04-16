@@ -1,5 +1,19 @@
 [
     {
+        "md5": "bb0fae444f57d7694ed6d0529c8bf666",
+        "uploaded": "2017-06-06",
+        "url": "https://fireos-tablet-src.s3.amazonaws.com/KEDi18e74xJJFFwejkRHQjW965/update-kindle-22.5.7.9_user_579225620.bin",
+        "versionCode": "579225620",
+        "versionName": "Fire OS 5.3.4.0 (579225620)"
+    },
+    {
+        "md5": "027c9030611ce2516988bbfaaf9e4d0f",
+        "uploaded": "2017-09-27",
+        "url": "https://fireos-tablet-src.s3.amazonaws.com/ZAsacHmumgrMpCXPdw6oykKMaw/update-kindle-22.5.7.9_user_579279320.bin",
+        "versionCode": "579279320",
+        "versionName": "Fire OS 5.3.4.0 (579279320)"
+    },
+    {
         "md5": "80f82ec5aaed65266110d6341866fd60",
         "uploaded": "2017-11-01",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/aahh6b20y1zchalcooae19hnab/update-kindle-22.5.9.5_user_595457020.bin",

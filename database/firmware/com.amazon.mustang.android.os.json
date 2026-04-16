@@ -19,5 +19,12 @@
         "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/11ddfeap1GXdqCPab39o1Yn1dWv/update-kindle-Fire_7_9th_Gen-PS7327_user_3336_0026743736452.bin",
         "versionCode": "26743736452",
         "versionName": "Fire OS 7.3.2.7 (PS7327/3336)"
+    },
+    {
+        "md5": "ecc7b0786cccab82446723c474e50bcf",
+        "uploaded": "2025-06-11",
+        "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xDz75MnJ9npabca/update-kindle-Fire_7_9th_Gen-PS7331_user_4463_0031575863172.bin",
+        "versionCode": "31575863172",
+        "versionName": "Fire OS 7.3.3.1 (PS7331/4463)"
     }
 ]

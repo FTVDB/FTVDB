@@ -14,6 +14,20 @@
         "versionName": "Fire OS 6.3.0.1 (NS6301/1631)"
     },
     {
+        "md5": "b3169b1b8be504c5a5ed9490097409eb",
+        "uploaded": "2020-11-03",
+        "url": "https://fireos-tablet-src.s3.amazonaws.com/NTfTOKgrmrZ6kkmgRu3Gms611S/update-kindle-Fire_HD8_8th_Gen-PS7317_user_1804_0019227151492.bin",
+        "versionCode": "19227151492",
+        "versionName": "Fire OS 7.3.1.7 (PS7317/1804)"
+    },
+    {
+        "md5": "9dfd531ff64287759562c1c726b8059f",
+        "uploaded": "2021-02-04",
+        "url": "https://fireos-tablet-src.s3.amazonaws.com/DzCozNsafJbvDQ4weERBgkP6rw/update-kindle-Fire_HD8_8th_Gen-PS7318_user_1957_0019696952708.bin",
+        "versionCode": "19696952708",
+        "versionName": "Fire OS 7.3.1.8 (PS7318/1957)"
+    },
+    {
         "md5": "3b2629a8e40100e3d0cd46d7d88eae8a",
         "uploaded": "2021-04-27",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/kXgTs6HePbY1jeWwh3mFTqpf7Y/update-kindle-Fire_HD8_8th_Gen-PS7319_user_1726_0020367982212.bin",

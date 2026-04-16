@@ -5,5 +5,12 @@
         "url": "https://fireos-tablet-src.s3.amazonaws.com/cOsaesbtM38PGA7P5QxdZvbLRb/update-kindle-PS7311_user_1065_0017549240708.bin",
         "versionCode": "17549240708",
         "versionName": "Fire OS 7.3.1.1 (PS7311/1065)"
+    },
+    {
+        "md5": "cd953bdb1e849d51e1e72d94d0b3a1a9",
+        "uploaded": "2023-09-28",
+        "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/11ddfeap1GXdqCPab39o1Yn1dWv/update-kindle-Fire_HD10_9th_Gen-PS7327_user_3336_0026743736452.bin",
+        "versionCode": "26743736452",
+        "versionName": "Fire OS 7.3.2.7 (PS7327/3336)"
     }
 ]

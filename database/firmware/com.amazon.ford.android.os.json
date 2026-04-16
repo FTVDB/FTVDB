@@ -28,6 +28,13 @@
         "versionName": "Fire OS 5.3.4.0 (579225620)"
     },
     {
+        "md5": "635d4045098fb3e34a09ed2fb8ab7e93",
+        "uploaded": "2017-09-27",
+        "url": "https://fireos-tablet-src.s3.amazonaws.com/ZAsacHmumgrMpCXPdw6oykKMaw/update-kindle-37.5.7.9_user_579279320.bin",
+        "versionCode": "579279320",
+        "versionName": "Fire OS 5.3.4.0 (579279320)"
+    },
+    {
         "md5": "b622235fcea151fb86dc8675f992c900",
         "uploaded": "2017-11-01",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/aahh6b20y1zchalcooae19hnab/update-kindle-37.5.9.5_user_595457020.bin",
@@ -40,6 +47,13 @@
         "url": "https://fireos-tablet-src.s3.amazonaws.com/nachheflb20tca1zcilvlco11ae49hnab/update-kindle-37.5.9.5_user_595457320.bin",
         "versionCode": "595457320",
         "versionName": "Fire OS 5.3.6.0 (595457320)"
+    },
+    {
+        "md5": "cc0d354d5bcf40acccd9d2ae379eeda5",
+        "uploaded": "2018-11-13",
+        "url": "https://fireos-tablet-src.s3.amazonaws.com/93olgKwMW8ecGINzUwwqQmLz43/update-kindle-37.6.2.6_user_626533320.bin",
+        "versionCode": "626533320",
+        "versionName": "Fire OS 5.3.6.4 (626533320)"
     },
     {
         "md5": "5ef028247793917dc2815f1fcc40c717",

@@ -1,5 +1,12 @@
 [
     {
+        "md5": "02f8a5389bcf2362a2c3fba9a33cae9d",
+        "uploaded": "2022-12-12",
+        "url": "https://fireos-tablet-updates.s3.amazonaws.com/vOqTk5GxhcykG3w8780USpqQfj/update-kindle-Fire_HD8_10th_Gen-PS7326_user_3183_0025602846596.bin",
+        "versionCode": "25602846596",
+        "versionName": "Fire OS 7.3.2.6 (PS7326/3183)"
+    },
+    {
         "md5": "ac346d448ae28f634da5c18633ce6f1f",
         "uploaded": "2023-09-28",
         "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/11ddfeap1GXdqCPab39o1Yn1dWv/update-kindle-Fire_HD8_10th_Gen-PS7327_user_3336_0026743736452.bin",

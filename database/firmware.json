@@ -288,10 +288,10 @@
         ]
     },
     "com.amazon.trona.android.os": {
-        "category": "",
+        "category": "firetablet",
         "model": "",
         "title": [
-            "com.amazon.trona.android.os"
+            "Fire HD 10 (Plus), 11th Gen (2021)"
         ]
     },
     "com.amazon.tungsten.android.os": {

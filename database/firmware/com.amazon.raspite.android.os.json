@@ -7,6 +7,13 @@
         "versionName": "Fire OS 8.3.1.4 (RS8314/1402)"
     },
     {
+        "md5": "b276041fdf35e09a488a4e28062ddab8",
+        "uploaded": "2023-04-19",
+        "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/0dkfeap1GXDqCPab39o1Yn12Wz/update-kindle-Fire_HD8_12th_Gen_Plus-RS8318_user_2031_0021441802116.bin",
+        "versionCode": "21441802116",
+        "versionName": "Fire OS 8.3.1.8 (RS8318/2031)"
+    },
+    {
         "md5": "16edad5c09f40c868242030a750b779e",
         "uploaded": "2023-06-07",
         "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/0dkfeap1GXEqCPab57o1Yn12Qz/update-kindle-Fire_HD8_12th_Gen-RS8319_user_1664_0021508817028.bin",

@@ -196,6 +196,13 @@
             "Fire 7 (2019)"
         ]
     },
+    "com.amazon.onyx.android.os": {
+        "category": "firetablet",
+        "model": "",
+        "title": [
+            "Fire HD 8 (2020)"
+        ]
+    },
     "com.amazon.quartz.android.os": {
         "category": "",
         "model": "",

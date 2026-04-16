@@ -207,7 +207,7 @@
         "category": "firetablet",
         "model": "KFQUWI",
         "title": [
-            "Fire 7 12th-Gen (2022)"
+            "Fire 7 - 12th-Gen (2022)"
         ]
     },
     "com.amazon.radar.android.os": {
@@ -218,10 +218,10 @@
         ]
     },
     "com.amazon.raspite.android.os": {
-        "category": "",
+        "category": "firetablet",
         "model": "",
         "title": [
-            "com.amazon.raspite.android.os"
+            "Fire HD 8 - 12th-Gen (2022)"
         ]
     },
     "com.amazon.raven.android.os": {

@@ -16,9 +16,9 @@
     },
     "com.amazon.ariel.android.os": {
         "category": "firetablet",
-        "model": "",
+        "model": "KFARWI/KFASWI",
         "title": [
-            "Fire HD 6 / HD 7 (2014)"
+            "Fire HD 6 / Fire HD 7 - 4th Gen (2014)"
         ]
     },
     "com.amazon.athena.android.os": {
@@ -30,9 +30,9 @@
     },
     "com.amazon.austin.android.os": {
         "category": "firetablet",
-        "model": "",
+        "model": "KFAUWI",
         "title": [
-            "Fire 7 - 8th Gen (2017)"
+            "Fire 7 - 7th Gen (2017)"
         ]
     },
     "com.amazon.biscuit.android.os": {
@@ -114,9 +114,9 @@
     },
     "com.amazon.douglas.android.os": {
         "category": "firetablet",
-        "model": "",
+        "model": "KFDOWI",
         "title": [
-            "Fire HD 8 (2017)"
+            "Fire HD 8 - 7th Gen (2017)"
         ]
     },
     "com.amazon.duckie.android.os": {
@@ -128,9 +128,9 @@
     },
     "com.amazon.ford.android.os": {
         "category": "firetablet",
-        "model": "",
+        "model": "KFFOWI",
         "title": [
-            "Fire 7 - 7th Gen (2015)"
+            "Fire - 5th Gen (2015)"
         ]
     },
     "com.amazon.gazelle.android.os": {
@@ -142,9 +142,9 @@
     },
     "com.amazon.giza.android.os": {
         "category": "firetablet",
-        "model": "",
+        "model": "KFGIWI",
         "title": [
-            "Fire HD 8 (2016)"
+            "Fire HD 8 - 6th Gen (2016)"
         ]
     },
     "com.amazon.hazel.android.os": {
@@ -163,16 +163,16 @@
     },
     "com.amazon.karat.android.os": {
         "category": "firetv",
-        "model": "",
+        "model": "AFTKM",
         "title": [
             "Fire TV Stick 4K - 2nd Gen (2023)"
         ]
     },
     "com.amazon.karnak.android.os": {
         "category": "firetablet",
-        "model": "",
+        "model": "KFKAWI",
         "title": [
-            "Fire HD 8 (2018)"
+            "Fire HD 8 - 8th Gen (2018)"
         ]
     },
     "com.amazon.mantis.android.os": {
@@ -184,9 +184,9 @@
     },
     "com.amazon.maverick.android.os": {
         "category": "firetablet",
-        "model": "",
+        "model": "KFMAWI",
         "title": [
-            "Fire HD 10 (2019)"
+            "Fire HD 10 - 9th Gen (2019)"
         ]
     },
     "com.amazon.montoya.android.os": {
@@ -198,16 +198,16 @@
     },
     "com.amazon.mustang.android.os": {
         "category": "firetablet",
-        "model": "",
+        "model": "KFMUWI",
         "title": [
             "Fire 7 - 9th Gen (2019)"
         ]
     },
     "com.amazon.onyx.android.os": {
         "category": "firetablet",
-        "model": "",
+        "model": "KFONWI",
         "title": [
-            "Fire HD 8 (2020)"
+            "Fire HD 8 - 10th Gen (2020)"
         ]
     },
     "com.amazon.quartz.android.os": {
@@ -226,9 +226,9 @@
     },
     "com.amazon.raspite.android.os": {
         "category": "firetablet",
-        "model": "",
+        "model": "KFRAWI/KFRAPWI",
         "title": [
-            "Fire HD 8 - 12th Gen (2022)"
+            "Fire HD 8 / Fire HD 8 Plus - 12th Gen (2022)"
         ]
     },
     "com.amazon.raven.android.os": {
@@ -246,10 +246,10 @@
         ]
     },
     "com.amazon.saturn.android.os": {
-        "category": "firetablet",
+        "category": "kindle",
         "model": "",
         "title": [
-            "Fire HDX 8.9 (2014)"
+            "Kindle Fire HDX 8.9 - 4th Gen (2014)"
         ]
     },
     "com.amazon.sheldon.android.os": {
@@ -275,16 +275,16 @@
     },
     "com.amazon.suez.android.os": {
         "category": "firetablet",
-        "model": "",
+        "model": "KFSUWI",
         "title": [
-            "Fire HD 10 (2017)"
+            "Fire HD 10 - 7th Gen (2017)"
         ]
     },
     "com.amazon.sunstone.android.os": {
         "category": "firetablet",
-        "model": "",
+        "model": "KFSNWI",
         "title": [
-            "Fire Max 11 (2023)"
+            "Fire Max 11 - 13th Gen (2023)"
         ]
     },
     "com.amazon.tank.android.os": {
@@ -296,9 +296,9 @@
     },
     "com.amazon.thebes.android.os": {
         "category": "firetablet",
-        "model": "",
+        "model": "KFTBWI",
         "title": [
-            "Fire HD 8 / HD 10 (2015)"
+            "Fire HD 10 - 5th Gen (2015)"
         ]
     },
     "com.amazon.theia.android.os": {
@@ -310,16 +310,16 @@
     },
     "com.amazon.trona.android.os": {
         "category": "firetablet",
-        "model": "",
+        "model": "KFTRWI/KFTRPWI",
         "title": [
-            "Fire HD 10 / HD 10 Plus - 11th Gen (2021)"
+            "Fire HD 10 / Fire HD 10 Plus - 11th Gen (2021)"
         ]
     },
     "com.amazon.tungsten.android.os": {
         "category": "firetablet",
-        "model": "",
+        "model": "KFTUWI",
         "title": [
-            "Fire HD 10 (2023)"
+            "Fire HD 10 - 13th Gen (2023)"
         ]
     },
     "com.ftvdb.kindle.dxg-2010.os": {
@@ -431,7 +431,7 @@
         "category": "kindle",
         "model": "PW1-2012",
         "title": [
-            "Kindle PaperWhite (2012)"
+            "Kindle Paperwhite (2012)"
         ]
     },
     "com.lab126.eink.cognac.os": {
@@ -473,7 +473,7 @@
         "category": "kindle",
         "model": "PW4-2018",
         "title": [
-            "Kindle PaperWhite 4 (2018)"
+            "Kindle Paperwhite 4 (2018)"
         ]
     },
     "com.lab126.eink.muscat.os": {
@@ -522,7 +522,7 @@
         "category": "kindle",
         "model": "COLORSOFT-2024",
         "title": [
-            "Kindle ColorSoft (2024)"
+            "Kindle Colorsoft (2024)"
         ]
     },
     "com.lab126.eink.stinger.os": {

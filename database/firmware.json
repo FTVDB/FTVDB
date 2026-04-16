@@ -259,6 +259,13 @@
             "Echo Show 10 - 3rd Gen (2021)"
         ]
     },
+    "com.amazon.trona.android.os": {
+        "category": "",
+        "model": "",
+        "title": [
+            "com.amazon.trona.android.os"
+        ]
+    },
     "com.amazon.tungsten.android.os": {
         "category": "firetablet",
         "model": "",

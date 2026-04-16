@@ -1,5 +1,12 @@
 [
     {
+        "md5": "b51faa47fe3e6e412e59ca4fe3da0a8a",
+        "uploaded": "2022-08-24",
+        "url": "https://fireos-tablet-updates.s3.amazonaws.com/4EQZRaLZvAPHDR5weYlmzsghzi/update-kindle-Fire_HD10-PS7324_user_3016_0024529062020.bin",
+        "versionCode": "24529062020",
+        "versionName": "Fire OS 7.3.2.4 (PS7324/3016)"
+    },
+    {
         "md5": "b841095a4c3e58e93383c56ecd1dc6df",
         "uploaded": "2022-10-28",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/c0c1kwjXblLVGbvARgj7ZEo7TP/update-kindle-Fire_HD10-PS7326_user_3178_0025602845316.bin",

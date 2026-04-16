@@ -1,5 +1,12 @@
 [
     {
+        "md5": "93f531a467f29935c66ac149d5346af4",
+        "uploaded": "2023-04-19",
+        "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/0dkfeap1GXDqCPab39o1Yn12Wz/update-kindle-Fire_7_12th_Gen-RS8318_user_2029_0021441801604.bin",
+        "versionCode": "21441801604",
+        "versionName": "Fire OS 8.3.1.8 (RS8318/2029)"
+    },
+    {
         "md5": "8bfaafd1771d851618ac15a4a392f2d3",
         "uploaded": "2023-06-07",
         "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/0dkfeap1GXEqCPab57o1Yn12Qz/update-kindle-Fire_7_12th_Gen-RS8319_user_1664_0021508817028.bin",

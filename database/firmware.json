@@ -140,6 +140,13 @@
             "Fire TV Cube - 3rd Gen (2022)"
         ]
     },
+    "com.amazon.giza.android.os": {
+        "category": "firetablet",
+        "model": "",
+        "title": [
+            "Fire HD 8 (2016)"
+        ]
+    },
     "com.amazon.hazel.android.os": {
         "category": "firetv",
         "model": "AFTHA004",

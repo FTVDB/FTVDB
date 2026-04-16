@@ -49,11 +49,25 @@
         "versionName": "Fire OS 7.3.2.4 (PS7324/3016)"
     },
     {
+        "md5": "87dcf1f52ae50090454f1c521df659df",
+        "uploaded": "2022-10-28",
+        "url": "https://fireos-tablet-updates.s3.amazonaws.com/EsTPLkR4Rp5gfFzGh65mutMg7m/update-kindle-Fire_HD8_10th_Gen-PS7326_user_3178_0025602845316.bin",
+        "versionCode": "25602845316",
+        "versionName": "Fire OS 7.3.2.6 (PS7326/3178)"
+    },
+    {
         "md5": "02f8a5389bcf2362a2c3fba9a33cae9d",
         "uploaded": "2022-12-12",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/vOqTk5GxhcykG3w8780USpqQfj/update-kindle-Fire_HD8_10th_Gen-PS7326_user_3183_0025602846596.bin",
         "versionCode": "25602846596",
         "versionName": "Fire OS 7.3.2.6 (PS7326/3183)"
+    },
+    {
+        "md5": "bd76d7e479bff375c93cefd70ee2878a",
+        "uploaded": "2023-05-30",
+        "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/0dkhepa1GYDqCPab39o1Yn14Wz/update-kindle-Fire_HD8_10th_Gen-PS7327_user_3329_0026743734660.bin",
+        "versionCode": "26743734660",
+        "versionName": "Fire OS 7.3.2.7 (PS7327/3329)"
     },
     {
         "md5": "ac346d448ae28f634da5c18633ce6f1f",

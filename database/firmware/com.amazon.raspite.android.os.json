@@ -35,6 +35,20 @@
         "versionName": "Fire OS 8.3.1.9 (RS8319/1664)"
     },
     {
+        "md5": "59a1c625f47a95b1a89f593f3ba880db",
+        "uploaded": "2024-10-22",
+        "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/06BewsdDLkserpg12xH04Mg12T/update-kindle-Fire_HD8_12th_Gen-RS8328_user_3033_0024998828420.bin",
+        "versionCode": "24998828420",
+        "versionName": "Fire OS 8.3.3.0 (RS8328/3033)"
+    },
+    {
+        "md5": "0c445c69e65200c2a40bbabfbbd7559c",
+        "uploaded": "2024-10-31",
+        "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/0vetSZCWV7G2VPvlsNCzhMTqAi/0vetSZCWV7G2VPvlsNCzhM04Ai/update-kindle-Fire_HD8_12th_Gen-RS8331_user_2608_0025367818372.bin",
+        "versionCode": "25367818372",
+        "versionName": "Fire OS 8.3.3.1 (RS8331/2608)"
+    },
+    {
         "md5": "7c9c20d75e98eeba43e25ded13230024",
         "uploaded": "2024-11-21",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xZz75MnJ2np/update-kindle-Fire_HD8_12th_Gen-RS8332_user_3115_0025837710212.bin",

@@ -246,7 +246,7 @@
         ]
     },
     "com.amazon.saturn.android.os": {
-        "category": "",
+        "category": "firetablet",
         "model": "KFSAWI/KFSAWA",
         "title": [
             "Kindle Fire HDX 8.9 - 4th Gen (2014)"

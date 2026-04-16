@@ -1,5 +1,12 @@
 [
     {
+        "md5": "15b44e812db796ade1052df28aa318a5",
+        "uploaded": "2022-07-05",
+        "url": "https://fireos-tablet-updates.s3.amazonaws.com/OC1KXk8qBMGeLB0gdX6lNFbfWj/update-kindle-Fire_HD10-PS7323_user_2834_0023455273604.bin",
+        "versionCode": "23455273604",
+        "versionName": "Fire OS 7.3.2.3 (PS7323/2834)"
+    },
+    {
         "md5": "b51faa47fe3e6e412e59ca4fe3da0a8a",
         "uploaded": "2022-08-24",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/4EQZRaLZvAPHDR5weYlmzsghzi/update-kindle-Fire_HD10-PS7324_user_3016_0024529062020.bin",

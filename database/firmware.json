@@ -245,6 +245,13 @@
             "Fire HD 10 (2017)"
         ]
     },
+    "com.amazon.sunstone.android.os": {
+        "category": "firetablet",
+        "model": "",
+        "title": [
+            "Fire Max 11 (2023)"
+        ]
+    },
     "com.amazon.tank.android.os": {
         "category": "firetv",
         "model": "AFTT",

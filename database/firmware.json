@@ -203,6 +203,13 @@
             "Echo - 2nd Gen (2017)"
         ]
     },
+    "com.amazon.raspite.android.os": {
+        "category": "",
+        "model": "",
+        "title": [
+            "com.amazon.raspite.android.os"
+        ]
+    },
     "com.amazon.raven.android.os": {
         "category": "firetv",
         "model": "AFTR",

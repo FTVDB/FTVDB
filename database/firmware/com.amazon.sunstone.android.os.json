@@ -7,6 +7,13 @@
         "versionName": "Fire OS 8.3.1.9 (RS8319/1664)"
     },
     {
+        "md5": "f789fd3c0781bded3ab5a9d94ad2c286",
+        "uploaded": "2025-01-30",
+        "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xDz75MnJ9npae/update-kindle-Fire_Max11_13th_Gen-RS8333_user_2734_0026441592452.bin",
+        "versionCode": "26441592452",
+        "versionName": "Fire OS 8.3.3.3 (RS8333/2734)"
+    },
+    {
         "md5": "565e9f758980fed021032d166e535d11",
         "uploaded": "2025-05-27",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xDz75MnJ9npabg/update-kindle-Fire_Max11_13th_Gen-RS8335_user_2972_0027716721796.bin",

@@ -14,6 +14,13 @@
         "versionName": "Fire OS 7.3.2.8 (PS7328/3443)"
     },
     {
+        "md5": "54704bfd6dcbb18638e9d48b85506d3e",
+        "uploaded": "2023-09-28",
+        "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/11ddfeap1GXdqCPab39o1Yn1dWv/update-kindle-Fire_HD10_Plus-PS7328_user_3443_0027213525892.bin",
+        "versionCode": "27213525892",
+        "versionName": "Fire OS 7.3.2.8 (PS7328/3443)"
+    },
+    {
         "md5": "cf8c60e0caeb9ef9b8674796ff43d360",
         "uploaded": "2025-06-11",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xDz75MnJ9npabcf/update-kindle-Fire_HD10-PS7331_user_4463_0031575863172.bin",

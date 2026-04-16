@@ -5,5 +5,12 @@
         "url": "https://fireos-tablet-src.s3.amazonaws.com/FtgoB7FP6NVQ4dxARHmCyNHxAp/update-kindle-NS6301_user_1611_0001309035396.bin",
         "versionCode": "1309035396",
         "versionName": "Fire OS 6.3.0.1 (NS6301/1611)"
+    },
+    {
+        "md5": "cb0c1e4739f68450d2f7ba7165171b09",
+        "uploaded": "2023-09-28",
+        "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/11ddfeap1GXdqCPab39o1Yn1dWv/update-kindle-Fire_HD8_8th_Gen-PS7327_user_3336_0026743736452.bin",
+        "versionCode": "26743736452",
+        "versionName": "Fire OS 7.3.2.7 (PS7327/3336)"
     }
 ]

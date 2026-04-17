@@ -539,6 +539,13 @@
             "Wario"
         ]
     },
+    "com.lab126.eink.wario-244052.os": {
+        "category": "kindle",
+        "model": "PW2-2013",
+        "title": [
+            "Kindle PaperWhite 2 (2013)"
+        ]
+    },
     "com.lab126.eink.whisky.os": {
         "category": "kindle",
         "model": "OASIS1-2016",

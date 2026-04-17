@@ -28,6 +28,13 @@
         "versionName": "5.4.5"
     },
     {
+        "md5": "3c236aaefc63f6e28aa3806b914e33e4",
+        "uploaded": "2015-08-10",
+        "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_paperwhite_v2_5.6.5.bin",
+        "versionCode": "2730300038",
+        "versionName": "5.6.5"
+    },
+    {
         "md5": "987f319cb419f07db0a6ef79fb478085",
         "uploaded": "2016-10-07",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_paperwhite_v2_5.8.5.bin",

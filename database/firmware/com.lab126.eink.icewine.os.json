@@ -28,6 +28,20 @@
         "versionName": "5.6.5"
     },
     {
+        "md5": "25aba5ca04220668b576e4db9b4996fe",
+        "uploaded": "2016-02-02",
+        "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_voyage_5.7.2.bin",
+        "versionCode": "2875970015",
+        "versionName": "5.7.2"
+    },
+    {
+        "md5": "011cb25600b26a71410458f69a16c1f2",
+        "uploaded": "2016-02-11",
+        "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_voyage_5.7.2.1.bin",
+        "versionCode": "2882840002",
+        "versionName": "5.7.2.1"
+    },
+    {
         "md5": "501c924a4142aa13bc3555c3b495917b",
         "uploaded": "2016-09-13",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.8.2.1.bin",

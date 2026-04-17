@@ -168,6 +168,13 @@
             "Toshiba 4K UHD - Fire TV (2022)"
         ]
     },
+    "com.amazon.jem.android.os": {
+        "category": "",
+        "model": "KFJWI",
+        "title": [
+            "Amazon KFJWI"
+        ]
+    },
     "com.amazon.kara.android.os": {
         "category": "firetv",
         "model": "AFTKA",

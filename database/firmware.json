@@ -545,5 +545,12 @@
         "title": [
             "Kindle Touch (2011)"
         ]
+    },
+    "com.lab126.eink.yoshime3-229841.os": {
+        "category": "",
+        "model": "YOSHIME3-",
+        "title": [
+            "Yoshime (Yoshime3)"
+        ]
     }
 }

@@ -49,11 +49,11 @@
             "Echo Dot 2nd Gen (2016)"
         ]
     },
-    "com.amazon.blaze_tablet.android.os": {
+    "com.amazon.blaze.android.os": {
         "category": "",
-        "model": "KFOT",
+        "model": "",
         "title": [
-            "Amazon KFOT"
+            "com.amazon.blaze.android.os"
         ]
     },
     "com.amazon.brandenburg.android.os": {

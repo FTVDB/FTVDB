@@ -14,6 +14,13 @@
         "versionName": "5.4.3"
     },
     {
+        "md5": "35773228ecf792f579c96c0209cc142d",
+        "uploaded": "2014-04-08",
+        "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_5.4.3.1.bin",
+        "versionCode": "2298340003",
+        "versionName": "5.4.3.1"
+    },
+    {
         "md5": "39bdf04cd8486bc140faedb662665545",
         "uploaded": "2014-05-02",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_5.4.3.2.bin",
@@ -26,6 +33,13 @@
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_5.4.5.bin",
         "versionCode": "2411510035",
         "versionName": "5.4.5"
+    },
+    {
+        "md5": "53edcacf0f518f176929ef07e522f934",
+        "uploaded": "2014-08-11",
+        "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_5.4.5.1.bin",
+        "versionCode": "2440520001",
+        "versionName": "5.4.5.1"
     },
     {
         "md5": "3c236aaefc63f6e28aa3806b914e33e4",
@@ -75,6 +89,13 @@
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_paperwhite_v2_5.8.2.bin",
         "versionCode": "3018920018",
         "versionName": "5.8.2"
+    },
+    {
+        "md5": "6f4d60231051e7a30422e92a835f34fc",
+        "uploaded": "2016-09-13",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_paperwhite_v2_5.8.2.1.bin",
+        "versionCode": "3045660001",
+        "versionName": "5.8.2.1"
     },
     {
         "md5": "987f319cb419f07db0a6ef79fb478085",

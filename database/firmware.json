@@ -532,20 +532,6 @@
             "Kindle Oasis 3 (2019)"
         ]
     },
-    "com.lab126.eink.wario-229834.os": {
-        "category": "",
-        "model": "WARIO-",
-        "title": [
-            "Wario"
-        ]
-    },
-    "com.lab126.eink.wario-244052.os": {
-        "category": "kindle",
-        "model": "PW2-2013",
-        "title": [
-            "Kindle PaperWhite 2 (2013)"
-        ]
-    },
     "com.lab126.eink.whisky.os": {
         "category": "kindle",
         "model": "OASIS1-2016",
@@ -558,13 +544,6 @@
         "model": "TOUCH-2011",
         "title": [
             "Kindle Touch (2011)"
-        ]
-    },
-    "com.lab126.eink.yoshime3-229841.os": {
-        "category": "",
-        "model": "YOSHIME3-",
-        "title": [
-            "Yoshime (Yoshime3)"
         ]
     }
 }

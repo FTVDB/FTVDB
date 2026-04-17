@@ -89,5 +89,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/21/c2a83553-23f0-4c75-807d-af89092af077/update-kindle-cupcake-NS6572_user_6436_0012718777476.bin",
         "versionCode": "12718777476",
         "versionName": "Fire OS 6.5.7.2 (NS6572/6436)"
+    },
+    {
+        "md5": "8eecacaf3c9e2e62c635da4962121cb2",
+        "uploaded": "2026-04-11",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/11/1b8bd08d-4321-4bc1-b637-8fe75410b518/update-kindle-cupcake-NS6572_user_6448_0012718780548.bin",
+        "versionCode": "12718780548",
+        "versionName": "Fire OS 6.5.7.2 (NS6572/6448)"
     }
 ]

@@ -539,6 +539,13 @@
             "Kindle Oasis (2016)"
         ]
     },
+    "com.lab126.eink.yoshi-235586.os": {
+        "category": "kindle",
+        "model": "TOUCH-2011",
+        "title": [
+            "Kindle Touch (2011)"
+        ]
+    },
     "com.lab126.eink.yoshi.os": {
         "category": "kindle",
         "model": "TOUCH-2011",

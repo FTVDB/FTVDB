@@ -49,6 +49,13 @@
             "Echo Dot 2nd Gen (2016)"
         ]
     },
+    "com.amazon.blaze_tablet.android.os": {
+        "category": "",
+        "model": "KFOT",
+        "title": [
+            "Amazon KFOT"
+        ]
+    },
     "com.amazon.brandenburg.android.os": {
         "category": "firetv",
         "model": "AFTTI43",

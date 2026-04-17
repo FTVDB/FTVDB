@@ -49,13 +49,6 @@
             "Echo Dot 2nd Gen (2016)"
         ]
     },
-    "com.amazon.blaze.android.os": {
-        "category": "",
-        "model": "",
-        "title": [
-            "com.amazon.blaze.android.os"
-        ]
-    },
     "com.amazon.brandenburg.android.os": {
         "category": "firetv",
         "model": "AFTTI43",
@@ -169,10 +162,10 @@
         ]
     },
     "com.amazon.jem.android.os": {
-        "category": "",
+        "category": "firetablet",
         "model": "KFJWI",
         "title": [
-            "Amazon KFJWI"
+            "Fire HD 8.9 (2012)"
         ]
     },
     "com.amazon.kara.android.os": {
@@ -323,10 +316,10 @@
         ]
     },
     "com.amazon.tate.android.os": {
-        "category": "",
+        "category": "firetablet",
         "model": "KFTT",
         "title": [
-            "Amazon KFTT"
+            "Fire HD 7 (2012)"
         ]
     },
     "com.amazon.thebes.android.os": {
@@ -579,20 +572,6 @@
         "model": "OASIS1-2016",
         "title": [
             "Kindle Oasis (2016)"
-        ]
-    },
-    "com.lab126.eink.yoshi-235586.os": {
-        "category": "kindle",
-        "model": "TOUCH-2011",
-        "title": [
-            "Kindle Touch (2011)"
-        ]
-    },
-    "com.lab126.eink.yoshi-236891.os": {
-        "category": "kindle",
-        "model": "TOUCH-2011",
-        "title": [
-            "Kindle Touch (2011)"
         ]
     },
     "com.lab126.eink.yoshi.os": {

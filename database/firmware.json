@@ -315,6 +315,13 @@
             "Fire TV Stick - 2nd Gen (2016-2019)"
         ]
     },
+    "com.amazon.tate.android.os": {
+        "category": "",
+        "model": "KFTT",
+        "title": [
+            "Amazon KFTT"
+        ]
+    },
     "com.amazon.thebes.android.os": {
         "category": "firetablet",
         "model": "KFTBWI",

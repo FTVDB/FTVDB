@@ -439,5 +439,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/14/bbe4812a-ef93-492a-b247-c2d8b4bb3673/1773462862560-signed_slate_fire_tv_v138_13_4_arm.apk",
         "versionCode": "1393504010",
         "versionName": "138.13.4.0.7204.244.30"
+    },
+    {
+        "md5": "1745723bed96b30ec7436803894c69d1",
+        "uploaded": "2026-04-15",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/15/b16e4646-1441-4d98-958e-e6efeea05e5b/1776267430377-signed_slate_echo_arm_v138_14_2_arm.apk",
+        "versionCode": "1394002040",
+        "versionName": "138.14.2.0.7204.244.40"
     }
 ]

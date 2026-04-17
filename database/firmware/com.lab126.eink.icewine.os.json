@@ -42,6 +42,13 @@
         "versionName": "5.7.2.1"
     },
     {
+        "md5": "23f1245f0028ec11a9db410bfd6e463a",
+        "uploaded": "2016-03-07",
+        "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_voyage_5.7.3.bin",
+        "versionCode": "2899390015",
+        "versionName": "5.7.3"
+    },
+    {
         "md5": "501c924a4142aa13bc3555c3b495917b",
         "uploaded": "2016-09-13",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.8.2.1.bin",

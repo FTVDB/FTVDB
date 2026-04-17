@@ -322,6 +322,13 @@
             "Echo Show 10 - 3rd Gen (2021)"
         ]
     },
+    "com.amazon.thor.android.os": {
+        "category": "firetablet",
+        "model": "",
+        "title": [
+            "Kindle Fire HDX 7 - 3rd Gen (2013)"
+        ]
+    },
     "com.amazon.trona.android.os": {
         "category": "firetablet",
         "model": "KFTRWI/KFTRPWI",

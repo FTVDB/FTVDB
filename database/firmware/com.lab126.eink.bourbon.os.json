@@ -42,6 +42,13 @@
         "versionName": "5.7.2"
     },
     {
+        "md5": "a15f29ab296c3acd8c2cb6c98b12e3b2",
+        "uploaded": "2016-02-11",
+        "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_5.7.2.1.bin",
+        "versionCode": "2882840002",
+        "versionName": "5.7.2.1"
+    },
+    {
         "md5": "ea8cc87c0f847859159cdea8dfecc5f0",
         "uploaded": "2016-03-07",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_5.7.3.bin",

@@ -287,6 +287,13 @@
             "Fire TV - 2nd Gen (2015)"
         ]
     },
+    "com.amazon.soho.android.os": {
+        "category": "firetablet",
+        "model": "",
+        "title": [
+            "Kindle Fire HD 7 - 3rd Gen (2013)"
+        ]
+    },
     "com.amazon.suez.android.os": {
         "category": "firetablet",
         "model": "KFSUWI",

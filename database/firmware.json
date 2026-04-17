@@ -14,6 +14,13 @@
             "Xiaomi F2 4K - Fire TV (2022)"
         ]
     },
+    "com.amazon.apollo.android.os": {
+        "category": "firetablet",
+        "model": "",
+        "title": [
+            "Kindle Fire HDX 8.9 - 3rd Gen (2013)"
+        ]
+    },
     "com.amazon.ariel.android.os": {
         "category": "firetablet",
         "model": "KFARWI/KFASWI",

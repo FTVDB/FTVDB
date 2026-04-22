@@ -278,5 +278,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/7/276004e4-f016-4c78-a1d5-a2d8b5635232/update-kindle-mantis-NS6711_user_5866_0011644889732.bin",
         "versionCode": "11644889732",
         "versionName": "Fire OS 6.7.1.1 (NS6711/5866)"
+    },
+    {
+        "md5": "0dffbc8cb4905b01d5a5fc3b73187a60",
+        "uploaded": "2026-03-23",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/23/9eb394a9-f384-4afe-a93d-f87c4cf85d1d/update-kindle-mantis-NS6711_user_5908_0011644900484.bin",
+        "versionCode": "11644900484",
+        "versionName": "Fire OS 6.7.1.1 (NS6711/5908)"
     }
 ]

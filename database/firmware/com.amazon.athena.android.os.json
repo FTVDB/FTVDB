@@ -82,5 +82,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/21/6954d2c4-b215-4322-98e9-fdb9f59ca126/update-kindle-athena-PS7572_user_5399_0035334199172.bin",
         "versionCode": "35334199172",
         "versionName": "Fire OS 7.5.7.2 (PS7572/5399)"
+    },
+    {
+        "md5": "9a420aec8e759384c30d8d1157c35a8e",
+        "uploaded": "2026-04-15",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/15/b0509153-40b7-4aa3-87aa-64009cc496d9/update-kindle-athena-PS7572_user_5414_0035334203012.bin",
+        "versionCode": "35334203012",
+        "versionName": "Fire OS 7.5.7.2 (PS7572/5414)"
     }
 ]

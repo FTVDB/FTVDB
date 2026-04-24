@@ -106,6 +106,13 @@
     },
     {
         "md5": "2ec3c79b4c5b6a9881a703643e0c985b",
+        "uploaded": "2026-04-01",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/1/6fcbae93-43a2-4e1f-89e2-cf92eae6ad25/update-J19030001-bellatrix_rossini-001-fwo_4721760001.bin",
+        "versionCode": "4721760001",
+        "versionName": "5.19.3.0.1"
+    },
+    {
+        "md5": "2ec3c79b4c5b6a9881a703643e0c985b",
         "uploaded": "2026-04-06",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.19.3.0.1.bin",
         "versionCode": "4721760001",

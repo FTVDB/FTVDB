@@ -1,9 +1,9 @@
-# FTV DB
+# FTVDB
 
 A community-driven update URL service for Fire TV and Kindle firmware, plus Fire TV app updates, powered by user submissions and maintained for everyone’s benefit.
 Submissions are automatically processed, validated, and added to a public database.
 
-> Disclaimer: FTV DB is not affiliated with Amazon.com, Inc. or any of its subsidiaries.
+> Disclaimer: FTVDB is not affiliated with Amazon.com, Inc. or any of its subsidiaries.
 > This project does not host firmware or application files, and does not promote jailbreaking, firmware downgrades, or any unauthorized modifications.
 > All links indexed by the service are publicly accessible and sourced from user-owned devices.
 > Rights holders can contact us at support@ftvdb.com before filing a DMCA request.
@@ -22,7 +22,7 @@ Visit [**ftvdb.com**](https://ftvdb.com) to:
 Join our [**Telegram channel**](https://t.me/FTVDB) for:
 
 - Latest news and updates
-- Discussions and support from the FTV DB community
+- Discussions and support from the FTVDB community
 
 ## How It Works
 
@@ -34,7 +34,7 @@ Join our [**Telegram channel**](https://t.me/FTVDB) for:
 
 - **/database**: Stores firmware and app data in `.json` format.
 
-Note: you do not need to clone this repo just to use FTV DB. Everything is available at [ftvdb.com](https://ftvdb.com).
+Note: you do not need to clone this repo just to use FTVDB. Everything is available at [ftvdb.com](https://ftvdb.com).
 
 ## Contributing
 
@@ -52,4 +52,4 @@ This project is available under the [MIT License](LICENSE).
 
 ## Attribution
 
-Attribution is appreciated: if you use data from the FTV DB database in a public project, documentation, or release notes, please mention "ftvdb.com".
+Attribution is appreciated: if you use data from the FTVDB database in a public project, documentation, or release notes, please mention "ftvdb.com".

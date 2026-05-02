@@ -218,6 +218,13 @@
     },
     {
         "md5": "cf57254e12b173e05ab125547da874f1",
+        "uploaded": "2026-04-02",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/2/3e017da9-22ac-4124-bbf4-9b18e288c63d/update-J19030001-bellatrix3_barolo-002-fwo_4723060002.bin",
+        "versionCode": "4723060002",
+        "versionName": "5.19.3.0.1"
+    },
+    {
+        "md5": "cf57254e12b173e05ab125547da874f1",
         "uploaded": "2026-04-06",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.19.3.0.1.bin",
         "versionCode": "4723060002",

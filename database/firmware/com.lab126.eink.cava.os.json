@@ -190,6 +190,13 @@
     },
     {
         "md5": "39fc6168c6a03fb6c90360f2a1fe1aa9",
+        "uploaded": "2026-04-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/20/edc120be-9932-4f3a-9d8e-dbc59982410c/update-J19020001-bellatrix_cava-001-fwo_4740590001.bin",
+        "versionCode": "4740590001",
+        "versionName": "5.19.2.0.1"
+    },
+    {
+        "md5": "39fc6168c6a03fb6c90360f2a1fe1aa9",
         "uploaded": "2026-04-28",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.19.2.0.1.bin",
         "versionCode": "4740590001",

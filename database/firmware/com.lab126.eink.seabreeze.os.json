@@ -103,5 +103,12 @@
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.19.4.bin",
         "versionCode": "4751400049",
         "versionName": "5.19.4"
+    },
+    {
+        "md5": "3b946d9b9c7c7f51485cb51a15225be2",
+        "uploaded": "2026-05-21",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.19.4.0.1.bin",
+        "versionCode": "4767270003",
+        "versionName": "5.19.4.0.1"
     }
 ]

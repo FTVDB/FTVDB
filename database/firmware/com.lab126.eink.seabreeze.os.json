@@ -106,6 +106,13 @@
     },
     {
         "md5": "3b946d9b9c7c7f51485cb51a15225be2",
+        "uploaded": "2026-05-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/5/19/f8b48570-258c-4700-ad78-0d6a84d2af26/update-J19040001-bellatrix4_seabreeze-003-fwo_4767270003.bin",
+        "versionCode": "4767270003",
+        "versionName": "5.19.4.0.1"
+    },
+    {
+        "md5": "3b946d9b9c7c7f51485cb51a15225be2",
         "uploaded": "2026-05-21",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.19.4.0.1.bin",
         "versionCode": "4767270003",

@@ -96,5 +96,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/1/07b9aad4-70d6-4d13-9e8a-7f5c5590e34b/update-kindle-athena-PS7573_user_5513_0035468446084.bin",
         "versionCode": "35468446084",
         "versionName": "Fire OS 7.5.7.3 (PS7573/5513)"
+    },
+    {
+        "md5": "5ec2cc4048896521d22b69bae83afb91",
+        "uploaded": "2026-06-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/12/64d788e3-9ef3-4aa0-a030-17137f165105/update-kindle-athena-PS7573_user_6523_0035804248964.bin",
+        "versionCode": "35804248964",
+        "versionName": "Fire OS 7.5.7.3 (PS7573/6523)"
     }
 ]

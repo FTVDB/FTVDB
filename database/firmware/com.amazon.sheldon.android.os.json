@@ -173,5 +173,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/5/8d949dbb-5c9f-4758-8c0a-d2070abf269a/update-kindle-sheldon-PS7714_user_5504_0035602661508.bin",
         "versionCode": "35602661508",
         "versionName": "Fire OS 7.7.1.4 (PS7714/5504)"
+    },
+    {
+        "md5": "cd3f3e1ee4240646107df68d1fc5b96b",
+        "uploaded": "2026-06-15",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/15/fe5a1515-deb1-4d93-9e16-a1cc3dfaac6f/update-kindle-sheldon-PS7714_user_5506_0035602662020.bin",
+        "versionCode": "35602662020",
+        "versionName": "Fire OS 7.7.1.4 (PS7714/5506)"
     }
 ]

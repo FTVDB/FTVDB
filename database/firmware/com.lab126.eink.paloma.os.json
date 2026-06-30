@@ -54,5 +54,12 @@
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_3rd_generation_5.19.4.0.1.bin",
         "versionCode": "4767210003",
         "versionName": "5.19.4.0.1"
+    },
+    {
+        "md5": "e2177f904d389a4a06a2aad68742fdf3",
+        "uploaded": "2026-06-29",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_3rd_generation_5.19.5.bin",
+        "versionCode": "4794300058",
+        "versionName": "5.19.5"
     }
 ]

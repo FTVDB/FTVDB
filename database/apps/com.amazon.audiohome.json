@@ -129,5 +129,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/4/55c0c07a-5723-4d4f-99fe-393924386853/app-multimodal-armeabi-v7a-release-prod-signed-21014811.apk",
         "versionCode": "21014811",
         "versionName": "2.10148.1.1"
+    },
+    {
+        "md5": "215d59fded4440e9335ee637a1fc8cf5",
+        "uploaded": "2026-06-18",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/18/5020707d-dc25-49f5-b04d-1357b84709a0/app-multimodal-armeabi-v7a-release-prod-signed-201836511.apk",
+        "versionCode": "201836511",
+        "versionName": "2.018365.1.1"
     }
 ]

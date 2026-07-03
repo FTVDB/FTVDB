@@ -1483,5 +1483,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/1/02eab425-9ca1-488a-95cf-dc2f1ca2a097/1782944604458-Signed_Firebat-pyro-release_320203410.apk",
         "versionCode": "320203410",
         "versionName": "PVFTV-320.2034-L"
+    },
+    {
+        "md5": "be26d08eb9bc2cd29138957b84aea1b8",
+        "uploaded": "2026-07-02",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/2/11cbf593-f34c-45a3-9614-902b90f1f5a8/1783028445419-Signed_Firebat-pyro-release_320403510.apk",
+        "versionCode": "320403510",
+        "versionName": "PVFTV-320.4035-L"
     }
 ]

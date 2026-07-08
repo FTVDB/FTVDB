@@ -89,5 +89,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/12/b3ec5e77-b40f-4097-803c-8f5d810d29e4/update-kindle-crown-NS6573_user_7577_0012920396164.bin",
         "versionCode": "12920396164",
         "versionName": "Fire OS 6.5.7.3 (NS6573/7577)"
+    },
+    {
+        "md5": "1a4052cd175c41b7d76cb360cbef1ddc",
+        "uploaded": "2026-07-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/3/6a4c2619-a2dd-43f5-a8e6-2ac911cda752/update-kindle-crown-NS6573_user_7595_0013054618500.bin",
+        "versionCode": "13054618500",
+        "versionName": "Fire OS 6.5.7.3 (NS6573/7595)"
     }
 ]

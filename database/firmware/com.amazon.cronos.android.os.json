@@ -54,5 +54,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/12/5ae0fd6d-787f-4d55-ae83-f1b06a4c4e05/update-kindle-cronos-NS6573_user_7577_0012920396164.bin",
         "versionCode": "12920396164",
         "versionName": "Fire OS 6.5.7.3 (NS6573/7577)"
+    },
+    {
+        "md5": "759e11f666784485788437b589e6ee32",
+        "uploaded": "2026-07-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/3/dc61ef91-8ee8-4701-b984-9662d281b269/update-kindle-cronos-NS6573_user_7595_0013054618500.bin",
+        "versionCode": "13054618500",
+        "versionName": "Fire OS 6.5.7.3 (NS6573/7595)"
     }
 ]

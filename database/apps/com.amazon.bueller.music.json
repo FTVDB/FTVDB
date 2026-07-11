@@ -383,5 +383,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/24/2c948a8a-9422-4fa5-8c3d-d39841650336/1782285624028-signed_DMTVAndroid-firetv-prod-arm32-release-26.6.1.2160.0.apk",
         "versionCode": "426060110",
         "versionName": "26.6.1.2160"
+    },
+    {
+        "md5": "62d4f361accec874c2101eec68f20c73",
+        "uploaded": "2026-07-08",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/8/a007ec1d-9a55-44b0-bcb2-f8b7827f2c17/1783485511602-signed_DMTVAndroid-firetv-prod-arm32-release-26.7.0.2513.0.apk",
+        "versionCode": "426070010",
+        "versionName": "26.7.0.2513"
     }
 ]

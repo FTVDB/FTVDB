@@ -257,5 +257,12 @@
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.19.5.bin",
         "versionCode": "4794320058",
         "versionName": "5.19.5"
+    },
+    {
+        "md5": "8404786b9681b9495b78a200ad4354b6",
+        "uploaded": "2026-08-03",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.19.6.bin",
+        "versionCode": "4832190042",
+        "versionName": "5.19.6"
     }
 ]

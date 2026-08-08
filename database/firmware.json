@@ -77,6 +77,13 @@
             "Echo Show 5 - 1st Gen (2019)"
         ]
     },
+    "com.amazon.croissant.android.os": {
+        "category": "echo",
+        "model": "",
+        "title": [
+            "Echo Flex (2019)"
+        ]
+    },
     "com.amazon.cronos.android.os": {
         "category": "echo",
         "model": "AEOCN",

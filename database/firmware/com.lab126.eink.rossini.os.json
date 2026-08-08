@@ -148,9 +148,23 @@
     },
     {
         "md5": "a741ce4062389c77f8a35cfe8815a1b4",
+        "uploaded": "2026-06-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/17/832b0216-134b-4b4c-b4ab-ca2317350d49/update-J1905-bellatrix_rossini-058-fwo_4794270058.bin",
+        "versionCode": "4794270058",
+        "versionName": "5.19.5"
+    },
+    {
+        "md5": "a741ce4062389c77f8a35cfe8815a1b4",
         "uploaded": "2026-06-29",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.19.5.bin",
         "versionCode": "4794270058",
         "versionName": "5.19.5"
+    },
+    {
+        "md5": "9a66c53841df5ea89457c892ca1c616c",
+        "uploaded": "2026-08-03",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.19.6.bin",
+        "versionCode": "4832540042",
+        "versionName": "5.19.6"
     }
 ]

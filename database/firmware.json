@@ -79,7 +79,7 @@
     },
     "com.amazon.croissant.android.os": {
         "category": "echo",
-        "model": "",
+        "model": "AEOCR",
         "title": [
             "Echo Flex (2019)"
         ]

@@ -250,5 +250,12 @@
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.18.2.bin",
         "versionCode": "4434550025",
         "versionName": "5.18.2"
+    },
+    {
+        "md5": "6efb1c0720a2ed0710d0714ac77b5045",
+        "uploaded": "2026-08-11",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.18.2.1.1.bin",
+        "versionCode": "4821110015",
+        "versionName": "5.18.2.1.1"
     }
 ]

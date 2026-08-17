@@ -92,6 +92,13 @@
     },
     {
         "md5": "d1e06cbb801dd57412c71d5718ea052d",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/6c0dfdc7-9fba-422d-85e4-75524bfc773f/update-kindle-sunstone-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "d1e06cbb801dd57412c71d5718ea052d",
         "uploaded": "2025-12-22",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/4amHNOvwW4KDYd5xDz75MnJ9nn/update-Fire_Max11_13th_Gen-RS8338_user_3339_0030132734852.bin",
         "versionCode": "30132734852",

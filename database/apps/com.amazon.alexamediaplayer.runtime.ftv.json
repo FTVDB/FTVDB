@@ -143,5 +143,13 @@
         "url": "",
         "versionCode": "16470810",
         "versionName": "1.0.69406.0_16470810"
+    },
+    {
+        "md5": "2c30ce1cd72a47d841ebdcbc0b992db9",
+        "optout": 1,
+        "uploaded": "2026-06-08",
+        "url": "",
+        "versionCode": "16488010",
+        "versionName": "1.0.70735.0_16488010"
     }
 ]

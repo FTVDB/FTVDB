@@ -71,6 +71,13 @@
     },
     {
         "md5": "565e9f758980fed021032d166e535d11",
+        "uploaded": "2025-05-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/20/1fc71626-60ce-4e8e-baa7-9a5eaf5b117a/update-kindle-sunstone-RS8335_user_2972_0027716721796.bin",
+        "versionCode": "27716721796",
+        "versionName": "Fire OS 8.3.3.5 (RS8335/2972)"
+    },
+    {
+        "md5": "565e9f758980fed021032d166e535d11",
         "uploaded": "2025-05-27",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xDz75MnJ9npabg/update-kindle-Fire_Max11_13th_Gen-RS8335_user_2972_0027716721796.bin",
         "versionCode": "27716721796",

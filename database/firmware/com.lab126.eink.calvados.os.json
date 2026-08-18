@@ -57,6 +57,13 @@
     },
     {
         "md5": "9197d8f556fce03fede8834ad20ba1c2",
+        "uploaded": "2026-06-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/17/2e93ff44-7648-4499-9aa1-f9bd80d33bc1/update-J1905-platcs8_calvados-058-fwo_4794260058.bin",
+        "versionCode": "4794260058",
+        "versionName": "5.19.5"
+    },
+    {
+        "md5": "9197d8f556fce03fede8834ad20ba1c2",
         "uploaded": "2026-06-30",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_colorsoft_1st_generation_5.19.5.bin",
         "versionCode": "4794260058",

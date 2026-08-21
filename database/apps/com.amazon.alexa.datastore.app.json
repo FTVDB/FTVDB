@@ -1,5 +1,12 @@
 [
     {
+        "md5": "23fe2f6328a11e4e1807693f489d06a6",
+        "uploaded": "2023-08-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/8cbffbe74cc13edf2f499cd1f6307ffd/signed_SarasDataStore_Application-armeabi-v7a-release-ftv-r10-6258.apk",
+        "versionCode": "1320511",
+        "versionName": "1.0.6258.0"
+    },
+    {
         "md5": "aad08971a17a5085cfecf524be410fcd",
         "optout": 1,
         "uploaded": "2024-08-14",

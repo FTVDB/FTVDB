@@ -1,9 +1,9 @@
 {
     "com.amazon.almond.android.os": {
         "category": "firetv",
-        "model": "AFTKRT",
+        "model": "",
         "title": [
-            "Fire TV Stick 4K Max - 2nd Gen (2023)"
+            "Insignia Class F20 Series LED HD Smart Fire TV (2023)"
         ]
     },
     "com.amazon.anna.android.os": {
@@ -184,9 +184,9 @@
     },
     "com.amazon.karat.android.os": {
         "category": "firetv",
-        "model": "AFTKM",
+        "model": "AFTKRT",
         "title": [
-            "Fire TV Stick 4K - 2nd Gen (2023)"
+            "Fire TV Stick 4K Max - 2nd Gen (2023)"
         ]
     },
     "com.amazon.karnak.android.os": {

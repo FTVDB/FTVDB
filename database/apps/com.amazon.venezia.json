@@ -265,5 +265,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/5/13/eef541a4-1669-4d63-b2f9-d133861cf698/1778655776996-R29_plus_5.v.x.244718.0_MASClientNapkinAPK-ftv-release-signed.apk",
         "versionCode": "428948010",
         "versionName": "release-8.5103.5.v.x.244718.0_428948010"
+    },
+    {
+        "md5": "7422cca6d556989bceb3eb8381de397e",
+        "uploaded": "2026-08-07",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/8/7/61f9b760-3d2f-4e08-85e1-49499a8b88df/1786077814938-R30Fix_MASClientNapkinAPK-ftv-release-signed.apk",
+        "versionCode": "430082710",
+        "versionName": "release-8.5104.5.v.x.249155.0_430082710"
     }
 ]

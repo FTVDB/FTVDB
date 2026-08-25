@@ -441,6 +441,13 @@
             "Kindle 5 Touch (2011)"
         ]
     },
+    "com.ftvdb.kindle.scribe1-2025.os": {
+        "category": "kindle",
+        "model": "SCRIBE1-2025",
+        "title": [
+            "Kindle Scribe ColorSoft (2025)"
+        ]
+    },
     "com.lab126.eink.barolo.os": {
         "category": "kindle",
         "model": "SCRIBE1-2022",

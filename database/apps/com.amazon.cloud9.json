@@ -467,5 +467,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/8/13/2be4c58a-fbb9-4599-82e1-4f8997e87a94/1786605830763-signed_slate_fire_tv_v150_2_11_arm.apk",
         "versionCode": "1502511010",
         "versionName": "150.2.11.0.7871.224.30"
+    },
+    {
+        "md5": "c700256c5ecc34fb34e3b1e1892a7631",
+        "uploaded": "2026-08-26",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/8/26/518c9678-4a00-4c35-93e7-723221483bf3/1787730669427-signed_slate_fire_tv_v150_3_2_arm.apk",
+        "versionCode": "1503502010",
+        "versionName": "150.3.2.0.7871.250.30"
     }
 ]

@@ -364,6 +364,13 @@
             "Fire HD 10 - 13th Gen (2023)"
         ]
     },
+    "com.ftvdb.kindle.basic5-2024.os": {
+        "category": "kindle",
+        "model": "BASIC5-2024",
+        "title": [
+            "Kindle Basic 5 (2024)"
+        ]
+    },
     "com.ftvdb.kindle.dxg-2010.os": {
         "category": "kindle",
         "model": "DXG-2010",

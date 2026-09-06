@@ -364,90 +364,6 @@
             "Fire HD 10 - 13th Gen (2023)"
         ]
     },
-    "com.ftvdb.kindle.dxg-2010.os": {
-        "category": "kindle",
-        "model": "DXG-2010",
-        "title": [
-            "Kindle DX Graphite (2010)"
-        ]
-    },
-    "com.ftvdb.kindle.dxint-2010.os": {
-        "category": "kindle",
-        "model": "DXINT-2010",
-        "title": [
-            "Kindle DX International (2010)"
-        ]
-    },
-    "com.ftvdb.kindle.dxus-2009.os": {
-        "category": "kindle",
-        "model": "DXUS-2009",
-        "title": [
-            "Kindle DX US (2009)"
-        ]
-    },
-    "com.ftvdb.kindle.k1-2007.os": {
-        "category": "kindle",
-        "model": "K1-2007",
-        "title": [
-            "Kindle 1 (2007)"
-        ]
-    },
-    "com.ftvdb.kindle.k2int-2009.os": {
-        "category": "kindle",
-        "model": "K2INT-2009",
-        "title": [
-            "Kindle 2 International (2009)"
-        ]
-    },
-    "com.ftvdb.kindle.k2us-2009.os": {
-        "category": "kindle",
-        "model": "K2US-2009",
-        "title": [
-            "Kindle 2 US (2009)"
-        ]
-    },
-    "com.ftvdb.kindle.k3wifi-2010.os": {
-        "category": "kindle",
-        "model": "K3WIFI-2010",
-        "title": [
-            "Kindle 3 WiFi (2010)"
-        ]
-    },
-    "com.ftvdb.kindle.k3wifi3g-2010.os": {
-        "category": "kindle",
-        "model": "K3WIFI3G-2010",
-        "title": [
-            "Kindle 3 WiFi+3G (2010)"
-        ]
-    },
-    "com.ftvdb.kindle.k3wifi3geu-2010.os": {
-        "category": "kindle",
-        "model": "K3WIFI3GEU-2010",
-        "title": [
-            "Kindle 3 WiFi+3G EU (2010)"
-        ]
-    },
-    "com.ftvdb.kindle.k4nt-2011.os": {
-        "category": "kindle",
-        "model": "K4NT-2011",
-        "title": [
-            "Kindle 4 Non-Touch (2011)"
-        ]
-    },
-    "com.ftvdb.kindle.k5t-2011.os": {
-        "category": "kindle",
-        "model": "K5T-2011",
-        "title": [
-            "Kindle 5 Touch (2011)"
-        ]
-    },
-    "com.ftvdb.kindle.scribe1-2025.os": {
-        "category": "kindle",
-        "model": "SCRIBE1-2025",
-        "title": [
-            "Kindle Scribe ColorSoft (2025)"
-        ]
-    },
     "com.lab126.eink.barolo.os": {
         "category": "kindle",
         "model": "SCRIBE1-2022",
@@ -497,6 +413,13 @@
             "Kindle Basic 2 (2016)"
         ]
     },
+    "com.lab126.eink.fiona.os": {
+        "category": "kindle",
+        "model": "K1-2007",
+        "title": [
+            "Kindle 1 (2007)"
+        ]
+    },
     "com.lab126.eink.icewine.os": {
         "category": "kindle",
         "model": "VOYAGE-2014",
@@ -511,11 +434,46 @@
             "Kindle Basic 3 (2019)"
         ]
     },
+    "com.lab126.eink.k3g.os": {
+        "category": "kindle",
+        "model": "K3WIFI3G-2010",
+        "title": [
+            "Kindle 3 WiFi+3G (2010)"
+        ]
+    },
+    "com.lab126.eink.k3gb.os": {
+        "category": "kindle",
+        "model": "K3WIFI3GEU-2010",
+        "title": [
+            "Kindle 3 WiFi+3G EU (2010)"
+        ]
+    },
+    "com.lab126.eink.k3w.os": {
+        "category": "kindle",
+        "model": "K3WIFI-2010",
+        "title": [
+            "Kindle 3 WiFi (2010)"
+        ]
+    },
     "com.lab126.eink.malbec.os": {
         "category": "kindle",
         "model": "PW5-2021",
         "title": [
             "Kindle Paperwhite 5 (2021)"
+        ]
+    },
+    "com.lab126.eink.mario-int.os": {
+        "category": "kindle",
+        "model": "K2INT-2009",
+        "title": [
+            "Kindle 2 International (2009)"
+        ]
+    },
+    "com.lab126.eink.mario-us.os": {
+        "category": "kindle",
+        "model": "K2US-2009",
+        "title": [
+            "Kindle 2 US (2009)"
         ]
     },
     "com.lab126.eink.moonshine.os": {
@@ -530,6 +488,27 @@
         "model": "PW3-2015",
         "title": [
             "Kindle Paperwhite 3 (2015)"
+        ]
+    },
+    "com.lab126.eink.nell.os": {
+        "category": "kindle",
+        "model": "DXUS-2009",
+        "title": [
+            "Kindle DX US (2009)"
+        ]
+    },
+    "com.lab126.eink.nellsl.os": {
+        "category": "kindle",
+        "model": "DXG-2010",
+        "title": [
+            "Kindle DX Graphite (2010)"
+        ]
+    },
+    "com.lab126.eink.nellww.os": {
+        "category": "kindle",
+        "model": "DXINT-2010",
+        "title": [
+            "Kindle DX International (2010)"
         ]
     },
     "com.lab126.eink.paloma.os": {
@@ -567,6 +546,13 @@
             "Kindle Paperwhite 6 (2024)"
         ]
     },
+    "com.lab126.eink.sauza.os": {
+        "category": "kindle",
+        "model": "K5T-2011",
+        "title": [
+            "Kindle 5 Touch (2011)"
+        ]
+    },
     "com.lab126.eink.seabreeze.os": {
         "category": "kindle",
         "model": "COLORSOFT-2024",
@@ -579,6 +565,13 @@
         "model": "OASIS3-2019",
         "title": [
             "Kindle Oasis 3 (2019)"
+        ]
+    },
+    "com.lab126.eink.tequila.os": {
+        "category": "kindle",
+        "model": "K4NT-2011",
+        "title": [
+            "Kindle 4 Non-Touch (2011)"
         ]
     },
     "com.lab126.eink.whisky.os": {

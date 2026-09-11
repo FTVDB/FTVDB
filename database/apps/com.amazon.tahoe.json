@@ -212,5 +212,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/1/07aac08e-9e24-4c17-b5c8-68b2be0976a1/signed_FreeTimeFTVApp-release-VN-3.51_Build-1.0.232457.0.16276-VC-351005110.apk",
         "versionCode": "351005110",
         "versionName": "FreeTimeFTVApp_v3.51_Build-1.0.232457.0.16276"
+    },
+    {
+        "md5": "0bd11209385dc1873a8f47b406a66032",
+        "uploaded": "2026-08-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/8/25/e38f972d-cfbc-4252-9cb5-dafb9aaccd87/signed_FreeTimeFTVApp-release-VN-3.53_Build-1.0.233071.0.16561-VC-353018210.apk",
+        "versionCode": "353018210",
+        "versionName": "FreeTimeFTVApp_v3.53_Build-1.0.233071.0.16561"
     }
 ]

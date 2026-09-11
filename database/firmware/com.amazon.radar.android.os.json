@@ -33,5 +33,40 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/15/0f8045ed-9120-4f00-9a3b-39fcd5dd7c14/update-kindle-radar_puffin-NS6566_user_6813_0011779349892.bin",
         "versionCode": "11779349892",
         "versionName": "Fire OS 6.5.6.6 (NS6566/6813)"
+    },
+    {
+        "md5": "f07bb9d443820cd839aa4b4d4efa66cc",
+        "uploaded": "2025-11-08",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/8/d75268f0-a7d9-437b-b18d-ddad90dc53a1/update-kindle-radar_puffin-NS6571_user_6199_0012584499076.bin",
+        "versionCode": "12584499076",
+        "versionName": "Fire OS 6.5.7.1 (NS6571/6199)"
+    },
+    {
+        "md5": "c4399e6e78d0841d0a451fd7ff4505f5",
+        "uploaded": "2025-11-28",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/28/21618840-04ae-4d04-8124-ab6148dd0031/update-kindle-radar_puffin-NS6571_user_6208_0012584501380.bin",
+        "versionCode": "12584501380",
+        "versionName": "Fire OS 6.5.7.1 (NS6571/6208)"
+    },
+    {
+        "md5": "d244caa896d4d1efeb0576ea74fb638c",
+        "uploaded": "2026-01-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/1/17/3467bda0-6332-4c07-950b-ed0106b7ec5d/update-kindle-radar_puffin-NS6571_user_6220_0012584504452.bin",
+        "versionCode": "12584504452",
+        "versionName": "Fire OS 6.5.7.1 (NS6571/6220)"
+    },
+    {
+        "md5": "e64bbb2831eebe3b4da4b796fad5fab6",
+        "uploaded": "2026-03-06",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/6/f0f2ea3e-ed49-474b-aee2-f81a86124516/update-kindle-radar_puffin-NS6572_user_6425_0012718774660.bin",
+        "versionCode": "12718774660",
+        "versionName": "Fire OS 6.5.7.2 (NS6572/6425)"
+    },
+    {
+        "md5": "17af64ecc5b8f0303daf4e2a37c75b1a",
+        "uploaded": "2026-03-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/21/22138e24-4af9-483b-8b47-0420835a92fd/update-kindle-radar_puffin-NS6572_user_6436_0012718777476.bin",
+        "versionCode": "12718777476",
+        "versionName": "Fire OS 6.5.7.2 (NS6572/6436)"
     }
 ]

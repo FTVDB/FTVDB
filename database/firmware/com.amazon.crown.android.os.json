@@ -103,5 +103,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/8/26/2811922e-e963-4169-a2bc-e697543da2a0/update-kindle-crown-NS6574_user_7630_0013121736324.bin",
         "versionCode": "13121736324",
         "versionName": "Fire OS 6.5.7.4 (NS6574/7630)"
+    },
+    {
+        "md5": "7df1eee2a03b9c6989806cfa65a9854d",
+        "uploaded": "2026-09-06",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/6/b8bbbb5f-ac81-4d00-bbfd-3ce48838bfef/update-kindle-crown-NS6574_user_7632_0013121736836.bin",
+        "versionCode": "13121736836",
+        "versionName": "Fire OS 6.5.7.4 (NS6574/7632)"
     }
 ]

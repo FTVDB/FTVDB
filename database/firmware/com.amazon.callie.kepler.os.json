@@ -12,5 +12,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/12/bf815cf5-2825-4472-86f6-3c8f87351189/amzn-image-swupdate-callie.swu",
         "versionCode": "1001010051820",
         "versionName": "OS 1.1 (TV Ship/518)"
+    },
+    {
+        "md5": "1cf2f4b1f01d056ea5e529c8df1169e3",
+        "uploaded": "2026-03-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/20/e1c7a25f-81f5-4d01-9025-a267e3486757/amzn-image-swupdate-callie.swu",
+        "versionCode": "1401010010220",
+        "versionName": "OS 1.1 (TV Ship day60/102)"
     }
 ]

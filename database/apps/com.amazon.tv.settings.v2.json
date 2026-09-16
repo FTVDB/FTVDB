@@ -144,5 +144,12 @@
         "url": "",
         "versionCode": "640286010",
         "versionName": "1.0.12436.0-com.amazon.tv.settings.v2-jarvis_640286010"
+    },
+    {
+        "md5": "acc2b68352a8d2f3989a85dd185d939e",
+        "uploaded": "2026-09-07",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/7/ce847924-898d-43a9-9d08-c78dd1e766ce/1788758939717-RRO-R31.apk",
+        "versionCode": "641698010",
+        "versionName": "1.0.20120.0-com.amazon.tv.settings.v2-jarvisRroEnabled_641698010"
     }
 ]

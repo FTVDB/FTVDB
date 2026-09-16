@@ -285,5 +285,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/9/8f14e9a9-c00a-433a-9ba2-836a7fa57f93/1783618201419-signed_AmazonWebView-debug-32-signed-v3.apk",
         "versionCode": "61590232",
         "versionName": "138.amazon-webview-v138-7204.7204.244.222"
+    },
+    {
+        "md5": "5fec07cf917c7c125034ca772098d1e3",
+        "uploaded": "2026-09-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/10/bd7734d6-e022-4e7b-a9b4-d0dcda42917a/1789021909665-arm32_v3_signed-awv-amazon-webview-v138-7204_cve-2026-87491-619926-29e7e10-arm32.apk",
+        "versionCode": "61992632",
+        "versionName": "138.amazon-webview-v138-7204_cve-2026-87491.7204.244.251"
     }
 ]

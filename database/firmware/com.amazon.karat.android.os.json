@@ -103,5 +103,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/8/17/6b5b010d-ab55-4b17-8247-6870c688776e/update-kindle-karat-RS8182_user_3811_0032548774788.bin",
         "versionCode": "32548774788",
         "versionName": "Fire OS 8.1.8.2 (RS8182/3811)"
+    },
+    {
+        "md5": "9f245ea24d0d7ec16bc7a9ae65013d5a",
+        "uploaded": "2026-09-15",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/15/46547e3e-6e89-47b7-a3ff-8365a2f2e004/update-kindle-karat-RS8185_user_3879_0033018554244.bin",
+        "versionCode": "33018554244",
+        "versionName": "Fire OS 8.1.8.5 (RS8185/3879)"
     }
 ]

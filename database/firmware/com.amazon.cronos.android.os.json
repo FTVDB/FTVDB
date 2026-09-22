@@ -75,5 +75,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/12/09eb5e19-5dc4-47a5-8a83-7c5f99aa7c54/update-kindle-cronos-NS6574_user_7636_0013121737860.bin",
         "versionCode": "13121737860",
         "versionName": "Fire OS 6.5.7.4 (NS6574/7636)"
+    },
+    {
+        "md5": "e55aba45e361a926de5b41c951e6e3cf",
+        "uploaded": "2026-09-15",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/15/ebf96e81-5d5f-41de-a712-4db3054a5ae0/update-kindle-cronos-NS65741_user_8146_0013222531716.bin",
+        "versionCode": "13222531716",
+        "versionName": "Fire OS 6574.1 (NS65741/8146)"
     }
 ]

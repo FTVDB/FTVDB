@@ -262,5 +262,13 @@
         "url": "",
         "versionCode": "36005355908",
         "versionName": "Fire OS 7.7.1.6 (PS7716/5665)"
+    },
+    {
+        "md5": "117788edde43da819dcdf24a46a761c7",
+        "optout": 1,
+        "uploaded": "2026-09-22",
+        "url": "",
+        "versionCode": "36408028548",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
     }
 ]

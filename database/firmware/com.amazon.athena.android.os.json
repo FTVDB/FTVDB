@@ -138,5 +138,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/15/5506e5ba-7f53-46ba-9142-0af7b0814488/update-kindle-athena-PS75741_user_7077_0036274152836.bin",
         "versionCode": "36274152836",
         "versionName": "Fire OS 7574.1 (PS75741/7077)"
+    },
+    {
+        "md5": "84ffb126664e1a3569404ba61d580e05",
+        "uploaded": "2026-09-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/43122278-f881-48c0-8255-fcf4e8184a7e/update-kindle-athena-PS75741_user_7080_0036274153604.bin",
+        "versionCode": "36274153604",
+        "versionName": "Fire OS 7574.1 (PS75741/7080)"
     }
 ]

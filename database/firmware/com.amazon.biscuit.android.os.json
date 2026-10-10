@@ -292,5 +292,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/17/566d9028-8c3d-45a2-b5a8-4c4439ba2126/update-kindle-biscuit_puffin-NS65741_user_8146_0013222531716.bin",
         "versionCode": "13222531716",
         "versionName": "Fire OS 6574.1 (NS65741/8146)"
+    },
+    {
+        "md5": "a01de630f6d943dddc9b751ae74bbb52",
+        "uploaded": "2026-09-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/9a45cfba-a9ee-4f8f-ba00-fcbffd59e3f1/update-kindle-biscuit_puffin-NS65741_user_8149_0013222532484.bin",
+        "versionCode": "13222532484",
+        "versionName": "Fire OS 6574.1 (NS65741/8149)"
     }
 ]

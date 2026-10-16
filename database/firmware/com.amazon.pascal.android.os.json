@@ -5,5 +5,19 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/423c69eadb3f651e3d720848ab8f9c7e/update-kindle-pascal-NS6437_user_2784_0002919948420.bin",
         "versionCode": "2919948420",
         "versionName": "Fire OS 6.5.3.4.1 (NS6437/2784)"
+    },
+    {
+        "md5": "de809f6e99e46cd593c20874045556de",
+        "uploaded": "2021-06-14",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/4f875928511bca206bf4150b55dea206/update-kindle-pascal-NS6546_user_3376_0005470236804.bin",
+        "versionCode": "5470236804",
+        "versionName": "Fire OS 6.5.4.6 (NS6546/3376)"
+    },
+    {
+        "md5": "09f7eecdef5c2f971e1a0c54005c68d6",
+        "uploaded": "2024-05-30",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/5/30/b14d96d9-4eed-451a-8deb-c2df0c362b2f/update-kindle-pascal-NS6563_user_5291_0010369674116.bin",
+        "versionCode": "10369674116",
+        "versionName": "Fire OS 6.5.6.3 (NS6563/5291)"
     }
 ]

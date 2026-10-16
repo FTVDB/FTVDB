@@ -231,6 +231,13 @@
             "Fire HD 8 - 10th Gen (2020)"
         ]
     },
+    "com.amazon.pascal.android.os": {
+        "category": "echo",
+        "model": "",
+        "title": [
+            "Echo - 3rd Gen (2019)"
+        ]
+    },
     "com.amazon.quartz.android.os": {
         "category": "firetablet",
         "model": "KFQUWI",

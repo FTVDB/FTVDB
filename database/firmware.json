@@ -245,6 +245,13 @@
             "Fire HD 8 - 8th Gen (2018)"
         ]
     },
+    "com.amazon.knight.android.os": {
+        "category": "echo",
+        "model": "AEOKN",
+        "title": [
+            "Echo Show - 1st Gen (2017)"
+        ]
+    },
     "com.amazon.kyanite.android.os": {
         "category": "echo",
         "model": "",

@@ -43,10 +43,10 @@
         ]
     },
     "com.amazon.baklava.kepler.os": {
-        "category": "",
+        "category": "echo",
         "model": "AEOBL",
         "title": [
-            "Amazon AEOBL"
+            "Echo Spot - 2nd Gen (2024)"
         ]
     },
     "com.amazon.biscuit.android.os": {

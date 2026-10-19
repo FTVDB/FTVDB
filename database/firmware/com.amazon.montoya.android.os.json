@@ -68,5 +68,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/64e99dd579dbc2c096608c88997e0e9b/update-kindle-montoya-54.6.6.2_user_662663720.bin",
         "versionCode": "662663720",
         "versionName": "Fire OS 5.2.7.7 (662663720)"
+    },
+    {
+        "md5": "7c0e62c417fb9ef8a3cb98fe9723309c",
+        "uploaded": "2022-04-07",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/3452735b8eb5c0b9776e03a0435ac7b8/update-kindle-montoya-54.6.7.6_user_676742620.bin",
+        "versionCode": "676742620",
+        "versionName": "Fire OS 5.2.8.8 (676742620)"
     }
 ]

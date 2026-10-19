@@ -35,6 +35,13 @@
         "versionName": "Fire OS 7.3.1.5 (PS7315/1958)"
     },
     {
+        "md5": "9fe9dba2e33adb915dd446e52e6410cc",
+        "uploaded": "2020-10-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/c8165fc11078a449d2ec3dd97479dfa9/update-kindle-maverick-PS7316_user_1737_0018824481156.bin",
+        "versionCode": "18824481156",
+        "versionName": "Fire OS 7.3.1.6 (PS7316/1737)"
+    },
+    {
         "md5": "55a1a35c801cdecf8cfbea88efc79c5b",
         "uploaded": "2020-11-03",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/UPD2PgdmBwifkntS40eKU2lKGg/update-kindle-Fire_HD10_9th_Gen-PS7317_user_1804_0019227151492.bin",

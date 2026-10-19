@@ -37,6 +37,13 @@
     {
         "md5": "a225cef86e515127d5a6caf27cec1404",
         "uploaded": "2019-03-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/f117317cfc07ded05ed88b75da8f1ee5/update-kindle-douglas-50.6.3.6_user_636558520.bin",
+        "versionCode": "636558520",
+        "versionName": "Fire OS 5.3.6.8 (636558520)"
+    },
+    {
+        "md5": "a225cef86e515127d5a6caf27cec1404",
+        "uploaded": "2019-03-29",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/fqt0doGd1liHKioAFObgRm6oGA/update-kindle-50.6.3.6_user_636558520.bin",
         "versionCode": "636558520",
         "versionName": "Fire OS 5.3.6.8 (636558520)"

@@ -22,6 +22,13 @@
     },
     {
         "md5": "a53e7b49db685dd53e643b5cd7cc1724",
+        "uploaded": "2018-11-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/c0cf016daa172e2e5021dc2e60be0c24/update-kindle-austin-55.6.2.6_user_626533320.bin",
+        "versionCode": "626533320",
+        "versionName": "Fire OS 5.3.6.4 (626533320)"
+    },
+    {
+        "md5": "a53e7b49db685dd53e643b5cd7cc1724",
         "uploaded": "2018-11-13",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/93olgKwMW8ecGINzUwwqQmLz43/update-kindle-55.6.2.6_user_626533320.bin",
         "versionCode": "626533320",

@@ -385,6 +385,13 @@
             "Echo - 3rd Gen (2019)"
         ]
     },
+    "com.amazon.persimmon.kepler.os": {
+        "category": "",
+        "model": "AEOPS",
+        "title": [
+            "Amazon AEOPS"
+        ]
+    },
     "com.amazon.quartz.android.os": {
         "category": "firetablet",
         "model": "KFQUWI",

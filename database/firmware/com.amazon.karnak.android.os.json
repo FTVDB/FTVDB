@@ -36,6 +36,13 @@
     },
     {
         "md5": "c5dd5a108597f3cbbe836beaf483ef4b",
+        "uploaded": "2020-02-13",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/132dc17d047bc7f4a5034c3f95f6beec/update-kindle-karnak-NS6315_user_2504_0003658074244.bin",
+        "versionCode": "3658074244",
+        "versionName": "Fire OS 6.3.1.5 (NS6315/2504)"
+    },
+    {
+        "md5": "c5dd5a108597f3cbbe836beaf483ef4b",
         "uploaded": "2020-02-27",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/eI3UXiCdWfm4l9xcFS5U61gf6a/update-kindle-Fire_HD8_8th_Gen-NS6315_user_2504_0003658074244.bin",
         "versionCode": "3658074244",

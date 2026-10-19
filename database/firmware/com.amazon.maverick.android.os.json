@@ -7,6 +7,13 @@
         "versionName": "Fire OS 7.3.1.1 (PS7311/1065)"
     },
     {
+        "md5": "4a684b9e9001ca4b56ab827493764581",
+        "uploaded": "2019-11-07",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/38c9be3d0d42aa59d5ba35f402fdae92/update-kindle-maverick-PS7311_user_1082_0017549245060.bin",
+        "versionCode": "17549245060",
+        "versionName": "Fire OS 7.3.1.1 (PS7311/1082)"
+    },
+    {
         "md5": "fa52b6bc40ce685a221b507b500a0a0a",
         "uploaded": "2020-01-30",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/zAHDR4YGh5WL4k2216LPmsbvZX/update-kindle-Fire_HD10_9th_Gen-PS7312_user_1271_0017884837764.bin",

@@ -315,6 +315,13 @@
             "Kindle Fire HD 7 - 3rd Gen (2013)"
         ]
     },
+    "com.amazon.sonar.android.os": {
+        "category": "echo",
+        "model": "AEOSN",
+        "title": [
+            "Echo Plus - 1st Gen (2017)"
+        ]
+    },
     "com.amazon.suez.android.os": {
         "category": "firetablet",
         "model": "KFSUWI",

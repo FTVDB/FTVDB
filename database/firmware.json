@@ -308,6 +308,13 @@
             "Echo Plus - 2nd Gen (2018)"
         ]
     },
+    "com.amazon.macaroon.kepler.os": {
+        "category": "",
+        "model": "AEOMC",
+        "title": [
+            "Amazon AEOMC"
+        ]
+    },
     "com.amazon.madeleine.kepler.os": {
         "category": "",
         "model": "AEOMD",

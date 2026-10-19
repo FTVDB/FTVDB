@@ -197,10 +197,10 @@
         ]
     },
     "com.amazon.electra.kepler.os": {
-        "category": "",
+        "category": "echo",
         "model": "AEOEL",
         "title": [
-            "Amazon AEOEL"
+            "Echo Show 11 - 1st Gen (2025)"
         ]
     },
     "com.amazon.ford.android.os": {

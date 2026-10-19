@@ -56,6 +56,13 @@
             "Fire TV 4-Series (2021)"
         ]
     },
+    "com.amazon.brownie.android.os": {
+        "category": "echo",
+        "model": "",
+        "title": [
+            "Echo Dot - 4th Gen (2020)"
+        ]
+    },
     "com.amazon.bueller.android.os": {
         "category": "firetv",
         "model": "AFTB",
@@ -208,6 +215,13 @@
         "model": "",
         "title": [
             "Echo Link Amp (2019)"
+        ]
+    },
+    "com.amazon.laser.android.os": {
+        "category": "echo",
+        "model": "",
+        "title": [
+            "Echo - 4th Gen (2020)"
         ]
     },
     "com.amazon.lidar.android.os": {

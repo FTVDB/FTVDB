@@ -196,6 +196,13 @@
             "Fire HD 8 - 8th Gen (2018)"
         ]
     },
+    "com.amazon.madeleine.kepler.os": {
+        "category": "",
+        "model": "AEOMD",
+        "title": [
+            "Amazon AEOMD"
+        ]
+    },
     "com.amazon.mantis.android.os": {
         "category": "firetv",
         "model": "AFTMM",

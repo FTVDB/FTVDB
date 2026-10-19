@@ -224,6 +224,13 @@
             "Toshiba 4K UHD - Fire TV (2022)"
         ]
     },
+    "com.amazon.hoya.android.os": {
+        "category": "echo",
+        "model": "AEOHY",
+        "title": [
+            "Echo Show 15 (2021)"
+        ]
+    },
     "com.amazon.jem.android.os": {
         "category": "firetablet",
         "model": "KFJWI",

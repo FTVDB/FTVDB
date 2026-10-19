@@ -44,6 +44,13 @@
     {
         "md5": "34f29313047cbe83914fecc38a159326",
         "uploaded": "2019-03-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/d55c97c40ee38ce822627cc968d7477c/update-kindle-suez-40.6.3.6_user_636558520.bin",
+        "versionCode": "636558520",
+        "versionName": "Fire OS 5.3.6.8 (636558520)"
+    },
+    {
+        "md5": "34f29313047cbe83914fecc38a159326",
+        "uploaded": "2019-03-29",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/fqt0doGd1liHKioAFObgRm6oGA/update-kindle-40.6.3.6_user_636558520.bin",
         "versionCode": "636558520",
         "versionName": "Fire OS 5.3.6.8 (636558520)"

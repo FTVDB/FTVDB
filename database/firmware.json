@@ -196,6 +196,13 @@
             "Fire HD 8 - 8th Gen (2018)"
         ]
     },
+    "com.amazon.lidar.android.os": {
+        "category": "echo",
+        "model": "",
+        "title": [
+            "Echo Plus - 2nd Gen (2018)"
+        ]
+    },
     "com.amazon.madeleine.kepler.os": {
         "category": "",
         "model": "AEOMD",
@@ -278,6 +285,13 @@
         "model": "AEORK",
         "title": [
             "Echo Spot - 1st Gen (2017)"
+        ]
+    },
+    "com.amazon.sapphire.android.os": {
+        "category": "echo",
+        "model": "",
+        "title": [
+            "Echo Link (2018)"
         ]
     },
     "com.amazon.saturn.android.os": {

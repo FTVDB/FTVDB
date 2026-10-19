@@ -77,6 +77,13 @@
         "versionName": "Fire OS 5.3.7.2 (657611720)"
     },
     {
+        "md5": "8dfe8643500ec83d773e8e0e4babe2ff",
+        "uploaded": "2020-08-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/f0cdb27d19711686cebf377a7c5f67a3/update-kindle-douglas-50.6.5.7_user_657612420.bin",
+        "versionCode": "657612420",
+        "versionName": "Fire OS 5.3.7.2 (657612420)"
+    },
+    {
         "md5": "45362fb1de2b506ed79f0cc658589891",
         "uploaded": "2020-11-04",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/KafCJSBzMfXOZWrboTzOWG8VYl/update-kindle-50.6.5.9_user_659655820.bin",

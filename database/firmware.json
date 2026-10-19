@@ -469,6 +469,13 @@
             "Fire Max 11 - 13th Gen (2023)"
         ]
     },
+    "com.amazon.sycamore.android.os": {
+        "category": "echo",
+        "model": "AEOSY",
+        "title": [
+            "Echo Show 21 (2024)"
+        ]
+    },
     "com.amazon.tank.android.os": {
         "category": "firetv",
         "model": "AFTT",

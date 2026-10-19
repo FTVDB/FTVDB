@@ -42,6 +42,13 @@
             "Fire 7 - 7th Gen (2017)"
         ]
     },
+    "com.amazon.baklava.kepler.os": {
+        "category": "",
+        "model": "AEOBL",
+        "title": [
+            "Amazon AEOBL"
+        ]
+    },
     "com.amazon.biscuit.android.os": {
         "category": "echo",
         "model": "AEOBC",

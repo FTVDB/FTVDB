@@ -82,5 +82,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/54a9ed82-ce12-49e3-91da-b10f7f5b831f/update-kindle-radar_puffin-NS65741_user_8149_0013222532484.bin",
         "versionCode": "13222532484",
         "versionName": "Fire OS 6574.1 (NS65741/8149)"
+    },
+    {
+        "md5": "157d33d4a3d0d79b39b9b5c0160d7bc0",
+        "uploaded": "2026-10-14",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/14/467e4e4d-33f8-45c7-8d54-c4ab67fee6da/update-kindle-radar_puffin-NS6575_user_8338_0013323244164.bin",
+        "versionCode": "13323244164",
+        "versionName": "Fire OS 6.5.7.5 (NS6575/8338)"
     }
 ]

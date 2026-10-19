@@ -5,5 +5,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/1a86e38c0bd402da5f5fb07a16d92892/update-kindle-hoya-PS7500_user_3991_0025703716740.bin",
         "versionCode": "25703716740",
         "versionName": "Fire OS 7.5.0.0 (PS7500/3991)"
+    },
+    {
+        "md5": "9f56a07720d46f3fefdeca76e9736eb1",
+        "uploaded": "2023-04-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/af80f3f8ffe47a8bc44540631810b108/update-kindle-hoya_ftv-PS7504_user_3919_0027549192068.bin",
+        "versionCode": "27549192068",
+        "versionName": "Fire OS 7.5.0.4 (PS7504/3919)"
     }
 ]

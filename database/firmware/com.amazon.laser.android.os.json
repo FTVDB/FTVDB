@@ -5,5 +5,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/49c77944-12ff-45b8-b73b-ea340be43006/update-kindle-laser_mt8512-NS65741_user_8149_0013222532484.bin",
         "versionCode": "13222532484",
         "versionName": "Fire OS 6574.1 (NS65741/8149)"
+    },
+    {
+        "md5": "1d22db331731028ea32c173d290d6b6a",
+        "uploaded": "2026-10-14",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/14/cefe8eba-0671-4493-a1f1-1cc9a90bceae/update-kindle-laser_mt8512-NS6575_user_8338_0013323244164.bin",
+        "versionCode": "13323244164",
+        "versionName": "Fire OS 6.5.7.5 (NS6575/8338)"
     }
 ]

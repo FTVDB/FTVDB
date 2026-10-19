@@ -211,10 +211,10 @@
         ]
     },
     "com.amazon.galileo.kepler.os": {
-        "category": "",
+        "category": "echo",
         "model": "AEOGL",
         "title": [
-            "Amazon AEOGL"
+            "Echo Hub - 1st Gen (2024)"
         ]
     },
     "com.amazon.ganache.android.os": {
@@ -316,17 +316,17 @@
         ]
     },
     "com.amazon.macaroon.kepler.os": {
-        "category": "",
+        "category": "echo",
         "model": "AEOMC",
         "title": [
-            "Amazon AEOMC"
+            "Echo Dot Max - 1st Gen (2025)"
         ]
     },
     "com.amazon.madeleine.kepler.os": {
-        "category": "",
+        "category": "echo",
         "model": "AEOMD",
         "title": [
-            "Amazon AEOMD"
+            "Echo Show 8 - 4th Gen (2025)"
         ]
     },
     "com.amazon.mantis.android.os": {
@@ -393,10 +393,10 @@
         ]
     },
     "com.amazon.persimmon.kepler.os": {
-        "category": "",
+        "category": "echo",
         "model": "AEOPS",
         "title": [
-            "Amazon AEOPS"
+            "Echo Studio - 2nd Gen (2025)"
         ]
     },
     "com.amazon.quartz.android.os": {

@@ -26,5 +26,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/14/5f6b0f5d-b9b9-4550-81b7-725a018a6f41/update-kindle-pascal-NS6572_user_6451_0012718781316.bin",
         "versionCode": "12718781316",
         "versionName": "Fire OS 6.5.7.2 (NS6572/6451)"
+    },
+    {
+        "md5": "08307443f7f800aeec64dd4af43120f1",
+        "uploaded": "2026-09-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/200262e4-642d-465d-bee5-ed84d0bd0879/update-kindle-pascal-NS65741_user_8149_0013222532484.bin",
+        "versionCode": "13222532484",
+        "versionName": "Fire OS 6574.1 (NS65741/8149)"
     }
 ]

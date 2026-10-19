@@ -42,6 +42,13 @@
         "versionName": "Fire OS 7.3.1.9 (PS7319/1726)"
     },
     {
+        "md5": "8bbacd52db1cc51ee5b3396813d8a4bc",
+        "uploaded": "2021-07-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/f8397a43c58c68a587d5c22fa11e6345/update-kindle-onyx-PS7321_user_2319_0021274103684.bin",
+        "versionCode": "21274103684",
+        "versionName": "Fire OS 7.3.2.1 (PS7321/2319)"
+    },
+    {
         "md5": "3382a68a7c5869dd659dfb48500097dd",
         "uploaded": "2021-12-02",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/x1IuqYNZsYPTfbtAgItBtiPwmY/update-kindle-Fire_HD8_10th_Gen-PS7322_user_2519_0022247233412.bin",

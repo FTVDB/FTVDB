@@ -77,11 +77,25 @@
             "Fire TV Stick 4K Select (2025)"
         ]
     },
+    "com.amazon.cannoli.android.os": {
+        "category": "echo",
+        "model": "",
+        "title": [
+            "Echo Dot - 5th Gen (2022)"
+        ]
+    },
     "com.amazon.checkers.android.os": {
         "category": "echo",
         "model": "AEOCH",
         "title": [
             "Echo Show 5 - 1st Gen (2019)"
+        ]
+    },
+    "com.amazon.cheesecake.android.os": {
+        "category": "",
+        "model": "AEOCZ",
+        "title": [
+            "Amazon AEOCZ"
         ]
     },
     "com.amazon.croissant.android.os": {

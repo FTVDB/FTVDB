@@ -190,10 +190,10 @@
         ]
     },
     "com.amazon.eanab.android.os": {
-        "category": "",
+        "category": "firetablet",
         "model": "KFBJWI",
         "title": [
-            "Amazon KFBJWI"
+            "Kindle X Migu (2017)"
         ]
     },
     "com.amazon.electra.kepler.os": {

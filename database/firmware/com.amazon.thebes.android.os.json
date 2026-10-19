@@ -50,6 +50,13 @@
     },
     {
         "md5": "03ccc0007022ca1629a9688cf13832fa",
+        "uploaded": "2020-08-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/4e084ed4f38581639be1af6cd0632268/update-kindle-full_thebes-32.6.2.6_user_626539520.bin",
+        "versionCode": "626539520",
+        "versionName": "Fire OS 5.3.6.4 (626539520)"
+    },
+    {
+        "md5": "03ccc0007022ca1629a9688cf13832fa",
         "uploaded": "2020-08-12",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/gRxuMBxoHW3xFwLXvRTXhfLQ1e/update-kindle-32.6.2.6_user_626539520.bin",
         "versionCode": "626539520",

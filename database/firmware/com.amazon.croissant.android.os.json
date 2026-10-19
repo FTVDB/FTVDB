@@ -159,5 +159,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/5feb717e-1d3e-4863-bd3e-abdd3c28bf0a/update-kindle-croissant-NS65741_user_8149_0013222532484.bin",
         "versionCode": "13222532484",
         "versionName": "Fire OS 6574.1 (NS65741/8149)"
+    },
+    {
+        "md5": "3d94f8eecefaee1d3192bb9ab07d9ad4",
+        "uploaded": "2026-10-15",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/15/2d9a6351-6ba2-4ef4-9e67-1f823d7f91a5/update-kindle-croissant-NS6575_user_8338_0013323244164.bin",
+        "versionCode": "13323244164",
+        "versionName": "Fire OS 6.5.7.5 (NS6575/8338)"
     }
 ]

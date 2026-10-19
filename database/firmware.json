@@ -196,6 +196,13 @@
             "Fire HD 8 - 8th Gen (2018)"
         ]
     },
+    "com.amazon.kyanite.android.os": {
+        "category": "echo",
+        "model": "",
+        "title": [
+            "Echo Link Amp (2019)"
+        ]
+    },
     "com.amazon.lidar.android.os": {
         "category": "echo",
         "model": "",
@@ -243,6 +250,13 @@
         "model": "KFONWI",
         "title": [
             "Fire HD 8 - 10th Gen (2020)"
+        ]
+    },
+    "com.amazon.pablo.android.os": {
+        "category": "echo",
+        "model": "",
+        "title": [
+            "Echo Sub (2018)"
         ]
     },
     "com.amazon.pascal.android.os": {

@@ -161,6 +161,13 @@
             "Fire - 5th Gen (2015)"
         ]
     },
+    "com.amazon.ganache.android.os": {
+        "category": "echo",
+        "model": "",
+        "title": [
+            "Echo Dot with Clock - 4th Gen (2020)"
+        ]
+    },
     "com.amazon.gazelle.android.os": {
         "category": "firetv",
         "model": "AFTGAZL",

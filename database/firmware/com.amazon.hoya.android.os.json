@@ -12,5 +12,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/af80f3f8ffe47a8bc44540631810b108/update-kindle-hoya_ftv-PS7504_user_3919_0027549192068.bin",
         "versionCode": "27549192068",
         "versionName": "Fire OS 7.5.0.4 (PS7504/3919)"
+    },
+    {
+        "md5": "f0ced387181a0780fee36b343e49c468",
+        "uploaded": "2026-09-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/3388697b-f7f0-4fd4-8ee1-b0e90ec9375d/update-kindle-hoya_ftv-PS75741_user_7080_0036274153604.bin",
+        "versionCode": "36274153604",
+        "versionName": "Fire OS 7574.1 (PS75741/7080)"
     }
 ]

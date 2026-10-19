@@ -385,6 +385,13 @@
             "Fire TV Cube - 2nd Gen (2019)"
         ]
     },
+    "com.amazon.rhodes.android.os": {
+        "category": "echo",
+        "model": "AEORH",
+        "title": [
+            "Echo Show 8 - 3rd Gen (2023)"
+        ]
+    },
     "com.amazon.rook.android.os": {
         "category": "echo",
         "model": "AEORK",

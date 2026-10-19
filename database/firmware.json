@@ -56,6 +56,13 @@
             "Echo Dot 2nd Gen (2016)"
         ]
     },
+    "com.amazon.bishop.android.os": {
+        "category": "echo",
+        "model": "AEOBP",
+        "title": [
+            "Echo Show - 2nd Gen (2018)"
+        ]
+    },
     "com.amazon.brandenburg.android.os": {
         "category": "firetv",
         "model": "AFTTI43",

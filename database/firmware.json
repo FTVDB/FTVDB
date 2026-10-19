@@ -119,6 +119,13 @@
             "Echo Show 15 - 2nd Gen (2024)"
         ]
     },
+    "com.amazon.doebrite.android.os": {
+        "category": "echo",
+        "model": "",
+        "title": [
+            "Echo Dot with Clock - 3rd Gen (2019)"
+        ]
+    },
     "com.amazon.donut.android.os": {
         "category": "echo",
         "model": "AEODN",
@@ -243,6 +250,13 @@
         "model": "KFMUWI",
         "title": [
             "Fire 7 - 9th Gen (2019)"
+        ]
+    },
+    "com.amazon.octave.android.os": {
+        "category": "echo",
+        "model": "",
+        "title": [
+            "Echo Studio (2019)"
         ]
     },
     "com.amazon.onyx.android.os": {

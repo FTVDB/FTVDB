@@ -196,6 +196,13 @@
             "Fire - 5th Gen (2015)"
         ]
     },
+    "com.amazon.galileo.kepler.os": {
+        "category": "",
+        "model": "AEOGL",
+        "title": [
+            "Amazon AEOGL"
+        ]
+    },
     "com.amazon.ganache.android.os": {
         "category": "echo",
         "model": "",

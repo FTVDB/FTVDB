@@ -336,6 +336,13 @@
             "Fire 7 - 9th Gen (2019)"
         ]
     },
+    "com.amazon.needle.android.os": {
+        "category": "firetv",
+        "model": "AFTN",
+        "title": [
+            "Fire TV - 3rd Gen (2017)"
+        ]
+    },
     "com.amazon.octave.android.os": {
         "category": "echo",
         "model": "",
@@ -453,6 +460,13 @@
         "model": "AEOSN",
         "title": [
             "Echo Plus - 1st Gen (2017)"
+        ]
+    },
+    "com.amazon.stark.android.os": {
+        "category": "firetv",
+        "model": "AFTA",
+        "title": [
+            "Fire TV Cube - 1st Gen (2018)"
         ]
     },
     "com.amazon.suez.android.os": {

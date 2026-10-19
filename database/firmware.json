@@ -196,6 +196,13 @@
             "Amazon KFBJWI"
         ]
     },
+    "com.amazon.electra.kepler.os": {
+        "category": "",
+        "model": "AEOEL",
+        "title": [
+            "Amazon AEOEL"
+        ]
+    },
     "com.amazon.ford.android.os": {
         "category": "firetablet",
         "model": "KFFOWI",

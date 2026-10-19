@@ -189,6 +189,13 @@
             "Insignia HD/FHD Fire TV (2020)"
         ]
     },
+    "com.amazon.eanab.android.os": {
+        "category": "",
+        "model": "KFBJWI",
+        "title": [
+            "Amazon KFBJWI"
+        ]
+    },
     "com.amazon.ford.android.os": {
         "category": "firetablet",
         "model": "KFFOWI",

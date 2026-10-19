@@ -253,10 +253,10 @@
         ]
     },
     "com.amazon.hypnos.kepler.os": {
-        "category": "",
+        "category": "echo",
         "model": "AEOHP",
         "title": [
-            "Amazon AEOHP"
+            "Echo Show 5 - 3rd Gen (2023)"
         ]
     },
     "com.amazon.jem.android.os": {

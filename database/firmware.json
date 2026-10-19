@@ -106,10 +106,10 @@
         ]
     },
     "com.amazon.cheesecake.android.os": {
-        "category": "",
+        "category": "echo",
         "model": "AEOCZ",
         "title": [
-            "Amazon AEOCZ"
+            "Echo Dot with Clock - 5th Gen (2022)"
         ]
     },
     "com.amazon.churro.android.os": {

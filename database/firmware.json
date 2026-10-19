@@ -98,6 +98,13 @@
             "Amazon AEOCZ"
         ]
     },
+    "com.amazon.churro.android.os": {
+        "category": "echo",
+        "model": "",
+        "title": [
+            "Echo Pop - 1st Gen (2023)"
+        ]
+    },
     "com.amazon.croissant.android.os": {
         "category": "echo",
         "model": "AEOCR",

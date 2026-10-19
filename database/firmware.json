@@ -231,6 +231,13 @@
             "Echo Show 15 (2021)"
         ]
     },
+    "com.amazon.hypnos.kepler.os": {
+        "category": "",
+        "model": "AEOHP",
+        "title": [
+            "Amazon AEOHP"
+        ]
+    },
     "com.amazon.jem.android.os": {
         "category": "firetablet",
         "model": "KFJWI",

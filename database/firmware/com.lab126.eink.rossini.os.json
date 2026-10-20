@@ -43,6 +43,13 @@
     },
     {
         "md5": "83e1fa129f912ad67fe80ee400590410",
+        "uploaded": "2025-08-14",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/8/14/2c5fbc8b-34c2-4c18-80e5-3fd76ec07c5a/update-J18040001-bellatrix_rossini-001-fwo_4527780001.bin",
+        "versionCode": "4527780001",
+        "versionName": "5.18.4.0.1"
+    },
+    {
+        "md5": "83e1fa129f912ad67fe80ee400590410",
         "uploaded": "2025-08-19",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.18.4.0.1.bin",
         "versionCode": "4527780001",

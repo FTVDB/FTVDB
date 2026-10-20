@@ -64,6 +64,13 @@
     },
     {
         "md5": "c632891a2db623bda7ffb55c03ada648",
+        "uploaded": "2026-07-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/29/5d70ff0d-711b-4f86-b2aa-314a9597a2f6/update-J1906-platpa6_paloma-042-fwo_4832210042.bin",
+        "versionCode": "4832210042",
+        "versionName": "5.19.6"
+    },
+    {
+        "md5": "c632891a2db623bda7ffb55c03ada648",
         "uploaded": "2026-08-03",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_3rd_generation_5.19.6.bin",
         "versionCode": "4832210042",

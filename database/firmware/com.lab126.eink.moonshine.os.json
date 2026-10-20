@@ -274,6 +274,13 @@
     },
     {
         "md5": "600a531f4cd35d1f16786bf06134857e",
+        "uploaded": "2026-05-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/5/21/7f9b03a5-9f3c-48bb-87c9-2938a33fc06a/update-J18010101-rex_moonshine-023-fwo_4769680023.bin",
+        "versionCode": "4769680023",
+        "versionName": "5.18.1.1.1"
+    },
+    {
+        "md5": "600a531f4cd35d1f16786bf06134857e",
         "uploaded": "2026-06-05",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_v2_5.18.1.1.1.bin",
         "versionCode": "4769680023",

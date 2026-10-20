@@ -43,6 +43,13 @@
     },
     {
         "md5": "5987b6eef8c2fa5e485f4d2032fac32e",
+        "uploaded": "2025-08-14",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/8/14/c44a01dd-a0af-469d-af5b-3c7f3cafc74d/update-J18040001-bellatrix4_sangria-001-fwo_4527750001.bin",
+        "versionCode": "4527750001",
+        "versionName": "5.18.4.0.1"
+    },
+    {
+        "md5": "5987b6eef8c2fa5e485f4d2032fac32e",
         "uploaded": "2025-08-19",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.18.4.0.1.bin",
         "versionCode": "4527750001",

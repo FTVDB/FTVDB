@@ -253,6 +253,13 @@
     },
     {
         "md5": "e54372c3a00e6afbf40c4da061b0c951",
+        "uploaded": "2026-05-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/5/21/dd54d98d-73d6-49c9-9871-0244bdae8596/update-J18010101-rex_jaeger-023-fwo_4769670023.bin",
+        "versionCode": "4769670023",
+        "versionName": "5.18.1.1.1"
+    },
+    {
+        "md5": "e54372c3a00e6afbf40c4da061b0c951",
         "uploaded": "2026-06-05",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.18.1.1.1.bin",
         "versionCode": "4769670023",

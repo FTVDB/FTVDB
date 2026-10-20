@@ -162,6 +162,13 @@
     },
     {
         "md5": "06647a18bb96e3fe6bbeb225fd845022",
+        "uploaded": "2025-08-14",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/8/14/044803a9-0b27-4786-8992-d8f540161741/update-J18040001-bellatrix3_barolo-001-fwo_4527820001.bin",
+        "versionCode": "4527820001",
+        "versionName": "5.18.4.0.1"
+    },
+    {
+        "md5": "06647a18bb96e3fe6bbeb225fd845022",
         "uploaded": "2025-08-19",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.18.4.0.1.bin",
         "versionCode": "4527820001",

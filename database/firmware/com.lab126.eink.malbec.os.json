@@ -183,6 +183,13 @@
     },
     {
         "md5": "f40225391594821501385f3b77f83292",
+        "uploaded": "2025-08-14",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/8/14/45ced398-95b5-455c-9aa2-ab000bd96b3e/update-J18040001-bellatrix_malbec-001-fwo_4527730001.bin",
+        "versionCode": "4527730001",
+        "versionName": "5.18.4.0.1"
+    },
+    {
+        "md5": "f40225391594821501385f3b77f83292",
         "uploaded": "2025-08-19",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_11th_5.18.4.0.1.bin",
         "versionCode": "4527730001",

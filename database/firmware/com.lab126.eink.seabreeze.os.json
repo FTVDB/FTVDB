@@ -134,6 +134,13 @@
     },
     {
         "md5": "3a969c2fab76d396b72875a0dfe87abb",
+        "uploaded": "2026-09-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/24/a157f94e-5e7a-45ce-b94f-838f47452e63/update-J2001-bellatrix4_seabreeze-050-fwo_4893850050.bin",
+        "versionCode": "4893850050",
+        "versionName": "5.20.1"
+    },
+    {
+        "md5": "3a969c2fab76d396b72875a0dfe87abb",
         "uploaded": "2026-10-06",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.20.1.bin",
         "versionCode": "4893850050",

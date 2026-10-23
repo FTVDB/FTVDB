@@ -736,10 +736,10 @@
         ]
     },
     "com.lab126.eink.prosecco.os": {
-        "category": "",
-        "model": "0X11-",
+        "category": "kindle",
+        "model": "KINDLE-2026",
         "title": [
-            "Unknown (0x14DA)"
+            "Kindle (2026)"
         ]
     },
     "com.lab126.eink.rossini.os": {

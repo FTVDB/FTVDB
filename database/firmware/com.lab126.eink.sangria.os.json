@@ -173,5 +173,12 @@
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.20.1.bin",
         "versionCode": "4893900050",
         "versionName": "5.20.1"
+    },
+    {
+        "md5": "da1dc95282e2077a18d7df604e1d09b5",
+        "uploaded": "2026-10-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/ae057b54-9b4d-4386-b7f4-501bd5becd7e/update-J20010002-bellatrix4_sangria-002-fwo_4926840002.bin",
+        "versionCode": "4926840002",
+        "versionName": "5.20.1.0.2"
     }
 ]

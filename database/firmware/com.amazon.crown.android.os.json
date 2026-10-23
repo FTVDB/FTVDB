@@ -138,5 +138,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/14/64e14cee-32b2-456e-8602-c8b7e0f5a410/update-kindle-crown-NS65741_user_8150_0013222532740.bin",
         "versionCode": "13222532740",
         "versionName": "Fire OS 6574.1 (NS65741/8150)"
+    },
+    {
+        "md5": "c38d282a8ce69202caad9ed90d2acc50",
+        "uploaded": "2026-10-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/da9d04f6-d6d1-4d54-a61f-69fa553a7a13/update-kindle-crown-NS65741_user_8151_0013222532996.bin",
+        "versionCode": "13222532996",
+        "versionName": "Fire OS 6574.1 (NS65741/8151)"
     }
 ]

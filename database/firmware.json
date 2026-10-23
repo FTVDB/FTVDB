@@ -735,6 +735,13 @@
             "Kindle Scribe 2 (2024)"
         ]
     },
+    "com.lab126.eink.prosecco.os": {
+        "category": "",
+        "model": "0X11-",
+        "title": [
+            "Unknown (0x14DA)"
+        ]
+    },
     "com.lab126.eink.rossini.os": {
         "category": "kindle",
         "model": "BASIC5-2024",

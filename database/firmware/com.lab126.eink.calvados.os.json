@@ -89,5 +89,12 @@
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_colorsoft_1st_generation_5.20.1.bin",
         "versionCode": "4893920050",
         "versionName": "5.20.1"
+    },
+    {
+        "md5": "2265cde5fe4eef4fae8ef2ee5e1b51d7",
+        "uploaded": "2026-10-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/bd3bb1b1-3503-4bdf-a06e-72e0d3785dad/update-J20010002-platcs8_calvados-002-fwo_4926820002.bin",
+        "versionCode": "4926820002",
+        "versionName": "5.20.1.0.2"
     }
 ]

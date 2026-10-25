@@ -1,0 +1,100 @@
+[
+    {
+        "md5": "658a5f94dfd3dfce5954be8ac5e0cccd",
+        "uploaded": "2024-04-26",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/4/26/31197c8f-5b4d-4377-b996-55c41c4a0632/update-tungsten-diff-RS8321.1924N_1924_0021911536772-to-RS8323_user_2196_0022549140612.bin",
+        "versionCode": "22549140612",
+        "versionName": "Fire OS 8.3.2.3 (RS8323/2196)"
+    },
+    {
+        "md5": "3b7b81c2dec98bc4cbb6f86125f9b8a1",
+        "uploaded": "2024-10-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/10/af35a15c-a587-4cb1-8b34-79130ba1c239/update-tungsten-diff-RS8327.2526N_2526_0024696708740-to-RS8328_user_3033_0024998828420.bin",
+        "versionCode": "24998828420",
+        "versionName": "Fire OS 8.3.3.0 (RS8328/3033)"
+    },
+    {
+        "md5": "e7da8c5fb0fe4ced2b8dfd42cc035d98",
+        "uploaded": "2024-10-28",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/28/1082da3f-8f95-47d8-8138-87ee88f6dd9a/update-tungsten-diff-RS8328.3033N_3033_0024998828420-to-RS8331_user_2608_0025367818372.bin",
+        "versionCode": "25367818372",
+        "versionName": "Fire OS 8.3.3.1 (RS8331/2608)"
+    },
+    {
+        "md5": "907b89b0542721a3139899e0bb2ee2d5",
+        "uploaded": "2024-11-13",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/11/13/e32f59c6-bbef-4713-b7a9-9fe2421e024e/update-tungsten-diff-RS8331.2608N_2608_0025367818372-to-RS8332_user_3115_0025837710212.bin",
+        "versionCode": "25837710212",
+        "versionName": "Fire OS 8.3.3.2 (RS8332/3115)"
+    },
+    {
+        "md5": "6843c9008f663252ec339f265e8e0944",
+        "uploaded": "2025-07-31",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/7/31/a84bd198-f0cc-4193-9be8-147158e8529f/update-tungsten-diff-RS8335.2972N_2972_0027716721796-to-RS8336_user_3103_0028656279428.bin",
+        "versionCode": "28656279428",
+        "versionName": "Fire OS 8.3.3.6 (RS8336/3103)"
+    },
+    {
+        "md5": "c9cbb0226af658c36728c622d4b01082",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/926570c9-5fa4-4270-a6a7-e90806ef1a25/update-tungsten-diff-RS8337.3186N_3186_0029461607044-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "78a8577a4be4b1371584849fb34cb17a",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/f2b17e91-068d-451f-bad3-d51b2ab7527f/update-tungsten-diff-RS8332.3115N_3115_0025837710212-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "e49c101d7c667da57d861c0d5ed79a75",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/f4116d6c-7ff6-43eb-88cd-f660b9dbffca/update-tungsten-diff-RS8336.3103N_3103_0028656279428-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "884c6118f0a99d636d29a639f03f175a",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/ece4d708-ab30-4f91-b63b-401203a4f2b2/update-tungsten-diff-RS8320.1802N_1802_0021777287812-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "272ce8b4bd87705f942f9890259083ba",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/2a70e85f-d5d8-4b61-b0f5-95f0b2837729/update-tungsten-diff-RS8323.2196N_2196_0022549140612-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "760534412ef3179368d3da37f580fe4a",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/17d311a2-e01e-4ed8-b6ec-80c3a518614a/update-tungsten-diff-RS8333.2734N_2734_0026441592452-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "b50a97e6ec5c8698bdbac465db981c25",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/e6d7d516-4a2b-4c6c-89d7-31eb302cb23b/update-tungsten-diff-RS8322.2053N_2053_0022045787524-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "8359e045c520f639a60389491a34ef82",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/ca84da95-2756-415a-ad24-63fbb20bd840/update-tungsten-diff-RS8324.2314N_2314_0023153150596-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "f50a84bb015a1c789d561336f6bb62e5",
+        "uploaded": "2026-08-26",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/8/26/576ff36b-fc60-4885-ae5b-e201c61f551d/update-tungsten-diff-RS8338.3339N_3339_0030132734852-to-RS8338_user_3344_0030132736132.bin",
+        "versionCode": "30132736132",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3344)"
+    }
+]

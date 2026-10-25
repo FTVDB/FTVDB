@@ -1,0 +1,156 @@
+[
+    {
+        "md5": "ece4372584de1610615f8bbfc4ea32fc",
+        "uploaded": "2023-06-07",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/74ac1f33fa5c388380b658f361ddf796/update-raspite-diff-RS8318.2031N_2031_0021441802116-to-RS8319_user_1664_0021508817028.bin",
+        "versionCode": "21508817028",
+        "versionName": "Fire OS 8.3.1.9 (RS8319/1664)"
+    },
+    {
+        "md5": "ada2e6b0627bb5613a80a1e89d7dac6c",
+        "uploaded": "2024-04-26",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/4/26/ecc6b5f0-b259-4725-93bf-69f9a807425f/update-raspite-diff-RS8321.1924N_1924_0021911536772-to-RS8323_user_2196_0022549140612.bin",
+        "versionCode": "22549140612",
+        "versionName": "Fire OS 8.3.2.3 (RS8323/2196)"
+    },
+    {
+        "md5": "f49a4f3d696095bc82f645efd4b61ee0",
+        "uploaded": "2024-09-13",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/9/13/4eb0c9b4-ed50-46c0-80e8-8393a7801639/update-raspite-diff-RS8324.2314N_2314_0023153150596-to-RS8325_user_2442_0023958489732.bin",
+        "versionCode": "23958489732",
+        "versionName": "Fire OS 8.3.2.5 (RS8325/2442)"
+    },
+    {
+        "md5": "36e03bd58c200b54670bc155236b8521",
+        "uploaded": "2024-10-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/3/7ce5ef06-526e-4523-8aa4-f5a0e5c03710/update-raspite-diff-RS8325.2442N_2442_0023958489732-to-RS8327_user_2526_0024696708740.bin",
+        "versionCode": "24696708740",
+        "versionName": "Fire OS 8.3.2.7 (RS8327/2526)"
+    },
+    {
+        "md5": "77f7939fefb036a171839c6a560dbee0",
+        "uploaded": "2024-10-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/3/3e5dd8d5-2ae1-4e9c-8a3f-ddb61a5314f1/update-raspite-diff-RS8324.2314N_2314_0023153150596-to-RS8327_user_2526_0024696708740.bin",
+        "versionCode": "24696708740",
+        "versionName": "Fire OS 8.3.2.7 (RS8327/2526)"
+    },
+    {
+        "md5": "2bf8ffb4750cff74de0fc96f19cb1a56",
+        "uploaded": "2024-10-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/10/d31768e6-0f0e-42fa-8a14-bf8487851892/update-raspite-diff-RS8327.2526N_2526_0024696708740-to-RS8328_user_3033_0024998828420.bin",
+        "versionCode": "24998828420",
+        "versionName": "Fire OS 8.3.3.0 (RS8328/3033)"
+    },
+    {
+        "md5": "70b9f776a3493d605d37af7d6668e45b",
+        "uploaded": "2024-10-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/29/c3c6a313-8393-4d43-8846-aeb7128262ce/update-raspite-diff-RS8328.3033N_3033_0024998828420-to-RS8331_user_2608_0025367818372.bin",
+        "versionCode": "25367818372",
+        "versionName": "Fire OS 8.3.3.1 (RS8331/2608)"
+    },
+    {
+        "md5": "06d32de9ef9269b2179707692a637521",
+        "uploaded": "2024-11-11",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/11/11/3c1ff874-d8ba-404e-8fb5-e7d355dbfb82/update-raspite-diff-RS8331.2608N_2608_0025367818372-to-RS8332_user_3115_0025837710212.bin",
+        "versionCode": "25837710212",
+        "versionName": "Fire OS 8.3.3.2 (RS8332/3115)"
+    },
+    {
+        "md5": "647b5acb6762d96e35fb8a74d12e4813",
+        "uploaded": "2025-01-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/1/24/2237eb05-0b6f-4f93-a07e-f48882ccaece/update-raspite-diff-RS8332.3115N_3115_0025837710212-to-RS8333_user_2734_0026441592452.bin",
+        "versionCode": "26441592452",
+        "versionName": "Fire OS 8.3.3.3 (RS8333/2734)"
+    },
+    {
+        "md5": "9698f79c27de734fd1429cc85de1b147",
+        "uploaded": "2025-07-31",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/7/31/0036b0a3-3db5-4b1a-bf0c-ba7a0f2845aa/update-raspite-diff-RS8335.2972N_2972_0027716721796-to-RS8336_user_3103_0028656279428.bin",
+        "versionCode": "28656279428",
+        "versionName": "Fire OS 8.3.3.6 (RS8336/3103)"
+    },
+    {
+        "md5": "975143133a4f042649a4641244ef094e",
+        "uploaded": "2025-09-23",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/9/23/4cbc4668-08a7-41f0-a719-3893ebf85a92/update-raspite-diff-RS8336.3103N_3103_0028656279428-to-RS8337_user_3186_0029461607044.bin",
+        "versionCode": "29461607044",
+        "versionName": "Fire OS 8.3.3.7 (RS8337/3186)"
+    },
+    {
+        "md5": "b68387786fc57f36139d739b0f2b9e91",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/e827a0dc-a5e0-49d1-bda7-728f152c665b/update-raspite-diff-RS8337.3186N_3186_0029461607044-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "e42a1ebb29f02d0d4e1c33d85311eda2",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/74fc03dc-7eb5-4585-a9bb-0f3b53c77718/update-raspite-diff-RS8323.2196N_2196_0022549140612-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "af229ed450046f7fd8fd88ac35a631fb",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/15efec8a-7a31-4b7e-a612-da9139496d65/update-raspite-diff-RS8320.1807N_1807_0021777289092-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "f4ef313b78d5b518f26b954a7a80c91d",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/0332d021-4c6e-401f-9ff8-77db334374ae/update-raspite-diff-RS8333.2734N_2734_0026441592452-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "4974e46b87df06192ad492b94f245645",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/a20a5606-de08-49f6-ac60-b9cac9008f3e/update-raspite-diff-RS8322.2053N_2053_0022045787524-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "65cec82b8139538f3a7c5fd2e6d10a79",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/fdedb808-ba9e-4e28-871d-2986c2293eab/update-raspite-diff-RS8313.1247N_1247_0021072502660-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "7d53caade7b57200a5431214a657378e",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/14baa6c9-c2ac-44df-86f2-3532b710b973/update-raspite-diff-RS8312.1144N_1144_0021005367428-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "b98c0f3c8f8397b427a70f923a1ebbb6",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/4797c43a-c4d9-40ae-ab52-1b9d982c7d1b/update-raspite-diff-RS8319.1664N_1664_0021508817028-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "a31829610dd70038c56203009eb09212",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/ddd2c7e7-e16f-432b-b33b-b1925b2c474e/update-raspite-diff-RS8314.1402N_1402_0021139651204-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "57d970cf762abe09217640ced2f40654",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/21a53370-ef87-408a-a69d-6869b66cf515/update-raspite-diff-RS8336.3103N_3103_0028656279428-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "a1bb00c024173ffbcafc28e3f63472ff",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/4977456f-2da1-446f-a595-8213c9f6a296/update-raspite-diff-RS8332.3115N_3115_0025837710212-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    }
+]

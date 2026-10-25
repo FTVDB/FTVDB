@@ -1,0 +1,100 @@
+[
+    {
+        "md5": "566d2a4ca8178f800818274f9af46e4c",
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/99acae85e9f46974cf52dabf4ec0758f/update-austin_austin-595457020-to-595457320.bin",
+        "versionCode": "595457320",
+        "versionName": "Fire OS 5.3.6.0 (595457320)"
+    },
+    {
+        "md5": "eb7f0cef893ee1af3380d0c8744c80e4",
+        "uploaded": "2019-03-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/0577dd9c86fc96f86d3cf09084a10725/update-austin_austin-626533320-to-636558520.bin",
+        "versionCode": "636558520",
+        "versionName": "Fire OS 5.3.6.8 (636558520)"
+    },
+    {
+        "md5": "66eb15eec1dd680902811a11d54ec0e8",
+        "uploaded": "2019-06-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/17a1b730be45c3723ac05eaa83eaca5d/update-austin_austin-636558520-to-636558720.bin",
+        "versionCode": "636558720",
+        "versionName": "Fire OS 5.3.6.8 (636558720)"
+    },
+    {
+        "md5": "e9ac50b94f69b1d0e072ff0e68cf94b7",
+        "uploaded": "2019-10-23",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/ea800c7a4c35b4b78336b077aed3ac01/update-austin_austin-636558720-to-636559820.bin",
+        "versionCode": "636559820",
+        "versionName": "Fire OS 5.3.6.8 (636559820)"
+    },
+    {
+        "md5": "b399a27bed67dc320637c87d868f01d1",
+        "uploaded": "2019-11-15",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/5e5ac0a821367999f1f042b72a965c32/update-austin_austin-636559820-to-636559920.bin",
+        "versionCode": "636559920",
+        "versionName": "Fire OS 5.3.6.8 (636559920)"
+    },
+    {
+        "md5": "4b8bf75db4a96bf8093a878dee31dfb8",
+        "uploaded": "2019-12-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/b5e5dd142c69da79950ada13a4fef55c/update-austin_austin-636559920-to-650601220.bin",
+        "versionCode": "650601220",
+        "versionName": "Fire OS 5.3.7.0 (650601220)"
+    },
+    {
+        "md5": "fd2ca903aadcd8370700fcc9a738253c",
+        "uploaded": "2020-09-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/f2abc72b3264cde9d6e562e44699eca4/update-austin_austin-657612420-to-657612520.bin",
+        "versionCode": "657612520",
+        "versionName": "Fire OS 5.3.7.2 (657612520)"
+    },
+    {
+        "md5": "01c50161d40e41b8377f922916282598",
+        "uploaded": "2020-09-22",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/d599ac7504977442f56405921ee2c854/update-austin_austin-654620620-to-657612520.bin",
+        "versionCode": "657612520",
+        "versionName": "Fire OS 5.3.7.2 (657612520)"
+    },
+    {
+        "md5": "d77383d3407917e20f2f2b50dcdc6fe8",
+        "uploaded": "2020-09-22",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/c1b029a86c01ffd7a97a8f352f86125b/update-austin_austin-650601220-to-657612520.bin",
+        "versionCode": "657612520",
+        "versionName": "Fire OS 5.3.7.2 (657612520)"
+    },
+    {
+        "md5": "4dd684a8ff52ce77bd86d85bcd56daea",
+        "uploaded": "2020-10-31",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/e1401edced3b8fd9d2e88a214acb75be/update-austin_austin-657612520-to-659655820.bin",
+        "versionCode": "659655820",
+        "versionName": "Fire OS 5.3.7.3 (659655820)"
+    },
+    {
+        "md5": "61e62501323351f4f371bd9194e97c33",
+        "uploaded": "2021-03-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/bda76627c6fbbf535662d739b5dfdc7e/update-austin_austin-659655820-to-659656820.bin",
+        "versionCode": "659656820",
+        "versionName": "Fire OS 5.3.7.3 (659656820)"
+    },
+    {
+        "md5": "84c571b42e190d7768535ef99f67e5df",
+        "uploaded": "2021-07-26",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/35ce4df959ac077b2e003e14e1a748a0/update-austin_austin-659656820-to-659658220.bin",
+        "versionCode": "659658220",
+        "versionName": "Fire OS 5.3.7.3 (659658220)"
+    },
+    {
+        "md5": "52c081a8ab30c5d206ead3438825cc0e",
+        "uploaded": "2023-08-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/f5aaf43e9ac383cc7bac114c2aa67421/update-austin_austin-659662020-to-659664620.bin",
+        "versionCode": "659664620",
+        "versionName": "Fire OS 5.3.7.3 (659664620)"
+    },
+    {
+        "md5": "f42fe5b3f053bf77f2f845349d7f3ccf",
+        "uploaded": "2023-08-08",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/5530f59ecf536a43c2117102778d5a83/update-austin_austin-659658220-to-659662020.bin",
+        "versionCode": "659662020",
+        "versionName": "Fire OS 5.3.7.3 (659662020)"
+    }
+]

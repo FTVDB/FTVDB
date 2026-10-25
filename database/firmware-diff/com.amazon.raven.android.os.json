@@ -1,0 +1,376 @@
+[
+    {
+        "md5": "3d5bdb26d4e6832ccd8ca27fdd4ce144",
+        "uploaded": "2021-12-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/9b3f53f92b2ed32879e6016e493426c5/update-raven-diff-PS7229_1856_0019562709124-to-PS7242_user_3515_0021710617476.bin",
+        "versionCode": "21710617476",
+        "versionName": "Fire OS 7.2.4.2 (PS7242/3515)"
+    },
+    {
+        "md5": "3a1b460e0c82d03eaad7a7f71ea29632",
+        "uploaded": "2022-01-15",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/caf40fd91e07e4b5255d966388e7e933/update-raven-diff-PS7242_2906_0021710461572-to-PS7242_user_3515_0021710617476.bin",
+        "versionCode": "21710617476",
+        "versionName": "Fire OS 7.2.4.2 (PS7242/3515)"
+    },
+    {
+        "md5": "8f0a0d19599b7d9bf9ec50eaa1c10da2",
+        "uploaded": "2022-03-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/106349121c5538d1b2fc986554915b95/update-raven-diff-PS7229_1856_0019562709124-to-PS7242_user_3516_0021710617732.bin",
+        "versionCode": "21710617732",
+        "versionName": "Fire OS 7.2.4.2 (PS7242/3516)"
+    },
+    {
+        "md5": "1097276bfb648e9c405926be4b147387",
+        "optout": 1,
+        "uploaded": "2022-03-25",
+        "url": "",
+        "versionCode": "22851240324",
+        "versionName": "Fire OS 7.2.7.3 (PS7273/2625)"
+    },
+    {
+        "md5": "18bf38f8f333dac2dde56bec9d4d80e7",
+        "optout": 1,
+        "uploaded": "2022-03-25",
+        "url": "",
+        "versionCode": "22851240324",
+        "versionName": "Fire OS 7.2.7.3 (PS7273/2625)"
+    },
+    {
+        "md5": "655ba089f01f5267bf52e50eaf835791",
+        "uploaded": "2022-04-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/3ad7600c1f859d36b43e6d9893f5ff2e/update-raven-diff-PS7206_1098_0017683466884-to-PS7279_user_2766_0023253929604.bin",
+        "versionCode": "23253929604",
+        "versionName": "Fire OS 7.2.7.9 (PS7279/2766)"
+    },
+    {
+        "md5": "5c21eb690c8126b0661add40a98cd2e2",
+        "uploaded": "2022-04-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/bc84c0475a6c62fce83bd63c8318d0db/update-raven-diff-PS7229_1856_0019562709124-to-PS7279_user_2766_0023253929604.bin",
+        "versionCode": "23253929604",
+        "versionName": "Fire OS 7.2.7.9 (PS7279/2766)"
+    },
+    {
+        "md5": "1749a7607898eb12338c108a9b6cbcba",
+        "optout": 1,
+        "uploaded": "2022-06-02",
+        "url": "",
+        "versionCode": "23723720068",
+        "versionName": "Fire OS 7.2.8.5 (PS7285/2877)"
+    },
+    {
+        "md5": "d854efe24a9a1e013737b6608ebd4f07",
+        "optout": 1,
+        "uploaded": "2022-06-02",
+        "url": "",
+        "versionCode": "23723720068",
+        "versionName": "Fire OS 7.2.8.5 (PS7285/2877)"
+    },
+    {
+        "md5": "d50d61e4a474be7cf0d480d2437bf286",
+        "optout": 1,
+        "uploaded": "2022-06-02",
+        "url": "",
+        "versionCode": "23723720068",
+        "versionName": "Fire OS 7.2.8.5 (PS7285/2877)"
+    },
+    {
+        "md5": "1cc4f98189ea1682690871ef8fec7511",
+        "optout": 1,
+        "uploaded": "2022-07-05",
+        "url": "",
+        "versionCode": "23723720836",
+        "versionName": "Fire OS 7.2.8.5 (PS7285/2880)"
+    },
+    {
+        "md5": "5609154748559eee52439e4eaf31f4e2",
+        "optout": 1,
+        "uploaded": "2022-07-05",
+        "url": "",
+        "versionCode": "23723720836",
+        "versionName": "Fire OS 7.2.8.5 (PS7285/2880)"
+    },
+    {
+        "md5": "dfef05e4bebe2cb467bea9fa69186ced",
+        "uploaded": "2022-07-28",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/3d4082a9579313ca96cbba089425ee6a/update-raven-diff-PS7285.2880N_2880_0023723720836-to-PS7292_user_2982_0024126400132.bin",
+        "versionCode": "24126400132",
+        "versionName": "Fire OS 7.2.9.2 (PS7292/2982)"
+    },
+    {
+        "md5": "a0511b1d7ff483bd3f989a2705a058dc",
+        "uploaded": "2022-08-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/938f366ce1711414ff0657919cec5108/update-raven-diff-PS7292.2982N_2982_0024126400132-to-PS7292_user_2984_0024126400644.bin",
+        "versionCode": "24126400644",
+        "versionName": "Fire OS 7.2.9.2 (PS7292/2984)"
+    },
+    {
+        "md5": "ab82ecead2ae69b3149aeb7043744649",
+        "uploaded": "2022-09-22",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/25977e754fba338b16a033836353bf52/update-raven-diff-PS7292.2984N_2984_0024126400644-to-PS7603_user_3110_0025065956996.bin",
+        "versionCode": "25065956996",
+        "versionName": "Fire OS 7.6.0.3 (PS7603/3110)"
+    },
+    {
+        "md5": "67f7939754e282c95f28855436aa9e58",
+        "optout": 1,
+        "uploaded": "2022-10-18",
+        "url": "",
+        "versionCode": "25468739204",
+        "versionName": "Fire OS 7.6.0.8 (PS7608/3614)"
+    },
+    {
+        "md5": "0ca668980ec077279f5f6cb554eaad01",
+        "optout": 1,
+        "uploaded": "2022-11-22",
+        "url": "",
+        "versionCode": "25938402180",
+        "versionName": "Fire OS 7.6.1.4 (PS7614/3227)"
+    },
+    {
+        "md5": "c77f4bdced70693a0426444c3d72e54f",
+        "optout": 1,
+        "uploaded": "2023-01-25",
+        "url": "",
+        "versionCode": "26810845572",
+        "versionName": "Fire OS 7.6.2.4 (PS7624/3337)"
+    },
+    {
+        "md5": "63d5aca8b96a728dc086afe5c4b33c0f",
+        "optout": 1,
+        "uploaded": "2023-01-31",
+        "url": "",
+        "versionCode": "26810845572",
+        "versionName": "Fire OS 7.6.2.4 (PS7624/3337)"
+    },
+    {
+        "md5": "3ac69ff74afca7c75f22bec19ea4990f",
+        "optout": 1,
+        "uploaded": "2023-03-30",
+        "url": "",
+        "versionCode": "27347744132",
+        "versionName": "Fire OS 7.6.3.3 (PS7633/3445)"
+    },
+    {
+        "md5": "9cb99537c1d03940d740d0edd74f6ecc",
+        "uploaded": "2023-08-26",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/29752aaad2ad574c1639b8377961156d/update-raven-diff-PS7646.3550N_3550_0028085968516-to-PS7646_user_3565_0028085972356.bin",
+        "versionCode": "28085972356",
+        "versionName": "Fire OS 7.6.4.6 (PS7646/3565)"
+    },
+    {
+        "md5": "09f59a05a5e2c4d9076238a59fee9d17",
+        "optout": 1,
+        "uploaded": "2023-08-29",
+        "url": "",
+        "versionCode": "28488625284",
+        "versionName": "Fire OS 7.6.5.2 (PS7652/3564)"
+    },
+    {
+        "md5": "6603b4bf810fa227443749a17f6739d3",
+        "optout": 1,
+        "uploaded": "2023-10-03",
+        "url": "",
+        "versionCode": "29159767172",
+        "versionName": "Fire OS 7.6.6.4 (PS7664/3772)"
+    },
+    {
+        "md5": "27326da4e1ae4985788081ec7ad45c47",
+        "uploaded": "2023-12-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/ff51d3a2e6fd64bc25605f8b8bbc4571/update-raven-diff-PS7664.3772N_3772_0029159767172-to-PS7668_user_3894_0029562451588.bin",
+        "versionCode": "29562451588",
+        "versionName": "Fire OS 7.6.6.8 (PS7668/3894)"
+    },
+    {
+        "md5": "2cabd26c7358a7dd5d9d21149b41d805",
+        "optout": 1,
+        "uploaded": "2024-02-05",
+        "url": "",
+        "versionCode": "29696698244",
+        "versionName": "Fire OS 7.6.6.9 (PS7669/4007)"
+    },
+    {
+        "md5": "f906fef3907e8257388b13644030f27a",
+        "optout": 1,
+        "uploaded": "2024-04-18",
+        "url": "",
+        "versionCode": "29965156740",
+        "versionName": "Fire OS 7.6.7.1 (PS7671/4097)"
+    },
+    {
+        "md5": "b78a25f2a1adac119b7217dbffa35819",
+        "uploaded": "2024-05-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/5/21/824bccdd-af7b-462f-a685-db6c27a44c6e/update-raven-diff-PS7671.4097N_4097_0029965156740-to-PS7673_user_4183_0030367831940.bin",
+        "versionCode": "30367831940",
+        "versionName": "Fire OS 7.6.7.3 (PS7673/4183)"
+    },
+    {
+        "md5": "047ff738dd201a54222808d459ec32de",
+        "uploaded": "2024-07-06",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/6/dc5b58ee-13f3-439d-b0ef-912dbdfd55ea/update-raven-diff-PS7673.4183N_4183_0030367831940-to-PS7679_user_4292_0030971839620.bin",
+        "versionCode": "30971839620",
+        "versionName": "Fire OS 7.6.7.9 (PS7679/4292)"
+    },
+    {
+        "md5": "ae1edcf4642275592cd271bd06df94bf",
+        "optout": 1,
+        "uploaded": "2024-09-06",
+        "url": "",
+        "versionCode": "31106080900",
+        "versionName": "Fire OS 7.6.8.1 (PS7681/4384)"
+    },
+    {
+        "md5": "88d41cdced3bf58a97346b698ba0b749",
+        "optout": 1,
+        "uploaded": "2024-10-30",
+        "url": "",
+        "versionCode": "31642977924",
+        "versionName": "Fire OS 7.6.8.5 (PS7685/4486)"
+    },
+    {
+        "md5": "6fa33b06c6e61446939e41a1b7123647",
+        "optout": 1,
+        "uploaded": "2025-01-10",
+        "url": "",
+        "versionCode": "32112766852",
+        "versionName": "Fire OS 7.6.8.8 (PS7688/4591)"
+    },
+    {
+        "md5": "0c2a030a87f088026799df637210a9bf",
+        "uploaded": "2025-03-06",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/3/6/de68e164-5753-466e-9a20-a6906b004e4e/update-raven-diff-PS7688.4591N_4591_0032112766852-to-PS7690_user_4714_0032381233796.bin",
+        "versionCode": "32381233796",
+        "versionName": "Fire OS 7.6.9.0 (PS7690/4714)"
+    },
+    {
+        "md5": "804c6301d06347fc3549c1c8a7ed55a6",
+        "optout": 1,
+        "uploaded": "2025-03-20",
+        "url": "",
+        "versionCode": "32381234308",
+        "versionName": "Fire OS 7.6.9.0 (PS7690/4716)"
+    },
+    {
+        "md5": "09631d3d599120702b42e756473b91d0",
+        "optout": 1,
+        "uploaded": "2025-04-16",
+        "url": "",
+        "versionCode": "32783908996",
+        "versionName": "Fire OS 7.6.9.7 (PS7697/4800)"
+    },
+    {
+        "md5": "e049571aa5081b32a162deb169599dfc",
+        "optout": 1,
+        "uploaded": "2025-05-30",
+        "url": "",
+        "versionCode": "33052368516",
+        "versionName": "Fire OS 7.6.9.9 (PS7699/4894)"
+    },
+    {
+        "md5": "8a3abb32afc3af234773d8c56b0fec19",
+        "optout": 1,
+        "uploaded": "2025-06-21",
+        "url": "",
+        "versionCode": "33052369028",
+        "versionName": "Fire OS 7.6.9.9 (PS7699/4896)"
+    },
+    {
+        "md5": "b69db4de1df5a1504af2e91f7fea25ae",
+        "optout": 1,
+        "uploaded": "2025-07-17",
+        "url": "",
+        "versionCode": "33455039876",
+        "versionName": "Fire OS 7.7.0.2 (PS7702/4965)"
+    },
+    {
+        "md5": "76ba40415c355fa6ef28eea3b43e540c",
+        "optout": 1,
+        "uploaded": "2025-08-16",
+        "url": "",
+        "versionCode": "33723490436",
+        "versionName": "Fire OS 7.7.0.4 (PS7704/5024)"
+    },
+    {
+        "md5": "f332f97f2acae138558544b470f5e610",
+        "optout": 1,
+        "uploaded": "2025-10-01",
+        "url": "",
+        "versionCode": "33924838020",
+        "versionName": "Fire OS 7.7.0.6 (PS7706/5106)"
+    },
+    {
+        "md5": "8253e95930b03af12ea19c40f876dc7f",
+        "optout": 1,
+        "uploaded": "2025-11-24",
+        "url": "",
+        "versionCode": "34394701188",
+        "versionName": "Fire OS 7.7.0.8 (PS7708/5501)"
+    },
+    {
+        "md5": "e60be45a78d0b9e82992c9b2d49b6a94",
+        "optout": 1,
+        "uploaded": "2026-01-12",
+        "url": "",
+        "versionCode": "34763741316",
+        "versionName": "Fire OS 7.7.1.1 (PS7711/5272)"
+    },
+    {
+        "md5": "f93c2eb7f8b6bff1f11235a05f692f86",
+        "optout": 1,
+        "uploaded": "2026-02-27",
+        "url": "",
+        "versionCode": "35199974020",
+        "versionName": "Fire OS 7.7.1.2 (PS7712/5370)"
+    },
+    {
+        "md5": "08a5618aacd33cb482cc2d2eba07297e",
+        "optout": 1,
+        "uploaded": "2026-03-12",
+        "url": "",
+        "versionCode": "35199975044",
+        "versionName": "Fire OS 7.7.1.2 (PS7712/5374)"
+    },
+    {
+        "md5": "e71f571571166efa1af8f6b53369a83e",
+        "uploaded": "2026-04-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/17/301ccd4a-9843-4ab9-8e5d-045258a8d352/update-raven-diff-PS7704.5024N_5024_0033723490436-to-PS7713_user_5443_0035334210436.bin",
+        "versionCode": "35334210436",
+        "versionName": "Fire OS 7.7.1.3 (PS7713/5443)"
+    },
+    {
+        "md5": "d7797d83543c5530db0ab0f2c6ddcde2",
+        "uploaded": "2026-04-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/17/3337224a-d284-406e-9f19-b29b4dd6fcdf/update-raven-diff-PS7708.5501N_5501_0034394701188-to-PS7713_user_5443_0035334210436.bin",
+        "versionCode": "35334210436",
+        "versionName": "Fire OS 7.7.1.3 (PS7713/5443)"
+    },
+    {
+        "md5": "0f53a1812c6d0c367109d70b55e56249",
+        "optout": 1,
+        "uploaded": "2026-04-17",
+        "url": "",
+        "versionCode": "35334210436",
+        "versionName": "Fire OS 7.7.1.3 (PS7713/5443)"
+    },
+    {
+        "md5": "6f947a8f8644a1bbaa81d79bb5fd7f0f",
+        "uploaded": "2026-04-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/17/3f9e21a1-8255-4568-9638-c1c805a98147/update-raven-diff-PS7702.4965N_4965_0033455039876-to-PS7713_user_5443_0035334210436.bin",
+        "versionCode": "35334210436",
+        "versionName": "Fire OS 7.7.1.3 (PS7713/5443)"
+    },
+    {
+        "md5": "fd5e05c6e64253b67b9fef0bc2e28b4f",
+        "uploaded": "2026-04-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/17/ac8f1882-2ac7-43fd-957d-28f2afb899df/update-raven-diff-PS7711.5272N_5272_0034763741316-to-PS7713_user_5443_0035334210436.bin",
+        "versionCode": "35334210436",
+        "versionName": "Fire OS 7.7.1.3 (PS7713/5443)"
+    },
+    {
+        "md5": "e3c57da1a8db5364625b5b58230806b5",
+        "uploaded": "2026-04-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/17/2bb10dae-1b8f-47dc-b3f0-b205c0491e03/update-raven-diff-PS7706.5106N_5106_0033924838020-to-PS7713_user_5443_0035334210436.bin",
+        "versionCode": "35334210436",
+        "versionName": "Fire OS 7.7.1.3 (PS7713/5443)"
+    }
+]

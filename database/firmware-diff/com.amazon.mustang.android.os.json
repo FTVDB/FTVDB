@@ -1,0 +1,177 @@
+[
+    {
+        "md5": "dbe52f06f8143c95d6a9e5ad684004ca",
+        "uploaded": "2020-02-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/95deb4035996e0bc7aa0c5ec0e27a8e6/update-mustang-diff-NS6314_2315_0003188263812-to-NS6315_user_2504_0003658074244.bin",
+        "versionCode": "3658074244",
+        "versionName": "Fire OS 6.3.1.5 (NS6315/2504)"
+    },
+    {
+        "md5": "4e245b44622359ba0d60650454fb9cc0",
+        "uploaded": "2020-11-11",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/485143c1c6fdffd63f19f7e5a49e2a4e/update-mustang-diff-PS7317_1804_0019227151492-to-PS7317_user_1806_0019227152004.bin",
+        "versionCode": "19227152004",
+        "versionName": "Fire OS 7.3.1.7 (PS7317/1806)"
+    },
+    {
+        "md5": "c4afa12f38eccaf84d49931498e72523",
+        "uploaded": "2020-12-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/f1665f236c0f128cc8aee09f49d58d53/update-mustang-diff-PS7317_1806_0019227152004-to-PS7317_user_1810_0019227153028.bin",
+        "versionCode": "19227153028",
+        "versionName": "Fire OS 7.3.1.7 (PS7317/1810)"
+    },
+    {
+        "md5": "bd9a4af4aeb7cb65aa99a79815518b68",
+        "uploaded": "2021-08-13",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/da7e41beceb2e8814b036b4ec60f22c7/update-mustang-diff-PS7318_1957_0019696952708-to-PS7321_user_2319_0021274103684.bin",
+        "versionCode": "21274103684",
+        "versionName": "Fire OS 7.3.2.1 (PS7321/2319)"
+    },
+    {
+        "md5": "2db0de353458e3ee4d0d7a04b320a92a",
+        "uploaded": "2021-11-18",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2994c1f904eb809e2ef0532b641c01d9/update-mustang-diff-PS7322_2514_0022247232132-to-PS7322_user_2515_0022247232388.bin",
+        "versionCode": "22247232388",
+        "versionName": "Fire OS 7.3.2.2 (PS7322/2515)"
+    },
+    {
+        "md5": "6321c2f5507fe4c8c322a4fa6fe29ce5",
+        "uploaded": "2021-12-01",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/0c1bed9dab78a61f91b0ab19fc8cf0c6/update-mustang-diff-PS7322_2515_0022247232388-to-PS7322_user_2519_0022247233412.bin",
+        "versionCode": "22247233412",
+        "versionName": "Fire OS 7.3.2.2 (PS7322/2519)"
+    },
+    {
+        "md5": "bfc6e4348e94a75920bf343901e8ca4b",
+        "uploaded": "2022-05-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2afaefbb7f54f1d36b92f5f447ab2694/update-mustang-diff-PS7319_1726_0020367982212-to-PS7321_user_2330_0021274106500.bin",
+        "versionCode": "21274106500",
+        "versionName": "Fire OS 7.3.2.1 (PS7321/2330)"
+    },
+    {
+        "md5": "dea91074c8d3fcfbfee96dedf3093854",
+        "uploaded": "2022-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/839cc5927a55bf80fc53858f77a739d8/update-mustang-diff-PS7326.3178N_3178_0025602845316-to-PS7326_user_3183_0025602846596.bin",
+        "versionCode": "25602846596",
+        "versionName": "Fire OS 7.3.2.6 (PS7326/3183)"
+    },
+    {
+        "md5": "b6cd038e548fc8cf3543d59a279662c2",
+        "uploaded": "2023-02-09",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/25ef2cf96830f9e8c65bdfaebdb64b94/update-mustang-diff-PS7315_1961_0018354776452-to-PS7327_user_3326_0026743733892.bin",
+        "versionCode": "26743733892",
+        "versionName": "Fire OS 7.3.2.7 (PS7327/3326)"
+    },
+    {
+        "md5": "13ab2fe92390b760c90b3d667f3c5cdf",
+        "uploaded": "2023-02-09",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/0df12f088d2428e0ed39f9a6811e356a/update-mustang-diff-PS7317_1810_0019227153028-to-PS7327_user_3326_0026743733892.bin",
+        "versionCode": "26743733892",
+        "versionName": "Fire OS 7.3.2.7 (PS7327/3326)"
+    },
+    {
+        "md5": "28327ef2023bb94095e63df0c47eb17e",
+        "uploaded": "2023-02-09",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/9e672190406f89dad120161af06588ff/update-mustang-diff-PS7321_2319_0021274103684-to-PS7327_user_3326_0026743733892.bin",
+        "versionCode": "26743733892",
+        "versionName": "Fire OS 7.3.2.7 (PS7327/3326)"
+    },
+    {
+        "md5": "a6294e0b7cc54e70fae490f8d979a300",
+        "uploaded": "2023-02-09",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/6129cc36432fd7a869674c2e4dbd60d3/update-mustang-diff-PS7321_2330_0021274106500-to-PS7327_user_3326_0026743733892.bin",
+        "versionCode": "26743733892",
+        "versionName": "Fire OS 7.3.2.7 (PS7327/3326)"
+    },
+    {
+        "md5": "bd7e1996c8cfefd1bfadd4ec21d748b4",
+        "uploaded": "2023-02-09",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/1f9d4fb8f9719e0838b52e0244a5a042/update-mustang-diff-PS7324.3016N_3016_0024529062020-to-PS7327_user_3326_0026743733892.bin",
+        "versionCode": "26743733892",
+        "versionName": "Fire OS 7.3.2.7 (PS7327/3326)"
+    },
+    {
+        "md5": "1ccc578267cd5ce60107bb2933bcca28",
+        "uploaded": "2023-02-09",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/c386fa49e87cba10b986516a29f3e482/update-mustang-diff-PS7323.2834N_2834_0023455273604-to-PS7327_user_3326_0026743733892.bin",
+        "versionCode": "26743733892",
+        "versionName": "Fire OS 7.3.2.7 (PS7327/3326)"
+    },
+    {
+        "md5": "5c0e8c8925f78a25a1df3a1d1c6e950a",
+        "uploaded": "2023-02-09",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/81b9faba13646066cedbdcaa268769da/update-mustang-diff-PS7322_2519_0022247233412-to-PS7327_user_3326_0026743733892.bin",
+        "versionCode": "26743733892",
+        "versionName": "Fire OS 7.3.2.7 (PS7327/3326)"
+    },
+    {
+        "md5": "6f2a98ff02e6ac4e81b181f100c17337",
+        "uploaded": "2023-03-15",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/4d085c781c358160631a8046e9c914f3/update-mustang-diff-PS7326.3183N_3183_0025602846596-to-PS7327_user_3326_0026743733892.bin",
+        "versionCode": "26743733892",
+        "versionName": "Fire OS 7.3.2.7 (PS7327/3326)"
+    },
+    {
+        "md5": "13ba990c7499096332d47136d262b903",
+        "uploaded": "2023-05-31",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/344510e905fa32fabe803bbdbaf08f20/update-mustang-diff-PS7327.3326N_3326_0026743733892-to-PS7327_user_3329_0026743734660.bin",
+        "versionCode": "26743734660",
+        "versionName": "Fire OS 7.3.2.7 (PS7327/3329)"
+    },
+    {
+        "md5": "dfa3378cc097b8b7703cf0863c7dc99a",
+        "uploaded": "2023-09-05",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/36b1fde17f94fae70e8a64b919040f54/update-mustang-diff-PS7327.3329N_3329_0026743734660-to-PS7327_user_3336_0026743736452.bin",
+        "versionCode": "26743736452",
+        "versionName": "Fire OS 7.3.2.7 (PS7327/3336)"
+    },
+    {
+        "md5": "ef7f30f53240de15d76f0a3e0911dfa3",
+        "uploaded": "2023-10-26",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2a385f923d5889441b2a144c2d4b0a3a/update-mustang-diff-PS7327.3336N_3336_0026743736452-to-PS7329_user_3836_0029294001284.bin",
+        "versionCode": "29294001284",
+        "versionName": "Fire OS 7.3.2.9 (PS7329/3836)"
+    },
+    {
+        "md5": "ec1a8bf746601df6f7917452f9118e9b",
+        "uploaded": "2023-12-09",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/eae61972033526c6a73e867e3796cfca/update-mustang-diff-PS7329.3836N_3836_0029294001284-to-PS7329_user_3838_0029294001796.bin",
+        "versionCode": "29294001796",
+        "versionName": "Fire OS 7.3.2.9 (PS7329/3838)"
+    },
+    {
+        "md5": "7bfd7488cb602eb83ef57d1e734807f2",
+        "uploaded": "2024-01-22",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/1/22/fb7f48d9-0157-4550-b908-41467414065a/update-mustang-diff-PS7329.3838N_3838_0029294001796-to-PS7329_user_3842_0029294002820.bin",
+        "versionCode": "29294002820",
+        "versionName": "Fire OS 7.3.2.9 (PS7329/3842)"
+    },
+    {
+        "md5": "1b97349663ca6b297925323e8b1cd96a",
+        "uploaded": "2024-03-14",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/3/14/f5dc6017-939d-4915-863c-3ebc1ba64d2e/update-mustang-diff-PS7329.3842N_3842_0029294002820-to-PS7329_user_3851_0029294005124.bin",
+        "versionCode": "29294005124",
+        "versionName": "Fire OS 7.3.2.9 (PS7329/3851)"
+    },
+    {
+        "md5": "db8d3e01d03e16c5175343e0716b4db1",
+        "uploaded": "2024-07-15",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/15/baa9ee9e-ee6e-41eb-9375-64db5e75a792/update-mustang-diff-PS7329.3851N_3851_0029294005124-to-PS7329_user_3856_0029294006404.bin",
+        "versionCode": "29294006404",
+        "versionName": "Fire OS 7.3.2.9 (PS7329/3856)"
+    },
+    {
+        "md5": "8efabf64450830e2420709dc02f76ca9",
+        "uploaded": "2024-10-23",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/23/b5e2bc6b-02cd-41ee-889c-8fbd47be7591/update-mustang-diff-PS7329.3856N_3856_0029294006404-to-PS7331_user_4460_0031575862404.bin",
+        "versionCode": "31575862404",
+        "versionName": "Fire OS 7.3.3.1 (PS7331/4460)"
+    },
+    {
+        "md5": "46bab81ba8e6236b359d0767ebf27592",
+        "uploaded": "2025-05-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/12/d696db85-264c-4be7-b67e-3555febedf2e/update-mustang-diff-PS7331.4460N_4460_0031575862404-to-PS7331_user_4463_0031575863172.bin",
+        "versionCode": "31575863172",
+        "versionName": "Fire OS 7.3.3.1 (PS7331/4463)"
+    }
+]

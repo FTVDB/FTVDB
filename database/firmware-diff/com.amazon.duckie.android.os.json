@@ -1,0 +1,72 @@
+[
+    {
+        "md5": "99015a2e9ecb3af48ceafd1531fb820b",
+        "uploaded": "2026-07-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/16/27500e6d-54dd-42d2-b363-afcc5e39f718/update-duckie-diff-PS7712.5370N_5370_0035199974020-to-PS7715_user_5585_0035736899972.bin",
+        "versionCode": "35736899972",
+        "versionName": "Fire OS 7.7.1.5 (PS7715/5585)"
+    },
+    {
+        "md5": "e08b7413574ab016d5e395368f936fde",
+        "uploaded": "2026-07-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/16/3f7b140c-7b68-4b10-8e9c-324f79c4c9ed/update-duckie-diff-PS7713.5443N_5443_0035334210436-to-PS7715_user_5585_0035736899972.bin",
+        "versionCode": "35736899972",
+        "versionName": "Fire OS 7.7.1.5 (PS7715/5585)"
+    },
+    {
+        "md5": "8d8871fa173d2e9218df0905e11786b0",
+        "uploaded": "2026-07-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/16/93a7c59f-253d-4b2e-a2f9-d5d4baa810ff/update-duckie-diff-PS7704.5024N_5024_0033723490436-to-PS7715_user_5585_0035736899972.bin",
+        "versionCode": "35736899972",
+        "versionName": "Fire OS 7.7.1.5 (PS7715/5585)"
+    },
+    {
+        "md5": "456cce2ed998c860e297c0703bb5f910",
+        "uploaded": "2026-07-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/16/df50a03a-2a34-4cb3-80e0-838915b72e77/update-duckie-diff-PS7708.5501N_5501_0034394701188-to-PS7715_user_5585_0035736899972.bin",
+        "versionCode": "35736899972",
+        "versionName": "Fire OS 7.7.1.5 (PS7715/5585)"
+    },
+    {
+        "md5": "8035c77060287e0d32c66b9981a73a38",
+        "uploaded": "2026-09-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/e19ac6ae-34fb-4a1f-b25d-d520e38b394e/update-duckie-diff-PS7716.5665N_5665_0036005355908-to-PS7717_user_5741_0036408028548.bin",
+        "versionCode": "36408028548",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    },
+    {
+        "md5": "951d31e1ee969f6e72b0c7e3970b6e91",
+        "uploaded": "2026-09-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/bc6419b7-a715-44f2-bc54-a09edb80d7e4/update-duckie-diff-PS7712.5370N_5370_0035199974020-to-PS7717_user_5741_0036408028548.bin",
+        "versionCode": "36408028548",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    },
+    {
+        "md5": "5bbdfdcc3ccb24469e5d8bd3e1f38e98",
+        "uploaded": "2026-09-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/8b836353-0480-4db6-bcca-b6f98cb74b1c/update-duckie-diff-PS7715.5585N_5585_0035736899972-to-PS7717_user_5741_0036408028548.bin",
+        "versionCode": "36408028548",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    },
+    {
+        "md5": "6505e1281bb209762f117d86debf3325",
+        "uploaded": "2026-09-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/82488e42-e493-40ee-95d8-df83d230b720/update-duckie-diff-PS7708.5501N_5501_0034394701188-to-PS7717_user_5741_0036408028548.bin",
+        "versionCode": "36408028548",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    },
+    {
+        "md5": "435a3cdb9ab7e12e2b89c7fa9baf39e9",
+        "uploaded": "2026-09-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/63e74405-e149-4471-9de1-d4f86dcf6b6c/update-duckie-diff-PS7713.5443N_5443_0035334210436-to-PS7717_user_5741_0036408028548.bin",
+        "versionCode": "36408028548",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    },
+    {
+        "md5": "b90afe1f731a2e5a6331a611b1dd631f",
+        "uploaded": "2026-09-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/2f4c5f8e-ae35-41ce-8a0c-775d2f5856d4/update-duckie-diff-PS7704.5024N_5024_0033723490436-to-PS7717_user_5741_0036408028548.bin",
+        "versionCode": "36408028548",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    }
+]

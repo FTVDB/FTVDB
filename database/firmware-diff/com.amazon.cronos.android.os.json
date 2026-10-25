@@ -1,0 +1,37 @@
+[
+    {
+        "md5": "4b52689b57bc5a347840934a3530f77e",
+        "uploaded": "2026-09-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/12/6e02c39f-53f1-48ff-a9b9-e77767997019/update-cronos-diff-NS6574_7632_0013121736836-to-NS6574_user_7636_0013121737860.bin",
+        "versionCode": "13121737860",
+        "versionName": "Fire OS 6.5.7.4 (NS6574/7636)"
+    },
+    {
+        "md5": "2985145e68b08e6164b44bdbbbedbf6b",
+        "uploaded": "2026-09-28",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/28/8926b6c3-8cc4-46e7-8418-d3a116627002/update-cronos-diff-NS65741_8146_0013222531716-to-NS65741_user_8149_0013222532484.bin",
+        "versionCode": "13222532484",
+        "versionName": "Fire OS 6574.1 (NS65741/8149)"
+    },
+    {
+        "md5": "1248adfa22e3a418c6cc33cf51b778fe",
+        "uploaded": "2026-09-28",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/28/8051dbe6-1531-4bf3-ab01-f5d0e43f73dc/update-cronos-diff-NS6574_7636_0013121737860-to-NS65741_user_8149_0013222532484.bin",
+        "versionCode": "13222532484",
+        "versionName": "Fire OS 6574.1 (NS65741/8149)"
+    },
+    {
+        "md5": "9ba65ed5045b7c62b84532774a63e964",
+        "uploaded": "2026-10-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/19/6b42644c-8169-4ac5-a710-f0bd30f8fae9/update-cronos-diff-NS65741_8149_0013222532484-to-NS65741_user_8150_0013222532740.bin",
+        "versionCode": "13222532740",
+        "versionName": "Fire OS 6574.1 (NS65741/8150)"
+    },
+    {
+        "md5": "a5ca8fee9184eb326503ef3fa11e637c",
+        "uploaded": "2026-10-22",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/22/83b0aa60-eac9-493e-91bd-e4e26a4a9575/update-cronos-diff-NS65741_8150_0013222532740-to-NS65741_user_8151_0013222532996.bin",
+        "versionCode": "13222532996",
+        "versionName": "Fire OS 6574.1 (NS65741/8151)"
+    }
+]

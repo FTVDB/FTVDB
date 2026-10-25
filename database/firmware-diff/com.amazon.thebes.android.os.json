@@ -1,0 +1,93 @@
+[
+    {
+        "md5": "dc15151fbe7273e95f9f9955ee9776e2",
+        "uploaded": "2018-08-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/ff06977033d65ae10654822c1c8a6e7b/update-thebes_full_thebes-605485120-to-612496620.bin",
+        "versionCode": "612496620",
+        "versionName": "Fire OS 5.3.6.3 (612496620)"
+    },
+    {
+        "md5": "a27ac7d6e2a3c533efe2b2f381ff6ba1",
+        "uploaded": "2018-09-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/799b1009bbede4f083e96bf0689eaf88/update-thebes_full_thebes-563231720-to-570208520.bin",
+        "versionCode": "570208520",
+        "versionName": "Fire OS 5.3.3.0 (570208520)"
+    },
+    {
+        "md5": "e0da0129f12d3814d1c8151371ba940c",
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/9a02f2f6a309708b25bb5af56be0f4ed/update-thebes_full_thebes-595457220-to-595457320.bin",
+        "versionCode": "595457320",
+        "versionName": "Fire OS 5.3.6.0 (595457320)"
+    },
+    {
+        "md5": "a3a3e74028a15ba933b7fdde376bfbc0",
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/e823f31ccb0347d2a316460e5451d74b/update-thebes_full_thebes-560177220-to-563231720.bin",
+        "versionCode": "563231720",
+        "versionName": "Fire OS 5.3.2.1 (563231720)"
+    },
+    {
+        "md5": "c4956650bbbfe6884a9ca1138566cd9c",
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/fd1c5c4976e38619de1bd8d1febc9234/update-thebes_full_thebes-595550320-to-605485120.bin",
+        "versionCode": "605485120",
+        "versionName": "Fire OS 5.3.6.2 (605485120)"
+    },
+    {
+        "md5": "6de19735001fa789d861c3f877374f40",
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/9607dcf09c4b4e70704bd3243b6e6dea/update-thebes_full_thebes-579279320-to-595457220.bin",
+        "versionCode": "595457220",
+        "versionName": "Fire OS 5.3.6.0 (595457220)"
+    },
+    {
+        "md5": "3602aa4c776c0203992852c706943f6d",
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/849f89ee51d560c97bba823d37835e50/update-thebes_full_thebes-579225620-to-579279320.bin",
+        "versionCode": "579279320",
+        "versionName": "Fire OS 5.3.4.0 (579279320)"
+    },
+    {
+        "md5": "55d980a55b3a6d9a31c2b76d9f2721ad",
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/bd336e0ed21321d2e4608ca7ff752487/update-thebes_full_thebes-570208520-to-579225620.bin",
+        "versionCode": "579225620",
+        "versionName": "Fire OS 5.3.4.0 (579225620)"
+    },
+    {
+        "md5": "26acb37daac22abdbfe090abf61f8afe",
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/51176783c244ce72ed38b67c943e6203/update-thebes_full_thebes-595457320-to-595550320.bin",
+        "versionCode": "595550320",
+        "versionName": "Fire OS 5.3.6.1 (595550320)"
+    },
+    {
+        "md5": "fe8b2390267a051522b22d27e13403d2",
+        "uploaded": "2018-11-13",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/fa4b05db913c1f0b17b8b19433cddf19/update-thebes_full_thebes-612496620-to-626533320.bin",
+        "versionCode": "626533320",
+        "versionName": "Fire OS 5.3.6.4 (626533320)"
+    },
+    {
+        "md5": "2eade11e7cfc2b5af0a4b602c412dd79",
+        "uploaded": "2020-11-30",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/b5bcd95e4e96f87bc707696f1c89e439/update-thebes_full_thebes-626539520-to-626542120.bin",
+        "versionCode": "626542120",
+        "versionName": "Fire OS 5.3.6.4 (626542120)"
+    },
+    {
+        "md5": "a256be14450c43d95b3ecd62ecbb617b",
+        "uploaded": "2021-01-07",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/0c89b3ec99f5256cbbac42adf863d1f7/update-thebes_full_thebes-626542120-to-626547120.bin",
+        "versionCode": "626547120",
+        "versionName": "Fire OS 5.3.6.4 (626547120)"
+    },
+    {
+        "md5": "0567485cec8af31e6cd50a3fe4b9f89d",
+        "uploaded": "2022-07-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/0af57c1afe252dfa06b6d154f46c1b72/update-thebes_full_thebes-626547120-to-626549020.bin",
+        "versionCode": "626549020",
+        "versionName": "Fire OS 5.3.6.4 (626549020)"
+    }
+]

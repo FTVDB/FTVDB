@@ -1,0 +1,247 @@
+[
+    {
+        "md5": "9719ccb5490d83b5b8356f07d9a645c4",
+        "uploaded": "2019-11-14",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/87d27192fa703905b79e5927d5e530ca/update-mantis-diff-NS6266_2292_0003054040196-to-NS6268_user_2315_0003255372676.bin",
+        "versionCode": "3255372676",
+        "versionName": "Fire OS 6.2.6.8 (NS6268/2315)"
+    },
+    {
+        "md5": "cb6d8fb89959ba1c0543b83fe8afec8d",
+        "uploaded": "2021-02-02",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/cf75c091457876ffe33d2d783bfa7e74/update-mantis-diff-NS6277_3027_0004597732228-to-NS6277_user_3033_0004597733764.bin",
+        "versionCode": "4597733764",
+        "versionName": "Fire OS 6.2.7.7 (NS6277/3033)"
+    },
+    {
+        "md5": "984ecdb970ffd0a86367f37d957b06ca",
+        "uploaded": "2021-05-28",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/7bec12388ce0b4a845295937b897ed34/update-mantis-diff-NS6280_3233_0005067547012-to-NS6280_user_3236_0005067547780.bin",
+        "versionCode": "5067547780",
+        "versionName": "Fire OS 6.2.8.0 (NS6280/3236)"
+    },
+    {
+        "md5": "b5b3cbfe5e21ab3e8a9cc529b7b5d2a0",
+        "uploaded": "2021-07-01",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/37ae76813cb7a65c1697d1c364633f9f/update-mantis-diff-NS6280_3236_0005067547780-to-NS6281_user_3385_0005604456836.bin",
+        "versionCode": "5604456836",
+        "versionName": "Fire OS 6.2.8.1 (NS6281/3385)"
+    },
+    {
+        "md5": "0f69527ea76f2354d734cbf9bfc07512",
+        "uploaded": "2021-09-30",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/ec540f7909b6061127f3c5eee51afd3f/update-mantis-diff-NS6281_3385_0005604456836-to-NS6281_user_4054_0005940172420.bin",
+        "versionCode": "5940172420",
+        "versionName": "Fire OS 6.2.8.1 (NS6281/4054)"
+    },
+    {
+        "md5": "79d95d5ae0e1c125e78ab8266c7a9574",
+        "uploaded": "2022-01-13",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/c60c7fa474d3f10df5940d34daae857e/update-mantis-diff-NS6281_4061_0005940174212-to-NS6281_user_4812_0005940366468.bin",
+        "versionCode": "5940366468",
+        "versionName": "Fire OS 6.2.8.1 (NS6281/4812)"
+    },
+    {
+        "md5": "a9b8bc5bb38d348bc07c4678cc1817e5",
+        "uploaded": "2022-03-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2f240daf5331708b5cfcf2940891f9a9/update-mantis-diff-NS6281_4812_0005940366468-to-NS6287_user_3768_0006544078980.bin",
+        "versionCode": "6544078980",
+        "versionName": "Fire OS 6.2.8.7 (NS6287/3768)"
+    },
+    {
+        "md5": "adfa8278b3deb6782339e4eb3b3fe7e1",
+        "uploaded": "2022-03-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/824862347d105afb204a2c4d4eeab88d/update-mantis-diff-NS6287_3768_0006544078980-to-NS6287_user_3770_0006544079492.bin",
+        "versionCode": "6544079492",
+        "versionName": "Fire OS 6.2.8.7 (NS6287/3770)"
+    },
+    {
+        "md5": "8591e0014e9669890bcb24ccd7dfd25d",
+        "uploaded": "2022-04-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/5130441a18317ddb11273f72ad23e9fc/update-mantis-diff-NS6281_4812_0005940366468-to-NS6289_user_3905_0007013876100.bin",
+        "versionCode": "7013876100",
+        "versionName": "Fire OS 6.2.8.9 (NS6289/3905)"
+    },
+    {
+        "md5": "0abad27a10e5902229f5ea4d07738a67",
+        "uploaded": "2022-07-05",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/c98c04834bbfdefff0e8c0c2f484675c/update-mantis-diff-NS6289_3905_0007013876100-to-NS6290_user_4022_0007282341508.bin",
+        "versionCode": "7282341508",
+        "versionName": "Fire OS 6.2.9.0 (NS6290/4022)"
+    },
+    {
+        "md5": "940a4814f0cd163361461448636f5fe0",
+        "uploaded": "2022-07-28",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/4c3f99b28caed8bdfb4c2eebc09e77bc/update-mantis-diff-NS6290_4022_0007282341508-to-NS6291_user_4110_0007550799492.bin",
+        "versionCode": "7550799492",
+        "versionName": "Fire OS 6.2.9.1 (NS6291/4110)"
+    },
+    {
+        "md5": "d3c8f8336f802fb682da52b46fa42492",
+        "uploaded": "2022-08-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/5c33278cea8463025ffdf9363b7f3978/update-mantis-diff-NS6291_4110_0007550799492-to-NS6291_user_4113_0007550800260.bin",
+        "versionCode": "7550800260",
+        "versionName": "Fire OS 6.2.9.1 (NS6291/4113)"
+    },
+    {
+        "md5": "faf3514799bb2f0cff5754996b61300c",
+        "uploaded": "2022-10-18",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/4e3145e0ca65f2a39e93a32baac73ae6/update-mantis-diff-NS6292_4226_0008020591236-to-NS6293_user_4731_0008222047108.bin",
+        "versionCode": "8222047108",
+        "versionName": "Fire OS 6.2.9.3 (NS6293/4731)"
+    },
+    {
+        "md5": "fd888b53bebb77a7a4bcdc399dfec14c",
+        "uploaded": "2022-11-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/b0a72d140b42e399a9bd5112df2817fa/update-mantis-diff-NS6292_4226_0008020591236-to-NS6294_user_4339_0008356164484.bin",
+        "versionCode": "8356164484",
+        "versionName": "Fire OS 6.2.9.4 (NS6294/4339)"
+    },
+    {
+        "md5": "74a912b3e7a066ac2a1a26d4e3810732",
+        "uploaded": "2023-01-27",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/7afa539f714d21247e26fe5c900729b9/update-mantis-diff-NS6292_4226_0008020591236-to-NS6295_user_4448_0008557518980.bin",
+        "versionCode": "8557518980",
+        "versionName": "Fire OS 6.2.9.5 (NS6295/4448)"
+    },
+    {
+        "md5": "1f96d0443c30768b3e97f23b19afc4ad",
+        "uploaded": "2023-03-27",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/1544545c159e33f7f0e869accf93d960/update-mantis-diff-NS6295_4448_0008557518980-to-NS6296_user_4554_0008893090436.bin",
+        "versionCode": "8893090436",
+        "versionName": "Fire OS 6.2.9.6 (NS6296/4554)"
+    },
+    {
+        "md5": "5f7f5cd816d99772cb790a5504e11f88",
+        "uploaded": "2023-04-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/adfcc1306eade53b0c644ebf3465d006/update-mantis-diff-NS6296_4554_0008893090436-to-NS6296_user_4555_0008893090692.bin",
+        "versionCode": "8893090692",
+        "versionName": "Fire OS 6.2.9.6 (NS6296/4555)"
+    },
+    {
+        "md5": "9356bfcb6e0b828542fe93ca6fc90c2d",
+        "uploaded": "2023-06-02",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/5f0f3bd4db3b43f1161ab58f7331a62a/update-mantis-diff-NS6295_4448_0008557518980-to-NS6297_user_4655_0009161551748.bin",
+        "versionCode": "9161551748",
+        "versionName": "Fire OS 6.2.9.7 (NS6297/4655)"
+    },
+    {
+        "md5": "4f6b8b19a4b166c4db51208ae8a1e549",
+        "uploaded": "2023-06-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/0497f6b6d7f9c2b0ceb0ba8fcb0bcf45/update-mantis-diff-NS6296_4555_0008893090692-to-NS6297_user_4655_0009161551748.bin",
+        "versionCode": "9161551748",
+        "versionName": "Fire OS 6.2.9.7 (NS6297/4655)"
+    },
+    {
+        "md5": "d73a925588b3e9408297af92d43df27c",
+        "uploaded": "2023-10-05",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/6e3109d8cebdd828d0d42f7dc758cc17/update-mantis-diff-NS6297_4655_0009161551748-to-NS6700_user_4872_0009631369348.bin",
+        "versionCode": "9631369348",
+        "versionName": "Fire OS 6.7.0.0 (NS6700/4872)"
+    },
+    {
+        "md5": "de67c0aee70810d4a0fe9d8188b4c2e0",
+        "uploaded": "2023-12-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/623e181f357e8b2d1850e81130022976/update-mantis-diff-NS6700_4872_0009631369348-to-NS6701_user_4985_0009832724868.bin",
+        "versionCode": "9832724868",
+        "versionName": "Fire OS 6.7.0.1 (NS6701/4985)"
+    },
+    {
+        "md5": "28e5325d44528f0c4d6eadea2c1155b9",
+        "uploaded": "2024-03-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/3/29/dbc26b51-ebca-4ae7-98dd-427e04190ebc/update-mantis-diff-NS6702_5093_0010034079108-to-NS6703_user_5183_0010235428740.bin",
+        "versionCode": "10235428740",
+        "versionName": "Fire OS 6.7.0.3 (NS6703/5183)"
+    },
+    {
+        "md5": "f88ee707e49f631acbedd7a4dc1be870",
+        "uploaded": "2024-09-23",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/9/23/0c30b2b2-10dd-4b90-8995-f32e2d8301eb/update-mantis-diff-NS6295_4448_0008557518980-to-NS6706_user_5471_0010906591108.bin",
+        "versionCode": "10906591108",
+        "versionName": "Fire OS 6.7.0.6 (NS6706/5471)"
+    },
+    {
+        "md5": "fd3bff65094db35570d4789eafdc72ca",
+        "uploaded": "2024-09-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/9/24/66b6b255-c066-4b1b-a29d-7d707fad6491/update-mantis-diff-NS6298_4760_0009362905220-to-NS6706_user_5471_0010906591108.bin",
+        "versionCode": "10906591108",
+        "versionName": "Fire OS 6.7.0.6 (NS6706/5471)"
+    },
+    {
+        "md5": "1393350fb8a64baf59f27abdca8c85b9",
+        "uploaded": "2026-03-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/25/2d57e6fa-3783-496c-80ff-a192fc3d7207/update-mantis-diff-NS6710_5784_0011577759876-to-NS6711_user_5908_0011644900484.bin",
+        "versionCode": "11644900484",
+        "versionName": "Fire OS 6.7.1.1 (NS6711/5908)"
+    },
+    {
+        "md5": "3e3b2df6c996a14b6f64391441d7580d",
+        "uploaded": "2026-03-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/25/d8bc0fb2-45e8-4322-bf11-c45d460fb591/update-mantis-diff-NS6711_5866_0011644889732-to-NS6711_user_5908_0011644900484.bin",
+        "versionCode": "11644900484",
+        "versionName": "Fire OS 6.7.1.1 (NS6711/5908)"
+    },
+    {
+        "md5": "cd030890cc04af94fe934d609345601c",
+        "uploaded": "2026-03-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/25/7527ba69-04f1-4e1d-b82b-5c2ecf57ee8b/update-mantis-diff-NS6709_5669_0011443512708-to-NS6711_user_5908_0011644900484.bin",
+        "versionCode": "11644900484",
+        "versionName": "Fire OS 6.7.1.1 (NS6711/5908)"
+    },
+    {
+        "md5": "a3e58a47c80393c2feda8a416883c701",
+        "uploaded": "2026-03-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/25/19e65c81-dbc2-4861-ad18-4c0d1b8d0d8d/update-mantis-diff-NS6708_5570_0011242160772-to-NS6711_user_5908_0011644900484.bin",
+        "versionCode": "11644900484",
+        "versionName": "Fire OS 6.7.1.1 (NS6711/5908)"
+    },
+    {
+        "md5": "9e3f084610ef6aae526a15b854cd733b",
+        "uploaded": "2026-03-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/25/d7e33ebd-ded2-4056-9e1c-7c30bc75dca8/update-mantis-diff-NS6706_5471_0010906591108-to-NS6711_user_5908_0011644900484.bin",
+        "versionCode": "11644900484",
+        "versionName": "Fire OS 6.7.1.1 (NS6711/5908)"
+    },
+    {
+        "md5": "92293c32f5ad3f425b31e0cf8ae8c7cf",
+        "uploaded": "2026-03-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/25/874c4fb5-a61a-47b8-9d46-c4dee9128d6f/update-mantis-diff-NS6705_5380_0010772350084-to-NS6711_user_5908_0011644900484.bin",
+        "versionCode": "11644900484",
+        "versionName": "Fire OS 6.7.1.1 (NS6711/5908)"
+    },
+    {
+        "md5": "da6d8e8c6664506a69d53f5071a63035",
+        "uploaded": "2026-03-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/25/072b8519-431e-4dc8-87f0-3ee5e413fe6e/update-mantis-diff-NS6700_4872_0009631369348-to-NS6711_user_5908_0011644900484.bin",
+        "versionCode": "11644900484",
+        "versionName": "Fire OS 6.7.1.1 (NS6711/5908)"
+    },
+    {
+        "md5": "e41c6506e5f7e64b04fececa9ddd1a11",
+        "uploaded": "2026-03-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/25/05547c2a-4913-4419-ad9a-cc9526926f5e/update-mantis-diff-NS6704_5281_0010436780420-to-NS6711_user_5908_0011644900484.bin",
+        "versionCode": "11644900484",
+        "versionName": "Fire OS 6.7.1.1 (NS6711/5908)"
+    },
+    {
+        "md5": "f01ea9ea8efe8a93d20cb04b675a1c2f",
+        "uploaded": "2026-03-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/25/aef0b4f8-c3de-4dac-b204-acfefe6d4083/update-mantis-diff-NS6703_5183_0010235428740-to-NS6711_user_5908_0011644900484.bin",
+        "versionCode": "11644900484",
+        "versionName": "Fire OS 6.7.1.1 (NS6711/5908)"
+    },
+    {
+        "md5": "1e92aa0e7483012d2c4b89333f13c3a1",
+        "uploaded": "2026-03-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/25/0374de7e-af5f-40e3-bf9a-5f523bace85a/update-mantis-diff-NS6710_5786_0011577760388-to-NS6711_user_5908_0011644900484.bin",
+        "versionCode": "11644900484",
+        "versionName": "Fire OS 6.7.1.1 (NS6711/5908)"
+    },
+    {
+        "md5": "54ff550f6bddc008f9d8ddef06ab4a10",
+        "uploaded": "2026-03-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/25/f9a6ff59-a036-49da-98ab-253bb9df9eff/update-mantis-diff-NS6702_5093_0010034079108-to-NS6711_user_5908_0011644900484.bin",
+        "versionCode": "11644900484",
+        "versionName": "Fire OS 6.7.1.1 (NS6711/5908)"
+    }
+]

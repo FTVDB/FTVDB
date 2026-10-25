@@ -1,0 +1,16 @@
+[
+    {
+        "md5": "9092f7403befbfa9dcbc20a334670859",
+        "uploaded": "2026-10-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/19/5a4674fa-efdb-42b0-8f0f-ef645d09af7d/update-hoya_ftv-diff-PS75741.7080N_7080_0036274153604-to-PS75741_user_7081_0036274153860.bin",
+        "versionCode": "36274153860",
+        "versionName": "Fire OS 7574.1 (PS75741/7081)"
+    },
+    {
+        "md5": "1508933807fb2edd0b4582a92c6428df",
+        "uploaded": "2026-10-22",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/22/130f5b74-7288-4cc7-abb9-430cd03ca851/update-hoya_ftv-diff-PS75741.7081N_7081_0036274153860-to-PS75741_user_7082_0036274154116.bin",
+        "versionCode": "36274154116",
+        "versionName": "Fire OS 7574.1 (PS75741/7082)"
+    }
+]

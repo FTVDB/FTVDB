@@ -1,0 +1,142 @@
+[
+    {
+        "md5": "5e9432a1a51afcf0bf54a587b7a3f146",
+        "uploaded": "2021-11-22",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/e97e185c534f6db8be1f52c850aec8bb/update-trona-diff-PS7321_2324_0021274104964-to-PS7322_user_2515_0022247232388.bin",
+        "versionCode": "22247232388",
+        "versionName": "Fire OS 7.3.2.2 (PS7322/2515)"
+    },
+    {
+        "md5": "25c2233766c035bc357f9a76264bbfc0",
+        "uploaded": "2021-12-01",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/cb3d7e905d6e9f04ee16b87df91a4fe1/update-trona-diff-PS7322_2514_0022247232132-to-PS7322_user_2515_0022247232388.bin",
+        "versionCode": "22247232388",
+        "versionName": "Fire OS 7.3.2.2 (PS7322/2515)"
+    },
+    {
+        "md5": "9797b7e5faeeb99ef04d614473ef3be3",
+        "uploaded": "2021-12-02",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/80520f2c6dd3b223701927a3d9535e80/update-trona-diff-PS7322_2515_0022247232388-to-PS7322_user_2519_0022247233412.bin",
+        "versionCode": "22247233412",
+        "versionName": "Fire OS 7.3.2.2 (PS7322/2519)"
+    },
+    {
+        "md5": "73471f38db9cd47d1a35af9f90f9343f",
+        "uploaded": "2022-11-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/7761afb14ac1d40e399e6029d44235bd/update-trona-diff-PS7326.3178N_3178_0025602845316-to-PS7326_user_3183_0025602846596.bin",
+        "versionCode": "25602846596",
+        "versionName": "Fire OS 7.3.2.6 (PS7326/3183)"
+    },
+    {
+        "md5": "9c8c4359df393b82a3133b8d0d0b0527",
+        "uploaded": "2023-01-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/5d2bdb1e5d8ab23d5fcfd66eb886e439/STASH_COLLISION_update-trona-diff-PS7326.3178N_3178_0025602845316-to-PS7327_user_3326_0026743733892.bin",
+        "versionCode": "26743733892",
+        "versionName": "Fire OS 7.3.2.7 (PS7327/3326)"
+    },
+    {
+        "md5": "b97fcd83b12a662479276bd4162fbd2f",
+        "uploaded": "2023-02-09",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/49b082b33625bb4cc55b92ff03ea7c75/update-trona-diff-PS7322_2519_0022247233412-to-PS7327_user_3326_0026743733892.bin",
+        "versionCode": "26743733892",
+        "versionName": "Fire OS 7.3.2.7 (PS7327/3326)"
+    },
+    {
+        "md5": "87a89715260d8b823de9219dd4aa78ec",
+        "uploaded": "2023-02-09",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/4a1b83cb95474495cd1735c73a31131b/update-trona-diff-PS7319_1726_0020367982212-to-PS7327_user_3326_0026743733892.bin",
+        "versionCode": "26743733892",
+        "versionName": "Fire OS 7.3.2.7 (PS7327/3326)"
+    },
+    {
+        "md5": "e183c03b118174329e5e0e0e7e09f89a",
+        "uploaded": "2023-02-09",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/35c270e234287190f02330e998e7357b/update-trona-diff-PS7323.2834N_2834_0023455273604-to-PS7327_user_3326_0026743733892.bin",
+        "versionCode": "26743733892",
+        "versionName": "Fire OS 7.3.2.7 (PS7327/3326)"
+    },
+    {
+        "md5": "20acec56ac98a0c43b401f79e16a888d",
+        "uploaded": "2023-07-13",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/404d62eb7ebe85ff95b8b28cf003a7f3/update-trona-diff-PS7327.3326N_3326_0026743733892-to-PS7328_user_3435_0027213523844.bin",
+        "versionCode": "27213523844",
+        "versionName": "Fire OS 7.3.2.8 (PS7328/3435)"
+    },
+    {
+        "md5": "81d21b8587066262ad5b68cf6ae081b5",
+        "uploaded": "2023-09-06",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/4c260eb0e9cbff086810211307cc2309/update-trona-diff-PS7328.3435N_3435_0027213523844-to-PS7328_user_3443_0027213525892.bin",
+        "versionCode": "27213525892",
+        "versionName": "Fire OS 7.3.2.8 (PS7328/3443)"
+    },
+    {
+        "md5": "5cfde07f5ce18c6b91e3609fe46acf16",
+        "uploaded": "2023-10-27",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/e4c129a5f979bd6a0292172b21b7635b/update-trona-diff-PS7328.3443N_3443_0027213525892-to-PS7329_user_3836_0029294001284.bin",
+        "versionCode": "29294001284",
+        "versionName": "Fire OS 7.3.2.9 (PS7329/3836)"
+    },
+    {
+        "md5": "6691c9ddbcdf1bffef5c3dbad3ce717b",
+        "uploaded": "2023-10-30",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/6a83f50d156d300917740f816d9b3420/update-trona-diff-PS7324.3016N_3016_0024529062020-to-PS7329_user_3836_0029294001284.bin",
+        "versionCode": "29294001284",
+        "versionName": "Fire OS 7.3.2.9 (PS7329/3836)"
+    },
+    {
+        "md5": "e2fc2c17e9ff12a2f21531a530cd4c79",
+        "uploaded": "2023-12-08",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/67be4fd22ff98a26fe7129ea1898939e/update-trona-diff-PS7326.3183N_3183_0025602846596-to-PS7329_user_3838_0029294001796.bin",
+        "versionCode": "29294001796",
+        "versionName": "Fire OS 7.3.2.9 (PS7329/3838)"
+    },
+    {
+        "md5": "fc2f34a11188c6cb3784343a376f98e7",
+        "uploaded": "2023-12-14",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/4a5493729ddefa3e2acd58a878c79be3/update-trona-diff-PS7329.3836N_3836_0029294001284-to-PS7329_user_3838_0029294001796.bin",
+        "versionCode": "29294001796",
+        "versionName": "Fire OS 7.3.2.9 (PS7329/3838)"
+    },
+    {
+        "md5": "0f370263eb6c356923f111ce6d97d2d3",
+        "uploaded": "2024-01-23",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/1/23/1cf7e043-3343-45bc-8b01-4aae0c5d6f5e/update-trona-diff-PS7329.3838N_3838_0029294001796-to-PS7329_user_3842_0029294002820.bin",
+        "versionCode": "29294002820",
+        "versionName": "Fire OS 7.3.2.9 (PS7329/3842)"
+    },
+    {
+        "md5": "f7a0046f26ad731f281e6f27d17610bc",
+        "uploaded": "2024-03-14",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/3/14/71b7710a-d1dd-49d3-9974-f64d3754e3b0/update-trona-diff-PS7329.3842N_3842_0029294002820-to-PS7329_user_3851_0029294005124.bin",
+        "versionCode": "29294005124",
+        "versionName": "Fire OS 7.3.2.9 (PS7329/3851)"
+    },
+    {
+        "md5": "7dba1ef80644d35413beb779e7407448",
+        "uploaded": "2024-04-18",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/4/18/a9142023-1220-4a49-b084-83955d1a2094/update-trona-diff-PS7329.3851N_3851_0029294005124-to-PS7330_user_4100_0030099375236.bin",
+        "versionCode": "30099375236",
+        "versionName": "Fire OS 7.3.3.0 (PS7330/4100)"
+    },
+    {
+        "md5": "b2b5c156c72e7a8769e0dce032ab39bf",
+        "uploaded": "2024-07-15",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/15/caf52e04-37e8-4418-bda1-63ed11f7432f/update-trona-diff-PS7330.4100N_4100_0030099375236-to-PS7330_user_4104_0030099376260.bin",
+        "versionCode": "30099376260",
+        "versionName": "Fire OS 7.3.3.0 (PS7330/4104)"
+    },
+    {
+        "md5": "c8e0d8023a05a3da31590c0bf55c6028",
+        "uploaded": "2024-10-23",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/23/3080ca2f-9dbc-4183-ac46-7a687b544454/update-trona-diff-PS7330.4104N_4104_0030099376260-to-PS7331_user_4460_0031575862404.bin",
+        "versionCode": "31575862404",
+        "versionName": "Fire OS 7.3.3.1 (PS7331/4460)"
+    },
+    {
+        "md5": "4d075ad90c37fbd8398d1623d713908a",
+        "uploaded": "2025-05-09",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/9/a106d6bc-2345-412a-84e3-a5a43948659a/update-trona-diff-PS7331.4460N_4460_0031575862404-to-PS7331_user_4463_0031575863172.bin",
+        "versionCode": "31575863172",
+        "versionName": "Fire OS 7.3.3.1 (PS7331/4463)"
+    }
+]

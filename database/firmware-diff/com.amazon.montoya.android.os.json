@@ -1,0 +1,30 @@
+[
+    {
+        "md5": "f3761469d2c5634dc03528fbf4c146db",
+        "uploaded": "2018-09-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/c1c75e584b4256ca58c852b9a16e91ba/update-montoya_montoya-562254320-to-573210520.bin",
+        "versionCode": "573210520",
+        "versionName": "Fire OS 5.2.4.1 (573210520)"
+    },
+    {
+        "md5": "a5bf193ac4abdda95cb6c9d98be87584",
+        "uploaded": "2023-01-27",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/e4cbb097969f8917ebd6bdadecaa008e/update-montoya_montoya-656638420-to-676742620.bin",
+        "versionCode": "676742620",
+        "versionName": "Fire OS 5.2.8.8 (676742620)"
+    },
+    {
+        "md5": "69189d230658e73d9a2ec9b4e4a8ffc1",
+        "uploaded": "2023-03-23",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/b457261d0bf5c7632c31f2d32f2afe5c/update-montoya_montoya-676742620-to-686800020.bin",
+        "versionCode": "686800020",
+        "versionName": "Fire OS 5.2.9.5 (686800020)"
+    },
+    {
+        "md5": "e8cbb47c10f9d7fafc971910baec7b27",
+        "uploaded": "2023-03-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/9d47ac18ce9607b044ce5facda1afa32/update-montoya_montoya-573210520-to-686800020.bin",
+        "versionCode": "686800020",
+        "versionName": "Fire OS 5.2.9.5 (686800020)"
+    }
+]

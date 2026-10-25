@@ -1,0 +1,128 @@
+[
+    {
+        "md5": "c942494b397cef77c3dcc50a5dea79ad",
+        "uploaded": "2018-08-18",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/5bb3fe0031a614276c0bd69612a6c7ea/update-suez_suez-612495820-to-612496320.bin",
+        "versionCode": "612496320",
+        "versionName": "Fire OS 5.3.6.3 (612496320)"
+    },
+    {
+        "md5": "ff2a4eec64a132e479585b9652392251",
+        "uploaded": "2018-11-07",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/6df9348813d96975e01e5fdb9b2de49d/update-suez_suez-612496320-to-612496620.bin",
+        "versionCode": "612496620",
+        "versionName": "Fire OS 5.3.6.3 (612496620)"
+    },
+    {
+        "md5": "72bd7d8192ff97eb7586bc035ea7f681",
+        "uploaded": "2019-04-11",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/fb9b5fe40fbaebed68625034284995e4/update-suez_suez-626533320-to-636558520.bin",
+        "versionCode": "636558520",
+        "versionName": "Fire OS 5.3.6.8 (636558520)"
+    },
+    {
+        "md5": "3fba26761b6bb9e6a5c35dbcacc42c12",
+        "uploaded": "2019-10-23",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/b5d603367fb0c3a032ae12f509792cbe/update-suez_suez-636558720-to-636559820.bin",
+        "versionCode": "636559820",
+        "versionName": "Fire OS 5.3.6.8 (636559820)"
+    },
+    {
+        "md5": "47945b0da07d72e92a6eecd2dad33660",
+        "uploaded": "2019-11-05",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/e4f938ec966f6d5d7203c85c8c10b640/update-suez_suez-636558520-to-636559820.bin",
+        "versionCode": "636559820",
+        "versionName": "Fire OS 5.3.6.8 (636559820)"
+    },
+    {
+        "md5": "3b466764dabeaf91711bdec0bbb5f9a1",
+        "uploaded": "2019-11-15",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/45eb0246aceb509588cfce8baef4e491/update-suez_suez-636559820-to-636559920.bin",
+        "versionCode": "636559920",
+        "versionName": "Fire OS 5.3.6.8 (636559920)"
+    },
+    {
+        "md5": "888b1ff36b71473b035c29ee85ebf14f",
+        "uploaded": "2019-12-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/8bebc5e3337a4f548a0d6f7d7ae25a52/update-suez_suez-636559920-to-650601220.bin",
+        "versionCode": "650601220",
+        "versionName": "Fire OS 5.3.7.0 (650601220)"
+    },
+    {
+        "md5": "5570491beaae16157ee3535cf21010eb",
+        "uploaded": "2020-09-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/3c818b53039c403bc4dbf28ebce5845f/update-suez_suez-657612420-to-657612520.bin",
+        "versionCode": "657612520",
+        "versionName": "Fire OS 5.3.7.2 (657612520)"
+    },
+    {
+        "md5": "7203ae5e1ea033ec1b6f6b64f8bb6ac5",
+        "uploaded": "2020-09-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/db5f880c36e9e15e4de38a849cb6dce3/update-suez_suez-650601320-to-657612520.bin",
+        "versionCode": "657612520",
+        "versionName": "Fire OS 5.3.7.2 (657612520)"
+    },
+    {
+        "md5": "4bb1d752ba42a454f7b0207394b5de52",
+        "uploaded": "2020-09-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/69eae91a9431cdf26f7a28b57c3df6e7/update-suez_suez-654620820-to-657612520.bin",
+        "versionCode": "657612520",
+        "versionName": "Fire OS 5.3.7.2 (657612520)"
+    },
+    {
+        "md5": "ad6a764936a75d1b27dcabc1e4204443",
+        "uploaded": "2020-09-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2605dd25c1b9cd9185ab190e42cef474/update-suez_suez-654620620-to-654620820.bin",
+        "versionCode": "654620820",
+        "versionName": "Fire OS 5.3.7.1 (654620820)"
+    },
+    {
+        "md5": "d34899436761df7bf08c37026b9add21",
+        "uploaded": "2020-09-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2c8757a0b89aa5d0d9030948f63bbbe5/update-suez_suez-650601220-to-650601320.bin",
+        "versionCode": "650601320",
+        "versionName": "Fire OS 5.3.7.0 (650601320)"
+    },
+    {
+        "md5": "e01a14cdd21785f68508c2f832ec6930",
+        "uploaded": "2020-11-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/f13af25920e77e857c9bdd4374c6e040/update-suez_suez-657612520-to-659655920.bin",
+        "versionCode": "659655920",
+        "versionName": "Fire OS 5.3.7.3 (659655920)"
+    },
+    {
+        "md5": "2768eef2c9a937641d98ffda2550bffa",
+        "uploaded": "2020-11-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/47b90ad79f8bfbc8c0564023bd7f2583/update-suez_suez-659655820-to-659655920.bin",
+        "versionCode": "659655920",
+        "versionName": "Fire OS 5.3.7.3 (659655920)"
+    },
+    {
+        "md5": "ccc874d573d3561e693a433d6cf6a5e7",
+        "uploaded": "2021-01-08",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/6994960179a234a5250b88cd156a20e6/update-suez_suez-659655920-to-659656820.bin",
+        "versionCode": "659656820",
+        "versionName": "Fire OS 5.3.7.3 (659656820)"
+    },
+    {
+        "md5": "89842cfc91cd6f9e689633ecbc135c26",
+        "uploaded": "2021-07-22",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/4c9b76d2c7fa10a059ba5c98dc65e6a8/update-suez_suez-659656820-to-659658220.bin",
+        "versionCode": "659658220",
+        "versionName": "Fire OS 5.3.7.3 (659658220)"
+    },
+    {
+        "md5": "ce00d8dc66a05c2c9d2cd0b346850428",
+        "uploaded": "2023-08-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/a4609743639e03d8d1e4d6639cf3aef5/update-suez_suez-659662020-to-659664620.bin",
+        "versionCode": "659664620",
+        "versionName": "Fire OS 5.3.7.3 (659664620)"
+    },
+    {
+        "md5": "56b50bf94657e790aadcecaa97be8e1d",
+        "uploaded": "2023-08-07",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/eaeccb130bb2d118eab90730c0a4e41a/update-suez_suez-659658220-to-659662020.bin",
+        "versionCode": "659662020",
+        "versionName": "Fire OS 5.3.7.3 (659662020)"
+    }
+]

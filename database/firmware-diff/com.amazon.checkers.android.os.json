@@ -1,0 +1,44 @@
+[
+    {
+        "md5": "0963601d90acc1bab955c6600794b410",
+        "uploaded": "2026-06-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/12/924452fa-b9ea-48f5-beda-dc18f052abc1/update-checkers-diff-NS6573_7575_0012920395652-to-NS6573_user_7577_0012920396164.bin",
+        "versionCode": "12920396164",
+        "versionName": "Fire OS 6.5.7.3 (NS6573/7577)"
+    },
+    {
+        "md5": "e1e6f9daff0954a383355d7ad1c483e9",
+        "uploaded": "2026-09-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/12/040129ee-b92a-44e2-ba20-34a18396b0ab/update-checkers-diff-NS6574_7632_0013121736836-to-NS6574_user_7636_0013121737860.bin",
+        "versionCode": "13121737860",
+        "versionName": "Fire OS 6.5.7.4 (NS6574/7636)"
+    },
+    {
+        "md5": "3fd5d996082ece1c0335d99bfe7c79b8",
+        "uploaded": "2026-09-28",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/28/c3811cc5-df6f-4a5e-b7ee-b2ffddbeb06a/update-checkers-diff-NS65741_8146_0013222531716-to-NS65741_user_8149_0013222532484.bin",
+        "versionCode": "13222532484",
+        "versionName": "Fire OS 6574.1 (NS65741/8149)"
+    },
+    {
+        "md5": "0345eadb6808e12e27fead878b2c4d07",
+        "uploaded": "2026-09-28",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/28/5875e6e6-7f99-4a51-90c4-57dceeaf3cb0/update-checkers-diff-NS6574_7636_0013121737860-to-NS65741_user_8149_0013222532484.bin",
+        "versionCode": "13222532484",
+        "versionName": "Fire OS 6574.1 (NS65741/8149)"
+    },
+    {
+        "md5": "e15eb9a3e66c8e3f91eb9353f08c40db",
+        "uploaded": "2026-10-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/19/59e3c0ad-2dea-485a-9fb1-8017b21eda8d/update-checkers-diff-NS65741_8149_0013222532484-to-NS65741_user_8150_0013222532740.bin",
+        "versionCode": "13222532740",
+        "versionName": "Fire OS 6574.1 (NS65741/8150)"
+    },
+    {
+        "md5": "6b48056ad88ae5231ab67274a4d0ec08",
+        "uploaded": "2026-10-22",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/22/81bc5bff-8f2d-4bbf-b7ad-980cea5a0c8d/update-checkers-diff-NS65741_8150_0013222532740-to-NS65741_user_8151_0013222532996.bin",
+        "versionCode": "13222532996",
+        "versionName": "Fire OS 6574.1 (NS65741/8151)"
+    }
+]

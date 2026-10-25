@@ -1,0 +1,379 @@
+[
+    {
+        "md5": "034c7d5bac07b81e959e07b7e6c36eac",
+        "optout": 1,
+        "uploaded": "2022-10-21",
+        "url": "",
+        "versionCode": "25401515652",
+        "versionName": "Fire OS 7.6.0.7 (PS7607/3166)"
+    },
+    {
+        "md5": "b95ae6e843f8a29c66f83758bb6e71ef",
+        "optout": 1,
+        "uploaded": "2022-11-10",
+        "url": "",
+        "versionCode": "25401645956",
+        "versionName": "Fire OS 7.6.1.3 (PS7613/3675)"
+    },
+    {
+        "md5": "d522dc2b87d9e8309383e129e2efc859",
+        "uploaded": "2022-12-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/3acac2048da70780dcd108c80ac8af8b/update-gazelle-diff-PS7299.3052N_3052_0024596180100-to-PS7613_user_3686_0025401648772.bin",
+        "versionCode": "25401648772",
+        "versionName": "Fire OS 7.6.1.3 (PS7613/3686)"
+    },
+    {
+        "md5": "85e1f896dd7b1a14b521c7506c529cd2",
+        "optout": 1,
+        "uploaded": "2023-01-04",
+        "url": "",
+        "versionCode": "25401649284",
+        "versionName": "Fire OS 7.6.1.3 (PS7613/3688)"
+    },
+    {
+        "md5": "597abbaec34cf048d25fdacef8c77978",
+        "optout": 1,
+        "uploaded": "2023-02-21",
+        "url": "",
+        "versionCode": "25401652612",
+        "versionName": "Fire OS 7.6.1.3 (PS7613/3701)"
+    },
+    {
+        "md5": "bcfcf2d3c80ca7028586fdea26e677e1",
+        "optout": 1,
+        "uploaded": "2023-05-26",
+        "url": "",
+        "versionCode": "28085968516",
+        "versionName": "Fire OS 7.6.4.6 (PS7646/3550)"
+    },
+    {
+        "md5": "96c00c32efedd60e43f34eeda7db909b",
+        "optout": 1,
+        "uploaded": "2023-08-26",
+        "url": "",
+        "versionCode": "28085972356",
+        "versionName": "Fire OS 7.6.4.6 (PS7646/3565)"
+    },
+    {
+        "md5": "f317066a1a6d4d361596540b9160c3cf",
+        "optout": 1,
+        "uploaded": "2023-08-29",
+        "url": "",
+        "versionCode": "28488625284",
+        "versionName": "Fire OS 7.6.5.2 (PS7652/3564)"
+    },
+    {
+        "md5": "d56f4d65d3015f8be81a0308961b4047",
+        "optout": 1,
+        "uploaded": "2023-10-03",
+        "url": "",
+        "versionCode": "29159767172",
+        "versionName": "Fire OS 7.6.6.4 (PS7664/3772)"
+    },
+    {
+        "md5": "f388bf3093631ae96a827e563c8b71f5",
+        "optout": 1,
+        "uploaded": "2023-12-29",
+        "url": "",
+        "versionCode": "29562451588",
+        "versionName": "Fire OS 7.6.6.8 (PS7668/3894)"
+    },
+    {
+        "md5": "902ee7cd72728c93c1ea8e0ba61e2949",
+        "optout": 1,
+        "uploaded": "2024-02-05",
+        "url": "",
+        "versionCode": "29696698244",
+        "versionName": "Fire OS 7.6.6.9 (PS7669/4007)"
+    },
+    {
+        "md5": "e7ab179d05593a00e0d4165335a1bfed",
+        "optout": 1,
+        "uploaded": "2024-04-18",
+        "url": "",
+        "versionCode": "29965156740",
+        "versionName": "Fire OS 7.6.7.1 (PS7671/4097)"
+    },
+    {
+        "md5": "4d93aa631279e9836720146b673262ab",
+        "optout": 1,
+        "uploaded": "2024-05-22",
+        "url": "",
+        "versionCode": "30367831940",
+        "versionName": "Fire OS 7.6.7.3 (PS7673/4183)"
+    },
+    {
+        "md5": "ef5d20e094975f57a916be36d14801d2",
+        "optout": 1,
+        "uploaded": "2024-07-06",
+        "url": "",
+        "versionCode": "30971839620",
+        "versionName": "Fire OS 7.6.7.9 (PS7679/4292)"
+    },
+    {
+        "md5": "4656c2d142ec6c442e934619da345ef8",
+        "optout": 1,
+        "uploaded": "2024-09-04",
+        "url": "",
+        "versionCode": "31106080900",
+        "versionName": "Fire OS 7.6.8.1 (PS7681/4384)"
+    },
+    {
+        "md5": "8a0c92fed2ab2b5414ce69fc9dc3853f",
+        "optout": 1,
+        "uploaded": "2024-10-30",
+        "url": "",
+        "versionCode": "31642977924",
+        "versionName": "Fire OS 7.6.8.5 (PS7685/4486)"
+    },
+    {
+        "md5": "7f455a1cb6349bc3e926dfa1ab5a72ce",
+        "optout": 1,
+        "uploaded": "2024-12-12",
+        "url": "",
+        "versionCode": "31642978948",
+        "versionName": "Fire OS 7.6.8.5 (PS7685/4490)"
+    },
+    {
+        "md5": "22d7a582fc8131da350859ca13cbdb61",
+        "optout": 1,
+        "uploaded": "2025-01-10",
+        "url": "",
+        "versionCode": "32112766852",
+        "versionName": "Fire OS 7.6.8.8 (PS7688/4591)"
+    },
+    {
+        "md5": "9c1b9cfd112fb0631e6f6772798b5551",
+        "optout": 1,
+        "uploaded": "2025-03-06",
+        "url": "",
+        "versionCode": "32381233796",
+        "versionName": "Fire OS 7.6.9.0 (PS7690/4714)"
+    },
+    {
+        "md5": "eaed19d0430c4cd8e11f51d917a6d6c9",
+        "optout": 1,
+        "uploaded": "2025-03-20",
+        "url": "",
+        "versionCode": "32381234308",
+        "versionName": "Fire OS 7.6.9.0 (PS7690/4716)"
+    },
+    {
+        "md5": "62f643050d947dd61efa420f34188674",
+        "optout": 1,
+        "uploaded": "2025-04-21",
+        "url": "",
+        "versionCode": "32649800324",
+        "versionName": "Fire OS 7.6.9.6 (PS7696/5226)"
+    },
+    {
+        "md5": "21e1c920652588e44998c9bcf5a2ff1c",
+        "optout": 1,
+        "uploaded": "2025-05-09",
+        "url": "",
+        "versionCode": "32649801092",
+        "versionName": "Fire OS 7.6.9.6 (PS7696/5229)"
+    },
+    {
+        "md5": "95c155dc8df1e7c5b1485916dd62370b",
+        "optout": 1,
+        "uploaded": "2025-06-23",
+        "url": "",
+        "versionCode": "33052369028",
+        "versionName": "Fire OS 7.6.9.9 (PS7699/4896)"
+    },
+    {
+        "md5": "51da108b1e4272aac00be4db915d39cc",
+        "optout": 1,
+        "uploaded": "2025-07-18",
+        "url": "",
+        "versionCode": "33455039876",
+        "versionName": "Fire OS 7.7.0.2 (PS7702/4965)"
+    },
+    {
+        "md5": "e6a0abc656a4778b04fe08dc0a9d5f25",
+        "optout": 1,
+        "uploaded": "2025-08-16",
+        "url": "",
+        "versionCode": "33723490436",
+        "versionName": "Fire OS 7.7.0.4 (PS7704/5024)"
+    },
+    {
+        "md5": "f2c986e02e1849a347e9f73832d59ef3",
+        "optout": 1,
+        "uploaded": "2025-09-29",
+        "url": "",
+        "versionCode": "33924838020",
+        "versionName": "Fire OS 7.7.0.6 (PS7706/5106)"
+    },
+    {
+        "md5": "91c8be88c037a953be6282ada39a89a3",
+        "optout": 1,
+        "uploaded": "2025-11-06",
+        "url": "",
+        "versionCode": "34394669188",
+        "versionName": "Fire OS 7.7.0.7 (PS7707/5376)"
+    },
+    {
+        "md5": "f8fc7aeb9e8d9c3b2c9fae848b5e682b",
+        "optout": 1,
+        "uploaded": "2025-12-03",
+        "url": "",
+        "versionCode": "34730374020",
+        "versionName": "Fire OS 7.7.1.0 (PS7710/6003)"
+    },
+    {
+        "md5": "07dffb160c4de565c829a578d9a27aef",
+        "optout": 1,
+        "uploaded": "2026-01-12",
+        "url": "",
+        "versionCode": "34763741316",
+        "versionName": "Fire OS 7.7.1.1 (PS7711/5272)"
+    },
+    {
+        "md5": "a47a348860e8c148dafbe0d42ec90fa5",
+        "optout": 1,
+        "uploaded": "2026-02-27",
+        "url": "",
+        "versionCode": "35199974276",
+        "versionName": "Fire OS 7.7.1.2 (PS7712/5371)"
+    },
+    {
+        "md5": "861994fd59575d54ffdf2d8e8f2596d8",
+        "optout": 1,
+        "uploaded": "2026-04-17",
+        "url": "",
+        "versionCode": "35334210436",
+        "versionName": "Fire OS 7.7.1.3 (PS7713/5443)"
+    },
+    {
+        "md5": "6842c3dad90123fe4ce68155c1b9f9b2",
+        "optout": 1,
+        "uploaded": "2026-05-19",
+        "url": "",
+        "versionCode": "35602661252",
+        "versionName": "Fire OS 7.7.1.4 (PS7714/5503)"
+    },
+    {
+        "md5": "a623711e992c9caf5a10e993dc61ce23",
+        "optout": 1,
+        "uploaded": "2026-06-16",
+        "url": "",
+        "versionCode": "35602662020",
+        "versionName": "Fire OS 7.7.1.4 (PS7714/5506)"
+    },
+    {
+        "md5": "d3d650d0016fc9434e0f572284221257",
+        "optout": 1,
+        "uploaded": "2026-07-08",
+        "url": "",
+        "versionCode": "35736899972",
+        "versionName": "Fire OS 7.7.1.5 (PS7715/5585)"
+    },
+    {
+        "md5": "632e6596cf51722e8b087347e0dcf6bc",
+        "optout": 1,
+        "uploaded": "2026-08-18",
+        "url": "",
+        "versionCode": "36005355908",
+        "versionName": "Fire OS 7.7.1.6 (PS7716/5665)"
+    },
+    {
+        "md5": "7d213887bf4fc83ad750304dd8307fef",
+        "uploaded": "2026-09-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/24/92bfc367-d30d-49bd-89c5-b1851ca55e7c/update-gazelle-diff-PS7716.5665N_5665_0036005355908-to-PS7717_user_5741_0036408028548.bin",
+        "versionCode": "36408028548",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    },
+    {
+        "md5": "23fbe105d6297c8422355b7d36e0274a",
+        "uploaded": "2026-09-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/24/602ce562-0140-4327-8e05-01598fe5ad06/update-gazelle-diff-PS7715.5585N_5585_0035736899972-to-PS7717_user_5741_0036408028548.bin",
+        "versionCode": "36408028548",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    },
+    {
+        "md5": "4d3cbfea0f7cbe230ea55f262aae230d",
+        "uploaded": "2026-09-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/24/1a4696b0-4d46-43a8-aac1-72c7e6797f36/update-gazelle-diff-PS7646.3550N_3550_0028085968516-to-PS7717_user_5741_0036408028548.bin",
+        "versionCode": "36408028548",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    },
+    {
+        "md5": "0c435745e2d1472436926e5c0ae37067",
+        "uploaded": "2026-09-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/24/20740b4a-8d7b-48c8-80e4-b32af715d818/update-gazelle-diff-PS7673.4183N_4183_0030367831940-to-PS7717_user_5741_0036408028548.bin",
+        "versionCode": "36408028548",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    },
+    {
+        "md5": "446cc3ea720cb969af7c6f3f07340919",
+        "uploaded": "2026-09-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/24/83151795-0eb0-403d-bec3-c741a9b98c9e/update-gazelle-diff-PS7690.4716N_4716_0032381234308-to-PS7717_user_5741_0036408028548.bin",
+        "versionCode": "36408028548",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    },
+    {
+        "md5": "81313b37b07dd2d13916bf668b721239",
+        "uploaded": "2026-09-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/24/908e2f3b-0cd3-4c28-af60-3d4d3a4c1cb0/update-gazelle-diff-PS7702.4965N_4965_0033455039876-to-PS7717_user_5741_0036408028548.bin",
+        "versionCode": "36408028548",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    },
+    {
+        "md5": "de234a39193c4b0553cdd38e8773dfd9",
+        "uploaded": "2026-09-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/24/0e62bb01-c7ca-4846-853d-4da9dc8f9fde/update-gazelle-diff-PS7613.3701N_3701_0025401652612-to-PS7717_user_5741_0036408028548.bin",
+        "versionCode": "36408028548",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    },
+    {
+        "md5": "a1c48dae9be053ec452fd65956b7cd3f",
+        "uploaded": "2026-09-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/24/8b60401c-e632-4430-b01b-d2e62dd14edc/update-gazelle-diff-PS7714.5507N_5507_0035602662276-to-PS7717_user_5741_0036408028548.bin",
+        "versionCode": "36408028548",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    },
+    {
+        "md5": "e0cd7dfa6bf43d832c808da969d5aa7b",
+        "uploaded": "2026-09-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/24/19bac848-2e23-4587-9dbd-f5f193654dc4/update-gazelle-diff-PS7714.5503N_5503_0035602661252-to-PS7717_user_5741_0036408028548.bin",
+        "versionCode": "36408028548",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    },
+    {
+        "md5": "41342e299217d74738098540aa3d9215",
+        "uploaded": "2026-09-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/24/1e8e2ea9-5a1a-47a9-9324-d727c986b87c/update-gazelle-diff-PS7714.5506N_5506_0035602662020-to-PS7717_user_5741_0036408028548.bin",
+        "versionCode": "36408028548",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    },
+    {
+        "md5": "8e5b2283cafc7d1bf53d2dd92073decd",
+        "uploaded": "2026-09-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/24/5f091103-2bb8-4b1d-ac39-d6908b8aa17f/update-gazelle-diff-PS7713.5443N_5443_0035334210436-to-PS7717_user_5741_0036408028548.bin",
+        "versionCode": "36408028548",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    },
+    {
+        "md5": "65aa4af656e58552f85ee2b8de871537",
+        "uploaded": "2026-09-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/24/6a59ffbd-837a-44a0-bb67-0d772e326c7d/update-gazelle-diff-PS7712.5371N_5371_0035199974276-to-PS7717_user_5741_0036408028548.bin",
+        "versionCode": "36408028548",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    },
+    {
+        "md5": "590e36de2b886038016448e5ba3398f4",
+        "uploaded": "2026-09-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/24/5f640422-e797-4631-8e6a-702c798f6bbd/update-gazelle-diff-PS7711.5272N_5272_0034763741316-to-PS7717_user_5741_0036408028548.bin",
+        "versionCode": "36408028548",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    },
+    {
+        "md5": "e9d5addfca353181eac6db7a4c0a63e2",
+        "uploaded": "2026-09-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/24/dcde5e7a-6a45-4a9d-a823-ec5886536db8/update-gazelle-diff-PS7710.6003N_6003_0034730374020-to-PS7717_user_5741_0036408028548.bin",
+        "versionCode": "36408028548",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    }
+]

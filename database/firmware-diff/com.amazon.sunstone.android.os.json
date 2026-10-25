@@ -1,0 +1,128 @@
+[
+    {
+        "md5": "34a6322619405796386d3436c5524a20",
+        "uploaded": "2024-04-26",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/4/26/961e5423-2113-4b02-ac94-10999cc158ce/update-sunstone-diff-RS8321.1924N_1924_0021911536772-to-RS8323_user_2196_0022549140612.bin",
+        "versionCode": "22549140612",
+        "versionName": "Fire OS 8.3.2.3 (RS8323/2196)"
+    },
+    {
+        "md5": "f21615419a0fbe7b5f489921162caa1a",
+        "uploaded": "2024-10-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/3/b8ff147a-e0fd-4e80-86b1-fa573092f0bd/update-sunstone-diff-RS8327.2524N_2524_0024696708228-to-RS8327_user_2526_0024696708740.bin",
+        "versionCode": "24696708740",
+        "versionName": "Fire OS 8.3.2.7 (RS8327/2526)"
+    },
+    {
+        "md5": "048f69300485bb0fd83ce390305c70b8",
+        "uploaded": "2024-10-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/10/6ee7f8e0-7781-4872-8614-a0979d27d498/update-sunstone-diff-RS8327.2526N_2526_0024696708740-to-RS8328_user_3033_0024998828420.bin",
+        "versionCode": "24998828420",
+        "versionName": "Fire OS 8.3.3.0 (RS8328/3033)"
+    },
+    {
+        "md5": "364e7a18f03d3e71fb8204a769494a7f",
+        "uploaded": "2024-10-28",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/28/303c947e-8f75-49af-9f55-6051c7cc8f4a/update-sunstone-diff-RS8328.3033N_3033_0024998828420-to-RS8331_user_2608_0025367818372.bin",
+        "versionCode": "25367818372",
+        "versionName": "Fire OS 8.3.3.1 (RS8331/2608)"
+    },
+    {
+        "md5": "dc998e017aaf4a6d4cdef9f8b159c6a5",
+        "uploaded": "2024-11-11",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/11/11/2b031ffe-8d27-4b5a-a9cc-7718a5805207/update-sunstone-diff-RS8331.2608N_2608_0025367818372-to-RS8332_user_3115_0025837710212.bin",
+        "versionCode": "25837710212",
+        "versionName": "Fire OS 8.3.3.2 (RS8332/3115)"
+    },
+    {
+        "md5": "cbf54f96aa1f56f67f7d861a96bcd784",
+        "uploaded": "2025-04-22",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/4/22/5c2f542c-5533-4400-92e0-b471a6c8f803/update-sunstone-diff-RS8334.2875N_2875_0027246934916-to-RS8334_user_2876_0027246935172.bin",
+        "versionCode": "27246935172",
+        "versionName": "Fire OS 8.3.3.4 (RS8334/2876)"
+    },
+    {
+        "md5": "59ccad6b2f20c9e87e83a9f8fe05eb16",
+        "uploaded": "2025-05-15",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/15/7c579bff-2f63-461b-a90a-ba2cf72a24fd/update-sunstone-diff-RS8334.2876N_2876_0027246935172-to-RS8335_user_2972_0027716721796.bin",
+        "versionCode": "27716721796",
+        "versionName": "Fire OS 8.3.3.5 (RS8335/2972)"
+    },
+    {
+        "md5": "3265c584d81457498dd346e00f5726d3",
+        "uploaded": "2025-07-31",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/7/31/29215532-3a1a-4830-8c09-c076e03b556c/update-sunstone-diff-RS8335.2972N_2972_0027716721796-to-RS8336_user_3103_0028656279428.bin",
+        "versionCode": "28656279428",
+        "versionName": "Fire OS 8.3.3.6 (RS8336/3103)"
+    },
+    {
+        "md5": "c1259874ea7778ddd518d734936e265b",
+        "uploaded": "2025-09-22",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/9/22/d2a9f6d4-1635-49af-aee3-dc8a63b759a7/update-sunstone-diff-RS8336.3103N_3103_0028656279428-to-RS8337_user_3186_0029461607044.bin",
+        "versionCode": "29461607044",
+        "versionName": "Fire OS 8.3.3.7 (RS8337/3186)"
+    },
+    {
+        "md5": "415df5350636f64b7d9b6c6299f6be63",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/0408c6b1-2363-469a-8800-4bd439154279/update-sunstone-diff-RS8337.3186N_3186_0029461607044-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "8e32efbb840108acd29721547a5c048c",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/1ca7c863-03b1-4ec9-91a7-2ecb340ccdca/update-sunstone-diff-RS8320.1807N_1807_0021777289092-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "27c67f94b36f0a1889a17fc0a49cd555",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/0764ac0a-a7ce-4ec6-ba38-d4e7340b6ae8/update-sunstone-diff-RS8315.1434N_1434_0021206768260-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "10aa66f7bc718cd3e385b11f79416df0",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/691f2541-a1ee-4667-86f7-8946c7c55feb/update-sunstone-diff-RS8324.2314N_2314_0023153150596-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "947818e12141def9f430c59cd810e820",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/25c66f5a-3eaf-422a-8d19-171659bffa17/update-sunstone-diff-RS8322.2053N_2053_0022045787524-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "e1173ff66b9f1702aee11a044635e9e4",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/cff8028d-2ea1-40cb-8f87-9f2586be0bca/update-sunstone-diff-RS8323.2196N_2196_0022549140612-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "e4d2647c8a81e0c6063f7e758843b66f",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/ff376d42-8f4c-4f6d-aa72-f99f89f36ae8/update-sunstone-diff-RS8319.1664N_1664_0021508817028-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "f97f66a08644665216ab3dee18b0879d",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/94289559-ce05-4a7e-8956-914f3002011a/update-sunstone-diff-RS8333.2734N_2734_0026441592452-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "88eba7f51bfc4f9f694db83d23ee85f8",
+        "uploaded": "2025-12-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/cdab830d-d70b-4cac-b20e-008de8234c84/update-sunstone-diff-RS8332.3115N_3115_0025837710212-to-RS8338_user_3339_0030132734852.bin",
+        "versionCode": "30132734852",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    }
+]

@@ -20,6 +20,13 @@
             "Fire 7 - 7th Gen (2017)"
         ]
     },
+    "com.amazon.bishop.android.os": {
+        "category": "echo",
+        "model": "AEOBP",
+        "title": [
+            "Echo Show - 2nd Gen (2018)"
+        ]
+    },
     "com.amazon.checkers.android.os": {
         "category": "echo",
         "model": "AEOCH",

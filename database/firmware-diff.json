@@ -111,6 +111,13 @@
             "Fire HD 8 - 8th Gen (2018)"
         ]
     },
+    "com.amazon.knight.android.os": {
+        "category": "echo",
+        "model": "AEOKN",
+        "title": [
+            "Echo Show - 1st Gen (2017)"
+        ]
+    },
     "com.amazon.mantis.android.os": {
         "category": "firetv",
         "model": "AFTMM",
@@ -172,6 +179,13 @@
         "model": "AEORH",
         "title": [
             "Echo Show 8 - 3rd Gen (2023)"
+        ]
+    },
+    "com.amazon.rook.android.os": {
+        "category": "echo",
+        "model": "AEORK",
+        "title": [
+            "Echo Spot - 1st Gen (2017)"
         ]
     },
     "com.amazon.sheldon.android.os": {

@@ -568,7 +568,7 @@
         ]
     },
     "com.amazon.turquoise.android.os": {
-        "category": "",
+        "category": "firetablet",
         "model": "ATTQWI",
         "title": [
             "Alexa Tablet 11 (2026)"

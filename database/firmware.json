@@ -567,6 +567,13 @@
             "Fire HD 10 - 13th Gen (2023)"
         ]
     },
+    "com.amazon.turquoise.android.os": {
+        "category": "",
+        "model": "ATTQWI",
+        "title": [
+            "Amazon ATTQWI"
+        ]
+    },
     "com.lab126.eink.barolo.os": {
         "category": "kindle",
         "model": "SCRIBE1-2022",

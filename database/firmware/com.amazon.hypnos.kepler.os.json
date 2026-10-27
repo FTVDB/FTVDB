@@ -12,5 +12,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/20/004e0947-1c61-4487-859d-7a31e5fecd27/amzn-image-swupdate-hypnos.swu",
         "versionCode": "6401030007720",
         "versionName": "OS 1.3 (Echo Ship 1574/77)"
+    },
+    {
+        "md5": "95b1f83885503d978137e30c2ab66a1c",
+        "uploaded": "2026-10-26",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/26/ec6ab630-4edd-4428-9c04-4403e5b325b1/amzn-image-swupdate-hypnos.swu",
+        "versionCode": "6401030007920",
+        "versionName": "OS 1.3 (Echo Ship 1574/79)"
     }
 ]

@@ -320,5 +320,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/7b68e963-d690-4c24-8a7c-75bbcad855e3/update-kindle-biscuit_puffin-NS6575_user_8344_0013323245700.bin",
         "versionCode": "13323245700",
         "versionName": "Fire OS 6.5.7.5 (NS6575/8344)"
+    },
+    {
+        "md5": "efc4d062f4a7d10621d293b173b611b3",
+        "uploaded": "2026-10-27",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/17ca785d-56f7-470f-8bd0-fe77776cba02/update-kindle-biscuit_puffin-NS6575_user_8349_0013323246980.bin",
+        "versionCode": "13323246980",
+        "versionName": "Fire OS 6.5.7.5 (NS6575/8349)"
     }
 ]

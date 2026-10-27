@@ -12,5 +12,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/20/82b7de6b-550f-4fd6-bf51-6205b093448d/amzn-image-swupdate-galileo.swu",
         "versionCode": "6401030007720",
         "versionName": "OS 1.3 (Echo Ship 1574/77)"
+    },
+    {
+        "md5": "aecdaeef2af8fa206a9b4a70a30076b7",
+        "uploaded": "2026-10-26",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/26/f60471c6-03fe-4526-9b5c-30b5378d1e5b/amzn-image-swupdate-galileo.swu",
+        "versionCode": "6401030007920",
+        "versionName": "OS 1.3 (Echo Ship 1574/79)"
     }
 ]

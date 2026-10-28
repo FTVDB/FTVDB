@@ -3,7 +3,7 @@
         "category": "firetv",
         "model": "",
         "title": [
-            "Insignia Class F20 Series LED HD Smart Fire TV (2023)"
+            "Insignia F20 Series Fire TV (2023)"
         ]
     },
     "com.amazon.athena.android.os": {
@@ -283,21 +283,21 @@
         "category": "kindle",
         "model": "K3WIFI3G-2010",
         "title": [
-            "Kindle Keyboard - 3rd Gen WiFi+3G (2010)"
+            "Kindle Keyboard - 3rd Gen Wi-Fi+3G (2010)"
         ]
     },
     "com.lab126.eink.k3gb.os": {
         "category": "kindle",
         "model": "K3WIFI3GEU-2010",
         "title": [
-            "Kindle Keyboard - 3rd Gen WiFi+3G EU (2010)"
+            "Kindle Keyboard - 3rd Gen Wi-Fi+3G EU (2010)"
         ]
     },
     "com.lab126.eink.k3w.os": {
         "category": "kindle",
         "model": "K3WIFI-2010",
         "title": [
-            "Kindle Keyboard - 3rd Gen WiFi (2010)"
+            "Kindle Keyboard - 3rd Gen Wi-Fi (2010)"
         ]
     },
     "com.lab126.eink.mario-int.os": {

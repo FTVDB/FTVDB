@@ -47,5 +47,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/f18328ca-2de7-4f73-bbfc-b730ceafc580/update-kindle-pascal-NS6575_user_8344_0013323245700.bin",
         "versionCode": "13323245700",
         "versionName": "Fire OS 6.5.7.5 (NS6575/8344)"
+    },
+    {
+        "md5": "4822950b547292c7792dba9d0d9b10b5",
+        "uploaded": "2026-10-27",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/88f62bbb-9e99-4fe9-9ce7-c10959022c44/update-kindle-pascal-NS6575_user_8349_0013323246980.bin",
+        "versionCode": "13323246980",
+        "versionName": "Fire OS 6.5.7.5 (NS6575/8349)"
     }
 ]

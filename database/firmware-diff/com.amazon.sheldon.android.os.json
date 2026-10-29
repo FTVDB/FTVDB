@@ -201,5 +201,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/25/84271488-7105-4550-a3d7-2a78aab147ba/update-sheldon-diff-PS7714.5506N_5506_0035602662020-to-PS7717_user_5741_0036408028548.bin",
         "versionCode": "36408028548",
         "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    },
+    {
+        "md5": "895f746b07706c4815aeca97ca6d63b5",
+        "uploaded": "2026-10-28",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/28/efcf100c-5a59-411a-a9ab-324748df3710/update-sheldon-diff-PS7717.5741N_5741_0036408028548-to-PS7717_user_5746_0036408029828.bin",
+        "versionCode": "36408029828",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5746)"
     }
 ]

@@ -201,5 +201,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/11a20d18-7053-4e49-87e0-be115e6c3690/update-J20010002-bellatrix_rossini-002-fwo_4926850002.bin",
         "versionCode": "4926850002",
         "versionName": "5.20.1.0.2"
+    },
+    {
+        "md5": "7ebb5695caef057c0f5a1696993b4d23",
+        "uploaded": "2026-10-27",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/7d397f8a-520a-4cea-8234-413e2cd2768d/update-J2002-bellatrix_rossini-048-fwo_4935830048.bin",
+        "versionCode": "4935830048",
+        "versionName": "5.20.2"
     }
 ]

@@ -375,5 +375,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/24/dcde5e7a-6a45-4a9d-a823-ec5886536db8/update-gazelle-diff-PS7710.6003N_6003_0034730374020-to-PS7717_user_5741_0036408028548.bin",
         "versionCode": "36408028548",
         "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    },
+    {
+        "md5": "5e0b8f8f6704bbf094b1cc131d7c5f36",
+        "uploaded": "2026-10-28",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/28/3dedb41b-0d69-41b6-8bb0-d0d45445eb83/update-gazelle-diff-PS7717.5741N_5741_0036408028548-to-PS7717_user_5746_0036408029828.bin",
+        "versionCode": "36408029828",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5746)"
     }
 ]

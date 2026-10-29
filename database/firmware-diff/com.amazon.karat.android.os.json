@@ -89,5 +89,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/12/51ffec10-0e52-43be-9857-a3f3f7be8d0f/update-karat-diff-RS8145.3070N_3070_0028186508932-to-RS8185_user_3891_0033018557316.bin",
         "versionCode": "33018557316",
         "versionName": "Fire OS 8.1.8.5 (RS8185/3891)"
+    },
+    {
+        "md5": "712e818f96502f68ae11536c269d284c",
+        "uploaded": "2026-10-28",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/28/be6ec69a-215a-4f8f-8fa7-476879f7c2c1/update-karat-diff-RS8185.3891N_3891_0033018557316-to-RS8185_user_3898_0033018559108.bin",
+        "versionCode": "33018559108",
+        "versionName": "Fire OS 8.1.8.5 (RS8185/3898)"
     }
 ]

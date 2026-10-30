@@ -19,5 +19,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/7eb829e8-8695-4125-9f60-e610b85ca2b0/amzn-image-swupdate-macaroon.swu",
         "versionCode": "7202000014520",
         "versionName": "OS 2.0 (Echo Ship 1575 hf/145)"
+    },
+    {
+        "md5": "bc44d0270f0967cd896f686ffe70c69f",
+        "uploaded": "2026-10-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/29/f4b35e18-d867-4a9d-8214-8bac65c04635/amzn-image-swupdate-macaroon.swu",
+        "versionCode": "7202000014820",
+        "versionName": "OS 2.0 (Echo Ship 1575 hf/148)"
     }
 ]

@@ -96,5 +96,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/bd3bb1b1-3503-4bdf-a06e-72e0d3785dad/update-J20010002-platcs8_calvados-002-fwo_4926820002.bin",
         "versionCode": "4926820002",
         "versionName": "5.20.1.0.2"
+    },
+    {
+        "md5": "96219e9779cf897ce4dbb6f07bf6452c",
+        "uploaded": "2026-10-27",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/1c512187-550a-4405-93e7-ca3df9edbe7a/update-J2002-platcs8_calvados-048-fwo_4935840048.bin",
+        "versionCode": "4935840048",
+        "versionName": "5.20.2"
     }
 ]

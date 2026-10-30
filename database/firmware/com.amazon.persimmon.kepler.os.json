@@ -19,5 +19,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/75243d87-9726-43c6-868d-c9b34ce4cde9/amzn-image-swupdate-persimmon.swu",
         "versionCode": "7202000014520",
         "versionName": "OS 2.0 (Echo Ship 1575 hf/145)"
+    },
+    {
+        "md5": "274424e866406f8303f9249b7ff8c451",
+        "uploaded": "2026-10-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/29/2042d3c2-fd6a-4243-a5d9-64be165c5231/amzn-image-swupdate-persimmon.swu",
+        "versionCode": "7202000014820",
+        "versionName": "OS 2.0 (Echo Ship 1575 hf/148)"
     }
 ]

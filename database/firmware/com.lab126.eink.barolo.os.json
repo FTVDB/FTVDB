@@ -299,5 +299,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/b74466ae-c84e-4e7d-a230-c9b5fab30acc/update-J20010002-bellatrix3_barolo-002-fwo_4926790002.bin",
         "versionCode": "4926790002",
         "versionName": "5.20.1.0.2"
+    },
+    {
+        "md5": "6ebbea9de657e3892f5c0e076fc903ac",
+        "uploaded": "2026-10-27",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/14c585b5-5751-44e8-9634-392786e6dabb/update-J2002-bellatrix3_barolo-048-fwo_4935780048.bin",
+        "versionCode": "4935780048",
+        "versionName": "5.20.2"
     }
 ]

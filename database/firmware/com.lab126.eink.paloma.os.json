@@ -96,5 +96,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/9bc31ea3-512f-4f19-be2b-a16037244b26/update-J20010002-platpa6_paloma-002-fwo_4926810002.bin",
         "versionCode": "4926810002",
         "versionName": "5.20.1.0.2"
+    },
+    {
+        "md5": "ff9ecfd38760307648cf091a8f815b79",
+        "uploaded": "2026-10-27",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/5483caa6-495e-48cf-9726-e1198dc362d9/update-J2002-platpa6_paloma-048-fwo_4935770048.bin",
+        "versionCode": "4935770048",
+        "versionName": "5.20.2"
     }
 ]

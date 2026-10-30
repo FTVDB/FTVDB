@@ -159,5 +159,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/2423c59c-7f98-4b0d-8e8c-e39062af6a36/update-J20010002-bellatrix3_pisco-002-fwo_4926800002.bin",
         "versionCode": "4926800002",
         "versionName": "5.20.1.0.2"
+    },
+    {
+        "md5": "53615bb75bb4bace5993e1d1e5f032c5",
+        "uploaded": "2026-10-27",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/59545932-71b9-44d8-9743-79ec3d1affd3/update-J2002-bellatrix3_pisco-048-fwo_4935810048.bin",
+        "versionCode": "4935810048",
+        "versionName": "5.20.2"
     }
 ]

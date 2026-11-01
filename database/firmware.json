@@ -645,10 +645,10 @@
         ]
     },
     "com.lab126.eink.julep.os": {
-        "category": "",
-        "model": "0X13-",
+        "category": "kindle",
+        "model": "KINDLE-2026",
         "title": [
-            "Unknown (0x1726)"
+            "Kindle (2026)"
         ]
     },
     "com.lab126.eink.k3g.os": {

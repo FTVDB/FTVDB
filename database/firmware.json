@@ -644,6 +644,13 @@
             "Kindle Basic 3 (2019)"
         ]
     },
+    "com.lab126.eink.julep.os": {
+        "category": "",
+        "model": "0X13-",
+        "title": [
+            "Unknown (0x1726)"
+        ]
+    },
     "com.lab126.eink.k3g.os": {
         "category": "kindle",
         "model": "K3WIFI3G-2010",

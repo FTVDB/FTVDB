@@ -96,5 +96,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/db3d25b0-b3a2-44e5-a835-c8e1834a0e39/update-almond-bt-diff-PS7699.4898N_4898_0033052369540-to-PS7717_user_5741_0036408028548.bin",
         "versionCode": "36408028548",
         "versionName": "Fire OS 7.7.1.7 (PS7717/5741)"
+    },
+    {
+        "md5": "cfce7ad52bce26fa3ca83c52bc268f65",
+        "uploaded": "2026-10-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/29/fb9899d1-8d6d-4809-bce5-3598b8d6d382/update-almond-bt-diff-PS7717.5741N_5741_0036408028548-to-PS7717_user_5746_0036408029828.bin",
+        "versionCode": "36408029828",
+        "versionName": "Fire OS 7.7.1.7 (PS7717/5746)"
     }
 ]

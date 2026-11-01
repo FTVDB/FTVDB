@@ -98,6 +98,13 @@
             "Echo Dot - 5th Gen (2022)"
         ]
     },
+    "com.amazon.carnival.kepler.os": {
+        "category": "",
+        "model": "AFTCR001",
+        "title": [
+            "Amazon AFTCR001"
+        ]
+    },
     "com.amazon.checkers.android.os": {
         "category": "echo",
         "model": "AEOCH",

@@ -1,5 +1,12 @@
 [
     {
+        "md5": "5d8fc4c09b0cf6cb537d0f5d601b90bc",
+        "uploaded": "2018-09-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/b96b3b9cd2f51935715a089720b70268/update-apollo_apollo-455004320-to-455006120.bin",
+        "versionCode": "455006120",
+        "versionName": "Fire OS 4.5.5.3 (455006120)"
+    },
+    {
         "md5": "733788a9feef81a06e71d22812661d4e",
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/1fd91f3aa67b3f2617acdcdbef43c5da/update-apollo_apollo-455001820-to-455002120.bin",

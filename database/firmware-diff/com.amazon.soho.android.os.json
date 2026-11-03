@@ -1,5 +1,12 @@
 [
     {
+        "md5": "ce8ca8fbac5000ac6e53d4ee910dd357",
+        "uploaded": "2018-09-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/80c4f5ecce22666685d4a239a7475f06/update-soho_soho-411010320-to-453011120.bin",
+        "versionCode": "453011120",
+        "versionName": "Fire OS 4.5.3 (453011120)"
+    },
+    {
         "md5": "79be3d66c15fe95e3b8c09e98fe50838",
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2b1510ffa2b39035503c04a1bf3b5708/update-soho_soho-453011120-to-455001820.bin",

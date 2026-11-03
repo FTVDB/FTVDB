@@ -14,6 +14,13 @@
         "versionName": "Fire OS 4.5.5.3 (455006420)"
     },
     {
+        "md5": "13bc9656f3bb9db7fb46855087d24654",
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/237771a4da6f25b411fa55b8834a9ba9/update-kindle-soho-11.4.1.1_user_411010320.bin",
+        "versionCode": "411010320",
+        "versionName": "Fire OS 11.4.1.1"
+    },
+    {
         "md5": "bd194e3cdd5d28264e8ac1e0355e1e65",
         "uploaded": "2019-01-02",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/xPivkDty9ez1ia7C8dhJyGtxjw/update-kindle-11.4.5.5_user_455006820.bin",

@@ -21,6 +21,13 @@
         "versionName": "Fire OS 14.4.1.1"
     },
     {
+        "md5": "7aac648a22dfea8aa36870d1d304aae1",
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/5a897224bb0a4b0f7a358b9641a8dad8/update-kindle-apollo-14.4.5.2_user_452004220.bin",
+        "versionCode": "452004220",
+        "versionName": "Fire OS 4.5.2 (452004220)"
+    },
+    {
         "md5": "fc21c735eb7ed3126c192b37e1c2087b",
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/364c22a82aeae1b63a90c68fa0052dff/update-kindle-apollo-14.3.2.5_user_325001120.bin",

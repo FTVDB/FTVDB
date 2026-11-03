@@ -202,6 +202,13 @@
             "Echo Spot - 1st Gen (2017)"
         ]
     },
+    "com.amazon.saturn.android.os": {
+        "category": "firetablet",
+        "model": "KFSAWI/KFSAWA",
+        "title": [
+            "Fire HDX 8.9 - 4th Gen (2014)"
+        ]
+    },
     "com.amazon.sheldon.android.os": {
         "category": "firetv",
         "model": "AFTSS",

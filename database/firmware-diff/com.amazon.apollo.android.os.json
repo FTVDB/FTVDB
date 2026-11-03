@@ -49,6 +49,13 @@
         "versionName": "Fire OS 4.5.5.2 (455004220)"
     },
     {
+        "md5": "f00a985e025552a5b6351029637d7125",
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/f7e4a88120bce1b6a0f7c1f7dc3608fb/update-apollo_apollo-452004220-to-454006020.bin",
+        "versionCode": "454006020",
+        "versionName": "Fire OS 4.5.4 (454006020)"
+    },
+    {
         "md5": "26740230071d215cce47beafbcc7f0b2",
         "uploaded": "2020-08-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/7fb46e5bc1d797057f96952df376f3b1/update-apollo_apollo-455006820-to-455007020.bin",

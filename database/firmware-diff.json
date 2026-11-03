@@ -6,6 +6,13 @@
             "Insignia F20 Series Fire TV (2023)"
         ]
     },
+    "com.amazon.ariel.android.os": {
+        "category": "firetablet",
+        "model": "KFARWI/KFASWI",
+        "title": [
+            "Fire HD 6 / Fire HD 7 - 4th Gen (2014)"
+        ]
+    },
     "com.amazon.athena.android.os": {
         "category": "echo",
         "model": "AEOAT",

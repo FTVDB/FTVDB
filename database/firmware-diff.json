@@ -6,6 +6,13 @@
             "Insignia F20 Series Fire TV (2023)"
         ]
     },
+    "com.amazon.apollo.android.os": {
+        "category": "firetablet",
+        "model": "",
+        "title": [
+            "Kindle Fire HDX 8.9 - 3rd Gen (2013)"
+        ]
+    },
     "com.amazon.ariel.android.os": {
         "category": "firetablet",
         "model": "KFARWI/KFASWI",

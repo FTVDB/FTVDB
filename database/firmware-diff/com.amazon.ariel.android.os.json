@@ -35,6 +35,13 @@
         "versionName": "Fire OS 5.3.4.0 (579279320)"
     },
     {
+        "md5": "763eb7b0adcae9f7707a84850efb40c0",
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/ae8398058029cc3544b91299c0d12634/update-ariel_full_ariel-542169020-to-552153420.bin",
+        "versionCode": "552153420",
+        "versionName": "Fire OS 5.3.1.0 (552153420)"
+    },
+    {
         "md5": "06ed5ed61ad12680a05824dc240f1bfe",
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/23b12f17f98813f88a64daac627cf07e/update-ariel_full_ariel-595550320-to-605485120.bin",

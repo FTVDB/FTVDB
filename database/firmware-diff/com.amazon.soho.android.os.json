@@ -12,5 +12,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2b1510ffa2b39035503c04a1bf3b5708/update-soho_soho-453011120-to-455001820.bin",
         "versionCode": "455001820",
         "versionName": "Fire OS 4.5.5 (455001820)"
+    },
+    {
+        "md5": "7d3d4e4f6015d91db90167162ce2ab23",
+        "uploaded": "2020-08-11",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/f5a6987c3d0f961fa657b12a81daaa89/update-soho_soho-455006820-to-455007020.bin",
+        "versionCode": "455007020",
+        "versionName": "Fire OS 4.5.5.3 (455007020)"
     }
 ]

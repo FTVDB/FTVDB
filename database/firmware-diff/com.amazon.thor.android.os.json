@@ -14,6 +14,13 @@
         "versionName": "Fire OS 4.5.5.3 (455006420)"
     },
     {
+        "md5": "b0d0284b84c686ff37a3ae96a7c2679e",
+        "uploaded": "2018-09-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/0ff749e271b143d0b358919f81402b5c/update-thor_thor-453011120-to-455001820.bin",
+        "versionCode": "455001820",
+        "versionName": "Fire OS 4.5.5 (455001820)"
+    },
+    {
         "md5": "50e5150626106201def1b009ee67b3f9",
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/78be1cb1eb315b262d61b3b06770f1ef/update-thor_thor-454006020-to-455001820.bin",

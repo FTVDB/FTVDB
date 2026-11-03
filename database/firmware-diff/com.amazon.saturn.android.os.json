@@ -54,5 +54,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/13fbe7a71af9bcfe590a14d9500890b7/update-saturn_saturn-605488320-to-605488420.bin",
         "versionCode": "605488420",
         "versionName": "Fire OS 5.3.6.2 (605488420)"
+    },
+    {
+        "md5": "d31ea25d96b295d94ac13ba0ce0a6f5e",
+        "uploaded": "2022-02-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/9f21393caf75678dd289e03d7809537e/update-saturn_saturn-605488420-to-605490320.bin",
+        "versionCode": "605490320",
+        "versionName": "Fire OS 5.3.6.2 (605490320)"
     }
 ]

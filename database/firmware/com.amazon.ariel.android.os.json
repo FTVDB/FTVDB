@@ -42,6 +42,13 @@
         "versionName": "Fire OS 5.3.6.0 (595457320)"
     },
     {
+        "md5": "2147aad55c0fc3722e4e47803d2b3f17",
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/c3505445686ac05c00f79d0437097551/update-kindle-full_ariel-20.4.5.3_user_453011120.bin",
+        "versionCode": "453011120",
+        "versionName": "Fire OS 4.5.3 (453011120)"
+    },
+    {
         "md5": "8e161a66728a34a0a22a85a4ca081303",
         "uploaded": "2020-08-12",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/xLuF2GFiqnx6WFfhCPyFRN0h0j/update-kindle-20.6.0.5_user_605487420.bin",

@@ -63,6 +63,13 @@
         "versionName": "Fire OS 5.0.3 (532008220)"
     },
     {
+        "md5": "436ec4351b7dc64991b903e8a58573f8",
+        "uploaded": "2019-04-30",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/55ce5e93a9edea17500a04658ad83fb5/montoya-ota-54.1.2.2_user_122066120.bin",
+        "versionCode": "122066120",
+        "versionName": "Fire OS 54.1.2.2"
+    },
+    {
         "md5": "4eec6fc770505235782d5910c2814179",
         "uploaded": "2019-04-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/29308b22b9eb8b1cf5ce59955eded89a/montoya-ota-54.1.0.3_user_103020320.bin",

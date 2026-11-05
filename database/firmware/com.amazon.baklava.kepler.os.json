@@ -19,5 +19,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/29/37ec1d5e-c9a4-4202-bfd3-f4d579a36c7a/amzn-image-swupdate-baklava.swu",
         "versionCode": "7202000014820",
         "versionName": "OS 2.0 (Echo Ship 1575 hf/148)"
+    },
+    {
+        "md5": "f2d39ed4c21505e4d54bf942ccddfdf7",
+        "uploaded": "2026-11-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/3/6b48c026-d1fc-4a90-8387-5a9b97486a81/amzn-image-swupdate-baklava.swu",
+        "versionCode": "7202000016620",
+        "versionName": "OS 2.0 (Echo Ship 1575 hf/166)"
     }
 ]

@@ -103,5 +103,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/46cb2d0d-1d6c-4188-9489-d95779600154/update-kindle-cronos-NS65741_user_8151_0013222532996.bin",
         "versionCode": "13222532996",
         "versionName": "Fire OS 6574.1 (NS65741/8151)"
+    },
+    {
+        "md5": "23ddae979d3495c234d130a60f7b23b1",
+        "uploaded": "2026-11-02",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/2/9fc27dd7-839b-4160-8352-bd81891e5eee/update-kindle-cronos-NS65751_user_8848_0013524701316.bin",
+        "versionCode": "13524701316",
+        "versionName": "Fire OS 6575.1 (NS65751/8848)"
     }
 ]

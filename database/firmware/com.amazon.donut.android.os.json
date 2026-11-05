@@ -133,6 +133,20 @@
         "versionName": "Fire OS 6574.1 (NS65741/8138)"
     },
     {
+        "md5": "a30c92b1df9ef4dac49d10a11b8563c1",
+        "uploaded": "2026-09-09",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/9/b4a35bf3-94b3-44e2-a709-677185a243a8/update-kindle-donut_puffin-NS65741_user_8142_0013222530692.bin",
+        "versionCode": "13222530692",
+        "versionName": "Fire OS 6574.1 (NS65741/8142)"
+    },
+    {
+        "md5": "996efea4230abffd32d4d9fb862b359c",
+        "uploaded": "2026-09-17",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/17/486923a2-9bfe-48cf-85f7-0cce5b02c99b/update-kindle-donut_puffin-NS65741_user_8146_0013222531716.bin",
+        "versionCode": "13222531716",
+        "versionName": "Fire OS 6574.1 (NS65741/8146)"
+    },
+    {
         "md5": "5dd6592535b67f2c87d1cd866a8bdfe7",
         "uploaded": "2026-09-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/6db1d3a7-8ce2-4bc5-b528-cacd6aa38a96/update-kindle-donut_puffin-NS65741_user_8149_0013222532484.bin",

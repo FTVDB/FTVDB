@@ -33,5 +33,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/22/83b0aa60-eac9-493e-91bd-e4e26a4a9575/update-cronos-diff-NS65741_8150_0013222532740-to-NS65741_user_8151_0013222532996.bin",
         "versionCode": "13222532996",
         "versionName": "Fire OS 6574.1 (NS65741/8151)"
+    },
+    {
+        "md5": "de02d0a927bf7d7d7a044e7b359ec783",
+        "uploaded": "2026-11-02",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/2/4409da97-c95f-4b46-aaf1-5403ee8f167b/update-cronos-diff-NS65741_8151_0013222532996-to-NS65751_user_8848_0013524701316.bin",
+        "versionCode": "13524701316",
+        "versionName": "Fire OS 6575.1 (NS65751/8848)"
     }
 ]

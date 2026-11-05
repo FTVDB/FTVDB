@@ -48,6 +48,13 @@
             "Echo Show 5 - 1st Gen (2019)"
         ]
     },
+    "com.amazon.cheyne.android.os": {
+        "category": "",
+        "model": "",
+        "title": [
+            "com.amazon.cheyne.android.os"
+        ]
+    },
     "com.amazon.cronos.android.os": {
         "category": "echo",
         "model": "AEOCN",

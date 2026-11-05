@@ -7,6 +7,13 @@
         "versionName": "Fire OS 5.5.0.3 (564196920)"
     },
     {
+        "md5": "5d4186c9cf318f0ae6e69fa9e290b16a",
+        "uploaded": "2018-12-14",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/d10066e01b433e0bf5a012d91a1cc873/update-kindle-full_biscuit-272.6.2.8_user_628538320.bin",
+        "versionCode": "628538320",
+        "versionName": "Fire OS 5.4.2.7 (628538320)"
+    },
+    {
         "md5": "789c6b80b00b90a35c3016d42a7c4455",
         "uploaded": "2019-07-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/8811a0fc982bf3331dc54f5aec45d936/update-kindle-full_biscuit-272.6.4.1_user_641575220.bin",
@@ -19,6 +26,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/8cbe02aeb18d77ee57ab3a7b53fa87ce/update-kindle-csm_biscuit-272.6.4.5_user_645584020.bin",
         "versionCode": "645584020",
         "versionName": "Fire OS 5.5.3.3 (645584020)"
+    },
+    {
+        "md5": "575553f030c792ae748c311e44a9b998",
+        "uploaded": "2020-03-06",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/192c4dbb3ffe5ea85c8b012cba89d713/update-kindle-csm_biscuit-272.6.5.1_user_651614420.bin",
+        "versionCode": "651614420",
+        "versionName": "Fire OS 5.5.3.6 (651614420)"
     },
     {
         "md5": "547fad91b469b9d6a3a1fcdb85b43671",

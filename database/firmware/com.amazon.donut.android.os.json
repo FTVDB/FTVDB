@@ -7,6 +7,13 @@
         "versionName": "Fire OS 6.5.2.9 (NS6529/1895)"
     },
     {
+        "md5": "c9c375e16cb2c6cad3ac6a00a5dbbe68",
+        "uploaded": "2023-05-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/321b0118c190c0708bf4f740c78f4be8/update-kindle-donut_puffin-NS6559_user_4655_0009094442884.bin",
+        "versionCode": "9094442884",
+        "versionName": "Fire OS 6.5.5.9 (NS6559/4655)"
+    },
+    {
         "md5": "27a80cfad8bf693331a19ce1dee038a8",
         "uploaded": "2023-07-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/5e8fa97b42c0c76430f453c10efeff68/update-kindle-donut_puffin-NS6560_user_4769_0009295798660.bin",
@@ -19,6 +26,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/5a98571a500bda59aa7798c16e5c25ea/update-kindle-donut_puffin-NS6560_user_4774_0009295799940.bin",
         "versionCode": "9295799940",
         "versionName": "Fire OS 6.5.6.0 (NS6560/4774)"
+    },
+    {
+        "md5": "ec94c3b17000ede1f39a79bd9f7b3b74",
+        "uploaded": "2023-11-09",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/d3a4343461ac931bbbeba6ad5e113073/update-kindle-donut_puffin-NS6561_user_4936_0009698494596.bin",
+        "versionCode": "9698494596",
+        "versionName": "Fire OS 6.5.6.1 (NS6561/4936)"
     },
     {
         "md5": "02c14605837b3855df4e094450ab9228",

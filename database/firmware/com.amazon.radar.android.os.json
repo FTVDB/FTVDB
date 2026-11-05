@@ -56,6 +56,20 @@
         "versionName": "Fire OS 6.5.6.6 (NS6566/6813)"
     },
     {
+        "md5": "22289591cbd0e32dad595356e5863185",
+        "uploaded": "2025-07-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/7/24/279fbd03-211e-4f8a-b612-072ab64cf6d8/update-kindle-radar_puffin-NS6569_user_6009_0011980470660.bin",
+        "versionCode": "11980470660",
+        "versionName": "Fire OS 6.5.6.9 (NS6569/6009)"
+    },
+    {
+        "md5": "8e457d08e56e3a455d3f01909e9cee4f",
+        "uploaded": "2025-08-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/8/16/53d23555-4d2d-4fba-af7e-6d51bb038949/update-kindle-radar_puffin-NS6570_user_6071_0012383139716.bin",
+        "versionCode": "12383139716",
+        "versionName": "Fire OS 6.5.7.0 (NS6570/6071)"
+    },
+    {
         "md5": "f07bb9d443820cd839aa4b4d4efa66cc",
         "uploaded": "2025-11-08",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/8/d75268f0-a7d9-437b-b18d-ddad90dc53a1/update-kindle-radar_puffin-NS6571_user_6199_0012584499076.bin",

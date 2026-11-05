@@ -19,5 +19,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/28/a6d3aaac-afc6-4cb6-80d4-cea6a057b4c2/update-cypress-diff-PS75741.7082N_7082_0036274154116-to-PS75751_user_7806_0036811210372.bin",
         "versionCode": "36811210372",
         "versionName": "Fire OS 7575.1 (PS75751/7806)"
+    },
+    {
+        "md5": "2e46547abe4b1b01b504995bc0ac76c6",
+        "uploaded": "2026-11-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/3/9abbdd8b-7b39-4af7-8304-752e2432b71e/update-cypress-diff-PS75751.7806N_7806_0036811210372-to-PS75751_user_7809_0036811211140.bin",
+        "versionCode": "36811211140",
+        "versionName": "Fire OS 7575.1 (PS75751/7809)"
     }
 ]

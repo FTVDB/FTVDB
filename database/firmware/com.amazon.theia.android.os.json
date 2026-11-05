@@ -40,5 +40,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/29/31f5c9f1-f993-43f9-b906-a65a359fcf10/update-kindle-theia-PS75751_user_7807_0036811210628.bin",
         "versionCode": "36811210628",
         "versionName": "Fire OS 7575.1 (PS75751/7807)"
+    },
+    {
+        "md5": "af07c0aee05802a8d8498019ae6e2fcf",
+        "uploaded": "2026-11-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/3/218f3baa-1833-4897-a6af-a2ea23aac99a/update-kindle-theia-PS75751_user_7809_0036811211140.bin",
+        "versionCode": "36811211140",
+        "versionName": "Fire OS 7575.1 (PS75751/7809)"
     }
 ]

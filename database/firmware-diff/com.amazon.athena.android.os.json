@@ -82,5 +82,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/28/98a069b8-8a21-4e7e-89ce-b78af5c5c2af/update-athena-diff-PS75741.7082N_7082_0036274154116-to-PS75751_user_7806_0036811210372.bin",
         "versionCode": "36811210372",
         "versionName": "Fire OS 7575.1 (PS75751/7806)"
+    },
+    {
+        "md5": "743f995ca34503c8a0d653bf90d5d0fd",
+        "uploaded": "2026-11-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/3/087392fd-fcab-4215-ac36-08ccfbe7b9f1/update-athena-diff-PS75751.7806N_7806_0036811210372-to-PS75751_user_7809_0036811211140.bin",
+        "versionCode": "36811211140",
+        "versionName": "Fire OS 7575.1 (PS75751/7809)"
     }
 ]

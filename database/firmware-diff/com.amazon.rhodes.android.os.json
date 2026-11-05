@@ -19,5 +19,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/28/18a9e6fb-0da6-4e63-a1f4-0c388d9f8989/update-rhodes-diff-PS75741.7082N_7082_0036274154116-to-PS75751_user_7806_0036811210372.bin",
         "versionCode": "36811210372",
         "versionName": "Fire OS 7575.1 (PS75751/7806)"
+    },
+    {
+        "md5": "e38e0b6d56dbf6e128f417190261c324",
+        "uploaded": "2026-11-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/3/de9198c7-8a0a-4d2c-be2f-910f83823bc3/update-rhodes-diff-PS75751.7806N_7806_0036811210372-to-PS75751_user_7809_0036811211140.bin",
+        "versionCode": "36811211140",
+        "versionName": "Fire OS 7575.1 (PS75751/7809)"
     }
 ]

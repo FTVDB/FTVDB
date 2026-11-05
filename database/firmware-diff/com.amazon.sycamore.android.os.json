@@ -19,5 +19,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/28/c8895488-d7bc-4025-875d-a4590ee3ac50/update-sycamore-diff-PS75741.7082N_7082_0036274154116-to-PS75751_user_7806_0036811210372.bin",
         "versionCode": "36811210372",
         "versionName": "Fire OS 7575.1 (PS75751/7806)"
+    },
+    {
+        "md5": "ccad50c626e2bef90fee3e9c6357b6ca",
+        "uploaded": "2026-11-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/3/cf8c55ab-23a6-4c77-959b-f2a92b975a48/update-sycamore-diff-PS75751.7806N_7806_0036811210372-to-PS75751_user_7809_0036811211140.bin",
+        "versionCode": "36811211140",
+        "versionName": "Fire OS 7575.1 (PS75751/7809)"
     }
 ]

@@ -77,6 +77,13 @@
         "versionName": "Fire OS 5.2.6.9 (632552020)"
     },
     {
+        "md5": "2bd0eff7567c1df073b05911f625e8d3",
+        "uploaded": "2019-04-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/cec02756d1964c9cb1f71d52056cc81a/bueller-ota-51.1.0.2_user_510058520-signed.bin",
+        "versionCode": "510058520",
+        "versionName": "Fire OS 51.1.0.2"
+    },
+    {
         "md5": "5263cd7aa8baf42040e7e9f0bb2ff3bf",
         "uploaded": "2019-04-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/27d052095eb7850f21a240aac442658a/mod-update-bueller-update-51.1.6.1_user_951601022.bin",

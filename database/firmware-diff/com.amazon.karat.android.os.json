@@ -1,5 +1,12 @@
 [
     {
+        "md5": "19ef1d9e4ae772b7c84af9d9909d8917",
+        "uploaded": "2023-10-23",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/cbd0cd9e018ad00ddf6d9496c0c77cda/update-karat-diff-RS8101.1851N_1851_0021810854788-to-RS8101_user_1854_0021810855556.bin",
+        "versionCode": "21810855556",
+        "versionName": "Fire OS 8.1.0.1 (RS8101/1854)"
+    },
+    {
         "md5": "08dd37b5276367f4336afb5e0e315f0d",
         "uploaded": "2023-11-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/a07f040339b544055538dfdb5f7f07b2/update-karat-diff-RS8101.1854N_1854_0021810855556-to-RS8101_user_1856_0021810856068.bin",

@@ -42,6 +42,13 @@
         "versionName": "Fire OS 54.1.1.3"
     },
     {
+        "md5": "aa8c9cd8463f10b79a4d2f49a786187b",
+        "uploaded": "2019-04-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/48779e860d0861070ae0e13d99160baf/montoya-ota-54.1.1.0_user_110035420.bin",
+        "versionCode": "110035420",
+        "versionName": "Fire OS 54.1.1.0"
+    },
+    {
         "md5": "e098015844da39004ac8b2af96a5d1b1",
         "uploaded": "2019-04-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/064342b6e8e051b8ffb17fd0a886f914/update-kindle-devpreview_montoya-54.5.3.0_user_530042950.bin",
@@ -54,6 +61,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d5e127b4b0f416220e377587780c28c4/update-kindle-montoya-54.5.3.2_user_532008220.bin",
         "versionCode": "532008220",
         "versionName": "Fire OS 5.0.3 (532008220)"
+    },
+    {
+        "md5": "4eec6fc770505235782d5910c2814179",
+        "uploaded": "2019-04-30",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/29308b22b9eb8b1cf5ce59955eded89a/montoya-ota-54.1.0.3_user_103020320.bin",
+        "versionCode": "103020320",
+        "versionName": "Fire OS 54.1.0.3"
     },
     {
         "md5": "00f66b42d176cfbcf6a622586e0b3ffb",

@@ -26,5 +26,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/28/7ebc4a4e-f334-482a-93d5-77f03fbcc6b1/update-kindle-sycamore-PS75751_user_7806_0036811210372.bin",
         "versionCode": "36811210372",
         "versionName": "Fire OS 7575.1 (PS75751/7806)"
+    },
+    {
+        "md5": "9c66447c85b87eedb06b6a19903c3ad7",
+        "uploaded": "2026-11-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/3/7db8e228-6935-44c3-b5d5-8bf6cfac3bb4/update-kindle-sycamore-PS75751_user_7809_0036811211140.bin",
+        "versionCode": "36811211140",
+        "versionName": "Fire OS 7575.1 (PS75751/7809)"
     }
 ]

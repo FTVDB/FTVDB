@@ -91,6 +91,13 @@
         "versionName": "Fire OS 51.1.6.1"
     },
     {
+        "md5": "65fff18cea2cd5e7fe2abf4ffb19abe6",
+        "uploaded": "2019-04-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/616bf6a97e478c03ce60ff1bb1c31eea/bueller-ota-51.1.3.0_user_513011520-signed.bin",
+        "versionCode": "513011520",
+        "versionName": "Fire OS 51.1.3.0"
+    },
+    {
         "md5": "e109f3c6b17f0dce8b8ca75a27ccd7aa",
         "uploaded": "2019-04-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/442052df4c481681279d2f952c89638a/bueller-ota-51.1.4.2_user_514015320-signed.bin",

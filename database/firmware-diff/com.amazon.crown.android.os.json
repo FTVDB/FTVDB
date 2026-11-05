@@ -14,6 +14,13 @@
         "versionName": "Fire OS 6.4.6.6 (NS6466/6306)"
     },
     {
+        "md5": "ded2bb4eab72f1e771925f64365e7791",
+        "uploaded": "2025-05-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/21/1c6463ee-eb4e-4c00-8eda-854ab766361a/update-crown-diff-NS6466_6306_0011712111236-to-NS6566_user_6814_0011779350148.bin",
+        "versionCode": "11779350148",
+        "versionName": "Fire OS 6.5.6.6 (NS6566/6814)"
+    },
+    {
         "md5": "5b415313decf978b2fe52b6911551b13",
         "uploaded": "2026-06-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/12/e0c30a20-51d1-40b0-a3ca-580da34669af/update-crown-diff-NS6573_7575_0012920395652-to-NS6573_user_7577_0012920396164.bin",

@@ -47,5 +47,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/28/d68512be-db49-4b9b-9667-d06649acd52f/update-kindle-cypress-PS75751_user_7806_0036811210372.bin",
         "versionCode": "36811210372",
         "versionName": "Fire OS 7575.1 (PS75751/7806)"
+    },
+    {
+        "md5": "402484e32167d1c595dd23c2d75a58da",
+        "uploaded": "2026-11-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/3/02b67e57-a0c7-4cf6-bd23-d7ba045e998d/update-kindle-cypress-PS75751_user_7809_0036811211140.bin",
+        "versionCode": "36811211140",
+        "versionName": "Fire OS 7575.1 (PS75751/7809)"
     }
 ]

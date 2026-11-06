@@ -35,6 +35,13 @@
         "versionName": "Fire OS 14.3.2.5"
     },
     {
+        "md5": "f484b60d0ee3fafdb15a9922586c2937",
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/01bc987ef200fe511425ac99f10530e0/update-kindle-apollo-14.4.5.3_user_453011120.bin",
+        "versionCode": "453011120",
+        "versionName": "Fire OS 4.5.3 (453011120)"
+    },
+    {
         "md5": "ef8be3cafc657d8bb0e137905b826e8b",
         "uploaded": "2019-01-02",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/xPivkDty9ez1ia7C8dhJyGtxjw/update-kindle-14.4.5.5_user_455006820.bin",

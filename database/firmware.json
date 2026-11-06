@@ -448,6 +448,13 @@
             "Echo Spot - 1st Gen (2017)"
         ]
     },
+    "com.amazon.roselite.android.os": {
+        "category": "",
+        "model": "ATROWI",
+        "title": [
+            "Amazon ATROWI"
+        ]
+    },
     "com.amazon.sapphire.android.os": {
         "category": "echo",
         "model": "",

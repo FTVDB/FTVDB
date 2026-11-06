@@ -84,6 +84,13 @@
         "versionName": "Fire OS 7.3.2.1 (PS7321/2319)"
     },
     {
+        "md5": "daf27be26ae4ca002f93628e00456509",
+        "uploaded": "2021-10-07",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/659c491b4484f73132544ee71f720a0e/update-kindle-mustang-PS7321_user_2330_0021274106500.bin",
+        "versionCode": "21274106500",
+        "versionName": "Fire OS 7.3.2.1 (PS7321/2330)"
+    },
+    {
         "md5": "6aafdfbdd1a45ce2826cfbfb7e21af7b",
         "uploaded": "2021-11-08",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/pI6mQ831K0LFKsm9PpzlZq5iRy/update-kindle-Fire_7_9th_Gen-PS7322_user_2514_0022247232132.bin",

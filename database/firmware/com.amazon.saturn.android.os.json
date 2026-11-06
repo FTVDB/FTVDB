@@ -131,5 +131,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/7f504f927abdbcbd22fe5aeb3f79a800/update-kindle-saturn-22.6.0.5_user_605488320.bin",
         "versionCode": "605488320",
         "versionName": "Fire OS 5.3.6.2 (605488320)"
+    },
+    {
+        "md5": "9a82a31cca3f22ecd9a8278a203ca2ed",
+        "uploaded": "2021-01-06",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/a0cad3ba49cff08d9c2754919fdd109b/update-kindle-saturn-22.6.0.5_user_605488420.bin",
+        "versionCode": "605488420",
+        "versionName": "Fire OS 5.3.6.2 (605488420)"
     }
 ]

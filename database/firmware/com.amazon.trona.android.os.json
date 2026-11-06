@@ -63,6 +63,13 @@
         "versionName": "Fire OS 7.3.2.7 (PS7327/3326)"
     },
     {
+        "md5": "0859dc8a46a802485dfbc5c30509d854",
+        "uploaded": "2023-05-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/33d08bab4bbf896c97c1858eee02e29a/update-kindle-trona-PS7328_user_3435_0027213523844.bin",
+        "versionCode": "27213523844",
+        "versionName": "Fire OS 7.3.2.8 (PS7328/3435)"
+    },
+    {
         "md5": "54704bfd6dcbb18638e9d48b85506d3e",
         "uploaded": "2023-09-28",
         "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/11ddfeap1GXdqCPab39o1Yn1dWv/update-kindle-Fire_HD10-PS7328_user_3443_0027213525892.bin",

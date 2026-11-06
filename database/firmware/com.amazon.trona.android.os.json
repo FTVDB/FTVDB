@@ -91,6 +91,13 @@
         "versionName": "Fire OS 7.3.2.9 (PS7329/3851)"
     },
     {
+        "md5": "1bb121892d0649d33091fe175db36023",
+        "uploaded": "2024-04-22",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/4/22/723590cc-ba52-41b7-b01b-d98d73e09768/update-kindle-trona-PS7330_user_4100_0030099375236.bin",
+        "versionCode": "30099375236",
+        "versionName": "Fire OS 7.3.3.0 (PS7330/4100)"
+    },
+    {
         "md5": "cf8c60e0caeb9ef9b8674796ff43d360",
         "uploaded": "2025-06-11",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xDz75MnJ9npabce/update-kindle-Fire_HD10_Plus-PS7331_user_4463_0031575863172.bin",

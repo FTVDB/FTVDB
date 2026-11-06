@@ -68,5 +68,12 @@
         "url": "https://fireos-tablet-src.s3.amazonaws.com/CgQWGFlUN1dOUEzD3tLWKWg4ha/update-kindle-13.4.5.5_user_455007020.bin",
         "versionCode": "455007020",
         "versionName": "Fire OS 4.5.5.3 (455007020)"
+    },
+    {
+        "md5": "376ae478c2d7112366c4b2b4367a4efb",
+        "uploaded": "2020-11-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/0382568eaccc542f73261fec283ddf3f/update-kindle-thor-13.4.5.5_user_455007020.bin",
+        "versionCode": "455007020",
+        "versionName": "Fire OS 4.5.5.3 (455007020)"
     }
 ]

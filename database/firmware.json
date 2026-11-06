@@ -449,10 +449,10 @@
         ]
     },
     "com.amazon.roselite.android.os": {
-        "category": "",
+        "category": "firetablet",
         "model": "ATROWI",
         "title": [
-            "Amazon ATROWI"
+            "Alexa Tablet 8 (2026)"
         ]
     },
     "com.amazon.sapphire.android.os": {

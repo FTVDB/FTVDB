@@ -70,6 +70,13 @@
         "versionName": "Fire OS 13.4.1.1"
     },
     {
+        "md5": "694a15d6da142f38a53f283d1314bd25",
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/cdc61c9b5e9601299a88b6d01c73c357/update-kindle-thor-13.4.5.5_user_455002120.bin",
+        "versionCode": "455002120",
+        "versionName": "Fire OS 4.5.5.1 (455002120)"
+    },
+    {
         "md5": "a08e866aca93e00b9e561a0544694dfb",
         "uploaded": "2018-12-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/85a30d3c52d4c3db60791806c413704b/update-kindle-thor-13.4.5.5_user_455006820.bin",

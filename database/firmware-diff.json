@@ -335,41 +335,6 @@
             "Kindle Keyboard - 3rd Gen Wi-Fi (2010)"
         ]
     },
-    "com.lab126.eink.mario-int.os": {
-        "category": "kindle",
-        "model": "K2INT-2009",
-        "title": [
-            "Kindle 2 International (2009)"
-        ]
-    },
-    "com.lab126.eink.mario-us.os": {
-        "category": "kindle",
-        "model": "K2US-2009",
-        "title": [
-            "Kindle 2 US (2009)"
-        ]
-    },
-    "com.lab126.eink.nell.os": {
-        "category": "kindle",
-        "model": "DXUS-2009",
-        "title": [
-            "Kindle DX US (2009)"
-        ]
-    },
-    "com.lab126.eink.nellsl.os": {
-        "category": "kindle",
-        "model": "DXG-2010",
-        "title": [
-            "Kindle DX Graphite (2010)"
-        ]
-    },
-    "com.lab126.eink.nellww.os": {
-        "category": "kindle",
-        "model": "DXINT-2010",
-        "title": [
-            "Kindle DX International (2010)"
-        ]
-    },
     "com.lab126.eink.tequila.os": {
         "category": "kindle",
         "model": "K4NT-2011",

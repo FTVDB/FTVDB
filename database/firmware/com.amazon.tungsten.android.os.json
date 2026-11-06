@@ -89,5 +89,12 @@
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/4amHNOvwW4KDYd5xDz75MnJ9nn/update-Fire_HD10_13th_Gen-RS8338_user_3339_0030132734852.bin",
         "versionCode": "30132734852",
         "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "md5": "f48df78eb2d7518d77523d3ea7d2bc48",
+        "uploaded": "2026-09-04",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/4/ff458522-7887-43f6-a7c0-8dc91d2adcea/update-kindle-tungsten-RS8338_user_3344_0030132736132.bin",
+        "versionCode": "30132736132",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3344)"
     }
 ]

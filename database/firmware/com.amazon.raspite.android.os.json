@@ -127,6 +127,13 @@
     },
     {
         "md5": "64365d1419a738041885bdfe35d416dd",
+        "uploaded": "2025-01-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/1/24/0a3f4f93-69f2-4379-894a-4cac6a22671b/update-kindle-raspite-RS8333_user_2734_0026441592452.bin",
+        "versionCode": "26441592452",
+        "versionName": "Fire OS 8.3.3.3 (RS8333/2734)"
+    },
+    {
+        "md5": "64365d1419a738041885bdfe35d416dd",
         "uploaded": "2025-01-30",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xDz75MnJ9npac/update-kindle-Fire_HD8_12th_Gen-RS8333_user_2734_0026441592452.bin",
         "versionCode": "26441592452",

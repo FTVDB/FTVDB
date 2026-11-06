@@ -133,6 +133,13 @@
         "versionName": "Fire OS 7.3.2.7 (PS7327/3326)"
     },
     {
+        "md5": "12840578106648451e0e4a7ca5fc6169",
+        "uploaded": "2023-05-26",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/cd541afef1252a8e3a090bb83f4fd2fc/update-kindle-maverick-PS7327_user_3329_0026743734660.bin",
+        "versionCode": "26743734660",
+        "versionName": "Fire OS 7.3.2.7 (PS7327/3329)"
+    },
+    {
         "md5": "cd953bdb1e849d51e1e72d94d0b3a1a9",
         "uploaded": "2023-09-28",
         "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/11ddfeap1GXdqCPab39o1Yn1dWv/update-kindle-Fire_HD10_9th_Gen-PS7327_user_3336_0026743736452.bin",

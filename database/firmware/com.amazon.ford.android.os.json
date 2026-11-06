@@ -89,5 +89,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e6e0a57020b8db40f0ecd5c16ef80d31/update-kindle-full_ford-37.6.2.6_user_626547120.bin",
         "versionCode": "626547120",
         "versionName": "Fire OS 5.3.6.4 (626547120)"
+    },
+    {
+        "md5": "3618b915950caa74189b93c47c565b2b",
+        "uploaded": "2022-02-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/f67ccbdc5544c6bc428803b8459c821f/update-kindle-full_ford-37.6.2.6_user_626549020.bin",
+        "versionCode": "626549020",
+        "versionName": "Fire OS 5.3.6.4 (626549020)"
     }
 ]

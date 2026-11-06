@@ -8,6 +8,7 @@
         "versionName": "3.4.1->3.4.2"
     },
     {
+        "fromVersionCode": "2687240004",
         "md5": "9077a227ddb31e4f6bcc64083dda33ae",
         "uploaded": "2019-06-27",
         "url": "https://firmwareupdates.s3.amazonaws.com/08/Update_2687240004-3543620001.bin",

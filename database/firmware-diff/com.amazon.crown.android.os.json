@@ -1,5 +1,6 @@
 [
     {
+        "fromVersionCode": "11040834436",
         "md5": "059381658bf176e759936451ecfab791",
         "uploaded": "2025-04-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/4/15/bf2d7aa7-45fa-40ae-8c39-fb8af4b2999a/STASH_COLLISION_update-crown-diff-NS6565_5571_0011040834436-to-NS6466_user_6304_0011712110724.bin",
@@ -7,6 +8,7 @@
         "versionName": "Fire OS 6.4.6.6 (NS6466/6304)"
     },
     {
+        "fromVersionCode": "11712110724",
         "md5": "41bec339d3d52087f4e78d11dfd78a51",
         "uploaded": "2025-05-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/2/c4cf64c3-d664-44bb-9b3a-bbe9df91cde1/update-crown-diff-NS6466_6304_0011712110724-to-NS6466_user_6306_0011712111236.bin",
@@ -14,6 +16,7 @@
         "versionName": "Fire OS 6.4.6.6 (NS6466/6306)"
     },
     {
+        "fromVersionCode": "11712111236",
         "md5": "ded2bb4eab72f1e771925f64365e7791",
         "uploaded": "2025-05-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/21/1c6463ee-eb4e-4c00-8eda-854ab766361a/update-crown-diff-NS6466_6306_0011712111236-to-NS6566_user_6814_0011779350148.bin",
@@ -21,6 +24,7 @@
         "versionName": "Fire OS 6.5.6.6 (NS6566/6814)"
     },
     {
+        "fromVersionCode": "12920395652",
         "md5": "5b415313decf978b2fe52b6911551b13",
         "uploaded": "2026-06-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/12/e0c30a20-51d1-40b0-a3ca-580da34669af/update-crown-diff-NS6573_7575_0012920395652-to-NS6573_user_7577_0012920396164.bin",
@@ -28,6 +32,7 @@
         "versionName": "Fire OS 6.5.7.3 (NS6573/7577)"
     },
     {
+        "fromVersionCode": "13121736836",
         "md5": "a9560b8eec7b658522401a2ceadff39a",
         "uploaded": "2026-09-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/12/7e6dc7ed-2118-4552-8c44-2d16727f5dc3/update-crown-diff-NS6574_7632_0013121736836-to-NS6574_user_7636_0013121737860.bin",
@@ -35,6 +40,7 @@
         "versionName": "Fire OS 6.5.7.4 (NS6574/7636)"
     },
     {
+        "fromVersionCode": "13222531716",
         "md5": "d51af8eb8271066f51dcef3446020c60",
         "uploaded": "2026-09-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/28/bd37cb32-c408-4418-b2da-80a9d8faac9f/update-crown-diff-NS65741_8146_0013222531716-to-NS65741_user_8149_0013222532484.bin",
@@ -42,6 +48,7 @@
         "versionName": "Fire OS 6574.1 (NS65741/8149)"
     },
     {
+        "fromVersionCode": "13054618500",
         "md5": "f05985886b3bae730cf2b040dfb7981c",
         "uploaded": "2026-09-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/28/d5f9f1f4-07e7-40da-84c7-1a589a6934f3/update-crown-diff-NS6573_7595_0013054618500-to-NS65741_user_8149_0013222532484.bin",
@@ -49,6 +56,7 @@
         "versionName": "Fire OS 6574.1 (NS65741/8149)"
     },
     {
+        "fromVersionCode": "13222532484",
         "md5": "4581513e5a64c3acf0a8cd3f6dab0b18",
         "uploaded": "2026-10-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/19/d54f50f1-69fc-4bed-b677-82ab57843f86/update-crown-diff-NS65741_8149_0013222532484-to-NS65741_user_8150_0013222532740.bin",
@@ -56,6 +64,7 @@
         "versionName": "Fire OS 6574.1 (NS65741/8150)"
     },
     {
+        "fromVersionCode": "13222532740",
         "md5": "8968f85e5c8a76b430bc6652e66ae64e",
         "uploaded": "2026-10-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/22/27e1229c-e459-40c4-9c83-20743ade0abc/update-crown-diff-NS65741_8150_0013222532740-to-NS65741_user_8151_0013222532996.bin",

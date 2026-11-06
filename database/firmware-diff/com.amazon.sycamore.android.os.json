@@ -1,5 +1,6 @@
 [
     {
+        "fromVersionCode": "36274153604",
         "md5": "1978ef0d06e37f4e7450c23da9443810",
         "uploaded": "2026-10-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/19/45e4c63f-72b7-4e59-bc0c-67dea7c1a2ee/update-sycamore-diff-PS75741.7080N_7080_0036274153604-to-PS75741_user_7081_0036274153860.bin",
@@ -7,6 +8,7 @@
         "versionName": "Fire OS 7574.1 (PS75741/7081)"
     },
     {
+        "fromVersionCode": "36274153860",
         "md5": "cadae217082e234417bd39a87bfeba48",
         "uploaded": "2026-10-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/22/83a20439-987c-4744-b3bd-c71b061a0d3e/update-sycamore-diff-PS75741.7081N_7081_0036274153860-to-PS75741_user_7082_0036274154116.bin",
@@ -14,6 +16,7 @@
         "versionName": "Fire OS 7574.1 (PS75741/7082)"
     },
     {
+        "fromVersionCode": "36274154116",
         "md5": "588ea97936acdec4b5863bc92eb0e4cd",
         "uploaded": "2026-10-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/28/c8895488-d7bc-4025-875d-a4590ee3ac50/update-sycamore-diff-PS75741.7082N_7082_0036274154116-to-PS75751_user_7806_0036811210372.bin",
@@ -21,6 +24,7 @@
         "versionName": "Fire OS 7575.1 (PS75751/7806)"
     },
     {
+        "fromVersionCode": "36811210372",
         "md5": "ccad50c626e2bef90fee3e9c6357b6ca",
         "uploaded": "2026-11-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/3/cf8c55ab-23a6-4c77-959b-f2a92b975a48/update-sycamore-diff-PS75751.7806N_7806_0036811210372-to-PS75751_user_7809_0036811211140.bin",

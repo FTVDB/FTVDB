@@ -1,5 +1,6 @@
 [
     {
+        "fromVersionCode": "536116920",
         "md5": "98e55d44262e31ad928f4c200e952fc1",
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/8921f843c5dc154a747edb468b3b773f/update-sloane_full_sloane-536116920-to-537174420.bin",
@@ -7,6 +8,7 @@
         "versionName": "Fire OS 5.0.5 (537174420)"
     },
     {
+        "fromVersionCode": "534011720",
         "md5": "ea3c0279dc65ec5f8adc8da4cd2e29ea",
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/f1dfba6d34941c283f25b668c172c8a2/update-sloane_full_sloane-534011720-to-536116920.bin",
@@ -14,6 +16,7 @@
         "versionName": "Fire OS 5.0.4 (536116920)"
     },
     {
+        "fromVersionCode": "531006320",
         "md5": "846283298899070cac28be5b8aabe8b9",
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e224793371640a5d0a3a5ea9c9da7ee5/update-sloane_full_sloane-531006320-to-532011220.bin",
@@ -21,6 +24,7 @@
         "versionName": "Fire OS 5.0.3 (532011220)"
     },
     {
+        "fromVersionCode": "531006420",
         "md5": "1e0dc5c0da552e14bea1a35716010d17",
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/0fa0dad49c1842e4c9cb6cb4606038eb/update-sloane_full_sloane-531006420-to-532011220.bin",
@@ -28,6 +32,7 @@
         "versionName": "Fire OS 5.0.3 (532011220)"
     },
     {
+        "fromVersionCode": "606753920",
         "md5": "256acfe9203f3caae1187ca6e03e6215",
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/4ab2619082759242d9bf5d69e5864021/update-sloane_full_sloane-606753920-to-617513220.bin",
@@ -35,6 +40,7 @@
         "versionName": "Fire OS 5.2.6.6 (617513220)"
     },
     {
+        "fromVersionCode": "521044920",
         "md5": "06055879d4b4e1ccbbe0f3c1254f11aa",
         "uploaded": "2019-04-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6292760608b920be91d468a234c52909/update-sloane_full_sloane-521044920-to-531006320.bin",
@@ -42,6 +48,7 @@
         "versionName": "Fire OS 5.0.2.1 (531006320)"
     },
     {
+        "fromVersionCode": "521044920",
         "md5": "defe101d8e62f8831fd6931ada88d68b",
         "uploaded": "2019-04-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/56e74f8e1d835adaefc14224a0749cc0/update-sloane_full_sloane-521044920-to-531006420.bin",
@@ -49,6 +56,7 @@
         "versionName": "Fire OS 5.0.2.2 (531006420)"
     },
     {
+        "fromVersionCode": "531006320",
         "md5": "e11aef7bc11ffec9d282f69269126b9c",
         "uploaded": "2019-04-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/7d64b9904fe90a359720c562b0011ef8/update-sloane_full_sloane-531006320-to-531006420.bin",
@@ -56,6 +64,7 @@
         "versionName": "Fire OS 5.0.2.2 (531006420)"
     },
     {
+        "fromVersionCode": "646581820",
         "md5": "4145f6b07e6a971b55bfe7fd9d2e6d20",
         "uploaded": "2020-05-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d0f0a55eb4911a410b4011a3bd4d0dbb/update-sloane_full_sloane-646581820-to-646582020.bin",
@@ -63,6 +72,7 @@
         "versionName": "Fire OS 5.2.7.1 (646582020)"
     },
     {
+        "fromVersionCode": "606753920",
         "md5": "f31d80f06d250ec430a71f252cd6ede9",
         "uploaded": "2022-04-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/ce121c588cdc50f4183a75095882fb0c/update-sloane_full_sloane-606753920-to-676742620.bin",
@@ -70,6 +80,7 @@
         "versionName": "Fire OS 5.2.8.8 (676742620)"
     },
     {
+        "fromVersionCode": "623530020",
         "md5": "0b0531762f6711d9b825eb6508c3c229",
         "uploaded": "2022-04-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/0aec5bca59b98b9e7ed7a59606afcbfc/update-sloane_full_sloane-623530020-to-676742620.bin",
@@ -77,6 +88,7 @@
         "versionName": "Fire OS 5.2.8.8 (676742620)"
     },
     {
+        "fromVersionCode": "632552020",
         "md5": "38775a1ba800afa487d33d0616454824",
         "uploaded": "2022-04-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/7eef70bf1676c1fd868e92ca53e93aef/update-sloane_full_sloane-632552020-to-676742620.bin",
@@ -84,6 +96,7 @@
         "versionName": "Fire OS 5.2.8.8 (676742620)"
     },
     {
+        "fromVersionCode": "662663720",
         "md5": "e668e62dbf3c30eb83fd690f9212ebd5",
         "uploaded": "2022-04-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/ef4be0ac248b385088cd71ae549141ba/update-sloane_full_sloane-662663720-to-676742620.bin",
@@ -91,6 +104,7 @@
         "versionName": "Fire OS 5.2.8.8 (676742620)"
     },
     {
+        "fromVersionCode": "646582020",
         "md5": "1e6fb3daa86c275851fc6978503af245",
         "uploaded": "2022-04-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/472a7cd81cbc0b79a63d3d3898056f77/update-sloane_full_sloane-646582020-to-676742620.bin",
@@ -98,6 +112,7 @@
         "versionName": "Fire OS 5.2.8.8 (676742620)"
     },
     {
+        "fromVersionCode": "648595220",
         "md5": "f2acb59c2f0d965d39011bc06c15362d",
         "uploaded": "2022-04-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d678b5025e7881e411e7dad8ff2cf4f7/update-sloane_full_sloane-648595220-to-676742620.bin",
@@ -105,6 +120,7 @@
         "versionName": "Fire OS 5.2.8.8 (676742620)"
     },
     {
+        "fromVersionCode": "648594820",
         "md5": "5d86b72a1ee8059139e0953705accbce",
         "uploaded": "2022-04-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/0c7f6b56ccf2bfc0541fdd37c9fc9308/update-sloane_full_sloane-648594820-to-676742620.bin",
@@ -112,6 +128,7 @@
         "versionName": "Fire OS 5.2.8.8 (676742620)"
     },
     {
+        "fromVersionCode": "630508620",
         "md5": "898d45131f2070deaead1c324975bdd6",
         "uploaded": "2022-04-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/37ea929ec380bb9c59978a14a8715710/update-sloane_full_sloane-630508620-to-676742620.bin",
@@ -119,6 +136,7 @@
         "versionName": "Fire OS 5.2.8.8 (676742620)"
     },
     {
+        "fromVersionCode": "672831220",
         "md5": "bcee03d205b02d754f04719829776d90",
         "uploaded": "2022-06-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/26ae931aa0a5cfb9a64a4ea94a068c72/update-sloane_full_sloane-672831220-to-678752420.bin",
@@ -126,6 +144,7 @@
         "versionName": "Fire OS 5.2.8.9 (678752420)"
     },
     {
+        "fromVersionCode": "656638420",
         "md5": "a7b7f1ed5695e8693440c1d745af83d1",
         "uploaded": "2022-06-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/99ffeb1a13941d0ac47d44be132e350c/update-sloane_full_sloane-656638420-to-678752420.bin",
@@ -133,6 +152,7 @@
         "versionName": "Fire OS 5.2.8.9 (678752420)"
     },
     {
+        "fromVersionCode": "664657620",
         "md5": "04eb7e6f35f4e572137e93a2ad15f820",
         "uploaded": "2022-06-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e0ba4e2ad1f9a1b65e8839d1b46ef9d8/update-sloane_full_sloane-664657620-to-678752420.bin",
@@ -140,6 +160,7 @@
         "versionName": "Fire OS 5.2.8.9 (678752420)"
     },
     {
+        "fromVersionCode": "671761720",
         "md5": "ea59b38dba08802f00a85f3a3ce5e028",
         "uploaded": "2022-06-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/7cbc80439c554d8289e7ca45e90f8999/update-sloane_full_sloane-671761720-to-678752420.bin",
@@ -147,6 +168,7 @@
         "versionName": "Fire OS 5.2.8.9 (678752420)"
     },
     {
+        "fromVersionCode": "652614020",
         "md5": "85769812e32786800efe10f6ea5c8780",
         "uploaded": "2022-06-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025bac9f996b12463b08805dc77c860/update-sloane_full_sloane-652614020-to-678752420.bin",
@@ -154,6 +176,7 @@
         "versionName": "Fire OS 5.2.8.9 (678752420)"
     },
     {
+        "fromVersionCode": "659654620",
         "md5": "a20cde4601b1b884cb46f4f0698f3b83",
         "uploaded": "2022-06-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d93d19eaa1f3cd08bee5ade680960eb9/update-sloane_full_sloane-659654620-to-678752420.bin",
@@ -161,6 +184,7 @@
         "versionName": "Fire OS 5.2.8.9 (678752420)"
     },
     {
+        "fromVersionCode": "674730620",
         "md5": "d907171f6413f4ee0bea8a711e151314",
         "uploaded": "2022-06-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/811615945d5576a8f5a55e9c8a2b92dd/update-sloane_full_sloane-674730620-to-678752420.bin",
@@ -168,6 +192,7 @@
         "versionName": "Fire OS 5.2.8.9 (678752420)"
     },
     {
+        "fromVersionCode": "668694820",
         "md5": "ebdeae1cabd417cf823be74e2536fce5",
         "uploaded": "2022-06-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d02a99099c070ab224c5c104e3fef2cd/update-sloane_full_sloane-668694820-to-678752420.bin",
@@ -175,6 +200,7 @@
         "versionName": "Fire OS 5.2.8.9 (678752420)"
     },
     {
+        "fromVersionCode": "680761420",
         "md5": "608821798e3b60b307b5d6c450bdfe14",
         "uploaded": "2022-11-25",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/f8962c20e8ce50290132c6f85aeb9809/update-sloane_full_sloane-680761420-to-684782320.bin",
@@ -182,6 +208,7 @@
         "versionName": "Fire OS 5.2.9.3 (684782320)"
     },
     {
+        "fromVersionCode": "676742620",
         "md5": "b075d21c42f846247f42189e45df300d",
         "uploaded": "2022-11-25",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/143f20cbd778d32becf01418036c0c13/update-sloane_full_sloane-676742620-to-684782320.bin",
@@ -189,6 +216,7 @@
         "versionName": "Fire OS 5.2.9.3 (684782320)"
     },
     {
+        "fromVersionCode": "678752420",
         "md5": "ceaa7fb9f54f61eb5d86dc96b099a4be",
         "uploaded": "2023-01-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/966a5512fb52e75e2c6b143819193a49/update-sloane_full_sloane-678752420-to-685791120.bin",
@@ -196,6 +224,7 @@
         "versionName": "Fire OS 5.2.9.4 (685791120)"
     },
     {
+        "fromVersionCode": "686800020",
         "md5": "fd342fa96211e8dffb1880733ff3edb3",
         "uploaded": "2023-05-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/316879d2befe9443c0ad6b37287f89fc/update-sloane_full_sloane-686800020-to-686800820.bin",
@@ -203,6 +232,7 @@
         "versionName": "Fire OS 5.2.9.5 (686800820)"
     },
     {
+        "fromVersionCode": "684782320",
         "md5": "c779cdd0bd13285e33bad1bfcc80eadc",
         "uploaded": "2023-05-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/8ed976467621e844c21c3effa7286488/update-sloane_full_sloane-684782320-to-686800820.bin",
@@ -210,6 +240,7 @@
         "versionName": "Fire OS 5.2.9.5 (686800820)"
     },
     {
+        "fromVersionCode": "685791120",
         "md5": "0a136d7e9a003d9f5c1ee1b34e450ded",
         "uploaded": "2023-05-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/557843131c6b0b277e5e316f189fb33b/update-sloane_full_sloane-685791120-to-686800820.bin",

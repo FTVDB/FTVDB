@@ -42,11 +42,25 @@
         "versionName": "Fire OS 4.5.5.1 (455002120)"
     },
     {
+        "md5": "a0db97aba0307265f627466cde641152",
+        "uploaded": "2018-09-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/17fdbd4434984823ab672c4d6c7b3dba/update-kindle-saturn-22.6.0.5_user_605485120.bin",
+        "versionCode": "605485120",
+        "versionName": "Fire OS 5.3.6.2 (605485120)"
+    },
+    {
         "md5": "027c9030611ce2516988bbfaaf9e4d0f",
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/02e0570fa0cfa64191e7b05d33d794e3/update-kindle-saturn-22.5.7.9_user_579279320.bin",
         "versionCode": "579279320",
         "versionName": "Fire OS 5.3.4.0 (579279320)"
+    },
+    {
+        "md5": "d1249ccbd3307ce14d31b4dbef3eae6a",
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/1143dee15764ad2336204ec9ae478603/update-kindle-saturn-22.5.4.2_user_542169020.bin",
+        "versionCode": "542169020",
+        "versionName": "Fire OS 5.1.2 (542169020)"
     },
     {
         "md5": "c78aea9020f55a962ed73c934a9776a3",

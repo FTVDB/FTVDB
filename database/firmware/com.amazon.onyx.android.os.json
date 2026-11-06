@@ -126,6 +126,13 @@
         "versionName": "Fire OS 7.3.2.7 (PS7327/3336)"
     },
     {
+        "md5": "0cdbe1ba791546040ffae2b6366f72b8",
+        "uploaded": "2023-10-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/c821106a181ff89e84ad4e9fee02fd5b/update-kindle-onyx-PS7329_user_3836_0029294001284.bin",
+        "versionCode": "29294001284",
+        "versionName": "Fire OS 7.3.2.9 (PS7329/3836)"
+    },
+    {
         "md5": "7175bf78526d9e68c04d57fd7086bd2e",
         "uploaded": "2024-03-29",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/0vetSZCWV7G2VPvlsNCzhMTqAi/Fire_HD8_10th_Gen-PS7329_user_3851_0029294005124.bin",

@@ -4,27 +4,27 @@
         "uploaded": "2026-10-01",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/1/49e23073-e408-4e26-9f01-e311a43f4fc5/amzn-image-swupdate-macaroon.swu",
         "versionCode": "6401030007420",
-        "versionName": "OS 1.3 (Echo Ship 1574/74)"
+        "versionName": "Vega OS 1.3 (Echo Ship 1574/74)"
     },
     {
         "md5": "8776cf73a942cc41b169cff2e1b28ab8",
         "uploaded": "2026-10-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/20/c42600e8-03c8-4cf0-9c7e-9c3bc6b9a684/amzn-image-swupdate-macaroon.swu",
         "versionCode": "6401030007720",
-        "versionName": "OS 1.3 (Echo Ship 1574/77)"
+        "versionName": "Vega OS 1.3 (Echo Ship 1574/77)"
     },
     {
         "md5": "7d39e1829dfc5694d9b13c9c5a8ed28e",
         "uploaded": "2026-10-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/7eb829e8-8695-4125-9f60-e610b85ca2b0/amzn-image-swupdate-macaroon.swu",
         "versionCode": "7202000014520",
-        "versionName": "OS 2.0 (Echo Ship 1575 hf/145)"
+        "versionName": "Vega OS 2.0 (Echo Ship 1575 hf/145)"
     },
     {
         "md5": "bc44d0270f0967cd896f686ffe70c69f",
         "uploaded": "2026-10-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/29/f4b35e18-d867-4a9d-8214-8bac65c04635/amzn-image-swupdate-macaroon.swu",
         "versionCode": "7202000014820",
-        "versionName": "OS 2.0 (Echo Ship 1575 hf/148)"
+        "versionName": "Vega OS 2.0 (Echo Ship 1575 hf/148)"
     }
 ]

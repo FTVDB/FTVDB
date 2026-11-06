@@ -28,6 +28,13 @@
         "versionName": "Fire OS 6.3.1.2 (NS6312/1852)"
     },
     {
+        "md5": "57e2b8984d82c415e2a7f5bba41fba20",
+        "uploaded": "2019-11-14",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/718b6d2e044552638d38531568443f22/update-kindle-karnak-NS6312_user_1857_0002517057924.bin",
+        "versionCode": "2517057924",
+        "versionName": "Fire OS 6.3.1.2 (NS6312/1857)"
+    },
+    {
         "md5": "8730fa7ad0ad0bc87c5195b689e57a21",
         "uploaded": "2019-12-09",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/JC8Sj3RPydV3SwSLR0DLkLVgBH/update-kindle-Fire_HD8_8th_Gen-NS6314_user_2315_0003188263812.bin",

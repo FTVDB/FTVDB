@@ -105,6 +105,13 @@
         "versionName": "Fire OS 5.3.7.2 (657612420)"
     },
     {
+        "md5": "3f6f9b93b29c811f28171ee32591c1c5",
+        "uploaded": "2020-09-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/0245c01ec3d8055b3fd126f45e474592/update-kindle-suez-40.6.5.4_user_654620820.bin",
+        "versionCode": "654620820",
+        "versionName": "Fire OS 5.3.7.1 (654620820)"
+    },
+    {
         "md5": "c52df011202841ff410023c248f6a188",
         "uploaded": "2020-11-03",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/yQKpCym4dSqSp1dxliykJ1Vck8/update-kindle-40.6.5.9_user_659655820.bin",

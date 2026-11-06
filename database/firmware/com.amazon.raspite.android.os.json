@@ -56,6 +56,13 @@
         "versionName": "Fire OS 8.3.2.2 (RS8322/2053)"
     },
     {
+        "md5": "780df772714ccb1e1f89d5157c1fd1b8",
+        "uploaded": "2024-04-24",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/4/24/d0521211-20a1-4f15-b5ad-01bc7a5f7c6c/update-kindle-raspite-RS8323_user_2196_0022549140612.bin",
+        "versionCode": "22549140612",
+        "versionName": "Fire OS 8.3.2.3 (RS8323/2196)"
+    },
+    {
         "md5": "bf773a31a62f4cbb590e9d98f1f49d76",
         "uploaded": "2024-06-17",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/M7nrtAEBjfuFrO76zt0kqEdQ72/update-kindle-Fire_HD8_12th_Gen-RS8324_user_2314_0023153150596.bin",

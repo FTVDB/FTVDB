@@ -119,6 +119,13 @@
         "versionName": "Fire OS 4.5.5 (455001820)"
     },
     {
+        "md5": "6fba3029efd76ce3f4bc246ad8f98313",
+        "uploaded": "2018-12-27",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/dca808a0f184b99c0f8f94e86851a79f/update-kindle-saturn-22.6.0.5_user_605485620.bin",
+        "versionCode": "605485620",
+        "versionName": "Fire OS 5.3.6.2 (605485620)"
+    },
+    {
         "md5": "1d74013d6f1922b7c17a7481a46a44be",
         "uploaded": "2020-08-12",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/M3xjfJSMUm5WLry0a0vN2cTMWf/update-kindle-22.6.0.5_user_605487420.bin",

@@ -26,5 +26,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/6c28757a-8c49-4c08-b876-01fa3a241f3a/amzn-image-swupdate-madeleine.swu",
         "versionCode": "7202000014820",
         "versionName": "OS 2.0 (Echo Ship 1575 hf/148)"
+    },
+    {
+        "md5": "300ed38ecc7f9b0652a8b2233b1f55b5",
+        "uploaded": "2026-11-05",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/5/8d36a549-1745-40cb-ba51-a16115725eec/amzn-image-swupdate-madeleine.swu",
+        "versionCode": "7202000017420",
+        "versionName": "OS 2.0 (Echo Ship 1575 hf/174)"
     }
 ]

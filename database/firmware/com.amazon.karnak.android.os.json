@@ -133,6 +133,13 @@
         "versionName": "Fire OS 7.3.2.6 (PS7326/3178)"
     },
     {
+        "md5": "9ef1b7cd6eaeffea7d5a4686975f7dbf",
+        "uploaded": "2022-11-21",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/ab331293bc845f490b0218d9df526cba/update-kindle-karnak-PS7326_user_3183_0025602846596.bin",
+        "versionCode": "25602846596",
+        "versionName": "Fire OS 7.3.2.6 (PS7326/3183)"
+    },
+    {
         "md5": "cb0c1e4739f68450d2f7ba7165171b09",
         "uploaded": "2023-09-28",
         "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/11ddfeap1GXdqCPab39o1Yn1dWv/update-kindle-Fire_HD8_8th_Gen-PS7327_user_3336_0026743736452.bin",

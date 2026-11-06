@@ -148,6 +148,13 @@
     },
     {
         "md5": "53a8e823c5c9570b2468846427b3e704",
+        "uploaded": "2025-07-31",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/7/31/a722b9f4-036b-4abf-b94d-479093f62aae/update-kindle-raspite-RS8336_user_3103_0028656279428.bin",
+        "versionCode": "28656279428",
+        "versionName": "Fire OS 8.3.3.6 (RS8336/3103)"
+    },
+    {
+        "md5": "53a8e823c5c9570b2468846427b3e704",
         "uploaded": "2025-08-01",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xDz75MnJ9np4/update-kindle-Fire_HD8_12th_Gen-RS8336_user_3103_0028656279428.bin",
         "versionCode": "28656279428",

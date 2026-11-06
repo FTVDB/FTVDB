@@ -84,6 +84,13 @@
         "versionName": "Fire OS 5.3.7.2 (657612420)"
     },
     {
+        "md5": "44d842b8596c04c6b68a3dc5129149b0",
+        "uploaded": "2020-09-16",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/29fea9edc21e473edf6e7e89ed5566b2/update-kindle-austin-55.6.5.7_user_657612520.bin",
+        "versionCode": "657612520",
+        "versionName": "Fire OS 5.3.7.2 (657612520)"
+    },
+    {
         "md5": "98ceca5d41846a9a4f3320ebcf642063",
         "uploaded": "2020-11-03",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/CmbfZwlMqoXtlI2Gm3oF0EzwTm/update-kindle-55.6.5.9_user_659655820.bin",

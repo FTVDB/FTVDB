@@ -91,6 +91,13 @@
         "versionName": "Fire OS 7.3.1.9 (PS7319/1726)"
     },
     {
+        "md5": "886b874b3b140be3e076083cd96ee38e",
+        "uploaded": "2021-07-29",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/910251e1fe23c530e3e08c7a395b0c2f/update-kindle-karnak-PS7321_user_2319_0021274103684.bin",
+        "versionCode": "21274103684",
+        "versionName": "Fire OS 7.3.2.1 (PS7321/2319)"
+    },
+    {
         "md5": "a2413f5ef166c9edf06683f2c202028b",
         "uploaded": "2021-11-08",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/06DwywcfWtLerpg56xZ77Mg64Z/update-kindle-Fire_HD8_8th_Gen-PS7322_user_2514_0022247232132.bin",

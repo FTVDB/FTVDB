@@ -84,6 +84,13 @@
         "versionName": "Fire OS 5.3.3.0 (570208720)"
     },
     {
+        "md5": "7c0713d407bcd3b2a95f34452e29729d",
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/89a1c788a7410607dda6524a0ef981f2/update-kindle-full_ford-37.5.7.9_user_579225620.bin",
+        "versionCode": "579225620",
+        "versionName": "Fire OS 5.3.4.0 (579225620)"
+    },
+    {
         "md5": "cc0d354d5bcf40acccd9d2ae379eeda5",
         "uploaded": "2018-11-13",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/93olgKwMW8ecGINzUwwqQmLz43/update-kindle-37.6.2.6_user_626533320.bin",

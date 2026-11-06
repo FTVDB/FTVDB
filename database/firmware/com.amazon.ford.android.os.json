@@ -82,5 +82,12 @@
         "url": "https://fireos-tablet-src.s3.amazonaws.com/aqrceqiXKiayGaNoz4YHYr4V9E/update-kindle-37.6.2.6_user_626542120.bin",
         "versionCode": "626542120",
         "versionName": "Fire OS 5.3.6.4 (626542120)"
+    },
+    {
+        "md5": "dc5733dbc9dd83a0cb9a422dc1ab3fbf",
+        "uploaded": "2021-01-07",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/e6e0a57020b8db40f0ecd5c16ef80d31/update-kindle-full_ford-37.6.2.6_user_626547120.bin",
+        "versionCode": "626547120",
+        "versionName": "Fire OS 5.3.6.4 (626547120)"
     }
 ]

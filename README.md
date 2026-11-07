@@ -9,11 +9,11 @@ FTVDB is an independent, community-maintained catalog of public update metadata 
 
 ## Explore FTVDB
 
-- [Browse firmware metadata](https://ftvdb.com/firmware/)
-- [Browse system component metadata](https://ftvdb.com/apps/)
-- [Submit a public source URL](https://ftvdb.com/submit/)
-- [Use the public submission API](https://ftvdb.com/api/)
-- [Read the submission manual](https://ftvdb.com/manual/)
+- [Browse firmware metadata](https://ftvdb.com/firmware/?utm_source=github)
+- [Browse system component metadata](https://ftvdb.com/apps/?utm_source=github)
+- [Submit a public source URL](https://ftvdb.com/submit/?utm_source=github)
+- [Use the public submission API](https://ftvdb.com/api/?utm_source=github)
+- [Read the submission manual](https://ftvdb.com/manual/?utm_source=github)
 - [Follow project updates on Telegram](https://t.me/FTVDB)
 
 ## Maintainer
@@ -96,27 +96,27 @@ Many diff records do not include `fromVersionCode`. The website uses this field 
 
 Several diff packages can lead to the same target build from different starting builds. Keep those package records separate rather than deduplicating only by `versionCode` or `versionName`.
 
-On [ftvdb.com](https://ftvdb.com/), device histories offer **Full firmware** and **Diff firmware** views when diff records are available. Full histories use `/{category}/firmware/{bundle}/`, and diff histories use `/{category}/firmware/{bundle}/diff/`. The diff history shows the starting build when it can be identified alongside the target build.
+On [ftvdb.com](https://ftvdb.com/?utm_source=github), device histories offer **Full firmware** and **Diff firmware** views when diff records are available. Full histories use `/{category}/firmware/{bundle}/`, and diff histories use `/{category}/firmware/{bundle}/diff/`. The diff history shows the starting build when it can be identified alongside the target build.
 
 ## How it works
 
 1. Contributors report publicly reachable update source URLs observed through normal diagnostics on devices they own or maintain.
 2. Submitted URLs are validated and reviewed before accepted metadata is added to the catalog.
-3. The structured records are published here and presented through [ftvdb.com](https://ftvdb.com).
+3. The structured records are published here and presented through [ftvdb.com](https://ftvdb.com?utm_source=github).
 
 The project exists for documentation, repair research, software history, and preservation of public update metadata. It does not promote piracy, firmware downgrades, rooting, jailbreaking, or bypassing device security.
 
 ## Using the data
 
-The website is the easiest way to browse the catalog. Developers and researchers can also read the [published JSON database](database/) directly. Read both firmware indexes to discover all recorded devices, including those with only diff records, and load each bundle from the matching full or diff directory. System component records remain in `apps.json` and `apps/`. The [public API](https://ftvdb.com/api/) accepts new source URL submissions and does not serve database records.
+The website is the easiest way to browse the catalog. Developers and researchers can also read the [published JSON database](database/) directly. Read both firmware indexes to discover all recorded devices, including those with only diff records, and load each bundle from the matching full or diff directory. System component records remain in `apps.json` and `apps/`. The [public API](https://ftvdb.com/api/?utm_source=github) accepts new source URL submissions and does not serve database records.
 
 Treat all external source URLs and metadata as untrusted input. Verify accuracy, compatibility, authenticity, and safety independently before relying on any record. FTVDB does not guarantee that a record is complete, current, available, or suitable for a particular use.
 
-Attribution is appreciated when FTVDB data is used in public research, documentation, software, or release notes. Please credit [ftvdb.com](https://ftvdb.com).
+Attribution is appreciated when FTVDB data is used in public research, documentation, software, or release notes. Please credit [ftvdb.com](https://ftvdb.com/?utm_source=github).
 
 ## Contributing
 
-The preferred way to contribute a newly observed URL is through the [submission page](https://ftvdb.com/submit/). Regular contributors can use the [API](https://ftvdb.com/api/).
+The preferred way to contribute a newly observed URL is through the [submission page](https://ftvdb.com/submit/?utm_source=github). Regular contributors can use the [API](https://ftvdb.com/api/?utm_source=github).
 
 Only submit public, unauthenticated source URLs observed from devices you own or maintain. Do not submit or attach update binaries, private logs, credentials, account data, personal information, tokens, or locations obtained by bypassing access controls.
 
@@ -126,9 +126,9 @@ Only submit public, unauthenticated source URLs observed from devices you own or
 
 ## Rights-holder and contributor requests
 
-Rights holders can review the [DMCA and content removal process](https://ftvdb.com/dmca/) or email [support@ftvdb.com](mailto:support@ftvdb.com). Contributors can use the same address for attribution or opt-out requests. General contact options are listed on the [contact page](https://ftvdb.com/contact/).
+Rights holders can review the [DMCA and content removal process](https://ftvdb.com/dmca/?utm_source=github) or email [support@ftvdb.com](mailto:support@ftvdb.com). Contributors can use the same address for attribution or opt-out requests. General contact options are listed on the [contact page](https://ftvdb.com/contact/?utm_source=github).
 
-Requests are reviewed against the public record and the project policies. See the [terms of use](https://ftvdb.com/terms/) for the full project scope, acceptable use rules, disclaimers, and removal process.
+Requests are reviewed against the public record and the project policies. See the [terms of use](https://ftvdb.com/terms/?utm_source=github) for the full project scope, acceptable use rules, disclaimers, and removal process.
 
 Amazon, Fire TV, Fire, Echo, Kindle, and related names and marks belong to their respective owners. Their appearance identifies the devices and metadata covered by this independent reference project.
 

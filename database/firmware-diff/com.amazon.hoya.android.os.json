@@ -24,6 +24,14 @@
         "versionName": "Fire OS 7575.1 (PS75751/7806)"
     },
     {
+        "fromVersionCode": "36274154116",
+        "md5": "05e5375381c65a19fb3f0bf9ee290b6a",
+        "uploaded": "2026-11-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/3/d64240cb-2ece-4801-beee-f4fa4624c01c/update-hoya_ftv-diff-PS75741.7082N_7082_0036274154116-to-PS75751_user_7809_0036811211140.bin",
+        "versionCode": "36811211140",
+        "versionName": "Fire OS 7575.1 (PS75751/7809)"
+    },
+    {
         "fromVersionCode": "36811210372",
         "md5": "616c6ce530d8248d53537256d51a5c5d",
         "uploaded": "2026-11-03",

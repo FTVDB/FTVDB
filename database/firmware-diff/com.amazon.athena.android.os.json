@@ -96,6 +96,14 @@
         "versionName": "Fire OS 7575.1 (PS75751/7806)"
     },
     {
+        "fromVersionCode": "36274154116",
+        "md5": "10f5dde1358974f9c8e52ed59eaf94f2",
+        "uploaded": "2026-11-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/3/b23bc849-939a-4fe9-af51-aaa34edceba7/update-athena-diff-PS75741.7082N_7082_0036274154116-to-PS75751_user_7809_0036811211140.bin",
+        "versionCode": "36811211140",
+        "versionName": "Fire OS 7575.1 (PS75751/7809)"
+    },
+    {
         "fromVersionCode": "36811210372",
         "md5": "743f995ca34503c8a0d653bf90d5d0fd",
         "uploaded": "2026-11-03",

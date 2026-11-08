@@ -16,6 +16,14 @@
         "versionName": "Fire OS 7574.1 (PS75741/7082)"
     },
     {
+        "fromVersionCode": "36274154116",
+        "md5": "b7228101142063ef564647954fcfe530",
+        "uploaded": "2026-11-03",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/3/de4a1991-237e-4072-9ef2-f85b613be892/update-theia-diff-PS75741.7082N_7082_0036274154116-to-PS75751_user_7809_0036811211140.bin",
+        "versionCode": "36811211140",
+        "versionName": "Fire OS 7575.1 (PS75751/7809)"
+    },
+    {
         "fromVersionCode": "36811210628",
         "md5": "be86aaf79f3c985b974bcdf498b7f5c6",
         "uploaded": "2026-11-03",

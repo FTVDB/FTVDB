@@ -26,5 +26,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/29/2042d3c2-fd6a-4243-a5d9-64be165c5231/amzn-image-swupdate-persimmon.swu",
         "versionCode": "7202000014820",
         "versionName": "Vega OS 2.0 (Echo Ship 1575 hf/148)"
+    },
+    {
+        "md5": "a9b4e75fb17ebd475071c61271b212dd",
+        "uploaded": "2026-11-09",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/9/1111cdaf-417a-48c6-be3c-9ca41b0f3f5f/amzn-image-swupdate-persimmon.swu",
+        "versionCode": "7202000018420",
+        "versionName": "Vega OS 2.0 (Echo Ship 1575 hf/184)"
     }
 ]

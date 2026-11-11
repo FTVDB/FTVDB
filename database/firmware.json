@@ -315,6 +315,13 @@
             "Echo - 4th Gen (2020)"
         ]
     },
+    "com.amazon.lassen.android.os": {
+        "category": "",
+        "model": "",
+        "title": [
+            "com.amazon.lassen.android.os"
+        ]
+    },
     "com.amazon.lidar.android.os": {
         "category": "echo",
         "model": "",

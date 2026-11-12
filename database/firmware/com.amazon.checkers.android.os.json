@@ -152,5 +152,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/2/a2d9eb31-beb9-45b6-8b39-216cb1263150/update-kindle-checkers-NS65751_user_8848_0013524701316.bin",
         "versionCode": "13524701316",
         "versionName": "Fire OS 6575.1 (NS65751/8848)"
+    },
+    {
+        "md5": "41e28f3ddd9671e5eef7da11080d516f",
+        "uploaded": "2026-11-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/12/473d6ded-76f2-4a0f-b0dc-de93f7ba8aef/update-kindle-checkers-NS65751_user_8851_0013524702084.bin",
+        "versionCode": "13524702084",
+        "versionName": "Fire OS 6575.1 (NS65751/8851)"
     }
 ]

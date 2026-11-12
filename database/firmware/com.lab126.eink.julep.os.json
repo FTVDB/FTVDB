@@ -5,5 +5,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/28/757ad4b1-3f4c-4da5-9737-c95934760489/update-J2002-platjp5_julep-049-fwo_4936740049.bin",
         "versionCode": "4936740049",
         "versionName": "5.20.2"
+    },
+    {
+        "md5": "12776f844fd684cb600320620163c541",
+        "uploaded": "2026-11-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/10/45a63639-0e4f-4051-986f-810657d00338/update-J20020001-platjp5_julep-004-fwo_4954960004.bin",
+        "versionCode": "4954960004",
+        "versionName": "5.20.2.0.1"
     }
 ]

@@ -667,7 +667,7 @@
     },
     "com.lab126.eink.julep.os": {
         "category": "kindle",
-        "model": "KINDLE-2026",
+        "model": "COLORSOFT-2026",
         "title": [
             "Kindle Colorsoft - 2nd Gen (2026)"
         ]
@@ -802,7 +802,7 @@
         "category": "kindle",
         "model": "COLORSOFT-2024",
         "title": [
-            "Kindle Colorsoft Signature Edition (2024)"
+            "Kindle Colorsoft - 1st Gen (2024)"
         ]
     },
     "com.lab126.eink.stinger.os": {

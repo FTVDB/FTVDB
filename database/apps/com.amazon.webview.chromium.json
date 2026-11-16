@@ -299,5 +299,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/22/477c00a9-50b6-4435-b630-fc4a3534d61a/1790114918437-arm32_v3_signed-awv-amazon-webview-v138-7204-619988-8ce74ba-arm32.apk",
         "versionCode": "61998832",
         "versionName": "138.amazon-webview-v138-7204.7204.244.276"
+    },
+    {
+        "md5": "2de67af6a72b358298078e74c497831e",
+        "uploaded": "2026-11-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/10/7130e8c8-fb9c-4e6b-a5a8-5e1625801d82/1794347434274-arm32_v3_signed-awv-amazon-webview-v138-7204-rz000-620356-0cbe9cf-arm32.apk",
+        "versionCode": "62035632",
+        "versionName": "138.amazon-webview-v138-7204-rz000.7204.244.251"
     }
 ]

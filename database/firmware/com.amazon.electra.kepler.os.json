@@ -33,5 +33,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/5/2c066390-fac9-4c2c-8406-bad68213f13f/amzn-image-swupdate-electra.swu",
         "versionCode": "7202000017420",
         "versionName": "Vega OS 2.0 (Echo Ship 1575 hf/174)"
+    },
+    {
+        "md5": "813820397399b6c6db2b2a0ac19eab78",
+        "uploaded": "2026-11-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/12/56bab864-81fc-4dab-9c23-70d2a5151217/amzn-image-swupdate-electra.swu",
+        "versionCode": "7202000019720",
+        "versionName": "Vega OS 2.0 (Echo Ship 1575 hf/197)"
     }
 ]

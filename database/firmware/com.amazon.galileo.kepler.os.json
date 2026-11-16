@@ -19,5 +19,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/26/f60471c6-03fe-4526-9b5c-30b5378d1e5b/amzn-image-swupdate-galileo.swu",
         "versionCode": "6401030007920",
         "versionName": "Vega OS 1.3 (Echo Ship 1574/79)"
+    },
+    {
+        "md5": "0c16811763ec5c2b7de2b036d11c745d",
+        "uploaded": "2026-11-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/12/65c2e873-03a8-4513-9b91-0aec8465a644/amzn-image-swupdate-galileo.swu",
+        "versionCode": "6401030008120",
+        "versionName": "Vega OS 1.3 (Echo Ship 1574/81)"
     }
 ]

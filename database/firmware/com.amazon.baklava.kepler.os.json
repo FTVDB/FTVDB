@@ -33,5 +33,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/11/b12e67e6-0cae-4670-97ba-892fe1038740/amzn-image-swupdate-baklava.swu",
         "versionCode": "7202000019220",
         "versionName": "Vega OS 2.0 (Echo Ship 1575 hf/192)"
+    },
+    {
+        "md5": "705eaf3c69635b6448a5ac99b275bd52",
+        "uploaded": "2026-11-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/12/e92497b2-328d-40dc-85d5-8d957ef9ed35/amzn-image-swupdate-baklava.swu",
+        "versionCode": "7202000019720",
+        "versionName": "Vega OS 2.0 (Echo Ship 1575 hf/197)"
     }
 ]

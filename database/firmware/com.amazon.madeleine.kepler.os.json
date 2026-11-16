@@ -33,5 +33,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/5/8d36a549-1745-40cb-ba51-a16115725eec/amzn-image-swupdate-madeleine.swu",
         "versionCode": "7202000017420",
         "versionName": "Vega OS 2.0 (Echo Ship 1575 hf/174)"
+    },
+    {
+        "md5": "e1e6bb6a357fbaa2a2e90db3d2122889",
+        "uploaded": "2026-11-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/12/f9a49792-33fd-4f7c-b636-e07c323fc0c6/amzn-image-swupdate-madeleine.swu",
+        "versionCode": "7202000019720",
+        "versionName": "Vega OS 2.0 (Echo Ship 1575 hf/197)"
     }
 ]

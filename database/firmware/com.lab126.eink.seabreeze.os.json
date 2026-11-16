@@ -173,5 +173,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/34311cb3-ddc1-4fde-b14e-9dba296e28e1/update-J2002-bellatrix4_seabreeze-048-fwo_4935800048.bin",
         "versionCode": "4935800048",
         "versionName": "5.20.2"
+    },
+    {
+        "md5": "ce0d2689ad23c8d47c85fa1d6eff10ba",
+        "uploaded": "2026-11-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/10/8d82a22b-92e3-4e1d-b025-e8be6b310a70/update-J20020001-bellatrix4_seabreeze-004-fwo_4954980004.bin",
+        "versionCode": "4954980004",
+        "versionName": "5.20.2.0.1"
     }
 ]

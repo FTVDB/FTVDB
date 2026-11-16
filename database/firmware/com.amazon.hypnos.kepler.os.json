@@ -26,5 +26,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/5/b3920a21-ac8f-45b0-a64f-f6e42d190151/amzn-image-swupdate-hypnos.swu",
         "versionCode": "7202000017420",
         "versionName": "Vega OS 2.0 (Echo Ship 1575 hf/174)"
+    },
+    {
+        "md5": "73eaa995d6b08baa3381684060e528fb",
+        "uploaded": "2026-11-12",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/12/e1779b81-9dab-41da-843d-7404879cef3c/amzn-image-swupdate-hypnos.swu",
+        "versionCode": "6401030008120",
+        "versionName": "Vega OS 1.3 (Echo Ship 1574/81)"
     }
 ]

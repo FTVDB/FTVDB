@@ -276,5 +276,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/28/420d3263-4fa1-49b7-af4d-f53f14f230b5/update-kindle-gazelle-PS7717_user_5746_0036408029828.bin",
         "versionCode": "36408029828",
         "versionName": "Fire OS 7.7.1.7 (PS7717/5746)"
+    },
+    {
+        "md5": "9bf6bfa4fe9849576f2478d9219f6123",
+        "uploaded": "2026-11-13",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/13/5bab9f79-c4d5-41aa-a584-13a385e7e873/update-kindle-gazelle-PS7718_user_5826_0036609376900.bin",
+        "versionCode": "36609376900",
+        "versionName": "Fire OS 7.7.1.8 (PS7718/5826)"
     }
 ]

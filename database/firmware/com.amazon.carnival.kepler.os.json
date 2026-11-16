@@ -12,5 +12,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/6/807f488c-c35e-4f86-af34-121beb88c0b4/amzn-image-swupdate-carnival.swu",
         "versionCode": "2502000008220",
         "versionName": "Vega OS 2.0 (TV Ship/82)"
+    },
+    {
+        "md5": "10dc43b58c01425d492ad3e8a23d28fe",
+        "uploaded": "2026-11-11",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/11/c478f5f9-3130-4bba-9618-933854776fcc/amzn-image-swupdate-carnival.swu",
+        "versionCode": "2502000008520",
+        "versionName": "Vega OS 2.0 (TV Ship/85)"
     }
 ]

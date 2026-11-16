@@ -582,5 +582,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/11/5da4a7e0-4506-497b-a5f3-8e38820840d9/1794378995050-signed_slate_echo_v118_38_1_arm.apk",
         "versionCode": "1238000140",
         "versionName": "118.38.1.5993.155.40"
+    },
+    {
+        "md5": "65558b6f9a92de1a32e82963f7a0f6f8",
+        "uploaded": "2026-11-13",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/13/5003e554-ded9-4928-9627-8526c246d027/1794558573948-signed_slate_echo_v138_21_1_arm.apk",
+        "versionCode": "1411001040",
+        "versionName": "138.21.1.0.7204.244.40"
     }
 ]

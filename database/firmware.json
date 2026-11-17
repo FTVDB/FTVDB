@@ -512,10 +512,10 @@
         ]
     },
     "com.amazon.spinel.android.os": {
-        "category": "",
+        "category": "firetablet",
         "model": "ATSPWI",
         "title": [
-            "Amazon ATSPWI"
+            "Amazon Alexa Tablet 12 (2026)"
         ]
     },
     "com.amazon.stark.android.os": {

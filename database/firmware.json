@@ -511,6 +511,13 @@
             "Echo Plus - 1st Gen (2017)"
         ]
     },
+    "com.amazon.spinel.android.os": {
+        "category": "",
+        "model": "ATSPWI",
+        "title": [
+            "Amazon ATSPWI"
+        ]
+    },
     "com.amazon.stark.android.os": {
         "category": "firetv",
         "model": "AFTA",

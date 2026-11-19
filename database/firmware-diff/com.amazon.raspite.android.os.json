@@ -174,5 +174,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/4977456f-2da1-446f-a595-8213c9f6a296/update-raspite-diff-RS8332.3115N_3115_0025837710212-to-RS8338_user_3339_0030132734852.bin",
         "versionCode": "30132734852",
         "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "fromVersionCode": "30132734852",
+        "md5": "e9fbc9a9d7439bf784fa0c0ee91f1d0c",
+        "uploaded": "2026-11-06",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/6/c70a5473-528e-4602-98f1-a43490adad1d/update-raspite-diff-RS8338.3339N_3339_0030132734852-to-RS8338_user_3358_0030132739716.bin",
+        "versionCode": "30132739716",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3358)"
     }
 ]

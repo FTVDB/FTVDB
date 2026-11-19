@@ -198,5 +198,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/7/6df17bbc-454d-4011-9372-fda79954962b/update-maverick-diff-PS7331.4460N_4460_0031575862404-to-PS7331_user_4463_0031575863172.bin",
         "versionCode": "31575863172",
         "versionName": "Fire OS 7.3.3.1 (PS7331/4463)"
+    },
+    {
+        "fromVersionCode": "31575863172",
+        "md5": "5e6c39641a5d685aa2b3eb2950332365",
+        "uploaded": "2026-11-06",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/6/7463182c-f60f-4563-89e2-9f8c0389b158/update-maverick-diff-PS7331.4463N_4463_0031575863172-to-PS7331_user_4494_0031575871108.bin",
+        "versionCode": "31575871108",
+        "versionName": "Fire OS 7.3.3.1 (PS7331/4494)"
     }
 ]

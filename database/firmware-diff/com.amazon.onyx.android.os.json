@@ -174,5 +174,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/7/2a7bd4b6-5733-4473-afd8-717159b5c82f/update-onyx-diff-PS7331.4460N_4460_0031575862404-to-PS7331_user_4463_0031575863172.bin",
         "versionCode": "31575863172",
         "versionName": "Fire OS 7.3.3.1 (PS7331/4463)"
+    },
+    {
+        "fromVersionCode": "31575863172",
+        "md5": "071cea2a4223de064e42428a5b68ba79",
+        "uploaded": "2026-11-05",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/5/3dcb08b9-2905-4f0e-9220-dcb1e8477e3b/update-onyx-diff-PS7331.4463N_4463_0031575863172-to-PS7331_user_4494_0031575871108.bin",
+        "versionCode": "31575871108",
+        "versionName": "Fire OS 7.3.3.1 (PS7331/4494)"
     }
 ]

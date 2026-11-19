@@ -198,5 +198,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/12/d696db85-264c-4be7-b67e-3555febedf2e/update-mustang-diff-PS7331.4460N_4460_0031575862404-to-PS7331_user_4463_0031575863172.bin",
         "versionCode": "31575863172",
         "versionName": "Fire OS 7.3.3.1 (PS7331/4463)"
+    },
+    {
+        "fromVersionCode": "31575863172",
+        "md5": "3f8c9ea50d57e9c50d13a71409fc6e72",
+        "uploaded": "2026-11-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/10/bd0907b4-5ccb-4957-9a1f-df56bd9ff639/update-mustang-diff-PS7331.4463N_4463_0031575863172-to-PS7331_user_4494_0031575871108.bin",
+        "versionCode": "31575871108",
+        "versionName": "Fire OS 7.3.3.1 (PS7331/4494)"
     }
 ]

@@ -215,5 +215,12 @@
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xDz75MnJ9npabcd/update-kindle-Fire_HD10_9th_Gen-PS7331_user_4463_0031575863172.bin",
         "versionCode": "31575863172",
         "versionName": "Fire OS 7.3.3.1 (PS7331/4463)"
+    },
+    {
+        "md5": "4a25abb92eb7e7db353ed46196a85713",
+        "uploaded": "2026-11-11",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/11/bfd0d8fd-5e49-4c38-b548-83b224156225/update-kindle-maverick-PS7331_user_4494_0031575871108.bin",
+        "versionCode": "31575871108",
+        "versionName": "Fire OS 7.3.3.1 (PS7331/4494)"
     }
 ]

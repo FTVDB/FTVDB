@@ -138,5 +138,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/4/ff458522-7887-43f6-a7c0-8dc91d2adcea/update-kindle-tungsten-RS8338_user_3344_0030132736132.bin",
         "versionCode": "30132736132",
         "versionName": "Fire OS 8.3.3.8 (RS8338/3344)"
+    },
+    {
+        "md5": "b6e4fc135c48cd2cb864c21fa9020a25",
+        "uploaded": "2026-11-11",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/11/c8b1fc83-f35b-4f12-939a-d8a7550831ba/update-kindle-tungsten-RS8338_user_3358_0030132739716.bin",
+        "versionCode": "30132739716",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3358)"
     }
 ]

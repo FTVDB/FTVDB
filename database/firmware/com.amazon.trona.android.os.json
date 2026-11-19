@@ -145,5 +145,12 @@
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xDz75MnJ9npabcf/update-kindle-Fire_HD10-PS7331_user_4463_0031575863172.bin",
         "versionCode": "31575863172",
         "versionName": "Fire OS 7.3.3.1 (PS7331/4463)"
+    },
+    {
+        "md5": "cb11831cbc637ea722c4d6f8f0543e0f",
+        "uploaded": "2026-11-11",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/11/c03ae416-37ad-49a2-a44e-0b0c3489d4bd/update-kindle-trona-PS7331_user_4494_0031575871108.bin",
+        "versionCode": "31575871108",
+        "versionName": "Fire OS 7.3.3.1 (PS7331/4494)"
     }
 ]

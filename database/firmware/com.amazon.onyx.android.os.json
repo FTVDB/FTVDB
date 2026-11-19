@@ -159,5 +159,12 @@
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xDz75MnJ9npabcc/update-kindle-Fire_HD8_10th_Gen-PS7331_user_4463_0031575863172.bin",
         "versionCode": "31575863172",
         "versionName": "Fire OS 7.3.3.1 (PS7331/4463)"
+    },
+    {
+        "md5": "7ad8330144c4a0ea9d3b40b687e8e83b",
+        "uploaded": "2026-11-11",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/11/c6793dbb-f3f0-4b9d-8013-d684c31234cb/update-kindle-onyx-PS7331_user_4494_0031575871108.bin",
+        "versionCode": "31575871108",
+        "versionName": "Fire OS 7.3.3.1 (PS7331/4494)"
     }
 ]

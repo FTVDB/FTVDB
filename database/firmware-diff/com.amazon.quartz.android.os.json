@@ -134,5 +134,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/936cae7f-d0b8-45d0-90e2-7f7b1dee4740/update-quartz-diff-RS8319.1664N_1664_0021508817028-to-RS8338_user_3339_0030132734852.bin",
         "versionCode": "30132734852",
         "versionName": "Fire OS 8.3.3.8 (RS8338/3339)"
+    },
+    {
+        "fromVersionCode": "30132734852",
+        "md5": "4dd2dc71589709572872bb74109ff618",
+        "uploaded": "2026-11-06",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/6/e01e7e22-6ee2-4bfc-b10e-123d3b2ce536/update-quartz-diff-RS8338.3339N_3339_0030132734852-to-RS8338_user_3358_0030132739716.bin",
+        "versionCode": "30132739716",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3358)"
     }
 ]

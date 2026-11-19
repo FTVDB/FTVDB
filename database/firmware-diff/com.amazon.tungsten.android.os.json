@@ -110,5 +110,21 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/8/26/576ff36b-fc60-4885-ae5b-e201c61f551d/update-tungsten-diff-RS8338.3339N_3339_0030132734852-to-RS8338_user_3344_0030132736132.bin",
         "versionCode": "30132736132",
         "versionName": "Fire OS 8.3.3.8 (RS8338/3344)"
+    },
+    {
+        "fromVersionCode": "30132736132",
+        "md5": "883dc1c7e62af7796e9b5684ca9d8607",
+        "uploaded": "2026-11-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/10/9dd5c7d9-8627-4c4d-9240-5de6fc4299c2/update-tungsten-diff-RS8338.3344N_3344_0030132736132-to-RS8338_user_3358_0030132739716.bin",
+        "versionCode": "30132739716",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3358)"
+    },
+    {
+        "fromVersionCode": "30132734852",
+        "md5": "79b16fbac9421fa2e59825995c71e690",
+        "uploaded": "2026-11-10",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/10/66c51ac6-a9f7-4f44-b28c-799ba2b1143b/update-tungsten-diff-RS8338.3339N_3339_0030132734852-to-RS8338_user_3358_0030132739716.bin",
+        "versionCode": "30132739716",
+        "versionName": "Fire OS 8.3.3.8 (RS8338/3358)"
     }
 ]

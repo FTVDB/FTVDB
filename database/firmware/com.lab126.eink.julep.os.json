@@ -19,5 +19,12 @@
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_2026_5.20.2.0.1.bin",
         "versionCode": "4954960004",
         "versionName": "5.20.2.0.1"
+    },
+    {
+        "md5": "12776f844fd684cb600320620163c541",
+        "uploaded": "2026-11-11",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_signature_2026_5.20.2.0.1.bin",
+        "versionCode": "4954960004",
+        "versionName": "5.20.2.0.1"
     }
 ]

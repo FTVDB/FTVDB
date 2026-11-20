@@ -173,5 +173,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/10/0ff4e18d-09f4-4de6-808d-03033cd7861e/update-J20020001-bellatrix3_pisco-004-fwo_4954930004.bin",
         "versionCode": "4954930004",
         "versionName": "5.20.2.0.1"
+    },
+    {
+        "md5": "e8e9693d508b259860b70b09cadd4842",
+        "uploaded": "2026-11-11",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_2024_5.20.2.0.1.bin",
+        "versionCode": "4954930004",
+        "versionName": "5.20.2.0.1"
     }
 ]

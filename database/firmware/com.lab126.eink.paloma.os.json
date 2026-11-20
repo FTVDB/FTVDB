@@ -110,5 +110,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/10/f01eabf0-043f-4e94-9daf-3541811c936f/update-J20020001-platpa6_paloma-004-fwo_4954910004.bin",
         "versionCode": "4954910004",
         "versionName": "5.20.2.0.1"
+    },
+    {
+        "md5": "313c1cbc5f5ce0dc75c3ba000a363bc6",
+        "uploaded": "2026-11-11",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_3rd_generation_5.20.2.0.1.bin",
+        "versionCode": "4954910004",
+        "versionName": "5.20.2.0.1"
     }
 ]

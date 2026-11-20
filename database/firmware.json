@@ -602,6 +602,13 @@
             "Alexa Tablet 11 (2026)"
         ]
     },
+    "com.lab126.eink.amaro.os": {
+        "category": "",
+        "model": "0X12-",
+        "title": [
+            "Unknown (0x1720)"
+        ]
+    },
     "com.lab126.eink.barolo.os": {
         "category": "kindle",
         "model": "SCRIBE1-2022",

@@ -313,5 +313,12 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/10/836cbc7c-780c-46e0-8f64-ebae6efb9c1b/update-J20020001-bellatrix3_barolo-004-fwo_4954900004.bin",
         "versionCode": "4954900004",
         "versionName": "5.20.2.0.1"
+    },
+    {
+        "md5": "24a8047f7a1e053c38b64b1dd4efb8c1",
+        "uploaded": "2026-11-11",
+        "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.20.2.0.1.bin",
+        "versionCode": "4954900004",
+        "versionName": "5.20.2.0.1"
     }
 ]

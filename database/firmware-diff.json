@@ -8,7 +8,7 @@
     },
     "com.amazon.apollo.android.os": {
         "category": "firetablet",
-        "model": "",
+        "model": "KFHD8.9-2013",
         "title": [
             "Kindle Fire HDX 8.9 - 3rd Gen (2013)"
         ]
@@ -295,7 +295,7 @@
     },
     "com.amazon.thor.android.os": {
         "category": "firetablet",
-        "model": "",
+        "model": "KFHDX7-2013",
         "title": [
             "Kindle Fire HDX 7 - 3rd Gen (2013)"
         ]

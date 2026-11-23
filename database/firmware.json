@@ -170,7 +170,7 @@
     },
     "com.amazon.doebrite.android.os": {
         "category": "echo",
-        "model": "",
+        "model": "AEODB",
         "title": [
             "Echo Dot with Clock - 3rd Gen (2019)"
         ]

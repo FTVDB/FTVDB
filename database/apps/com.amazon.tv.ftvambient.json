@@ -1,6 +1,7 @@
 [
     {
         "md5": "24ac974948cc2e9ed1a7c4ef15edc709",
+        "status": 200,
         "uploaded": "2023-08-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b8ead6c239ad2c1312d2b13548f612ea/FTVAmbient-release4.apk",
         "versionCode": "8026310",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "2d65f6e0f0b1669736405d065aea2efe",
+        "status": 200,
         "uploaded": "2024-01-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/1/17/dcd2edbd-f86c-4e8e-bd7c-ac2a0de46b6f/1705528040551-FTVAmbient-release_10029010.apk",
         "versionCode": "10029010",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "82cf46d608eaf99aea413ceeb36eda54",
+        "status": 200,
         "uploaded": "2026-07-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/15/80aa8475-f4cd-41b1-b3ea-02582ae32993/1784109561166-FTVAmbient-release.apk",
         "versionCode": "30008910",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "36b5f296d648fecc2bae1c4c944cb1b5",
+        "status": 200,
         "uploaded": "2026-07-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/29/850f743f-bb21-4cd6-a13a-cf0e863c1c84/1785314684719-FTVAmbient-release.apk",
         "versionCode": "31003810",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "4327b3c3d8be98573bfae78c2a62b8c5",
+        "status": 200,
         "uploaded": "2026-10-05",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/5/498533f0-621e-4978-bae6-ca34d963659f/FTVAmbient-release.apk",
         "versionCode": "32008810",

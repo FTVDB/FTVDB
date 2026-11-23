@@ -1,6 +1,7 @@
 [
     {
         "md5": "4a637c823bb39d86006a89161751ea92",
+        "status": 200,
         "uploaded": "2026-09-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/15/847483bb-7950-47fd-8855-499a3171495f/amzn-image-swupdate-galileo.swu",
         "versionCode": "6401030007120",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "0d07641a160fbc1552cda218d17bda61",
+        "status": 200,
         "uploaded": "2026-10-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/20/82b7de6b-550f-4fd6-bf51-6205b093448d/amzn-image-swupdate-galileo.swu",
         "versionCode": "6401030007720",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "aecdaeef2af8fa206a9b4a70a30076b7",
+        "status": 200,
         "uploaded": "2026-10-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/26/f60471c6-03fe-4526-9b5c-30b5378d1e5b/amzn-image-swupdate-galileo.swu",
         "versionCode": "6401030007920",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "0c16811763ec5c2b7de2b036d11c745d",
+        "status": 200,
         "uploaded": "2026-11-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/12/65c2e873-03a8-4513-9b91-0aec8465a644/amzn-image-swupdate-galileo.swu",
         "versionCode": "6401030008120",

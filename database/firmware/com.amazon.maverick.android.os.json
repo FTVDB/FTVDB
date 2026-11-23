@@ -1,6 +1,7 @@
 [
     {
         "md5": "65468505a5d032c1fc086dc0bb5cc575",
+        "status": 200,
         "uploaded": "2019-10-24",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/cOsaesbtM38PGA7P5QxdZvbLRb/update-kindle-PS7311_user_1065_0017549240708.bin",
         "versionCode": "17549240708",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "4a684b9e9001ca4b56ab827493764581",
+        "status": 200,
         "uploaded": "2019-11-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/38c9be3d0d42aa59d5ba35f402fdae92/update-kindle-maverick-PS7311_user_1082_0017549245060.bin",
         "versionCode": "17549245060",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "fa52b6bc40ce685a221b507b500a0a0a",
+        "status": 200,
         "uploaded": "2020-01-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/1de1a4d2313a10469e48fc72a5151370/update-kindle-maverick-PS7312_user_1271_0017884837764.bin",
         "versionCode": "17884837764",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "fa52b6bc40ce685a221b507b500a0a0a",
+        "status": 200,
         "uploaded": "2020-01-30",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/zAHDR4YGh5WL4k2216LPmsbvZX/update-kindle-Fire_HD10_9th_Gen-PS7312_user_1271_0017884837764.bin",
         "versionCode": "17884837764",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "a6357fa2d653ad01f3f8f0728b1a1fd8",
+        "status": 200,
         "uploaded": "2020-05-14",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/S2aCIUD3YILS8graA2rfxpQU2Y/update-kindle-PS7314_user_1442_0018086208132.bin",
         "versionCode": "18086208132",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "0e427bed172110675d4e46ad47fde16e",
+        "status": 200,
         "uploaded": "2020-08-03",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/Kt2YVX7Phvg9hVC4jYDf0jKLF0/update-kindle-Fire_HD10_9th_Gen-PS7315_user_1958_0018354775684.bin",
         "versionCode": "18354775684",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "9fe9dba2e33adb915dd446e52e6410cc",
+        "status": 200,
         "uploaded": "2020-10-10",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c8165fc11078a449d2ec3dd97479dfa9/update-kindle-maverick-PS7316_user_1737_0018824481156.bin",
         "versionCode": "18824481156",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "55a1a35c801cdecf8cfbea88efc79c5b",
+        "status": 200,
         "uploaded": "2020-11-03",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/UPD2PgdmBwifkntS40eKU2lKGg/update-kindle-Fire_HD10_9th_Gen-PS7317_user_1804_0019227151492.bin",
         "versionCode": "19227151492",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "5078b366488b772a7553347f253332ca",
+        "status": 200,
         "uploaded": "2020-11-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/30b5fd02d79836886462124910bc916a/update-kindle-maverick-PS7317_user_1806_0019227152004.bin",
         "versionCode": "19227152004",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "f48f4d7615e4754e2f53bfdf8d06b9b5",
+        "status": 200,
         "uploaded": "2020-12-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/62b62ca543651fce50ef93d9794927fe/update-kindle-maverick-PS7317_user_1810_0019227153028.bin",
         "versionCode": "19227153028",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "dc5e3a69c75e3128fb6b2e5e42852b90",
+        "status": 200,
         "uploaded": "2021-02-04",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/ANVDLuzvdLRkGAg0F2Npotqdg0/update-kindle-Fire_HD10_9th_Gen-PS7318_user_1957_0019696952708.bin",
         "versionCode": "19696952708",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "c1af8f3b9cf271f5a91e82227e2ecf5b",
+        "status": 200,
         "uploaded": "2021-04-27",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/vqm68U6vhZiLOesz4att2M044g/update-kindle-Fire_HD10_9th_Gen-PS7319_user_1726_0020367982212.bin",
         "versionCode": "20367982212",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "458b4a570293150d26bf9ca8195f4f95",
+        "status": 200,
         "uploaded": "2021-07-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2eebd4e4c1b08a191a1984efd67b828c/update-kindle-maverick-PS7321_user_2319_0021274103684.bin",
         "versionCode": "21274103684",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "83f8d09155396e6b71384c0d5fbb21ea",
+        "status": 200,
         "uploaded": "2021-10-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/680a0ed379ba0eaca5874787e4278ab4/update-kindle-maverick-PS7321_user_2330_0021274106500.bin",
         "versionCode": "21274106500",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "53c2dba7dafd1748d0b062b1e3dadce4",
+        "status": 200,
         "uploaded": "2021-11-08",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/XKyAEBhdFrKHZtdTMHCQtUx2N8/update-kindle-Fire_HD10_9th_Gen-PS7322_user_2514_0022247232132.bin",
         "versionCode": "22247232132",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "516f65d54999f0490b06ff53852ad2ff",
+        "status": 200,
         "uploaded": "2021-11-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c858182d0023936c028f8c90f8f4d361/update-kindle-maverick-PS7322_user_2515_0022247232388.bin",
         "versionCode": "22247232388",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "765e3610b238f2f1e6d23d5aaa93bc75",
+        "status": 200,
         "uploaded": "2021-11-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/8cee89749419fdc596bccd1dd000bbc9/update-kindle-maverick-PS7322_user_2519_0022247233412.bin",
         "versionCode": "22247233412",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "72d3d27be914a3b377e8e154aee94d2c",
+        "status": 200,
         "uploaded": "2022-02-08",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/42f24d3df15425886915fcdf705900ca/update-kindle-maverick-PS7322_user_2547_0022247240580.bin",
         "versionCode": "22247240580",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "21dcb3e34c01f1021c283b69b8dcbf9c",
+        "status": 200,
         "uploaded": "2022-07-05",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/0ekEeaqOGXDnCPab37oQYndVWz/update-kindle-Fire_HD10_9th_Gen-PS7323_user_2834_0023455273604.bin",
         "versionCode": "23455273604",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "69990699e44f437625b12b53b718b367",
+        "status": 200,
         "uploaded": "2022-08-24",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/xpZLMAeQ4JUqHjDqx6DA684yIE/update-kindle-Fire_HD10_9th_Gen-PS7324_user_3016_0024529062020.bin",
         "versionCode": "24529062020",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "afd279a94ca90e5d7df4d1f3e73923cb",
+        "status": 200,
         "uploaded": "2022-10-28",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/qNA5ucxrq7P9swl1a5aWBuHLxw/update-kindle-Fire_HD10_9th_Gen-PS7326_user_3178_0025602845316.bin",
         "versionCode": "25602845316",
@@ -148,6 +169,7 @@
     },
     {
         "md5": "7fed9706d8e05308cc70650336fbd054",
+        "status": 200,
         "uploaded": "2023-02-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/17e3b7b6fc13b8fcdeea206d987b5c12/update-kindle-maverick-PS7327_user_3326_0026743733892.bin",
         "versionCode": "26743733892",
@@ -155,6 +177,7 @@
     },
     {
         "md5": "12840578106648451e0e4a7ca5fc6169",
+        "status": 200,
         "uploaded": "2023-05-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/cd541afef1252a8e3a090bb83f4fd2fc/update-kindle-maverick-PS7327_user_3329_0026743734660.bin",
         "versionCode": "26743734660",
@@ -162,6 +185,7 @@
     },
     {
         "md5": "cd953bdb1e849d51e1e72d94d0b3a1a9",
+        "status": 200,
         "uploaded": "2023-09-28",
         "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/11ddfeap1GXdqCPab39o1Yn1dWv/update-kindle-Fire_HD10_9th_Gen-PS7327_user_3336_0026743736452.bin",
         "versionCode": "26743736452",
@@ -169,6 +193,7 @@
     },
     {
         "md5": "a82b1f729f16b0cfe3b827ba3c7fabaf",
+        "status": 200,
         "uploaded": "2023-10-25",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/531b174d05e7a48c4f6c36cec1c4c9b9/update-kindle-maverick-PS7329_user_3836_0029294001284.bin",
         "versionCode": "29294001284",
@@ -176,6 +201,7 @@
     },
     {
         "md5": "0e802669052e69135da6b0e2010243ce",
+        "status": 200,
         "uploaded": "2023-12-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/3fd9bdffc99c72ddf2fe934fa1e92d3b/update-kindle-maverick-PS7329_user_3838_0029294001796.bin",
         "versionCode": "29294001796",
@@ -183,6 +209,7 @@
     },
     {
         "md5": "50cec9d0e0c1fc50059ef23a98e1f5ac",
+        "status": 200,
         "uploaded": "2024-01-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/1/24/8b747729-26a7-49cb-a659-ec13d55bca7f/update-kindle-maverick-PS7329_user_3842_0029294002820.bin",
         "versionCode": "29294002820",
@@ -190,6 +217,7 @@
     },
     {
         "md5": "5aa0bc27e68ac4d89e8bc521cd4816f0",
+        "status": 200,
         "uploaded": "2024-03-29",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/0YMPix3kScPzaIzlKp1JO1B3YK/Fire_HD10_9th_Gen-PS7329_user_3851_0029294005124.bin",
         "versionCode": "29294005124",
@@ -197,6 +225,7 @@
     },
     {
         "md5": "172bdcb81dc931b2c6a5cda9b22498bb",
+        "status": 200,
         "uploaded": "2024-07-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/16/24855103-37b5-4a56-aaae-fcf24c662b14/update-kindle-maverick-PS7329_user_3856_0029294006404.bin",
         "versionCode": "29294006404",
@@ -204,6 +233,7 @@
     },
     {
         "md5": "5742f0f0233974cb3502dbede559843d",
+        "status": 200,
         "uploaded": "2024-10-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/28/0c845d2b-39e3-47a0-8a57-e76760fc73ea/update-kindle-maverick-PS7331_user_4460_0031575862404.bin",
         "versionCode": "31575862404",
@@ -211,6 +241,7 @@
     },
     {
         "md5": "ef7952f00d28addcd8c550202d678e32",
+        "status": 200,
         "uploaded": "2025-06-11",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xDz75MnJ9npabcd/update-kindle-Fire_HD10_9th_Gen-PS7331_user_4463_0031575863172.bin",
         "versionCode": "31575863172",
@@ -218,6 +249,7 @@
     },
     {
         "md5": "4a25abb92eb7e7db353ed46196a85713",
+        "status": 200,
         "uploaded": "2026-11-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/11/bfd0d8fd-5e49-4c38-b548-83b224156225/update-kindle-maverick-PS7331_user_4494_0031575871108.bin",
         "versionCode": "31575871108",

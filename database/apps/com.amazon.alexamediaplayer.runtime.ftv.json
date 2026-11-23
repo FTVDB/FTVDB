@@ -1,6 +1,7 @@
 [
     {
         "md5": "8211773023df53e2feaeb854bfa89c57",
+        "status": 200,
         "uploaded": "2021-04-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/06f18d30e3c0be366c092c56663f8b51/signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release.apk",
         "versionCode": "1392210",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "26e301188fefaaa766cfd8a7cef6360d",
+        "status": 200,
         "uploaded": "2021-07-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/9a5671736dd51190b5797c1b6982b194/signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release.apk",
         "versionCode": "11121310",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "3ffad5cb2994a4b68c0c87bfb36c36cb",
+        "status": 200,
         "uploaded": "2021-10-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/f01cf0ef27a777c16b9e1dea0f514538/signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release.apk",
         "versionCode": "11393010",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "5bd10fe620fe0ac2da02cc27dc11457b",
+        "status": 200,
         "uploaded": "2022-06-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/aab5ea23bee6f8ad076d04c855c3171a/signed_AlexaMediaPlayer-Android-Runtime-FTV-armeabi-v7a-release.apk",
         "versionCode": "12823210",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "21856c956b8de3e040b6758d0061091c",
+        "status": 200,
         "uploaded": "2022-06-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/749a4ae5382760432196051588e30ec6/signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release.apk",
         "versionCode": "13133210",
@@ -37,6 +42,7 @@
     {
         "md5": "dcf48758817b41b8922be07479770010",
         "optout": 1,
+        "status": 200,
         "uploaded": "2022-12-01",
         "url": "",
         "versionCode": "14129010",
@@ -44,6 +50,7 @@
     },
     {
         "md5": "ac3fecaad013c911444a4bf7586e5e78",
+        "status": 200,
         "uploaded": "2023-02-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/8d8335ee23f6d41b4b50142f0d96523b/signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release_2.apk",
         "versionCode": "14337410",
@@ -51,6 +58,7 @@
     },
     {
         "md5": "f08fd0fefd2cdabc32a834d18f3044b8",
+        "status": 200,
         "uploaded": "2023-05-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/229a7cf7c9bb566022c07c79fe24ec32/signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release_AMPR-58.apk",
         "versionCode": "14393710",
@@ -58,6 +66,7 @@
     },
     {
         "md5": "a16202645d716890d2e2ed831efa4cfb",
+        "status": 200,
         "uploaded": "2023-07-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2fa2609009b81d8462109bfab308a191/signed_AMPR-FTV-xhdpiArmeabi-v7a-release-1.0.26095.0.apk",
         "versionCode": "14692910",
@@ -65,6 +74,7 @@
     },
     {
         "md5": "e09df51ebdecededd5c374c498c7ef7a",
+        "status": 200,
         "uploaded": "2023-09-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/4c344b9fe3a8257cd5dd2ff047f2d549/signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release.apk",
         "versionCode": "14884810",
@@ -72,6 +82,7 @@
     },
     {
         "md5": "54987eba305662509f27c6fb50a723f3",
+        "status": 200,
         "uploaded": "2024-03-13",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/3/13/6c659795-40f4-4229-a701-e2f3b42b8d4a/1710354765740-signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release.apk",
         "versionCode": "15262410",
@@ -80,6 +91,7 @@
     {
         "md5": "431a917245e32aeff3049b790bc642bc",
         "optout": 1,
+        "status": 200,
         "uploaded": "2024-05-16",
         "url": "",
         "versionCode": "15406010",
@@ -87,6 +99,7 @@
     },
     {
         "md5": "6b71c6e7975e9f82e14ad9703e9e1131",
+        "status": 200,
         "uploaded": "2024-07-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/3/ce2c6901-f4ac-486c-adcf-0891f58ec3c5/1720001565945-signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release_44218.apk",
         "versionCode": "15595110",
@@ -94,6 +107,7 @@
     },
     {
         "md5": "f079ae7202e7c2512377183f6ac4376f",
+        "status": 200,
         "uploaded": "2025-02-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/2/18/f362a3fc-e0bb-4112-8256-41a6fb193a8b/1739870922478-signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release_1.0.54607.0.apk",
         "versionCode": "16053810",
@@ -101,6 +115,7 @@
     },
     {
         "md5": "706bd5b1f9df9f2bab373f0afb6f1265",
+        "status": 200,
         "uploaded": "2025-03-10",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/3/10/267033d4-fbbc-479d-ba4f-0c57070dbd78/1741601567429-signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release_1.0.55951.0.apk",
         "versionCode": "16083310",
@@ -109,6 +124,7 @@
     {
         "md5": "d1b48516e22b052b2f967db0a64d05e7",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-07-12",
         "url": "",
         "versionCode": "16168410",
@@ -117,6 +133,7 @@
     {
         "md5": "148b70c6b7698b3baf7683526202fa4e",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-09-22",
         "url": "",
         "versionCode": "16225910",
@@ -124,6 +141,7 @@
     },
     {
         "md5": "5aa961d724dcf8b895155ab8d4d76409",
+        "status": 200,
         "uploaded": "2026-01-23",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/1/23/14947021-302d-44fb-b686-03d3a45cc17b/1769144631533-signed_AlexaMediaPlayer-Android-Runtime-FTV-armeabi-v7a-release.apk",
         "versionCode": "16391910",
@@ -131,6 +149,7 @@
     },
     {
         "md5": "c23c316a2d2c6021e3a48a60faa911e9",
+        "status": 200,
         "uploaded": "2026-03-23",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/23/c573363b-a291-46dd-8490-2c19f6e112b8/1774301523746-candidate_signed_AlexaMediaPlayer-Android-Runtime-FTV-armeabi-v7a-release.apk",
         "versionCode": "16456810",
@@ -139,6 +158,7 @@
     {
         "md5": "09627dc42f679f2e88b2d133f895c66c",
         "optout": 1,
+        "status": 200,
         "uploaded": "2026-04-21",
         "url": "",
         "versionCode": "16470810",
@@ -147,6 +167,7 @@
     {
         "md5": "2c30ce1cd72a47d841ebdcbc0b992db9",
         "optout": 1,
+        "status": 200,
         "uploaded": "2026-06-08",
         "url": "",
         "versionCode": "16488010",

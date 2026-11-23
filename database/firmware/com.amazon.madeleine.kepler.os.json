@@ -1,6 +1,7 @@
 [
     {
         "md5": "62e6890f5135cc6eba7ee101d5ad98e3",
+        "status": 200,
         "uploaded": "2026-09-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/15/3c42cd0d-ef85-4b8c-a09f-4128f0872c5d/amzn-image-swupdate-madeleine.swu",
         "versionCode": "6401030007120",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "9022440f7b2210d79f161a4c8ebad7b8",
+        "status": 200,
         "uploaded": "2026-10-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/20/47fc5532-4c0c-4735-a424-23b60eab975c/amzn-image-swupdate-madeleine.swu",
         "versionCode": "6401030007720",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "b2da80ae9d1926d1ab2895532c6d5a36",
+        "status": 200,
         "uploaded": "2026-10-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/26/2a0e12cd-6e6d-4351-a26f-d858cee74411/amzn-image-swupdate-madeleine.swu",
         "versionCode": "6401030007920",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "41e77bf36bb7667b62387ac9b925b8d8",
+        "status": 200,
         "uploaded": "2026-10-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/6c28757a-8c49-4c08-b876-01fa3a241f3a/amzn-image-swupdate-madeleine.swu",
         "versionCode": "7202000014820",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "300ed38ecc7f9b0652a8b2233b1f55b5",
+        "status": 200,
         "uploaded": "2026-11-05",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/5/8d36a549-1745-40cb-ba51-a16115725eec/amzn-image-swupdate-madeleine.swu",
         "versionCode": "7202000017420",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "e1e6bb6a357fbaa2a2e90db3d2122889",
+        "status": 200,
         "uploaded": "2026-11-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/12/f9a49792-33fd-4f7c-b636-e07c323fc0c6/amzn-image-swupdate-madeleine.swu",
         "versionCode": "7202000019720",

@@ -1,6 +1,7 @@
 [
     {
         "md5": "15f4a01032ccd17e7e9cf0d96727b32e",
+        "status": 200,
         "uploaded": "2017-10-12",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/SAsacHmumgrMpCXPdw6oykKMaw/update-kindle-13.4.5.5_user_455006120.bin",
         "versionCode": "455006120",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "0ac981881c4613574a2b9e1eecccc392",
+        "status": 200,
         "uploaded": "2018-08-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/1c215c0518990bcdfebbebffe4a6c92e/update-kindle-thor-13.4.5.5_user_455006420.bin",
         "versionCode": "455006420",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "b208b7aaea55377c20f0208fe436d6d6",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/218a61d3a7c425ad9a5c2e41e44b6f94/update-kindle-thor-13.4.5.5_user_455001820.bin",
         "versionCode": "455001820",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "5fdc986f362796a6c5a817b0e22e4bcd",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/3991a2e8253db8cf0698d1e093381af3/update-kindle-thor-13.4.5.2_user_452004220.bin",
         "versionCode": "452004220",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "98187e774e246bed275e42a1efc32fc0",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/ffbaee64aac11c8339a1b1092eb56014/update-kindle-thor-13.4.5.4_user_454006020.bin",
         "versionCode": "454006020",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "0421788708db43c2a74ebad0b67f2885",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/5cbbd9a93ad81ad00e3673de317a3ccb/update-kindle-thor-13.4.5.5_user_455004220.bin",
         "versionCode": "455004220",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "15f4a01032ccd17e7e9cf0d96727b32e",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c35006d5ab2dd0b3c716014af97d6bea/update-kindle-thor-13.4.5.5_user_455006120.bin",
         "versionCode": "455006120",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "67860654d25ac0c50a1966b28917ce2a",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c44798fdfce3a55c039fd0226956191f/update-kindle-thor-13.3.2.5_user_325001120.bin",
         "versionCode": "325001120",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "880412f77b08b7536c4721e15e4ebd47",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/3f5738465c239c7bd5d263cfddcffed0/update-kindle-thor-13.4.5.3_user_453011120.bin",
         "versionCode": "453011120",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "38c122226e42a301f9c969df2418e329",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b4129c51bafffaba21383a51ffa1c4d9/update-kindle-thor-13.4.1.1_user_411010320.bin",
         "versionCode": "411010320",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "694a15d6da142f38a53f283d1314bd25",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/cdc61c9b5e9601299a88b6d01c73c357/update-kindle-thor-13.4.5.5_user_455002120.bin",
         "versionCode": "455002120",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "a08e866aca93e00b9e561a0544694dfb",
+        "status": 200,
         "uploaded": "2018-12-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/85a30d3c52d4c3db60791806c413704b/update-kindle-thor-13.4.5.5_user_455006820.bin",
         "versionCode": "455006820",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "a08e866aca93e00b9e561a0544694dfb",
+        "status": 200,
         "uploaded": "2019-01-02",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/xPivkDty9ez1ia7C8dhJyGtxjw/update-kindle-13.4.5.5_user_455006820.bin",
         "versionCode": "455006820",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "376ae478c2d7112366c4b2b4367a4efb",
+        "status": 200,
         "uploaded": "2020-08-12",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/CgQWGFlUN1dOUEzD3tLWKWg4ha/update-kindle-13.4.5.5_user_455007020.bin",
         "versionCode": "455007020",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "376ae478c2d7112366c4b2b4367a4efb",
+        "status": 200,
         "uploaded": "2020-11-25",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/0382568eaccc542f73261fec283ddf3f/update-kindle-thor-13.4.5.5_user_455007020.bin",
         "versionCode": "455007020",

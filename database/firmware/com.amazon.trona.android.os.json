@@ -1,6 +1,7 @@
 [
     {
         "md5": "ed58fce6d2b4e4325a67f71536b77777",
+        "status": 200,
         "uploaded": "2021-04-27",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/vm4jfkR0UZpAcbUDC8if6XSnyp/update-kindle-Fire_HD_11-PS7319_user_1726_0020367982212.bin",
         "versionCode": "20367982212",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "ed58fce6d2b4e4325a67f71536b77777",
+        "status": 200,
         "uploaded": "2021-04-27",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/GgzxzdeEcQuhAu0uk6Xawhrrb9/update-kindle-Fire_HD_11_Plus-PS7319_user_1726_0020367982212.bin",
         "versionCode": "20367982212",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "07fcdec539a7cb860ba8ade0350caadd",
+        "status": 200,
         "uploaded": "2021-08-17",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/T4sFrgJ4OjzESNVBzBG9GH2gnG/update-kindle-Fire_HD10-PS7321_user_2324_0021274104964.bin",
         "versionCode": "21274104964",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "d9f5989f26a607f4839d94161a3c92ea",
+        "status": 200,
         "uploaded": "2021-11-08",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/wmxPZyX2NiNnIrQ3FkJc43ThOU/update-kindle-Fire_HD10-PS7322_user_2514_0022247232132.bin",
         "versionCode": "22247232132",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "2a891c7ae4ccde7a3927b6347a5681dd",
+        "status": 200,
         "uploaded": "2021-11-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/db95e2634528a96d98b113e248975c8b/update-kindle-trona-PS7322_user_2515_0022247232388.bin",
         "versionCode": "22247232388",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "15b44e812db796ade1052df28aa318a5",
+        "status": 200,
         "uploaded": "2022-07-05",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/OC1KXk8qBMGeLB0gdX6lNFbfWj/update-kindle-Fire_HD10-PS7323_user_2834_0023455273604.bin",
         "versionCode": "23455273604",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "b51faa47fe3e6e412e59ca4fe3da0a8a",
+        "status": 200,
         "uploaded": "2022-08-24",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/4EQZRaLZvAPHDR5weYlmzsghzi/update-kindle-Fire_HD10-PS7324_user_3016_0024529062020.bin",
         "versionCode": "24529062020",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "b841095a4c3e58e93383c56ecd1dc6df",
+        "status": 200,
         "uploaded": "2022-10-28",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/c0c1kwjXblLVGbvARgj7ZEo7TP/update-kindle-Fire_HD10-PS7326_user_3178_0025602845316.bin",
         "versionCode": "25602845316",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "1bc246f3a8acb83c6373b8b382172973",
+        "status": 200,
         "uploaded": "2022-12-12",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/iJ5kpJEe1s8H0SowtAS3YLkNeY/update-kindle-Fire_HD10-PS7326_user_3183_0025602846596.bin",
         "versionCode": "25602846596",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "92e34e8e78ae7fe34c133362e6a2e180",
+        "status": 200,
         "uploaded": "2023-01-23",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c398b42a7b858eb3d711d368d343d795/update-kindle-trona-PS7327_user_3326_0026743733892.bin",
         "versionCode": "26743733892",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "92e34e8e78ae7fe34c133362e6a2e180",
+        "status": 200,
         "uploaded": "2023-01-25",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/lVpuc64UfKiBBnj1xThGWcONPU/update-kindle-Fire_HD10-PS7327_user_3326_0026743733892.bin",
         "versionCode": "26743733892",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "0859dc8a46a802485dfbc5c30509d854",
+        "status": 200,
         "uploaded": "2023-05-25",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/33d08bab4bbf896c97c1858eee02e29a/update-kindle-trona-PS7328_user_3435_0027213523844.bin",
         "versionCode": "27213523844",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "54704bfd6dcbb18638e9d48b85506d3e",
+        "status": 200,
         "uploaded": "2023-09-28",
         "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/11ddfeap1GXdqCPab39o1Yn1dWv/update-kindle-Fire_HD10-PS7328_user_3443_0027213525892.bin",
         "versionCode": "27213525892",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "54704bfd6dcbb18638e9d48b85506d3e",
+        "status": 200,
         "uploaded": "2023-09-28",
         "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/11ddfeap1GXdqCPab39o1Yn1dWv/update-kindle-Fire_HD10_Plus-PS7328_user_3443_0027213525892.bin",
         "versionCode": "27213525892",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "bc10a9d2f101f5150b736458251835ef",
+        "status": 200,
         "uploaded": "2023-10-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/dcd6163ec537399d7f45224ad76685af/update-kindle-trona-PS7329_user_3836_0029294001284.bin",
         "versionCode": "29294001284",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "8b878381747387615e616f3aa4baa7bb",
+        "status": 200,
         "uploaded": "2023-12-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d5419ec07f0090f929c7538c631cc6cd/update-kindle-trona-PS7329_user_3838_0029294001796.bin",
         "versionCode": "29294001796",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "8931da8a7ad436ed6469e8793df57e8a",
+        "status": 200,
         "uploaded": "2024-03-29",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/154swnl8KAvSTRqCX8a0bNSecf/Fire_HD10-PS7329_user_3851_0029294005124.bin",
         "versionCode": "29294005124",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "8931da8a7ad436ed6469e8793df57e8a",
+        "status": 200,
         "uploaded": "2024-03-29",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/154swnl8KCvSTCqKX8a0bNSerc/Fire_HD10-Plus-PS7329_user_3851_0029294005124.bin",
         "versionCode": "29294005124",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "1bb121892d0649d33091fe175db36023",
+        "status": 200,
         "uploaded": "2024-04-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/4/22/723590cc-ba52-41b7-b01b-d98d73e09768/update-kindle-trona-PS7330_user_4100_0030099375236.bin",
         "versionCode": "30099375236",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "cf8c60e0caeb9ef9b8674796ff43d360",
+        "status": 200,
         "uploaded": "2025-06-11",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xDz75MnJ9npabce/update-kindle-Fire_HD10_Plus-PS7331_user_4463_0031575863172.bin",
         "versionCode": "31575863172",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "cf8c60e0caeb9ef9b8674796ff43d360",
+        "status": 200,
         "uploaded": "2025-06-11",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xDz75MnJ9npabcf/update-kindle-Fire_HD10-PS7331_user_4463_0031575863172.bin",
         "versionCode": "31575863172",
@@ -148,6 +169,7 @@
     },
     {
         "md5": "cb11831cbc637ea722c4d6f8f0543e0f",
+        "status": 200,
         "uploaded": "2026-11-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/11/c03ae416-37ad-49a2-a44e-0b0c3489d4bd/update-kindle-trona-PS7331_user_4494_0031575871108.bin",
         "versionCode": "31575871108",

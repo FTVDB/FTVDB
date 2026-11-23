@@ -1,6 +1,7 @@
 [
     {
         "md5": "f928af52d477a3297423425ade1c40ea",
+        "status": 200,
         "uploaded": "2024-11-12",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.17.1.0.2.bin",
         "versionCode": "4334430001",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "3faba2f1ea0e181622d1160c9ecd9f93",
+        "status": 200,
         "uploaded": "2024-12-09",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.17.1.0.4.bin",
         "versionCode": "4351970007",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "3932bc3cf0b5f273162a71685159517c",
+        "status": 200,
         "uploaded": "2025-03-25",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.18.1.bin",
         "versionCode": "4417550025",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "d6a0e879588becea10e84729508fd905",
+        "status": 200,
         "uploaded": "2025-04-24",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.18.2.bin",
         "versionCode": "4434530025",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "495bce29820276f1a5f58c25d648d4a8",
+        "status": 200,
         "uploaded": "2025-06-12",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.18.3.bin",
         "versionCode": "4466690029",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "bcab9173a2fe19ff13ab2dd4268810c1",
+        "status": 200,
         "uploaded": "2025-07-30",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.18.4.bin",
         "versionCode": "4507440022",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "5987b6eef8c2fa5e485f4d2032fac32e",
+        "status": 200,
         "uploaded": "2025-08-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/8/14/c44a01dd-a0af-469d-af5b-3c7f3cafc74d/update-J18040001-bellatrix4_sangria-001-fwo_4527750001.bin",
         "versionCode": "4527750001",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "5987b6eef8c2fa5e485f4d2032fac32e",
+        "status": 200,
         "uploaded": "2025-08-19",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.18.4.0.1.bin",
         "versionCode": "4527750001",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "414c0240e7bc53368ef7abe63131390b",
+        "status": 200,
         "uploaded": "2025-09-16",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.18.5.bin",
         "versionCode": "4546040025",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "0d11fa5dd302a130f04a4613fec73df4",
+        "status": 200,
         "uploaded": "2025-09-25",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.18.5.0.1.bin",
         "versionCode": "4556800001",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "27b625afb0f8c45e12262d2866222afb",
+        "status": 200,
         "uploaded": "2025-10-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/10/29/b8b4f3c5-7f31-46c7-88a6-4c07a83d8bce/update-J1806-bellatrix4_sangria-041-fwo_4586210041.bin",
         "versionCode": "4586210041",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "27b625afb0f8c45e12262d2866222afb",
+        "status": 200,
         "uploaded": "2025-11-04",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.18.6.bin",
         "versionCode": "4586210041",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "e3803145db08c167a7e0c286d359adef",
+        "status": 200,
         "uploaded": "2026-02-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/12/91b60871-4c42-4313-b8b7-02066fb32ab2/update-J1902-bellatrix4_sangria-040-fwo_4670740040.bin",
         "versionCode": "4670740040",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "e3803145db08c167a7e0c286d359adef",
+        "status": 200,
         "uploaded": "2026-02-16",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.19.2.bin",
         "versionCode": "4670740040",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "55de55e7c17cd30dc61d3b3ff82eb510",
+        "status": 403,
         "uploaded": "2026-03-26",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.19.3.bin",
         "versionCode": "4716200047",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "c0a1736c17d48690d9bb9b5b31990c60",
+        "status": 200,
         "uploaded": "2026-04-01",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/1/b91c9037-be8a-476e-b568-35f062a956b7/update-J19030001-bellatrix4_sangria-001-fwo_4721740001.bin",
         "versionCode": "4721740001",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "c0a1736c17d48690d9bb9b5b31990c60",
+        "status": 200,
         "uploaded": "2026-04-06",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.19.3.0.1.bin",
         "versionCode": "4721740001",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "136b636b9c00228fac383cd084e55af9",
+        "status": 200,
         "uploaded": "2026-05-07",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.19.4.bin",
         "versionCode": "4751380049",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "cbf5816a4f1824fdc3ba1c8d82a0c496",
+        "status": 200,
         "uploaded": "2026-05-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/5/19/e55f134c-fd76-42aa-a4a2-5908dc071e1a/update-J19040001-bellatrix4_sangria-003-fwo_4767250003.bin",
         "versionCode": "4767250003",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "cbf5816a4f1824fdc3ba1c8d82a0c496",
+        "status": 200,
         "uploaded": "2026-05-21",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.19.4.0.1.bin",
         "versionCode": "4767250003",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "f3cfd470d8f188102a6ef99e72685e4b",
+        "status": 200,
         "uploaded": "2026-06-29",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.19.5.bin",
         "versionCode": "4794310058",
@@ -148,6 +169,7 @@
     },
     {
         "md5": "697aeb33c02f46b9b0911ab05c28b06d",
+        "status": 200,
         "uploaded": "2026-07-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/29/c42bb9bc-8044-4024-b1ee-6c64de7ef3a2/update-J1906-bellatrix4_sangria-042-fwo_4832160042.bin",
         "versionCode": "4832160042",
@@ -155,6 +177,7 @@
     },
     {
         "md5": "697aeb33c02f46b9b0911ab05c28b06d",
+        "status": 200,
         "uploaded": "2026-08-03",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.19.6.bin",
         "versionCode": "4832160042",
@@ -162,6 +185,7 @@
     },
     {
         "md5": "d011537e3716d4c169476b44eeecb774",
+        "status": 200,
         "uploaded": "2026-09-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/24/99ba95f8-709e-4ed4-91bd-298d7a1a64e4/update-J2001-bellatrix4_sangria-050-fwo_4893900050.bin",
         "versionCode": "4893900050",
@@ -169,6 +193,7 @@
     },
     {
         "md5": "d011537e3716d4c169476b44eeecb774",
+        "status": 200,
         "uploaded": "2026-10-06",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.20.1.bin",
         "versionCode": "4893900050",
@@ -176,6 +201,7 @@
     },
     {
         "md5": "da1dc95282e2077a18d7df604e1d09b5",
+        "status": 200,
         "uploaded": "2026-10-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/ae057b54-9b4d-4386-b7f4-501bd5becd7e/update-J20010002-bellatrix4_sangria-002-fwo_4926840002.bin",
         "versionCode": "4926840002",
@@ -183,6 +209,7 @@
     },
     {
         "md5": "07d408d45977f85f04ade9fadd3fbcaf",
+        "status": 200,
         "uploaded": "2026-10-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/826c180b-d712-4cf7-99cf-066abcdcb0f6/update-J2002-bellatrix4_sangria-048-fwo_4935860048.bin",
         "versionCode": "4935860048",
@@ -190,6 +217,7 @@
     },
     {
         "md5": "4f9bd83658368f7c9be18640a56edc1a",
+        "status": 200,
         "uploaded": "2026-11-10",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/10/b089c807-0147-4160-98c5-7d948b2f6af0/update-J20020001-bellatrix4_sangria-004-fwo_4954970004.bin",
         "versionCode": "4954970004",
@@ -197,6 +225,7 @@
     },
     {
         "md5": "4f9bd83658368f7c9be18640a56edc1a",
+        "status": 200,
         "uploaded": "2026-11-11",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_12th_5.20.2.0.1.bin",
         "versionCode": "4954970004",

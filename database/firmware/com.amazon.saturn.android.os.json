@@ -1,6 +1,7 @@
 [
     {
         "md5": "ee7a8a00c698dc6f282fa5ecdb217c07",
+        "status": 200,
         "uploaded": "2016-10-19",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/T0wGIDXdob6iYsaHiCd4tJm7g3/update-kindle-22.5.5.4_user_554207020.bin",
         "versionCode": "554207020",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "671f5203c7967cb3692b556c961b645a",
+        "status": 200,
         "uploaded": "2017-04-13",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/qqUjgfXlzyniQCgJc2vR8TH7Ca/update-kindle-22.5.7.0_user_570208620.bin",
         "versionCode": "570208620",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "bb0fae444f57d7694ed6d0529c8bf666",
+        "status": 200,
         "uploaded": "2017-06-06",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/KEDi18e74xJJFFwejkRHQjW965/update-kindle-22.5.7.9_user_579225620.bin",
         "versionCode": "579225620",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "027c9030611ce2516988bbfaaf9e4d0f",
+        "status": 200,
         "uploaded": "2017-09-27",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/ZAsacHmumgrMpCXPdw6oykKMaw/update-kindle-22.5.7.9_user_579279320.bin",
         "versionCode": "579279320",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "80f82ec5aaed65266110d6341866fd60",
+        "status": 200,
         "uploaded": "2017-11-01",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/aahh6b20y1zchalcooae19hnab/update-kindle-22.5.9.5_user_595457020.bin",
         "versionCode": "595457020",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "3c3fc72be835ffc9531fa19109bff730",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/0400143a8bca13180e56119de771e7b1/update-kindle-saturn-22.4.5.5_user_455002120.bin",
         "versionCode": "455002120",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "a0db97aba0307265f627466cde641152",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/17fdbd4434984823ab672c4d6c7b3dba/update-kindle-saturn-22.6.0.5_user_605485120.bin",
         "versionCode": "605485120",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "027c9030611ce2516988bbfaaf9e4d0f",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/02e0570fa0cfa64191e7b05d33d794e3/update-kindle-saturn-22.5.7.9_user_579279320.bin",
         "versionCode": "579279320",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "d9d3c34498288486d131f26f66a61800",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/f5191dd68e985b377727bb11d280f945/update-kindle-saturn-22.5.5.2_user_552153420.bin",
         "versionCode": "552153420",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "671f5203c7967cb3692b556c961b645a",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/4c0cee553562925b01521d407a5bb5fb/update-kindle-saturn-22.5.7.0_user_570208620.bin",
         "versionCode": "570208620",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "ab075176035dbc633d26d0d337888ce3",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/4357eff38f0507b82b12998e51ac0bdd/update-kindle-saturn-22.5.9.5_user_595457320.bin",
         "versionCode": "595457320",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "d8b697e768bb25bb2cfe82acfdb65c88",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/98214f5bd30984b028a125c47504c04f/update-kindle-saturn-22.5.9.5_user_595550320.bin",
         "versionCode": "595550320",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "bb0fae444f57d7694ed6d0529c8bf666",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e2cc23ad684ead1792554757fa1c6c80/update-kindle-saturn-22.5.7.9_user_579225620.bin",
         "versionCode": "579225620",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "d1249ccbd3307ce14d31b4dbef3eae6a",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/1143dee15764ad2336204ec9ae478603/update-kindle-saturn-22.5.4.2_user_542169020.bin",
         "versionCode": "542169020",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "cb64dee1f723be1114e5ffc95f1ee48e",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/973293788b3637f144b5001901add88d/update-kindle-saturn-22.5.4.1_user_541113320.bin",
         "versionCode": "541113320",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "2c2fe9c0ab6f9d4ab543f54cc6ec82f0",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/87122c4fdd00b9aa94ed1ef04c747f86/update-kindle-saturn-22.5.9.5_user_595457220.bin",
         "versionCode": "595457220",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "c78aea9020f55a962ed73c934a9776a3",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b3f7364dba76ec106e647945ce346907/update-kindle-saturn-22.4.5.3_user_453011120.bin",
         "versionCode": "453011120",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "ee7a8a00c698dc6f282fa5ecdb217c07",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d663f046d218b1b2e57ac904d2632ac3/update-kindle-saturn-22.5.5.4_user_554207020.bin",
         "versionCode": "554207020",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "e5865a55d44de6d17c149ab9d26761d5",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/0d15c00cd9417f9dd1dec293f834196e/update-kindle-saturn-22.5.2.2_user_522055720.bin",
         "versionCode": "522055720",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "90bfd6fcce822d80af656537c6152b5f",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/7a327437fad0d8a6456ab8057e55221f/update-kindle-saturn-22.4.5.5_user_455001820.bin",
         "versionCode": "455001820",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "6fba3029efd76ce3f4bc246ad8f98313",
+        "status": 200,
         "uploaded": "2018-12-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/dca808a0f184b99c0f8f94e86851a79f/update-kindle-saturn-22.6.0.5_user_605485620.bin",
         "versionCode": "605485620",
@@ -148,6 +169,7 @@
     },
     {
         "md5": "1d74013d6f1922b7c17a7481a46a44be",
+        "status": 200,
         "uploaded": "2020-08-12",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/M3xjfJSMUm5WLry0a0vN2cTMWf/update-kindle-22.6.0.5_user_605487420.bin",
         "versionCode": "605487420",
@@ -155,6 +177,7 @@
     },
     {
         "md5": "f669b892c19e0d392936e6253fee5995",
+        "status": 200,
         "uploaded": "2020-10-29",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/nUOoI7rSLueM7uGgyFvSz3GT4D/update-kindle-22.6.0.5_user_605488320.bin",
         "versionCode": "605488320",
@@ -162,6 +185,7 @@
     },
     {
         "md5": "f669b892c19e0d392936e6253fee5995",
+        "status": 200,
         "uploaded": "2020-10-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/7f504f927abdbcbd22fe5aeb3f79a800/update-kindle-saturn-22.6.0.5_user_605488320.bin",
         "versionCode": "605488320",
@@ -169,6 +193,7 @@
     },
     {
         "md5": "9a82a31cca3f22ecd9a8278a203ca2ed",
+        "status": 200,
         "uploaded": "2021-01-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/a0cad3ba49cff08d9c2754919fdd109b/update-kindle-saturn-22.6.0.5_user_605488420.bin",
         "versionCode": "605488420",
@@ -176,6 +201,7 @@
     },
     {
         "md5": "d4581ce4506375f673ab4a34b1a1a5c8",
+        "status": 200,
         "uploaded": "2022-02-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/be92ed3eb8384328420ef6254535817a/update-kindle-saturn-22.6.0.5_user_605490320.bin",
         "versionCode": "605490320",

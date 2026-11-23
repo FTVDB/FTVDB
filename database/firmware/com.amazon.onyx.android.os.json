@@ -1,6 +1,7 @@
 [
     {
         "md5": "73cf7ad733c2fbf71b3b38ae1ee940ec",
+        "status": 200,
         "uploaded": "2020-05-29",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/AIz1dIMpEgT9aNjaWz2i0XhEOi/update-kindle-PS7314_user_1443_0018086208388.bin",
         "versionCode": "18086208388",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "91e6d2f7f96012eef8cf5e437229125f",
+        "status": 200,
         "uploaded": "2020-06-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d2865537a22c7a9647ad138217d54270/update-kindle-onyx-PS7314_user_1449_0018086209924.bin",
         "versionCode": "18086209924",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "062e61ff6a7eebb81747f97c4b8f3fe7",
+        "status": 200,
         "uploaded": "2020-08-03",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/hRmV3p8oeYb192ZSm1qM8N1Mqh/update-kindle-Fire_HD8_10th_Gen-PS7315_user_1958_0018354775684.bin",
         "versionCode": "18354775684",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "1088e662e6dbcbffbada370386313f37",
+        "status": 200,
         "uploaded": "2020-11-03",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/pVoNA4MNk4dWkXZKgIhmksuvqR/update-kindle-Fire_HD8_10th_Gen-PS7317_user_1804_0019227151492.bin",
         "versionCode": "19227151492",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "44f384ca9d3d0165f337065c8bb6605a",
+        "status": 200,
         "uploaded": "2020-11-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/822267a814a9d9686e1f5acef0ee5d65/update-kindle-onyx-PS7317_user_1806_0019227152004.bin",
         "versionCode": "19227152004",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "2c10adf8c70ddda990bdc84bf524c60e",
+        "status": 200,
         "uploaded": "2021-02-04",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/i4npxeqH5AvzRBe6Knzy0jmyuQ/update-kindle-Fire_HD8_10th_Gen-PS7318_user_1957_0019696952708.bin",
         "versionCode": "19696952708",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "2b75a66811604be2a26b4eae52d92ae4",
+        "status": 200,
         "uploaded": "2021-04-27",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/zyrGkQ82I58avuwya44dSTkQqo/update-kindle-Fire_HD8_10th_Gen-PS7319_user_1726_0020367982212.bin",
         "versionCode": "20367982212",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "8bbacd52db1cc51ee5b3396813d8a4bc",
+        "status": 200,
         "uploaded": "2021-07-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/f8397a43c58c68a587d5c22fa11e6345/update-kindle-onyx-PS7321_user_2319_0021274103684.bin",
         "versionCode": "21274103684",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "ffcd7c1f5fca44b207967fcf2304b5c7",
+        "status": 200,
         "uploaded": "2021-10-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c4fcf80d006f9f1cb06076dde9251029/update-kindle-onyx-PS7321_user_2330_0021274106500.bin",
         "versionCode": "21274106500",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "3382a68a7c5869dd659dfb48500097dd",
+        "status": 200,
         "uploaded": "2021-12-02",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/x1IuqYNZsYPTfbtAgItBtiPwmY/update-kindle-Fire_HD8_10th_Gen-PS7322_user_2519_0022247233412.bin",
         "versionCode": "22247233412",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "92032d5f817e3d4855fce7f804c788cd",
+        "status": 200,
         "uploaded": "2022-07-05",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/noUSSrgQnsFmtIU1H7HUNxZPaq/update-kindle-Fire_HD8_10th_Gen-PS7323_user_2834_0023455273604.bin",
         "versionCode": "23455273604",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "b9faa87a5f25e960b38c7f43bb26e04e",
+        "status": 200,
         "uploaded": "2022-08-24",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/VkJdbtAClkcGB5PIIQ48klRdTV/update-kindle-Fire_HD8_10th_Gen-PS7324_user_3016_0024529062020.bin",
         "versionCode": "24529062020",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "87dcf1f52ae50090454f1c521df659df",
+        "status": 200,
         "uploaded": "2022-10-28",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/EsTPLkR4Rp5gfFzGh65mutMg7m/update-kindle-Fire_HD8_10th_Gen-PS7326_user_3178_0025602845316.bin",
         "versionCode": "25602845316",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "02f8a5389bcf2362a2c3fba9a33cae9d",
+        "status": 200,
         "uploaded": "2022-11-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e699d0b4c997adbb91011fa65f2b7eaa/update-kindle-onyx-PS7326_user_3183_0025602846596.bin",
         "versionCode": "25602846596",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "02f8a5389bcf2362a2c3fba9a33cae9d",
+        "status": 200,
         "uploaded": "2022-12-12",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/vOqTk5GxhcykG3w8780USpqQfj/update-kindle-Fire_HD8_10th_Gen-PS7326_user_3183_0025602846596.bin",
         "versionCode": "25602846596",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "0153a893a412449c29d8126de5b18200",
+        "status": 200,
         "uploaded": "2023-01-25",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/28a9618bbf79f61ee1ec66888315e68a/update-kindle-onyx-PS7327_user_3326_0026743733892.bin",
         "versionCode": "26743733892",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "bd76d7e479bff375c93cefd70ee2878a",
+        "status": 200,
         "uploaded": "2023-05-30",
         "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/0dkhepa1GYDqCPab39o1Yn14Wz/update-kindle-Fire_HD8_10th_Gen-PS7327_user_3329_0026743734660.bin",
         "versionCode": "26743734660",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "ac346d448ae28f634da5c18633ce6f1f",
+        "status": 200,
         "uploaded": "2023-08-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/38ccaed2e70a86b2f5a2872259c508bb/update-kindle-onyx-PS7327_user_3336_0026743736452.bin",
         "versionCode": "26743736452",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "ac346d448ae28f634da5c18633ce6f1f",
+        "status": 200,
         "uploaded": "2023-09-28",
         "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/11ddfeap1GXdqCPab39o1Yn1dWv/update-kindle-Fire_HD8_10th_Gen-PS7327_user_3336_0026743736452.bin",
         "versionCode": "26743736452",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "0cdbe1ba791546040ffae2b6366f72b8",
+        "status": 200,
         "uploaded": "2023-10-25",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c821106a181ff89e84ad4e9fee02fd5b/update-kindle-onyx-PS7329_user_3836_0029294001284.bin",
         "versionCode": "29294001284",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "7175bf78526d9e68c04d57fd7086bd2e",
+        "status": 200,
         "uploaded": "2024-03-29",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/0vetSZCWV7G2VPvlsNCzhMTqAi/Fire_HD8_10th_Gen-PS7329_user_3851_0029294005124.bin",
         "versionCode": "29294005124",
@@ -148,6 +169,7 @@
     },
     {
         "md5": "e1ae58568042e02fdb4625f86bc46eef",
+        "status": 200,
         "uploaded": "2024-07-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/16/485c7a17-d839-41ff-9462-e7c5f5598a18/update-kindle-onyx-PS7329_user_3856_0029294006404.bin",
         "versionCode": "29294006404",
@@ -155,6 +177,7 @@
     },
     {
         "md5": "3d801044591263a02379f4e34f72787e",
+        "status": 200,
         "uploaded": "2025-06-11",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xDz75MnJ9npabcc/update-kindle-Fire_HD8_10th_Gen-PS7331_user_4463_0031575863172.bin",
         "versionCode": "31575863172",
@@ -162,6 +185,7 @@
     },
     {
         "md5": "7ad8330144c4a0ea9d3b40b687e8e83b",
+        "status": 200,
         "uploaded": "2026-11-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/11/c6793dbb-f3f0-4b9d-8013-d684c31234cb/update-kindle-onyx-PS7331_user_4494_0031575871108.bin",
         "versionCode": "31575871108",

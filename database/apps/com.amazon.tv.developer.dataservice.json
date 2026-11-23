@@ -1,6 +1,7 @@
 [
     {
         "md5": "d9656935a95c031c84760391f5d2e0fa",
+        "status": 200,
         "uploaded": "2023-05-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2cf517b4a9082fb549c01dc6c2566bf6/com.amazon.tv.developer.dataservice_1000801510.apk",
         "versionCode": "1000801510",
@@ -9,6 +10,7 @@
     {
         "md5": "bef69af4f7e786cf79775737d6091c42",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-07-28",
         "url": "",
         "versionCode": "1001201010",
@@ -17,6 +19,7 @@
     {
         "md5": "21fb9323b8745dae1bb0ce511d40a6b4",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-08-23",
         "url": "",
         "versionCode": "1001210310",
@@ -25,6 +28,7 @@
     {
         "md5": "2c9dfc734eacd57ff35f1409f2db2513",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-08-30",
         "url": "",
         "versionCode": "1001210510",
@@ -32,6 +36,7 @@
     },
     {
         "md5": "3970d74dddb8f7a382466b6b08133fef",
+        "status": 200,
         "uploaded": "2023-09-13",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/17cdeae8807b0a72bf6b38d60a9c1700/com.amazon.tv.developer.dataservice_B3_1001213010.apk",
         "versionCode": "1001213010",
@@ -39,6 +44,7 @@
     },
     {
         "md5": "ff114ce52df2e1a91ec3c2801671a617",
+        "status": 200,
         "uploaded": "2023-10-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/0889cd6fb6ce793f8252ce7958b782b8/10014008.apk",
         "versionCode": "1001400810",
@@ -46,6 +52,7 @@
     },
     {
         "md5": "22b9fd27b2dc189ff9e669e1aea80496",
+        "status": 200,
         "uploaded": "2023-12-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e9ec03430e05b200ad5749412fb13847/4015.apk",
         "versionCode": "1001401510",
@@ -53,6 +60,7 @@
     },
     {
         "md5": "8bd205855757c6685c701bd836c200f0",
+        "status": 200,
         "uploaded": "2024-01-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/1/24/cea0fed2-1940-4508-83f8-4a8ee93c69ce/1706069530247-10016015.apk",
         "versionCode": "1001601510",
@@ -60,6 +68,7 @@
     },
     {
         "md5": "70682ae6044a87b8fd18908fc2c3668d",
+        "status": 200,
         "uploaded": "2024-07-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/16/ca7d5603-c737-4e64-bdb4-977ac29e3705/1721124709915-com.amazon.tv.developer.dataservice.apk",
         "versionCode": "1001601710",

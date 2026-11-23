@@ -1,6 +1,7 @@
 [
     {
         "md5": "19690dfcaab72aaa324f5fb0c06cc11f",
+        "status": 200,
         "uploaded": "2018-11-14",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/sQZKTS22ix6oCLNDcKGn7kiH3I/update-kindle-NS6301_user_1608_0001309034628.bin",
         "versionCode": "1309034628",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "9f721580a667ae9e3d6760f624fb6f12",
+        "status": 200,
         "uploaded": "2018-12-05",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/FtgoB7FP6NVQ4dxARHmCyNHxAp/update-kindle-NS6301_user_1611_0001309035396.bin",
         "versionCode": "1309035396",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "5640b88eb388c0b8442e85ddfd9f1576",
+        "status": 200,
         "uploaded": "2019-03-29",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/tqUVmGCmwdawiRHlv9ac8ZIWoF/update-kindle-6301_user_1631_0001309040516.bin",
         "versionCode": "1309040516",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "510894ab362982d0c3bb7e9b877a8c4e",
+        "status": 200,
         "uploaded": "2019-08-17",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/LlO8A9g4Q6ugQCylaeqWBWxYBb/update-kindle-Fire_HD8_8th_Gen-NS6312_user_1852_0002517056644.bin",
         "versionCode": "2517056644",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "57e2b8984d82c415e2a7f5bba41fba20",
+        "status": 200,
         "uploaded": "2019-11-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/718b6d2e044552638d38531568443f22/update-kindle-karnak-NS6312_user_1857_0002517057924.bin",
         "versionCode": "2517057924",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "8730fa7ad0ad0bc87c5195b689e57a21",
+        "status": 200,
         "uploaded": "2019-12-09",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/JC8Sj3RPydV3SwSLR0DLkLVgBH/update-kindle-Fire_HD8_8th_Gen-NS6314_user_2315_0003188263812.bin",
         "versionCode": "3188263812",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "c5dd5a108597f3cbbe836beaf483ef4b",
+        "status": 200,
         "uploaded": "2020-02-13",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/132dc17d047bc7f4a5034c3f95f6beec/update-kindle-karnak-NS6315_user_2504_0003658074244.bin",
         "versionCode": "3658074244",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "c5dd5a108597f3cbbe836beaf483ef4b",
+        "status": 200,
         "uploaded": "2020-02-27",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/eI3UXiCdWfm4l9xcFS5U61gf6a/update-kindle-Fire_HD8_8th_Gen-NS6315_user_2504_0003658074244.bin",
         "versionCode": "3658074244",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "1861437f8f13eac0c5a7ac6782ce4229",
+        "status": 200,
         "uploaded": "2020-08-10",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/tHOBjtU3Ccl2Ece59hohQHG5ft/update-kindle-Fire_HD8_8th_Gen-PS7315_user_1958_0018354775684.bin",
         "versionCode": "18354775684",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "b09ac13a61d355fcac701f9595950e49",
+        "status": 200,
         "uploaded": "2020-09-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/aaa06f74667e1b2f8dcbd02ca6153e7d/update-kindle-karnak-PS7315_user_1961_0018354776452.bin",
         "versionCode": "18354776452",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "b3169b1b8be504c5a5ed9490097409eb",
+        "status": 200,
         "uploaded": "2020-11-03",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/NTfTOKgrmrZ6kkmgRu3Gms611S/update-kindle-Fire_HD8_8th_Gen-PS7317_user_1804_0019227151492.bin",
         "versionCode": "19227151492",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "abb686614d3eb13ecb90fb99ed217c47",
+        "status": 200,
         "uploaded": "2020-11-10",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/649f70da2047096666fbb5103346cf37/update-kindle-karnak-PS7317_user_1806_0019227152004.bin",
         "versionCode": "19227152004",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "c88544e9959d297d2f56b4237dc37f9f",
+        "status": 200,
         "uploaded": "2020-12-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/7c620d1c23062df3b5eb3ad2908994b2/update-kindle-karnak-PS7317_user_1810_0019227153028.bin",
         "versionCode": "19227153028",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "9dfd531ff64287759562c1c726b8059f",
+        "status": 200,
         "uploaded": "2021-02-04",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/DzCozNsafJbvDQ4weERBgkP6rw/update-kindle-Fire_HD8_8th_Gen-PS7318_user_1957_0019696952708.bin",
         "versionCode": "19696952708",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "3b2629a8e40100e3d0cd46d7d88eae8a",
+        "status": 200,
         "uploaded": "2021-04-27",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/kXgTs6HePbY1jeWwh3mFTqpf7Y/update-kindle-Fire_HD8_8th_Gen-PS7319_user_1726_0020367982212.bin",
         "versionCode": "20367982212",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "886b874b3b140be3e076083cd96ee38e",
+        "status": 200,
         "uploaded": "2021-07-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/910251e1fe23c530e3e08c7a395b0c2f/update-kindle-karnak-PS7321_user_2319_0021274103684.bin",
         "versionCode": "21274103684",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "f9d99c29b70d916c1a6e8f21adbe67ad",
+        "status": 200,
         "uploaded": "2021-10-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d27542e078bfe7a34b014e6515d24778/update-kindle-karnak-PS7321_user_2330_0021274106500.bin",
         "versionCode": "21274106500",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "a2413f5ef166c9edf06683f2c202028b",
+        "status": 200,
         "uploaded": "2021-11-08",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/06DwywcfWtLerpg56xZ77Mg64Z/update-kindle-Fire_HD8_8th_Gen-PS7322_user_2514_0022247232132.bin",
         "versionCode": "22247232132",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "fe3d34e2b62f16e0566fb487ce8cfe12",
+        "status": 200,
         "uploaded": "2021-11-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/ba285f27f357313d927be5c26f8dba74/update-kindle-karnak-PS7322_user_2515_0022247232388.bin",
         "versionCode": "22247232388",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "cd65496f17572ff74f3100e8d82db981",
+        "status": 200,
         "uploaded": "2021-11-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/294e26e1981283d21b3b67d287b2e432/update-kindle-karnak-PS7322_user_2519_0022247233412.bin",
         "versionCode": "22247233412",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "620b6049c511692678a8e5ff000af6d0",
+        "status": 200,
         "uploaded": "2022-02-12",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/vrqsofMV7NOWC3yytAPRcZxBqr/update-kindle-Fire_HD8_8th_Gen-PS7322_user_2547_0022247240580.bin",
         "versionCode": "22247240580",
@@ -148,6 +169,7 @@
     },
     {
         "md5": "9add2335c932aee5b960ce710817d39b",
+        "status": 200,
         "uploaded": "2022-07-05",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/GsuySfW37oICc6ILHrpGH8wqe6/update-kindle-Fire_HD8_8th_Gen-PS7323_user_2834_0023455273604.bin",
         "versionCode": "23455273604",
@@ -155,6 +177,7 @@
     },
     {
         "md5": "1aa5be11e5c9ea5dd98594634839be99",
+        "status": 200,
         "uploaded": "2022-08-24",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/14m0DGhnjWnsMXw9UYDJfvhIpB/update-kindle-Fire_HD8_8th_Gen-PS7324_user_3016_0024529062020.bin",
         "versionCode": "24529062020",
@@ -162,6 +185,7 @@
     },
     {
         "md5": "494dec519dde3e022ed37dbe0d95eaa2",
+        "status": 200,
         "uploaded": "2022-10-28",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/KqEktcR5gt1Uap9sUese3dYrtv/update-kindle-Fire_HD8_8th_Gen-PS7326_user_3178_0025602845316.bin",
         "versionCode": "25602845316",
@@ -169,6 +193,7 @@
     },
     {
         "md5": "9ef1b7cd6eaeffea7d5a4686975f7dbf",
+        "status": 200,
         "uploaded": "2022-11-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/ab331293bc845f490b0218d9df526cba/update-kindle-karnak-PS7326_user_3183_0025602846596.bin",
         "versionCode": "25602846596",
@@ -176,6 +201,7 @@
     },
     {
         "md5": "b9576b32576c53f0def2f99b2a0fa51c",
+        "status": 200,
         "uploaded": "2023-01-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b13963ca39d5275bded51ebd44592fa2/update-kindle-karnak-PS7327_user_3326_0026743733892.bin",
         "versionCode": "26743733892",
@@ -183,6 +209,7 @@
     },
     {
         "md5": "63da3cad2735180f768b0f07ee6d6c31",
+        "status": 200,
         "uploaded": "2023-05-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/10daf53935a795394044ced9b41e7dfd/update-kindle-karnak-PS7327_user_3329_0026743734660.bin",
         "versionCode": "26743734660",
@@ -190,6 +217,7 @@
     },
     {
         "md5": "cb0c1e4739f68450d2f7ba7165171b09",
+        "status": 200,
         "uploaded": "2023-09-28",
         "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/11ddfeap1GXdqCPab39o1Yn1dWv/update-kindle-Fire_HD8_8th_Gen-PS7327_user_3336_0026743736452.bin",
         "versionCode": "26743736452",
@@ -197,6 +225,7 @@
     },
     {
         "md5": "257609b49e87d8657069c3d3f0e6204e",
+        "status": 200,
         "uploaded": "2023-10-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/dc215f17c61af264ddc329022758f4a7/update-kindle-karnak-PS7329_user_3836_0029294001284.bin",
         "versionCode": "29294001284",
@@ -204,6 +233,7 @@
     },
     {
         "md5": "44e7309591b2935f8c0940f2131d28b4",
+        "status": 200,
         "uploaded": "2023-12-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c0082c02d3009bf7e3f4bc41f9f55bee/update-kindle-karnak-PS7329_user_3838_0029294001796.bin",
         "versionCode": "29294001796",
@@ -211,6 +241,7 @@
     },
     {
         "md5": "f203544414d5e5e06fb14c1d6517a806",
+        "status": 200,
         "uploaded": "2024-01-29",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/15Bswnl8KAvSTRqKX8a0mngra1/update-kindle-Fire_HD8_8th_Gen-PS7329_user_3842_0029294002820.bin",
         "versionCode": "29294002820",
@@ -218,6 +249,7 @@
     },
     {
         "md5": "a7b95682de13827a3848f28f9e95a2cb",
+        "status": 200,
         "uploaded": "2024-03-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/3/15/be7ed4a0-aac8-4150-b100-1cd13a95cc22/update-kindle-karnak-PS7329_user_3851_0029294005124.bin",
         "versionCode": "29294005124",
@@ -225,6 +257,7 @@
     },
     {
         "md5": "b68a4cb1b5c77b6c5f5f93867ec29df7",
+        "status": 200,
         "uploaded": "2024-07-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/16/f5e70488-2627-404f-a167-6760e4cc6bd1/update-kindle-karnak-PS7329_user_3856_0029294006404.bin",
         "versionCode": "29294006404",
@@ -232,6 +265,7 @@
     },
     {
         "md5": "95459f54fd34c0d7287152f2ffcebc87",
+        "status": 200,
         "uploaded": "2024-10-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/24/3c70ea2a-0253-4caf-8559-c62812936120/update-kindle-karnak-PS7331_user_4460_0031575862404.bin",
         "versionCode": "31575862404",
@@ -239,6 +273,7 @@
     },
     {
         "md5": "fd1230f8c2fd0c6333bcb1f71f3a8aed",
+        "status": 200,
         "uploaded": "2025-06-11",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xDz75MnJ9npabcb/update-kindle-Fire_HD8_8th_Gen-PS7331_user_4463_0031575863172.bin",
         "versionCode": "31575863172",
@@ -246,6 +281,7 @@
     },
     {
         "md5": "de9e50ef4bd0ef4618c256095dc38d17",
+        "status": 200,
         "uploaded": "2026-11-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/11/79a31435-3d1f-47e8-904b-30bea03bee1e/update-kindle-karnak-PS7331_user_4494_0031575871108.bin",
         "versionCode": "31575871108",

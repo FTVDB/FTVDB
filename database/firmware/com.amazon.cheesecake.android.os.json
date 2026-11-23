@@ -1,6 +1,7 @@
 [
     {
         "md5": "5e886d44254915d2df6fa388af0c7525",
+        "status": 200,
         "uploaded": "2026-05-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/5/22/33dae131-13c0-41f2-a33b-68fe2d678ef1/update-kindle-cheesecake-NS6573_user_6562_0012853027460.bin",
         "versionCode": "12853027460",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "7ef4610d48dd08558440e42e63521d52",
+        "status": 200,
         "uploaded": "2026-09-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/fd811675-6a9f-4548-9d46-885d159d0c9b/update-kindle-cheesecake-NS65741_user_8149_0013222532484.bin",
         "versionCode": "13222532484",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "529e1280519d0fbfad5235ae94dcb520",
+        "status": 200,
         "uploaded": "2026-10-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/14/4d99ac0f-86b1-4d37-9254-a9e54fa5ca76/update-kindle-cheesecake-NS6575_user_8338_0013323244164.bin",
         "versionCode": "13323244164",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "c4caaa7e611fe2aaf138bb1e72d273fe",
+        "status": 200,
         "uploaded": "2026-10-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/d9c028cd-3412-4f2e-9c6d-97b891f78f4c/update-kindle-cheesecake-NS6575_user_8344_0013323245700.bin",
         "versionCode": "13323245700",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "ee5d7fceec5bb7f7a3e255c44a8e568f",
+        "status": 200,
         "uploaded": "2026-10-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/3533971c-4d83-4c82-ab91-3e0dc31ad7ad/update-kindle-cheesecake-NS6575_user_8349_0013323246980.bin",
         "versionCode": "13323246980",

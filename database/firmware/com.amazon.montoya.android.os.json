@@ -1,6 +1,7 @@
 [
     {
         "md5": "861a0e0d0f2877a10967a5cd1a5ea4c3",
+        "status": 200,
         "uploaded": "2018-06-05",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/5c722759b9d6720aca22f479e9b7ec1d/update-kindle-montoya-54.6.0.6_user_606753920.bin",
         "versionCode": "606753920",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "d42da39de118f2b2062b2aa574979e03",
+        "status": 200,
         "uploaded": "2018-09-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/060af90d1f297c85b34faba066f323da/update-kindle-montoya-54.6.1.7_user_617513220.bin",
         "versionCode": "617513220",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "10b9bd051122e0eb7b2b501fb7c48449",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/61433a3dd696582ece06756dbb444885/update-kindle-montoya-54.5.7.3_user_573210520.bin",
         "versionCode": "573210520",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "e92a922e695cf93659428453c15b4ce0",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/f1ad23d46f7d2592ce4f772a11ed4365/update-kindle-montoya-54.5.6.2_user_562254320.bin",
         "versionCode": "562254320",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "125f0e4fcd3609fc44bd26bcd0db4bab",
+        "status": 200,
         "uploaded": "2018-12-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/aeb41285b646fd906bf01b797f3d6fd4/update-kindle-montoya-54.6.3.0_user_630508620.bin",
         "versionCode": "630508620",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "9cc84a067a66a09434636019ef96f5fc",
+        "status": 200,
         "uploaded": "2019-02-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/73b3e52ac8139c14f3ae3f2ab9ea96fc/update-kindle-montoya-54.6.3.2_user_632552020.bin",
         "versionCode": "632552020",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "7137023310a634fdfebed29396c3fad1",
+        "status": 200,
         "uploaded": "2019-04-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/18ac3e09fbf5219406f96062ba98b4f8/montoya-ota-54.1.1.0_user_110045520.bin",
         "versionCode": "110045520",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "aa8c9cd8463f10b79a4d2f49a786187b",
+        "status": 200,
         "uploaded": "2019-04-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/48779e860d0861070ae0e13d99160baf/montoya-ota-54.1.1.0_user_110035420.bin",
         "versionCode": "110035420",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "5e4507e69354e399801e73d4e2045423",
+        "status": 200,
         "uploaded": "2019-04-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/9376474ceb9915f6a42c00ad06909a25/montoya-ota-54.1.2.1_user_121065320.bin",
         "versionCode": "121065320",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "e098015844da39004ac8b2af96a5d1b1",
+        "status": 200,
         "uploaded": "2019-04-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/064342b6e8e051b8ffb17fd0a886f914/update-kindle-devpreview_montoya-54.5.3.0_user_530042950.bin",
         "versionCode": "530042950",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "51a3f836b222d0c4a3ea33de6ec1b77a",
+        "status": 200,
         "uploaded": "2019-04-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b8690ead2bf983b767f60213f9f8b632/montoya-ota-54.1.0.1_user_101016220.bin",
         "versionCode": "101016220",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "4865dfbbc24757249ab7fd941442a469",
+        "status": 200,
         "uploaded": "2019-04-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d5e127b4b0f416220e377587780c28c4/update-kindle-montoya-54.5.3.2_user_532008220.bin",
         "versionCode": "532008220",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "436ec4351b7dc64991b903e8a58573f8",
+        "status": 200,
         "uploaded": "2019-04-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/55ce5e93a9edea17500a04658ad83fb5/montoya-ota-54.1.2.2_user_122066120.bin",
         "versionCode": "122066120",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "4eec6fc770505235782d5910c2814179",
+        "status": 200,
         "uploaded": "2019-04-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/29308b22b9eb8b1cf5ce59955eded89a/montoya-ota-54.1.0.3_user_103020320.bin",
         "versionCode": "103020320",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "00f66b42d176cfbcf6a622586e0b3ffb",
+        "status": 200,
         "uploaded": "2020-07-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/33e7e67237aedc792e45fc5746148ce8/update-kindle-montoya-54.6.5.6_user_656638420.bin",
         "versionCode": "656638420",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "11912b8451d570f55857814abc659a93",
+        "status": 200,
         "uploaded": "2020-09-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/a951aa5c41df594859c98af873ba6be4/update-kindle-montoya-54.6.5.9_user_659654620.bin",
         "versionCode": "659654620",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "64b4ed9ba7f15cb05bbb93e116f0da94",
+        "status": 200,
         "uploaded": "2020-12-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/64e99dd579dbc2c096608c88997e0e9b/update-kindle-montoya-54.6.6.2_user_662663720.bin",
         "versionCode": "662663720",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "7c0e62c417fb9ef8a3cb98fe9723309c",
+        "status": 200,
         "uploaded": "2022-04-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/3452735b8eb5c0b9776e03a0435ac7b8/update-kindle-montoya-54.6.7.6_user_676742620.bin",
         "versionCode": "676742620",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "d833dcbfd5f9ea4cb142f80f4bab644e",
+        "status": 200,
         "uploaded": "2023-03-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/ff68c9eea52724b7c3ad426090e49a5a/update-kindle-montoya-54.6.8.6_user_686800020.bin",
         "versionCode": "686800020",

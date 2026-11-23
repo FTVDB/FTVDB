@@ -2,6 +2,7 @@
     {
         "fromVersionCode": "36274153604",
         "md5": "9092f7403befbfa9dcbc20a334670859",
+        "status": 200,
         "uploaded": "2026-10-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/19/5a4674fa-efdb-42b0-8f0f-ef645d09af7d/update-hoya_ftv-diff-PS75741.7080N_7080_0036274153604-to-PS75741_user_7081_0036274153860.bin",
         "versionCode": "36274153860",
@@ -10,6 +11,7 @@
     {
         "fromVersionCode": "36274153860",
         "md5": "1508933807fb2edd0b4582a92c6428df",
+        "status": 200,
         "uploaded": "2026-10-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/22/130f5b74-7288-4cc7-abb9-430cd03ca851/update-hoya_ftv-diff-PS75741.7081N_7081_0036274153860-to-PS75741_user_7082_0036274154116.bin",
         "versionCode": "36274154116",
@@ -18,6 +20,7 @@
     {
         "fromVersionCode": "36274154116",
         "md5": "15bcae1c129ca0e24f4ef101bdc2f48d",
+        "status": 200,
         "uploaded": "2026-10-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/29/a379d6a4-670b-467f-ba80-90f872962824/update-hoya_ftv-diff-PS75741.7082N_7082_0036274154116-to-PS75751_user_7806_0036811210372.bin",
         "versionCode": "36811210372",
@@ -26,6 +29,7 @@
     {
         "fromVersionCode": "36274154116",
         "md5": "05e5375381c65a19fb3f0bf9ee290b6a",
+        "status": 200,
         "uploaded": "2026-11-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/3/d64240cb-2ece-4801-beee-f4fa4624c01c/update-hoya_ftv-diff-PS75741.7082N_7082_0036274154116-to-PS75751_user_7809_0036811211140.bin",
         "versionCode": "36811211140",
@@ -34,6 +38,7 @@
     {
         "fromVersionCode": "36811210372",
         "md5": "616c6ce530d8248d53537256d51a5c5d",
+        "status": 200,
         "uploaded": "2026-11-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/3/af447be7-0cf1-4393-9e28-1004657d55ff/update-hoya_ftv-diff-PS75751.7806N_7806_0036811210372-to-PS75751_user_7809_0036811211140.bin",
         "versionCode": "36811211140",

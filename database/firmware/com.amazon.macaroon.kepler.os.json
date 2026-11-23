@@ -1,6 +1,7 @@
 [
     {
         "md5": "6680e876d873d0a88a7f2c96ba9811d7",
+        "status": 200,
         "uploaded": "2026-10-01",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/1/49e23073-e408-4e26-9f01-e311a43f4fc5/amzn-image-swupdate-macaroon.swu",
         "versionCode": "6401030007420",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "8776cf73a942cc41b169cff2e1b28ab8",
+        "status": 200,
         "uploaded": "2026-10-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/20/c42600e8-03c8-4cf0-9c7e-9c3bc6b9a684/amzn-image-swupdate-macaroon.swu",
         "versionCode": "6401030007720",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "7d39e1829dfc5694d9b13c9c5a8ed28e",
+        "status": 200,
         "uploaded": "2026-10-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/7eb829e8-8695-4125-9f60-e610b85ca2b0/amzn-image-swupdate-macaroon.swu",
         "versionCode": "7202000014520",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "bc44d0270f0967cd896f686ffe70c69f",
+        "status": 200,
         "uploaded": "2026-10-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/29/f4b35e18-d867-4a9d-8214-8bac65c04635/amzn-image-swupdate-macaroon.swu",
         "versionCode": "7202000014820",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "c7a9d00e82540b1dcdfe7e0ef0036ec7",
+        "status": 200,
         "uploaded": "2026-11-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/12/3870d744-14f9-43c3-9d2e-e8a8c4ee8135/amzn-image-swupdate-macaroon.swu",
         "versionCode": "7202000019720",

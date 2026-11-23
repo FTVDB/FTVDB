@@ -1,6 +1,7 @@
 [
     {
         "md5": "a958dcecf3fd32b61b0f79ec4d49e257",
+        "status": 200,
         "uploaded": "2017-10-10",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/afKacHmumxrMp9XPdw6oykKMaw/update-kindle-40.5.9.1_user_591450020.bin",
         "versionCode": "591450020",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "f0dba24ff688b8dd6caa8fba1a5fdf2b",
+        "status": 200,
         "uploaded": "2017-11-01",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/aahh6b20y1zchalcooae19hnab/update-kindle-40.5.9.5_user_595457020.bin",
         "versionCode": "595457020",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "d72d3dfe00f2179dc2dbdc71e9ffc80c",
+        "status": 200,
         "uploaded": "2017-12-04",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/nachheflb20tca1zcilvlco11ae49hnab/update-kindle-40.5.9.5_user_595457320.bin",
         "versionCode": "595457320",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "5d0c7fdd49ad72fb458a1a71afc7c8a8",
+        "status": 200,
         "uploaded": "2018-07-07",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/1rwRZU26r5k9gfGzXsGP5Seup3/update-kindle-40.6.1.2_user_612495820.bin",
         "versionCode": "612495820",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "edccb5de6fd971cb187cc6b0ea5fbd8c",
+        "status": 200,
         "uploaded": "2018-07-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6411578cc9d8b6cd956fc4a2c692c676/update-kindle-suez-40.6.1.2_user_612496320.bin",
         "versionCode": "612496320",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "edccb5de6fd971cb187cc6b0ea5fbd8c",
+        "status": 200,
         "uploaded": "2018-07-26",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/HYVEuFHo7fyolxBkqoyRFW6thr/update-kindle-40.6.1.2_user_612496320.bin",
         "versionCode": "612496320",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "7926d29ec478400d89736551a8dede9b",
+        "status": 200,
         "uploaded": "2018-08-10",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/45091cec927ed8f0248760cb86ef622c/update-kindle-suez-40.6.1.2_user_612496620.bin",
         "versionCode": "612496620",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "d72d3dfe00f2179dc2dbdc71e9ffc80c",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6664eae9e21010dc615240ef5a5c1f1f/update-kindle-suez-40.5.9.5_user_595457320.bin",
         "versionCode": "595457320",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "fc4622c61c8a97d6871d14db6dc798b6",
+        "status": 200,
         "uploaded": "2018-11-13",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/93olgKwMW8ecGINzUwwqQmLz43/update-kindle-40.6.2.6_user_626533320.bin",
         "versionCode": "626533320",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "34f29313047cbe83914fecc38a159326",
+        "status": 200,
         "uploaded": "2019-03-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d55c97c40ee38ce822627cc968d7477c/update-kindle-suez-40.6.3.6_user_636558520.bin",
         "versionCode": "636558520",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "34f29313047cbe83914fecc38a159326",
+        "status": 200,
         "uploaded": "2019-03-29",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/fqt0doGd1liHKioAFObgRm6oGA/update-kindle-40.6.3.6_user_636558520.bin",
         "versionCode": "636558520",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "28fdc12980af8bc13d12efe6e0b69225",
+        "status": 200,
         "uploaded": "2019-05-31",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/sh47CyXM2Xzop95RboI3UIXzNV/update-kindle-40.6.3.6_user_636558720.bin",
         "versionCode": "636558720",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "f9ae83f5c4033c8c3ba4def92150a594",
+        "status": 200,
         "uploaded": "2019-08-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e4c2629ac2530011be3ef5a66cce8bbe/update-kindle-suez-40.6.3.6_user_636559820.bin",
         "versionCode": "636559820",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "2bf0401b75bff300c000d0b0fefaac54",
+        "status": 200,
         "uploaded": "2019-12-19",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/wQnsjKc14MlHi6pBy9aVG2Gfjb/update-kindle-40.6.5.0_user_650601220.bin",
         "versionCode": "650601220",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "25a0d12cb45b990c82cb7843919f0873",
+        "status": 200,
         "uploaded": "2020-04-09",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/267swnl8KAvRWRqDX8a0bNSnqm/update-kindle-40.6.5.4_user_654620420.bin",
         "versionCode": "654620420",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "734bc86ee23923740e2bb3d44795788d",
+        "status": 200,
         "uploaded": "2020-05-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/1ff4fc8faecef42ce69051ac8a369208/update-kindle-suez-40.6.5.4_user_654620620.bin",
         "versionCode": "654620620",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "168a0e2516fd34c67e2b8fa998bd711f",
+        "status": 200,
         "uploaded": "2020-07-20",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/SdEEH3tly0EsVXcyJe0qYcASyq/update-kindle-40.6.5.7_user_657611720.bin",
         "versionCode": "657611720",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "ee81101c91d731cc84c2a1e7d76c5ab8",
+        "status": 200,
         "uploaded": "2020-08-10",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b8ae33202063664d76aa7fa0f83a42b3/update-kindle-suez-40.6.5.7_user_657612420.bin",
         "versionCode": "657612420",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "6f7cd757ed63fc524dec554c0d4415e5",
+        "status": 200,
         "uploaded": "2020-09-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/7311a4053f4703a91d79c65f356364c1/update-kindle-suez-40.6.5.7_user_657612520.bin",
         "versionCode": "657612520",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "e76c5e08f8a56d310ec398f01748a4b8",
+        "status": 200,
         "uploaded": "2020-09-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b39cc62646483bcf13266c447307055d/update-kindle-suez-40.6.5.0_user_650601320.bin",
         "versionCode": "650601320",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "3f6f9b93b29c811f28171ee32591c1c5",
+        "status": 200,
         "uploaded": "2020-09-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/0245c01ec3d8055b3fd126f45e474592/update-kindle-suez-40.6.5.4_user_654620820.bin",
         "versionCode": "654620820",
@@ -148,6 +169,7 @@
     },
     {
         "md5": "c52df011202841ff410023c248f6a188",
+        "status": 200,
         "uploaded": "2020-11-03",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/yQKpCym4dSqSp1dxliykJ1Vck8/update-kindle-40.6.5.9_user_659655820.bin",
         "versionCode": "659655820",
@@ -155,6 +177,7 @@
     },
     {
         "md5": "d738e50efc6119d59ee8dab0e5da40e3",
+        "status": 200,
         "uploaded": "2020-11-13",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/3e1131399f558ec69dfd795c2c098fc0/update-kindle-suez-40.6.5.9_user_659655920.bin",
         "versionCode": "659655920",
@@ -162,6 +185,7 @@
     },
     {
         "md5": "5373ae41192cd5e2d34cf674dfa9b5e3",
+        "status": 200,
         "uploaded": "2023-08-09",
         "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/0ddfeap1GXdqCPab39o1Yn1dWv/update-kindle-Fire_HD10_7th_Gen-40.6.5.9_user_659664620.bin",
         "versionCode": "659664620",

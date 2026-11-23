@@ -1,6 +1,7 @@
 [
     {
         "md5": "011ffef12d5d97f09827a92d30486aad",
+        "status": 200,
         "uploaded": "2024-11-12",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.17.1.0.2.bin",
         "versionCode": "4334420001",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "c7e855f5db0611c4f34afdeababed169",
+        "status": 200,
         "uploaded": "2024-12-09",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.17.1.0.4.bin",
         "versionCode": "4351960007",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "f1012fd676d2f318fd9bd433addc413b",
+        "status": 200,
         "uploaded": "2025-03-25",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.18.1.bin",
         "versionCode": "4417570025",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "7f60042e0012aa2391a38b5f50df0bcb",
+        "status": 200,
         "uploaded": "2025-05-15",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.18.1.5.bin",
         "versionCode": "4446290017",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "38d7c62c8e97c167d669297b8fede197",
+        "status": 200,
         "uploaded": "2025-06-12",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.18.3.bin",
         "versionCode": "4466650029",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "e06a924eeed7dec5a6d31b0bfc1d76b4",
+        "status": 200,
         "uploaded": "2025-07-30",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.18.4.bin",
         "versionCode": "4507420022",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "83e1fa129f912ad67fe80ee400590410",
+        "status": 200,
         "uploaded": "2025-08-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/8/14/2c5fbc8b-34c2-4c18-80e5-3fd76ec07c5a/update-J18040001-bellatrix_rossini-001-fwo_4527780001.bin",
         "versionCode": "4527780001",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "83e1fa129f912ad67fe80ee400590410",
+        "status": 200,
         "uploaded": "2025-08-19",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.18.4.0.1.bin",
         "versionCode": "4527780001",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "9e52449af32124deeec76371ac650196",
+        "status": 200,
         "uploaded": "2025-09-16",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.18.5.bin",
         "versionCode": "4546030025",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "4b5d6dfd56f8a1e0f5351ed9c2e54fd5",
+        "status": 200,
         "uploaded": "2025-09-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/9/21/52235f70-43b0-4f21-b966-e4c18d0066c0/update-J18050001-bellatrix_rossini-001-fwo_4556790001.bin",
         "versionCode": "4556790001",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "4b5d6dfd56f8a1e0f5351ed9c2e54fd5",
+        "status": 200,
         "uploaded": "2025-09-25",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.18.5.0.1.bin",
         "versionCode": "4556790001",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "6474706f0cf959e51b39f34584b32bbb",
+        "status": 200,
         "uploaded": "2025-10-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/10/29/20cdaa2e-8c20-40e6-85df-439889d6ea07/update-J1806-bellatrix_rossini-041-fwo_4586150041.bin",
         "versionCode": "4586150041",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "6474706f0cf959e51b39f34584b32bbb",
+        "status": 200,
         "uploaded": "2025-11-04",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.18.6.bin",
         "versionCode": "4586150041",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "a8347afc729e60cc3922abffa7973094",
+        "status": 200,
         "uploaded": "2026-02-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/12/2c1186dd-a8fd-45d6-b802-741d4d32c939/update-J1902-bellatrix_rossini-040-fwo_4670750040.bin",
         "versionCode": "4670750040",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "a8347afc729e60cc3922abffa7973094",
+        "status": 200,
         "uploaded": "2026-02-16",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.19.2.bin",
         "versionCode": "4670750040",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "09ce1e0a361f16cdee44a8f651d8df90",
+        "status": 200,
         "uploaded": "2026-03-26",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.19.3.bin",
         "versionCode": "4716170047",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "2ec3c79b4c5b6a9881a703643e0c985b",
+        "status": 200,
         "uploaded": "2026-04-01",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/1/6fcbae93-43a2-4e1f-89e2-cf92eae6ad25/update-J19030001-bellatrix_rossini-001-fwo_4721760001.bin",
         "versionCode": "4721760001",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "2ec3c79b4c5b6a9881a703643e0c985b",
+        "status": 200,
         "uploaded": "2026-04-06",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.19.3.0.1.bin",
         "versionCode": "4721760001",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "ab8957080af7d5d7081cd450182e568a",
+        "status": 200,
         "uploaded": "2026-04-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/20/b23576af-ca33-4298-8ad4-66e04c055d77/update-J19030002-bellatrix_rossini-001-fwo_4740630001.bin",
         "versionCode": "4740630001",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "ab8957080af7d5d7081cd450182e568a",
+        "status": 200,
         "uploaded": "2026-04-28",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.19.3.0.2.bin",
         "versionCode": "4740630001",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "1101f5ff87efefe7a930100232b0c698",
+        "status": 200,
         "uploaded": "2026-05-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/5/19/30d9ca0a-4149-44d7-9a99-b35337965d47/update-J19040001-bellatrix_rossini-003-fwo_4767200003.bin",
         "versionCode": "4767200003",
@@ -148,6 +169,7 @@
     },
     {
         "md5": "1101f5ff87efefe7a930100232b0c698",
+        "status": 200,
         "uploaded": "2026-06-02",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.19.4.0.1.bin",
         "versionCode": "4767200003",
@@ -155,6 +177,7 @@
     },
     {
         "md5": "a741ce4062389c77f8a35cfe8815a1b4",
+        "status": 200,
         "uploaded": "2026-06-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/17/832b0216-134b-4b4c-b4ab-ca2317350d49/update-J1905-bellatrix_rossini-058-fwo_4794270058.bin",
         "versionCode": "4794270058",
@@ -162,6 +185,7 @@
     },
     {
         "md5": "a741ce4062389c77f8a35cfe8815a1b4",
+        "status": 200,
         "uploaded": "2026-06-29",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.19.5.bin",
         "versionCode": "4794270058",
@@ -169,6 +193,7 @@
     },
     {
         "md5": "9a66c53841df5ea89457c892ca1c616c",
+        "status": 200,
         "uploaded": "2026-07-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/29/66013c90-ccc2-4a2a-99bd-8be56d25202a/update-J1906-bellatrix_rossini-042-fwo_4832540042.bin",
         "versionCode": "4832540042",
@@ -176,6 +201,7 @@
     },
     {
         "md5": "9a66c53841df5ea89457c892ca1c616c",
+        "status": 200,
         "uploaded": "2026-08-03",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.19.6.bin",
         "versionCode": "4832540042",
@@ -183,6 +209,7 @@
     },
     {
         "md5": "9965a4aafbb4ebd98aff680dad1b753b",
+        "status": 200,
         "uploaded": "2026-09-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/24/3b227a1a-bf6f-4d6f-8a0b-e509d26c489b/update-J2001-bellatrix_rossini-050-fwo_4893890050.bin",
         "versionCode": "4893890050",
@@ -190,6 +217,7 @@
     },
     {
         "md5": "9965a4aafbb4ebd98aff680dad1b753b",
+        "status": 200,
         "uploaded": "2026-10-06",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.20.1.bin",
         "versionCode": "4893890050",
@@ -197,6 +225,7 @@
     },
     {
         "md5": "2b5f5cace9b868b135e7feeebf63ad98",
+        "status": 200,
         "uploaded": "2026-10-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/11a20d18-7053-4e49-87e0-be115e6c3690/update-J20010002-bellatrix_rossini-002-fwo_4926850002.bin",
         "versionCode": "4926850002",
@@ -204,6 +233,7 @@
     },
     {
         "md5": "7ebb5695caef057c0f5a1696993b4d23",
+        "status": 200,
         "uploaded": "2026-10-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/7d397f8a-520a-4cea-8234-413e2cd2768d/update-J2002-bellatrix_rossini-048-fwo_4935830048.bin",
         "versionCode": "4935830048",
@@ -211,6 +241,7 @@
     },
     {
         "md5": "114c21d7c93177d48595cfe87a3945da",
+        "status": 200,
         "uploaded": "2026-11-10",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/10/f511e5f2-92fd-4a50-aebb-de35e429386b/update-J20020001-bellatrix_rossini-004-fwo_4954990004.bin",
         "versionCode": "4954990004",
@@ -218,6 +249,7 @@
     },
     {
         "md5": "114c21d7c93177d48595cfe87a3945da",
+        "status": 200,
         "uploaded": "2026-11-11",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.20.2.0.1.bin",
         "versionCode": "4954990004",

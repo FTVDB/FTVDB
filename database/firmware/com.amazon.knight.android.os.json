@@ -1,6 +1,7 @@
 [
     {
         "md5": "c2c2335928aaeeaa9f53bea76c57b8b3",
+        "status": 200,
         "uploaded": "2019-08-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/f3069b685e4a39f00c871450279c8df1/update-kindle-knight-104.6.4.1_user_641575420.bin",
         "versionCode": "641575420",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "01b8b7c42f1571999a2a594e4d08b7a5",
+        "status": 200,
         "uploaded": "2019-10-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/afb6d73985328682ea5dd46a1ad765b4/update-kindle-knight-104.6.4.7_user_647591020.bin",
         "versionCode": "647591020",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "75f8cf0117af25320392ec8233a18be2",
+        "status": 200,
         "uploaded": "2026-08-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/8/14/6d2d662d-61f9-4fff-bc5b-7be1cd1de5be/update-kindle-knight-104.6.9.0_user_690918020.bin",
         "versionCode": "690918020",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "4b628c02181bd892fe48afa67fda8db6",
+        "status": 200,
         "uploaded": "2026-10-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/22/7b2c712e-8998-4832-806f-894ae1b3b8c1/update-kindle-knight-104.6.9.0_user_690918120.bin",
         "versionCode": "690918120",

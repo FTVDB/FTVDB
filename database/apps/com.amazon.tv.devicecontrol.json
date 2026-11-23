@@ -1,6 +1,7 @@
 [
     {
         "md5": "aab789f6e2c8ac72eff5db7a420e810b",
+        "status": 200,
         "uploaded": "2020-02-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e661f32627f5debe793ac481105925fa/FireTV_DeviceControl-release-signed.apk",
         "versionCode": "1001184510",
@@ -9,6 +10,7 @@
     {
         "md5": "c11ffbc1b765fa1558f360afeff8ecbb",
         "optout": 1,
+        "status": 200,
         "uploaded": "2020-07-06",
         "url": "",
         "versionCode": "1001485010",
@@ -16,6 +18,7 @@
     },
     {
         "md5": "906c598a3a8286664d9b013cfd93e23a",
+        "status": 200,
         "uploaded": "2020-09-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/7dfab9016a594f5ed01f1f62621cdc60/FireTV_DeviceControl-release-signed_3.apk",
         "versionCode": "1001626310",
@@ -23,6 +26,7 @@
     },
     {
         "md5": "5ff261fde62be81394eb6bdac7d41d0a",
+        "status": 200,
         "uploaded": "2020-10-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/01881a928032410e5a2308445a1068a2/FireTV_DeviceControl-release-signed_5.apk",
         "versionCode": "1001691410",
@@ -31,6 +35,7 @@
     {
         "md5": "01af64057aa81eda89ea03b729208999",
         "optout": 1,
+        "status": 200,
         "uploaded": "2020-11-30",
         "url": "",
         "versionCode": "1001745510",
@@ -38,6 +43,7 @@
     },
     {
         "md5": "f4c8fd3f0b33891647144fd4d1b4a2c3",
+        "status": 200,
         "uploaded": "2021-03-01",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/ec7c9d01376139e0e8242cb5710c9412/FireTV_DeviceControl-release-signed1.apk",
         "versionCode": "1001877510",
@@ -45,6 +51,7 @@
     },
     {
         "md5": "b87bc77fc9ba4c431954ade415b00b4d",
+        "status": 200,
         "uploaded": "2021-04-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/8559bb8252abf323e4409baf4b1ce474/FireTV_DeviceControl-release-signed_4.apk",
         "versionCode": "1001924310",
@@ -52,6 +59,7 @@
     },
     {
         "md5": "66893034e03b8b5c0cdf6b26288731d7",
+        "status": 200,
         "uploaded": "2021-11-05",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c769986fdc04fd1d99b53c8bc6f94078/210436_FireTV_DeviceControl-release-signed.apk",
         "versionCode": "1002071710",
@@ -60,6 +68,7 @@
     {
         "md5": "30815e95a584164061a5ac84969d35cd",
         "optout": 1,
+        "status": 200,
         "uploaded": "2021-11-22",
         "url": "",
         "versionCode": "1002079510",
@@ -67,6 +76,7 @@
     },
     {
         "md5": "2a3605278e64a19e57ab9da4a1010c09",
+        "status": 200,
         "uploaded": "2022-01-04",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c211654d9e23d2b44ddde0269a466e15/FireTV_DeviceControl-release-signed3.apk",
         "versionCode": "1002103510",
@@ -74,6 +84,7 @@
     },
     {
         "md5": "92471d261f957c07e026d28e644a2edf",
+        "status": 200,
         "uploaded": "2022-02-04",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/62c7e7d84e608e243e53d0f0a99ec374/210812_FireTV_DeviceControl-release-signed.apk",
         "versionCode": "1002115110",
@@ -81,6 +92,7 @@
     },
     {
         "md5": "035b6f57849fa979a4227b47fc489cb4",
+        "status": 200,
         "uploaded": "2022-04-01",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/8755c6ffbe8c8c4e2548e37197ef0d2a/211138_FireTV_DeviceControl-release-signed.apk",
         "versionCode": "1002155610",
@@ -88,6 +100,7 @@
     },
     {
         "md5": "0f83eed13518dc580c8aae9a83546b6e",
+        "status": 200,
         "uploaded": "2022-08-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/eb0802c6aef9c7f92b33210eb1fc1a80/212082_FireTV_DeviceControl-release-signed.apk",
         "versionCode": "1002278110",
@@ -96,6 +109,7 @@
     {
         "md5": "1b84611c4f10968bf0404e1317b633db",
         "optout": 1,
+        "status": 200,
         "uploaded": "2022-11-03",
         "url": "",
         "versionCode": "1002339310",
@@ -103,6 +117,7 @@
     },
     {
         "md5": "212660f064f19efde43b1ade69e8d39f",
+        "status": 200,
         "uploaded": "2023-03-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/74979906d1cdc46d50372c0990ef4af6/212926_FireTV_DeviceControl-release-signed.apk",
         "versionCode": "1002392310",
@@ -110,6 +125,7 @@
     },
     {
         "md5": "bd614e9d3acd7c2033c8f17089b5e022",
+        "status": 200,
         "uploaded": "2023-04-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/174a3689f661e4b313ff8602d9addb64/213028_FireTV_DeviceControl-release-signed.apk",
         "versionCode": "1002405710",
@@ -117,6 +133,7 @@
     },
     {
         "md5": "b2385d872772e5e9c43343ff169f14a9",
+        "status": 200,
         "uploaded": "2023-06-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/1cd8dc2c885a67b0fc95b38d5c4f3f8f/FireTV_DeviceControl-release-signed_2_9.apk",
         "versionCode": "1002435510",

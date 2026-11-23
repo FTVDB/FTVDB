@@ -1,6 +1,7 @@
 [
     {
         "md5": "bbd98b9d4030e88031043ba9fe01e1ae",
+        "status": 200,
         "uploaded": "2025-05-01",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/1/ff67a01a-0ae6-4b09-a0db-33acc60155ce/update-kindle-cypress-PS7466_user_5256_0032918243460.bin",
         "versionCode": "32918243460",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "82f5cb2f9813736c57f9ef031a0e8f35",
+        "status": 200,
         "uploaded": "2025-07-01",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/7/1/0714a84a-698e-449a-ae48-0aadbd11cfaa/update-kindle-cypress-PS7569_user_4937_0033320814980.bin",
         "versionCode": "33320814980",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "be358d17ce1c150ef0e14053baf15883",
+        "status": 200,
         "uploaded": "2026-08-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/8/21/a6da5414-9442-429d-8d96-daf12ec5e02a/update-kindle-cypress-PS7574_user_6566_0036139804292.bin",
         "versionCode": "36139804292",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "80e76367953e373aed8806023901450e",
+        "status": 200,
         "uploaded": "2026-09-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/877b3a04-4beb-4087-82ad-b69e1d8a1a83/update-kindle-cypress-PS75741_user_7080_0036274153604.bin",
         "versionCode": "36274153604",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "22a95d72d32446e29f92156d5d5e74b1",
+        "status": 200,
         "uploaded": "2026-10-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/14/0ff9bdfe-b6da-4ffb-b004-c70eccd42ea4/update-kindle-cypress-PS75741_user_7081_0036274153860.bin",
         "versionCode": "36274153860",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "4f0d26bad268cce26bf49175ef73ca66",
+        "status": 200,
         "uploaded": "2026-10-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/410b3d36-7c31-4886-a70a-1b5e0977dbec/update-kindle-cypress-PS75741_user_7082_0036274154116.bin",
         "versionCode": "36274154116",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "4f2bbb90503f9df191668da5b1125c30",
+        "status": 200,
         "uploaded": "2026-10-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/28/d68512be-db49-4b9b-9667-d06649acd52f/update-kindle-cypress-PS75751_user_7806_0036811210372.bin",
         "versionCode": "36811210372",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "402484e32167d1c595dd23c2d75a58da",
+        "status": 200,
         "uploaded": "2026-11-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/3/02b67e57-a0c7-4cf6-bd23-d7ba045e998d/update-kindle-cypress-PS75751_user_7809_0036811211140.bin",
         "versionCode": "36811211140",

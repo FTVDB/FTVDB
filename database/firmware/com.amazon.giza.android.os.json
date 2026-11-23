@@ -1,6 +1,7 @@
 [
     {
         "md5": "e7cebd7c3130d7c5bf574860d1925c02",
+        "status": 200,
         "uploaded": "2016-09-20",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/XthUZ3FCbUmhSoh8OcJHjlJp5n/update-kindle-49.5.5.4_user_554206920.bin",
         "versionCode": "554206920",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "0fd46850c51cbeef0f5ab3c9b05b342b",
+        "status": 200,
         "uploaded": "2016-11-09",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/WE9Gb4EMSn4WkhjQcdnOspDuaZ/update-kindle-49.5.6.0_user_560177220.bin",
         "versionCode": "560177220",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "fd637b63e5a790a553af38824efe96f9",
+        "status": 200,
         "uploaded": "2016-12-08",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/urervmFaHaXNPUFbJqv3Ca1ha0/update-kindle-49.5.6.3_user_563231720.bin",
         "versionCode": "563231720",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "73fe119db791ac32c078fb07de9055dd",
+        "status": 200,
         "uploaded": "2017-03-14",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/qqUjgfXlzyniQCgJc2vR8TH7Ca/update-kindle-49.5.7.0_user_570208520.bin",
         "versionCode": "570208520",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "c4b8f7d31fe4a4da5c715f42d74793eb",
+        "status": 200,
         "uploaded": "2017-06-06",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/tB3sn3Ez7lnhknf0zJqMDkkFQ1/update-kindle-49.5.7.9_user_579225620.bin",
         "versionCode": "579225620",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "bbfa842f912f561a46b0f75c43e7a631",
+        "status": 200,
         "uploaded": "2017-09-27",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/ZAsacHmumgrMpCXPdw6oykKMaw/update-kindle-49.5.7.9_user_579279320.bin",
         "versionCode": "579279320",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "92d0e41f519728c8822580936492e5a7",
+        "status": 200,
         "uploaded": "2017-11-01",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/aahh6b20y1zchalcooae19hnab/update-kindle-49.5.9.5_user_595457020.bin",
         "versionCode": "595457020",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "55cd074ce8079ac1badf55b7df89a820",
+        "status": 200,
         "uploaded": "2018-11-13",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/93olgKwMW8ecGINzUwwqQmLz43/update-kindle-49.6.2.6_user_626533320.bin",
         "versionCode": "626533320",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "10c7aa8626300d4688efce01a076e6ba",
+        "status": 200,
         "uploaded": "2020-08-12",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/fZWEa9gRrFGxPzZ1QT4fpcxh2n/update-kindle-49.6.2.6_user_626539520.bin",
         "versionCode": "626539520",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "0e034ad08f9889e10f655823346f084c",
+        "status": 200,
         "uploaded": "2020-11-03",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/EvTyk67wvDmdhZcqRy7VHYAYbZ/update-kindle-49.6.2.6_user_626542120.bin",
         "versionCode": "626542120",

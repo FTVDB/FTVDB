@@ -1,6 +1,7 @@
 [
     {
         "md5": "5c50eefca8ecfbad7535d81799e6ea30",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e3646c05103bbbca233bcc088f6d513c/update-kindle-full_tank-288.5.5.5_user_555164620.bin",
         "versionCode": "555164620",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "a9ca4f14d244439e3152f4b326f3717b",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/078e6949792afa51dabbbcf6a4afdb28/update-kindle-full_tank-288.5.7.3_user_573210520.bin",
         "versionCode": "573210520",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "f4b5a6ea46c6f5a73a97522435f08971",
+        "status": 200,
         "uploaded": "2019-08-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/5fbc6551aca498396f3fd644f18412df/update-kindle-full_tank-288.6.4.6_user_646581820.bin",
         "versionCode": "646581820",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "4f86928d2222ca470f04215596a24f12",
+        "status": 200,
         "uploaded": "2019-10-08",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/547fbdaa3b6a8fa8fee65094c0149ae1/update-kindle-full_tank-288.6.4.8_user_648594620.bin",
         "versionCode": "648594620",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "600b3531e85903a0ba70af803c1af591",
+        "status": 200,
         "uploaded": "2019-10-13",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/75f1cbdb8111dd5ccfd12909d35a4c14/update-kindle-full_tank-288.6.4.8_user_648594820.bin",
         "versionCode": "648594820",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "88321bd15159382247ddfbe8c8440215",
+        "status": 200,
         "uploaded": "2020-05-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/68741a58369e2d3d3c93da3516f14529/update-kindle-full_tank-288.6.4.8_user_648595320.bin",
         "versionCode": "648595320",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "315fb4814bec8b2d321e35ce7f472d9a",
+        "status": 200,
         "uploaded": "2020-07-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/f7a4f66a90568fc8a766c1f97b4395bf/update-kindle-full_tank-288.6.5.6_user_656638420.bin",
         "versionCode": "656638420",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "7a4bf3318e3e408581bc6cf4ea5a89f9",
+        "status": 200,
         "uploaded": "2020-09-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/5fd8039db2a0db0bd9d25f03acc245c0/update-kindle-full_tank-288.6.5.9_user_659654620.bin",
         "versionCode": "659654620",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "fb991fc89acfdaf3e201d5d9acced7d0",
+        "status": 200,
         "uploaded": "2021-01-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b14e3885e24d26616da8c0e97f3c5134/update-kindle-full_tank-288.6.6.2_user_662663920.bin",
         "versionCode": "662663920",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "b334e4380199e5436a5ff8d1a8a3f86c",
+        "status": 200,
         "uploaded": "2021-03-10",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/87e0c24212c952615f3481a362ee6e5d/update-kindle-full_tank-288.6.6.4_user_664657620.bin",
         "versionCode": "664657620",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "4c2b0e0ee0fd03810c3616213ed86fb3",
+        "status": 200,
         "uploaded": "2021-11-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d0b537f1eb413fdcbaca7d37ad9878af/update-kindle-full_tank-288.6.7.2_user_672752520.bin",
         "versionCode": "672752520",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "62b4819cee7c23750d97d3a3f1eb374c",
+        "status": 200,
         "uploaded": "2022-02-08",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/8e9503fd5cc84475da2be18944ce0246/update-kindle-full_tank-288.6.7.4_user_674730620.bin",
         "versionCode": "674730620",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "e2d59f1be450d45c78b44cd4ac608603",
+        "status": 200,
         "uploaded": "2022-04-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/bc7bad4c0b5d7300fc27f8b7f57104a5/update-kindle-full_tank-288.6.7.6_user_676742620.bin",
         "versionCode": "676742620",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "e40c57d6cf3706d91daa2d69f48b1dc7",
+        "status": 200,
         "uploaded": "2022-07-13",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6b45be2a4aa689df55f69967eb67e2f2/update-kindle-full_tank-288.6.7.8_user_678752620.bin",
         "versionCode": "678752620",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "a8cfb6957e2f107a95531609db0518a0",
+        "status": 200,
         "uploaded": "2022-08-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/1cfc4e361772c166a0276f7e6fb471dd/update-kindle-full_tank-288.6.8.0_user_680761420.bin",
         "versionCode": "680761420",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "885b0f35d0d750df3f94585b6866ae44",
+        "status": 200,
         "uploaded": "2022-10-01",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e646362c7134a3a3ccdab5bd61a2a40c/update-kindle-full_tank-288.6.8.1_user_681771820.bin",
         "versionCode": "681771820",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "408e471f4da87aca484d03ba437d9667",
+        "status": 200,
         "uploaded": "2022-10-13",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6f5a7b49bff70b5bc299f34560b86542/update-kindle-full_tank-288.6.8.1_user_681822320.bin",
         "versionCode": "681822320",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "2186b1d30761212e6c321ccc763bd9ea",
+        "status": 200,
         "uploaded": "2022-10-31",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2e9e96b7ab4423eeb869a8fe0a592e3b/update-kindle-full_tank-288.6.8.1_user_681822520.bin",
         "versionCode": "681822520",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "8a2b9fb1db222c2b1ec6c2a316fe0d3c",
+        "status": 200,
         "uploaded": "2022-11-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b223f2685cf45dbec48603bf76350956/update-kindle-full_tank-288.6.8.1_user_681822620.bin",
         "versionCode": "681822620",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "04d9b9ac2f0b4762cac14f9fa5ea17a7",
+        "status": 200,
         "uploaded": "2022-11-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/40b94b72762b99e40c5594cd8a69bc86/update-kindle-full_tank-288.6.8.4_user_684782120.bin",
         "versionCode": "684782120",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "ab9e86f6cd0df5513f8a310a2ca4326e",
+        "status": 200,
         "uploaded": "2023-01-23",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/863738b240a2b6a8736d913cf809ee8b/update-kindle-full_tank-288.6.8.5_user_685791120.bin",
         "versionCode": "685791120",
@@ -148,6 +169,7 @@
     },
     {
         "md5": "e26e1475a69ca098448fa74f1f28d2d4",
+        "status": 200,
         "uploaded": "2023-03-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/503ebb25043a1fcca01842547b35d816/update-kindle-full_tank-288.6.8.6_user_686800020.bin",
         "versionCode": "686800020",
@@ -155,6 +177,7 @@
     },
     {
         "md5": "53a2c1659acab8e64f3c475325f9c9cb",
+        "status": 200,
         "uploaded": "2024-03-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/3/14/c5752488-58a3-4fe0-9ebf-9e4c3cc7d8a8/update-kindle-full_tank-288.6.8.8_user_688805020.bin",
         "versionCode": "688805020",
@@ -162,6 +185,7 @@
     },
     {
         "md5": "523f411c6aaa9b546bc799805bc3c8a7",
+        "status": 200,
         "uploaded": "2025-04-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/4/27/38765e03-905b-4f61-9ae5-332b496aa60a/update-kindle-full_tank-288.6.8.8_user_688806320.bin",
         "versionCode": "688806320",

@@ -1,6 +1,7 @@
 [
     {
         "md5": "e64da20b027537dacf8bcdfddb414df3",
+        "status": 200,
         "uploaded": "2026-09-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/28/1612286f-3e9c-4a18-a1dd-361929730d82/update-kindle-octave-NS65741_user_8149_0013222532484.bin",
         "versionCode": "13222532484",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "56b08f34aea250e040a9eb378c096f92",
+        "status": 200,
         "uploaded": "2026-10-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/14/058e9ca6-8c2e-4abe-be45-0f95cc6911ba/update-kindle-octave-NS6575_user_8338_0013323244164.bin",
         "versionCode": "13323244164",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "28adb1c292bfc18a4241e78cbbc377f1",
+        "status": 200,
         "uploaded": "2026-11-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/9/3d4ca80f-1c60-49df-8688-c33596887112/update-kindle-octave-NS6575_user_8363_0013491022724.bin",
         "versionCode": "13491022724",

@@ -1,6 +1,7 @@
 [
     {
         "md5": "3944e8c8fde759a30606d0ec3b543f59",
+        "status": 200,
         "uploaded": "2026-09-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/15/a570f03e-4100-4041-a23c-44fc3792c5a7/amzn-image-swupdate-electra.swu",
         "versionCode": "6401030007120",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "40ebf3fa1c9621ea7f6f2f546c61aac6",
+        "status": 200,
         "uploaded": "2026-10-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/20/a3602fe5-d79b-4a9a-a151-e533dbbdb390/amzn-image-swupdate-electra.swu",
         "versionCode": "6401030007720",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "8b3a0d56632ebd7562609ec6d06d9683",
+        "status": 200,
         "uploaded": "2026-10-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/26/2f4d6997-a0ca-427c-8827-59f1cede3e48/amzn-image-swupdate-electra.swu",
         "versionCode": "6401030007920",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "f6c562199f1c41f22481c66d77bd0274",
+        "status": 200,
         "uploaded": "2026-10-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/28/c6c1ee1c-3888-4920-b92f-d0bf1491b8c3/amzn-image-swupdate-electra.swu",
         "versionCode": "7202000014820",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "2187b8450abb5251610180a55d6e777d",
+        "status": 200,
         "uploaded": "2026-11-05",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/5/2c066390-fac9-4c2c-8406-bad68213f13f/amzn-image-swupdate-electra.swu",
         "versionCode": "7202000017420",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "813820397399b6c6db2b2a0ac19eab78",
+        "status": 200,
         "uploaded": "2026-11-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/12/56bab864-81fc-4dab-9c23-70d2a5151217/amzn-image-swupdate-electra.swu",
         "versionCode": "7202000019720",

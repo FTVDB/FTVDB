@@ -1,6 +1,7 @@
 [
     {
         "md5": "25ae2364e681968939bd767152f0bdb3",
+        "status": 200,
         "uploaded": "2026-10-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/28/4758c09e-2fcd-4a10-926e-5fb404d0d7de/amzn-image-swupdate-carnival.swu",
         "versionCode": "2502000007420",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "f7515935ed54301bf4e96267890309f1",
+        "status": 200,
         "uploaded": "2026-11-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/6/807f488c-c35e-4f86-af34-121beb88c0b4/amzn-image-swupdate-carnival.swu",
         "versionCode": "2502000008220",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "10dc43b58c01425d492ad3e8a23d28fe",
+        "status": 200,
         "uploaded": "2026-11-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/11/c478f5f9-3130-4bba-9618-933854776fcc/amzn-image-swupdate-carnival.swu",
         "versionCode": "2502000008520",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "692261966efd5ce59c9dd164e38a46e4",
+        "status": 200,
         "uploaded": "2026-11-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/17/02ca3ed3-c142-402b-901e-f484229a60f8/amzn-image-swupdate-carnival.swu",
         "versionCode": "2502000008920",

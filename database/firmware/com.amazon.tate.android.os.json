@@ -1,6 +1,7 @@
 [
     {
         "md5": "c5c02fafbf2609e2854c35a164ce572f",
+        "status": 200,
         "uploaded": "2020-02-18",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/QxeTOIJkGhAA145H2sKL4DQkZn/update-kindle-7.5.1_user_5182520.bin",
         "versionCode": "5182520",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "d5f882e98e3da4f033afd28f8a355323",
+        "status": 200,
         "uploaded": "2020-03-04",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/8XGtXwcRbRHpiRDSP7W9iKeTZ1/update-kindle-10.5.1_user_5186620.bin",
         "versionCode": "5186620",

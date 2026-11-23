@@ -2,6 +2,7 @@
     {
         "md5": "ba22a775d46fd39f533a6684631b41ee",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-02-09",
         "url": "",
         "versionCode": "25401652612",
@@ -10,6 +11,7 @@
     {
         "md5": "8fb2db5a46a7a09fc9f35dd393e693fe",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-05-23",
         "url": "",
         "versionCode": "28085968516",
@@ -18,6 +20,7 @@
     {
         "md5": "2849b0e0d9a1955a5f0d0bf904c8b42f",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-08-26",
         "url": "",
         "versionCode": "28085972356",
@@ -26,6 +29,7 @@
     {
         "md5": "41548a9005c34f54d884fefcf3b3352a",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-08-27",
         "url": "",
         "versionCode": "28488625284",
@@ -34,6 +38,7 @@
     {
         "md5": "411bcda42496d261a60d2e9c91851bfe",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-09-25",
         "url": "",
         "versionCode": "29159767172",
@@ -42,6 +47,7 @@
     {
         "md5": "980abb5d345a0cef57e0da76a9bc08ee",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-12-27",
         "url": "",
         "versionCode": "29562451588",
@@ -50,6 +56,7 @@
     {
         "md5": "4cb5d6426e619faf2d4243b71732be15",
         "optout": 1,
+        "status": 200,
         "uploaded": "2024-02-01",
         "url": "",
         "versionCode": "29696698244",
@@ -58,6 +65,7 @@
     {
         "md5": "91f3251b4a5b00e3f8784331464658c4",
         "optout": 1,
+        "status": 200,
         "uploaded": "2024-04-16",
         "url": "",
         "versionCode": "29965156740",
@@ -66,6 +74,7 @@
     {
         "md5": "a5d7e418679e3b765fe07b29c82d0f7a",
         "optout": 1,
+        "status": 200,
         "uploaded": "2024-05-20",
         "url": "",
         "versionCode": "30367831940",
@@ -74,6 +83,7 @@
     {
         "md5": "da449f79c9e5a34929f347b569c3f29c",
         "optout": 1,
+        "status": 200,
         "uploaded": "2024-07-08",
         "url": "",
         "versionCode": "30971839620",
@@ -82,6 +92,7 @@
     {
         "md5": "6ae309a66e04cf17b4a03262d10ddf3d",
         "optout": 1,
+        "status": 200,
         "uploaded": "2024-09-02",
         "url": "",
         "versionCode": "31106080900",
@@ -90,6 +101,7 @@
     {
         "md5": "affb4e3c7f13c32eb966379be407aab6",
         "optout": 1,
+        "status": 200,
         "uploaded": "2024-10-30",
         "url": "",
         "versionCode": "31642977924",
@@ -98,6 +110,7 @@
     {
         "md5": "5d7ab3b47c60ae947f542c1fcdf7419c",
         "optout": 1,
+        "status": 200,
         "uploaded": "2024-12-12",
         "url": "",
         "versionCode": "31642978948",
@@ -106,6 +119,7 @@
     {
         "md5": "c5273c0309010ee86d7618ac9be4f7ad",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-01-11",
         "url": "",
         "versionCode": "32112766852",
@@ -114,6 +128,7 @@
     {
         "md5": "036d97e774c241b18ebc0a0ec5e6772c",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-03-05",
         "url": "",
         "versionCode": "32381233796",
@@ -122,6 +137,7 @@
     {
         "md5": "ef4868d81d25fd6bd9482b748454ad54",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-03-19",
         "url": "",
         "versionCode": "32381234308",
@@ -130,6 +146,7 @@
     {
         "md5": "55471250b02163027cdfa97c62496b07",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-04-14",
         "url": "",
         "versionCode": "32649800324",
@@ -138,6 +155,7 @@
     {
         "md5": "9f620972f10821df56d0e6e76cdaefbb",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-05-09",
         "url": "",
         "versionCode": "32649801092",
@@ -146,6 +164,7 @@
     {
         "md5": "cae4c03fb8727b4dbf3a2c883787511e",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-05-30",
         "url": "",
         "versionCode": "33052368516",
@@ -154,6 +173,7 @@
     {
         "md5": "7c21c8d4e6614bc2c5c62673eead33c4",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-06-22",
         "url": "",
         "versionCode": "33052369028",
@@ -162,6 +182,7 @@
     {
         "md5": "e110a7bdf09ca5dfd926e33d892f780b",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-07-17",
         "url": "",
         "versionCode": "33455039876",
@@ -170,6 +191,7 @@
     {
         "md5": "b09cce3b6885304b321381f54c559f03",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-08-18",
         "url": "",
         "versionCode": "33723490436",
@@ -178,6 +200,7 @@
     {
         "md5": "f2259d1bddd996693fcd9c5aacf77f19",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-09-29",
         "url": "",
         "versionCode": "33924838020",
@@ -186,6 +209,7 @@
     {
         "md5": "a0a796c06a5a4d4997d3178488c386ad",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-11-03",
         "url": "",
         "versionCode": "34394669188",
@@ -194,6 +218,7 @@
     {
         "md5": "a9a53d1e09ab2210f2917ccc1341b6ce",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-11-26",
         "url": "",
         "versionCode": "34730374020",
@@ -202,6 +227,7 @@
     {
         "md5": "7dfedd3f453fcf1f9d3a8b8615864bbb",
         "optout": 1,
+        "status": 200,
         "uploaded": "2026-01-06",
         "url": "",
         "versionCode": "34763741316",
@@ -210,6 +236,7 @@
     {
         "md5": "8007b48564bf35723b99df3979dc8f0d",
         "optout": 1,
+        "status": 200,
         "uploaded": "2026-02-25",
         "url": "",
         "versionCode": "35199974276",
@@ -218,6 +245,7 @@
     {
         "md5": "ca9a577278ef89fe6b25fc362f1d406b",
         "optout": 1,
+        "status": 200,
         "uploaded": "2026-04-04",
         "url": "",
         "versionCode": "35334210436",
@@ -226,6 +254,7 @@
     {
         "md5": "e2d8662d7a3cbbd95c1f0df3e2622d4f",
         "optout": 1,
+        "status": 200,
         "uploaded": "2026-05-18",
         "url": "",
         "versionCode": "35602661252",
@@ -234,6 +263,7 @@
     {
         "md5": "9426da59562f9ae04a533a7db5eeba50",
         "optout": 1,
+        "status": 200,
         "uploaded": "2026-06-15",
         "url": "",
         "versionCode": "35602662020",
@@ -242,6 +272,7 @@
     {
         "md5": "22d64e8279e5f4f54079eb9036311a9d",
         "optout": 1,
+        "status": 200,
         "uploaded": "2026-06-21",
         "url": "",
         "versionCode": "35602662276",
@@ -250,6 +281,7 @@
     {
         "md5": "d0c0b078fbfbdbdfe372994a10e81975",
         "optout": 1,
+        "status": 200,
         "uploaded": "2026-07-06",
         "url": "",
         "versionCode": "35736899972",
@@ -258,6 +290,7 @@
     {
         "md5": "ac597fd0e642bab11ca2f8b9080b4529",
         "optout": 1,
+        "status": 200,
         "uploaded": "2026-08-17",
         "url": "",
         "versionCode": "36005355908",
@@ -265,6 +298,7 @@
     },
     {
         "md5": "117788edde43da819dcdf24a46a761c7",
+        "status": 200,
         "uploaded": "2026-09-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/22/ddceb12f-2e59-45e4-bab3-cf72c17d9812/update-kindle-gazelle-PS7717_user_5741_0036408028548.bin",
         "versionCode": "36408028548",
@@ -272,6 +306,7 @@
     },
     {
         "md5": "4c5ed703bcec4a6fb9919ee28441fb2b",
+        "status": 200,
         "uploaded": "2026-10-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/28/420d3263-4fa1-49b7-af4d-f53f14f230b5/update-kindle-gazelle-PS7717_user_5746_0036408029828.bin",
         "versionCode": "36408029828",
@@ -279,6 +314,7 @@
     },
     {
         "md5": "9bf6bfa4fe9849576f2478d9219f6123",
+        "status": 200,
         "uploaded": "2026-11-13",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/13/5bab9f79-c4d5-41aa-a584-13a385e7e873/update-kindle-gazelle-PS7718_user_5826_0036609376900.bin",
         "versionCode": "36609376900",

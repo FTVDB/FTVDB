@@ -1,6 +1,7 @@
 [
     {
         "md5": "02c7f107649bd432b6074723d54014a6",
+        "status": 200,
         "uploaded": "2026-09-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/15/36fd6cfe-f683-4849-b4e3-fa96b0b4e85b/amzn-image-swupdate-baklava.swu",
         "versionCode": "6401030007120",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "47b96fed3791e800f06a4d559da3187a",
+        "status": 200,
         "uploaded": "2026-10-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/20/040f8791-0e50-4dca-9892-2df828e8aa91/amzn-image-swupdate-baklava.swu",
         "versionCode": "6401030007720",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "fb6129d99951325638b68aeb7af20759",
+        "status": 200,
         "uploaded": "2026-10-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/29/37ec1d5e-c9a4-4202-bfd3-f4d579a36c7a/amzn-image-swupdate-baklava.swu",
         "versionCode": "7202000014820",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "f2d39ed4c21505e4d54bf942ccddfdf7",
+        "status": 200,
         "uploaded": "2026-11-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/3/6b48c026-d1fc-4a90-8387-5a9b97486a81/amzn-image-swupdate-baklava.swu",
         "versionCode": "7202000016620",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "857e3093016e391bb403a195787fac52",
+        "status": 200,
         "uploaded": "2026-11-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/11/b12e67e6-0cae-4670-97ba-892fe1038740/amzn-image-swupdate-baklava.swu",
         "versionCode": "7202000019220",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "705eaf3c69635b6448a5ac99b275bd52",
+        "status": 200,
         "uploaded": "2026-11-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/12/e92497b2-328d-40dc-85d5-8d957ef9ed35/amzn-image-swupdate-baklava.swu",
         "versionCode": "7202000019720",

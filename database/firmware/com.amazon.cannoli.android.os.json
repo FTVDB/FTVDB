@@ -1,6 +1,7 @@
 [
     {
         "md5": "c4b3eb9727e3ea082585311d7affecff",
+        "status": 200,
         "uploaded": "2023-11-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/fd1a1c408cb45c14d7ed9b986b701cb7/update-kindle-cannoli-NS6561_user_4936_0009698494596.bin",
         "versionCode": "9698494596",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "f9db1ccf210e41b9ea9b93ff60dadd70",
+        "status": 200,
         "uploaded": "2026-05-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/5/22/6b1d3399-24ff-4de8-8ad0-0cd22fa42e79/update-kindle-cannoli-NS6573_user_6562_0012853027460.bin",
         "versionCode": "12853027460",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "0e2ec77cabaf85762ea7dadc41621c2f",
+        "status": 200,
         "uploaded": "2026-06-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/12/0bf33fff-43a6-410b-8cf6-be914e0b65bc/update-kindle-cannoli-NS6573_user_7577_0012920396164.bin",
         "versionCode": "12920396164",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "e3a63824225f84eaab30e88bf3d5dfec",
+        "status": 200,
         "uploaded": "2026-09-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/8e21a1df-3243-418e-9866-ecaa42164024/update-kindle-cannoli-NS65741_user_8149_0013222532484.bin",
         "versionCode": "13222532484",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "1b8e942b490d173dfad943653b8ad2eb",
+        "status": 200,
         "uploaded": "2026-10-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/14/e95bcfe6-f3fa-4f82-82a2-9712b98b14b6/update-kindle-cannoli-NS6575_user_8338_0013323244164.bin",
         "versionCode": "13323244164",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "d87e47b588a84afe436acf581c0b8b9a",
+        "status": 200,
         "uploaded": "2026-10-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/ba871f08-8b46-41aa-a74e-f62d87a83e24/update-kindle-cannoli-NS6575_user_8344_0013323245700.bin",
         "versionCode": "13323245700",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "0bf96b3cd8fca30fdd12f61208e44d76",
+        "status": 200,
         "uploaded": "2026-10-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/921388e7-b419-4ab1-a6ab-0aabcfe68e2e/update-kindle-cannoli-NS6575_user_8349_0013323246980.bin",
         "versionCode": "13323246980",

@@ -2,6 +2,7 @@
     {
         "md5": "e0c9c1b4f60fcd9d11ff1f84acfcb00b",
         "optout": 1,
+        "status": 200,
         "uploaded": "2020-11-30",
         "url": "",
         "versionCode": "1255710",
@@ -10,6 +11,7 @@
     {
         "md5": "25be58bad932c7e34c1da0a67e5fb5eb",
         "optout": 1,
+        "status": 200,
         "uploaded": "2021-01-13",
         "url": "",
         "versionCode": "1264810",

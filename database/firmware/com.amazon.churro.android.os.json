@@ -1,6 +1,7 @@
 [
     {
         "md5": "729d386818d2ee43dec7e6e743bbb274",
+        "status": 200,
         "uploaded": "2026-05-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/5/22/72a44f6f-4e54-4587-bdc7-171f16fc1f0c/update-kindle-churro-NS6573_user_6562_0012853027460.bin",
         "versionCode": "12853027460",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "5bc6343b10864d867e2619aa8d0694d3",
+        "status": 200,
         "uploaded": "2026-09-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/65ef4690-712f-4c78-86db-2e26a1704159/update-kindle-churro-NS65741_user_8149_0013222532484.bin",
         "versionCode": "13222532484",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "d180dff4a238a9902a31230a6454687e",
+        "status": 200,
         "uploaded": "2026-10-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/14/050fa7c7-31b5-4768-ba0c-3b0f40b584d8/update-kindle-churro-NS6575_user_8338_0013323244164.bin",
         "versionCode": "13323244164",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "0d9aecf5d876db3c9a1da99b36c4f591",
+        "status": 200,
         "uploaded": "2026-10-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/7a6c663d-5ac0-46ea-9793-90f92ea6bdca/update-kindle-churro-NS6575_user_8344_0013323245700.bin",
         "versionCode": "13323245700",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "829b05bece17f55b47a765a153906724",
+        "status": 200,
         "uploaded": "2026-10-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/80efe80e-8e0b-4378-9d68-9fe17ff61f68/update-kindle-churro-NS6575_user_8349_0013323246980.bin",
         "versionCode": "13323246980",

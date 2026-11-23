@@ -1,6 +1,7 @@
 [
     {
         "md5": "0741cd9b3c663ff1d10be80e2b20fd64",
+        "status": 200,
         "uploaded": "2022-03-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/dc64e6a705f8e840217c98b2217938f2/update-kindle-kara-PS7273_user_2625_0022851240324.bin",
         "versionCode": "22851240324",
@@ -9,6 +10,7 @@
     {
         "md5": "104267677211715acdd220e21a93bc45",
         "optout": 1,
+        "status": 200,
         "uploaded": "2022-04-07",
         "url": "",
         "versionCode": "23253929604",
@@ -17,6 +19,7 @@
     {
         "md5": "a9e00f8a969bca75616bbd49663aa788",
         "optout": 1,
+        "status": 200,
         "uploaded": "2022-05-26",
         "url": "",
         "versionCode": "23723720068",
@@ -25,6 +28,7 @@
     {
         "md5": "5f92c659e437da7a80e0467e9b5502bd",
         "optout": 1,
+        "status": 200,
         "uploaded": "2022-07-28",
         "url": "",
         "versionCode": "24126400132",
@@ -33,6 +37,7 @@
     {
         "md5": "33b508c527e128d1ad9cb89ca210f9ef",
         "optout": 1,
+        "status": 200,
         "uploaded": "2022-11-19",
         "url": "",
         "versionCode": "25938402180",
@@ -41,6 +46,7 @@
     {
         "md5": "32a1ff0321349b935384c62686a18ca2",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-02-01",
         "url": "",
         "versionCode": "26810845828",
@@ -49,6 +55,7 @@
     {
         "md5": "222cd44bb12be68f357c56638310f3cd",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-08-26",
         "url": "",
         "versionCode": "28488625284",
@@ -57,6 +64,7 @@
     {
         "md5": "441081e2db7684a014705e1c3dd83b48",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-12-27",
         "url": "",
         "versionCode": "29562451588",
@@ -65,6 +73,7 @@
     {
         "md5": "c92f244fe93443fd8cc9f456098d13e9",
         "optout": 1,
+        "status": 200,
         "uploaded": "2024-02-01",
         "url": "",
         "versionCode": "29696698244",
@@ -73,6 +82,7 @@
     {
         "md5": "c628daeb6dbc121e36614ec204d8f83c",
         "optout": 1,
+        "status": 200,
         "uploaded": "2024-04-16",
         "url": "",
         "versionCode": "29965156740",
@@ -81,6 +91,7 @@
     {
         "md5": "4f03140d62163db0a363c2037948e0af",
         "optout": 1,
+        "status": 200,
         "uploaded": "2024-05-18",
         "url": "",
         "versionCode": "30367831940",
@@ -89,6 +100,7 @@
     {
         "md5": "332e181f839bb03c6358c43ddf11613d",
         "optout": 1,
+        "status": 200,
         "uploaded": "2024-07-08",
         "url": "",
         "versionCode": "30971839620",
@@ -96,6 +108,7 @@
     },
     {
         "md5": "bb2d65d44cda40c9a4ffabb814dd4733",
+        "status": 200,
         "uploaded": "2024-09-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/9/2/41be363c-bebf-4749-8074-7a796b30e198/update-kindle-kara-PS7681_user_4384_0031106080900.bin",
         "versionCode": "31106080900",
@@ -103,6 +116,7 @@
     },
     {
         "md5": "b7e611f09e4efbd501dcfa466c88a010",
+        "status": 200,
         "uploaded": "2024-10-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/30/a64acac4-e9a7-4012-ad42-25ff2a12fe30/update-kindle-kara-PS7685_user_4486_0031642977924.bin",
         "versionCode": "31642977924",
@@ -110,6 +124,7 @@
     },
     {
         "md5": "31abd2fa0f997e8b85244b9452bcc274",
+        "status": 200,
         "uploaded": "2025-01-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/1/11/b3451c54-4a4c-4ba6-873a-a685c61b93b7/update-kindle-kara-PS7688_user_4591_0032112766852.bin",
         "versionCode": "32112766852",
@@ -117,6 +132,7 @@
     },
     {
         "md5": "ccb0bb73db03562e54b2a2079c3e01c9",
+        "status": 200,
         "uploaded": "2025-03-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/3/19/ea22bf37-d456-42aa-8e9a-8ad910ac131c/update-kindle-kara-PS7690_user_4716_0032381234308.bin",
         "versionCode": "32381234308",
@@ -124,6 +140,7 @@
     },
     {
         "md5": "fab079aca40d23a8a0a3adbd9cf56be2",
+        "status": 200,
         "uploaded": "2025-04-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/4/16/7fb600dc-fb2d-441d-870d-fcbe97fb9c95/update-kindle-kara-PS7697_user_4800_0032783908996.bin",
         "versionCode": "32783908996",
@@ -131,6 +148,7 @@
     },
     {
         "md5": "bc500fb8f6c003e80c1d0ff1b20f1102",
+        "status": 200,
         "uploaded": "2025-05-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/30/2aa3eb57-623b-476d-a00e-cdcb24b49df7/update-kindle-kara-PS7699_user_4894_0033052368516.bin",
         "versionCode": "33052368516",
@@ -138,6 +156,7 @@
     },
     {
         "md5": "e74a1098153c430f5e1c558d9c390a18",
+        "status": 200,
         "uploaded": "2025-06-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/6/22/e2461db7-34c8-45ce-b8ed-b45bb93b1d05/update-kindle-kara-PS7699_user_4896_0033052369028.bin",
         "versionCode": "33052369028",
@@ -145,6 +164,7 @@
     },
     {
         "md5": "63e36b49a7a60bf106220cb0df84d3aa",
+        "status": 200,
         "uploaded": "2025-07-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/7/17/d806894c-3cdc-4e7c-b896-e44be253e71c/update-kindle-kara-PS7702_user_4965_0033455039876.bin",
         "versionCode": "33455039876",
@@ -152,6 +172,7 @@
     },
     {
         "md5": "7ffdea0064dc12144cdde8e3f21a6d63",
+        "status": 200,
         "uploaded": "2025-08-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/8/18/4375e579-318f-48a7-bcbc-fb0987e95bd5/update-kindle-kara-PS7704_user_5024_0033723490436.bin",
         "versionCode": "33723490436",
@@ -159,6 +180,7 @@
     },
     {
         "md5": "156df9eb4e02430c354181a000853e77",
+        "status": 200,
         "uploaded": "2025-09-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/9/29/8c651c4b-608b-4b27-b36a-a4452e953165/update-kindle-kara-PS7706_user_5106_0033924838020.bin",
         "versionCode": "33924838020",
@@ -166,6 +188,7 @@
     },
     {
         "md5": "5fa26459e9e73beba9a5e6d7cac2eab5",
+        "status": 200,
         "uploaded": "2025-11-23",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/23/57edee07-19ca-470a-934f-96337e088494/update-kindle-kara-PS7708_user_5501_0034394701188.bin",
         "versionCode": "34394701188",
@@ -173,6 +196,7 @@
     },
     {
         "md5": "035dd7b4d8661bc396e028ad70900439",
+        "status": 200,
         "uploaded": "2026-01-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/1/7/3e1b2541-3231-498c-95ba-ca60c79cae63/update-kindle-kara-PS7711_user_5272_0034763741316.bin",
         "versionCode": "34763741316",
@@ -180,6 +204,7 @@
     },
     {
         "md5": "05e5cab4626ad5e672533c9d0e38182a",
+        "status": 200,
         "uploaded": "2026-02-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/27/86411d84-6ac8-4d8b-a573-41f2d7121d18/update-kindle-kara-PS7712_user_5372_0035199974532.bin",
         "versionCode": "35199974532",
@@ -187,6 +212,7 @@
     },
     {
         "md5": "fe30a8c7af93bbcf848905794c60ddf7",
+        "status": 200,
         "uploaded": "2026-04-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/9/1285306b-9570-4e34-950d-60940f84014b/update-kindle-kara-PS7713_user_5443_0035334210436.bin",
         "versionCode": "35334210436",

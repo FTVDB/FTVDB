@@ -1,6 +1,7 @@
 [
     {
         "md5": "25bea0571723033f540e5ee5da80cf4c",
+        "status": 200,
         "uploaded": "2026-09-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/092bfce0-e849-4222-a7e3-51f04d9e24fd/update-kindle-rhodes-PS75741_user_7080_0036274153604.bin",
         "versionCode": "36274153604",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "b2dfdcadf0695ff37e0e7ce6789b7672",
+        "status": 200,
         "uploaded": "2026-10-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/14/27fce9d7-b878-4a87-ac96-ac680bba560f/update-kindle-rhodes-PS75741_user_7081_0036274153860.bin",
         "versionCode": "36274153860",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "620f52e450adae8e1c07da0e5aea9269",
+        "status": 200,
         "uploaded": "2026-10-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/5a3baff1-5101-47c1-a7c5-a2f9f5c315be/update-kindle-rhodes-PS75741_user_7082_0036274154116.bin",
         "versionCode": "36274154116",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "6b5b529e02d402c13464ae606e4a7f3b",
+        "status": 200,
         "uploaded": "2026-10-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/28/9ce977ba-5b8f-40ec-a303-a6a68328a4be/update-kindle-rhodes-PS75751_user_7806_0036811210372.bin",
         "versionCode": "36811210372",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "976051cb458f2f3fef1b4bbe51405cd5",
+        "status": 200,
         "uploaded": "2026-11-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/3/822f14dc-b677-40fc-8b19-e43fc28caf47/update-kindle-rhodes-PS75751_user_7809_0036811211140.bin",
         "versionCode": "36811211140",

@@ -1,6 +1,7 @@
 [
     {
         "md5": "aa40feaee4e3b510228e3c38a12509b6",
+        "status": 200,
         "uploaded": "2009-11-25",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_2.3_B003.bin",
         "versionCode": "399380047",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "70d08558e87b73fdd223966ea4f66cd4",
+        "status": 200,
         "uploaded": "2011-01-05",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_2.5.7_B003.bin",
         "versionCode": "550650009",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "7e55a98faf3d6fec86693ec0310287a5",
+        "status": 200,
         "uploaded": "2015-09-25",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_2.5.8_B003.bin",
         "versionCode": "555370010",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "f904508f35cc77af0a0f75f30071c0a7",
+        "status": 200,
         "uploaded": "2015-12-21",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update-caupdate-03.bin",
         "versionCode": "4294967295",

@@ -1,6 +1,7 @@
 [
     {
         "md5": "75fe03ba668fa86d999b8a58a587df21",
+        "status": 200,
         "uploaded": "2026-05-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/5/22/7c0dc126-dfd6-467d-adfe-59ccc44db28f/update-kindle-ganache_mt8512_nand-NS6573_user_6562_0012853027460.bin",
         "versionCode": "12853027460",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "4b9a096cfa2a8fa33d3473ea51f6f553",
+        "status": 200,
         "uploaded": "2026-09-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/052292e2-bb76-493f-bbc2-0a90714b6822/update-kindle-ganache_mt8512_nand-NS65741_user_8149_0013222532484.bin",
         "versionCode": "13222532484",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "e0a1107be164277c9c7d85e032aa131c",
+        "status": 200,
         "uploaded": "2026-10-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/14/8fc36a60-f7ed-4fab-bf6d-4c0469ffa406/update-kindle-ganache_mt8512_nand-NS6575_user_8338_0013323244164.bin",
         "versionCode": "13323244164",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "c03b6b6caa8dd085a096a036b207c6cd",
+        "status": 200,
         "uploaded": "2026-10-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/242d5f1f-d903-4634-830d-49ce6b2584b6/update-kindle-ganache_mt8512_nand-NS6575_user_8344_0013323245700.bin",
         "versionCode": "13323245700",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "37ffbed8a3b65ca378f9002e8d2a635c",
+        "status": 200,
         "uploaded": "2026-10-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/4d8aa44f-abb6-43b6-bb1a-67c3960ef3dd/update-kindle-ganache_mt8512_nand-NS6575_user_8349_0013323246980.bin",
         "versionCode": "13323246980",

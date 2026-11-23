@@ -1,6 +1,7 @@
 [
     {
         "md5": "e7338ac28c64f1846389c8a7bf871c94",
+        "status": 200,
         "uploaded": "2022-11-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b3a81477c5aebe779bc95b837e374311/update-kindle-csm_radar-288.6.8.0_user_680767620.bin",
         "versionCode": "680767620",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "3341ac1839e3ce5b4770ecfdebce828b",
+        "status": 200,
         "uploaded": "2022-11-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c94cf112b3d9e1a422b57df88eb07e8b/update-kindle-radar_puffin-NS6555_user_4305M_0008087720314.bin",
         "versionCode": "8087720314",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "c68569f9b960368ba07698edc2da4168",
+        "status": 200,
         "uploaded": "2023-10-23",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/425712b2af06933df7100bc52f20086b/update-kindle-radar_puffin-NS6561_user_4929_0009698492804.bin",
         "versionCode": "9698492804",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "63d21ca4bf80a81332412fbd35618e5f",
+        "status": 200,
         "uploaded": "2023-11-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/683e4caa9a7fce0c9cb1e7105089ca51/update-kindle-radar_puffin-NS6561_user_4936_0009698494596.bin",
         "versionCode": "9698494596",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "7a494b9e43eb57357a1d270eef238e1a",
+        "status": 200,
         "uploaded": "2023-11-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/786582d551e9c8594a7eb5ebe0cb6987/update-kindle-radar_puffin-NS6555_user_4315M_0008087722874.bin",
         "versionCode": "8087722874",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "e931211e3d2e1fded6434ee85679d775",
+        "status": 200,
         "uploaded": "2024-11-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/11/20/fd6a261b-ee99-4a93-bd9e-423c3fd4bc41/update-kindle-radar_puffin-NS6565_user_5555_0011040830340.bin",
         "versionCode": "11040830340",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "9b274efe2bd368a28ae079090d89b6f0",
+        "status": 200,
         "uploaded": "2025-03-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/3/12/46ea1f87-8f5b-42df-84b5-2f2310b0eaeb/update-kindle-radar_puffin-NS6565_user_5571_0011040834436.bin",
         "versionCode": "11040834436",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "46ffbc005f577c24a3893e995f366e95",
+        "status": 200,
         "uploaded": "2025-04-13",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/4/13/a36b9ebb-4b98-4788-ac82-e7a0f2432d14/update-kindle-radar_puffin-NS6466_user_6302_0011712110212.bin",
         "versionCode": "11712110212",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "1d8806400251d604d0c83388f37bc4ec",
+        "status": 200,
         "uploaded": "2025-05-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/15/0f8045ed-9120-4f00-9a3b-39fcd5dd7c14/update-kindle-radar_puffin-NS6566_user_6813_0011779349892.bin",
         "versionCode": "11779349892",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "22289591cbd0e32dad595356e5863185",
+        "status": 200,
         "uploaded": "2025-07-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/7/24/279fbd03-211e-4f8a-b612-072ab64cf6d8/update-kindle-radar_puffin-NS6569_user_6009_0011980470660.bin",
         "versionCode": "11980470660",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "8e457d08e56e3a455d3f01909e9cee4f",
+        "status": 200,
         "uploaded": "2025-08-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/8/16/53d23555-4d2d-4fba-af7e-6d51bb038949/update-kindle-radar_puffin-NS6570_user_6071_0012383139716.bin",
         "versionCode": "12383139716",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "f07bb9d443820cd839aa4b4d4efa66cc",
+        "status": 200,
         "uploaded": "2025-11-08",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/8/d75268f0-a7d9-437b-b18d-ddad90dc53a1/update-kindle-radar_puffin-NS6571_user_6199_0012584499076.bin",
         "versionCode": "12584499076",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "c4399e6e78d0841d0a451fd7ff4505f5",
+        "status": 200,
         "uploaded": "2025-11-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/28/21618840-04ae-4d04-8124-ab6148dd0031/update-kindle-radar_puffin-NS6571_user_6208_0012584501380.bin",
         "versionCode": "12584501380",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "d244caa896d4d1efeb0576ea74fb638c",
+        "status": 200,
         "uploaded": "2026-01-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/1/17/3467bda0-6332-4c07-950b-ed0106b7ec5d/update-kindle-radar_puffin-NS6571_user_6220_0012584504452.bin",
         "versionCode": "12584504452",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "e64bbb2831eebe3b4da4b796fad5fab6",
+        "status": 200,
         "uploaded": "2026-03-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/6/f0f2ea3e-ed49-474b-aee2-f81a86124516/update-kindle-radar_puffin-NS6572_user_6425_0012718774660.bin",
         "versionCode": "12718774660",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "17af64ecc5b8f0303daf4e2a37c75b1a",
+        "status": 200,
         "uploaded": "2026-03-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/21/22138e24-4af9-483b-8b47-0420835a92fd/update-kindle-radar_puffin-NS6572_user_6436_0012718777476.bin",
         "versionCode": "12718777476",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "ccabadcd52113f57e3b8cfc0b4a8dbc2",
+        "status": 200,
         "uploaded": "2026-06-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/12/528ff4a1-b599-425b-b6d7-669bb3781c01/update-kindle-radar_puffin-NS6573_user_7577_0012920396164.bin",
         "versionCode": "12920396164",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "43c054c90359193ce6c1d0b65fbfeb0e",
+        "status": 200,
         "uploaded": "2026-09-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/54a9ed82-ce12-49e3-91da-b10f7f5b831f/update-kindle-radar_puffin-NS65741_user_8149_0013222532484.bin",
         "versionCode": "13222532484",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "157d33d4a3d0d79b39b9b5c0160d7bc0",
+        "status": 200,
         "uploaded": "2026-10-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/14/467e4e4d-33f8-45c7-8d54-c4ab67fee6da/update-kindle-radar_puffin-NS6575_user_8338_0013323244164.bin",
         "versionCode": "13323244164",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "41497243706b0aa7fa6d80ca14055245",
+        "status": 200,
         "uploaded": "2026-10-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/5c9ee383-4f5d-427f-ad31-5e2745f4bbd7/update-kindle-radar_puffin-NS6575_user_8344_0013323245700.bin",
         "versionCode": "13323245700",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "b793e404d7670e35095e8530d83a9dc6",
+        "status": 200,
         "uploaded": "2026-10-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/bfb778eb-43bd-40c7-8310-e195d8fa91f4/update-kindle-radar_puffin-NS6575_user_8349_0013323246980.bin",
         "versionCode": "13323246980",

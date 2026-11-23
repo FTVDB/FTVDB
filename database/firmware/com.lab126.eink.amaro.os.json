@@ -1,6 +1,7 @@
 [
     {
         "md5": "ebcb1bcbd64166ffeb54aeb43333bdca",
+        "status": 200,
         "uploaded": "2026-11-11",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_paperwhite_2026_5.20.2.0.1.bin",
         "versionCode": "4954950004",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "ebcb1bcbd64166ffeb54aeb43333bdca",
+        "status": 200,
         "uploaded": "2026-11-11",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_paperwhite_signature_2026_5.20.2.0.1.bin",
         "versionCode": "4954950004",

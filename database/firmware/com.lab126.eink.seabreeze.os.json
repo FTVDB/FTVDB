@@ -1,6 +1,7 @@
 [
     {
         "md5": "71c3be32e1b6a7f99483d441bcc5fd81",
+        "status": 200,
         "uploaded": "2025-03-25",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.18.1.bin",
         "versionCode": "4417580025",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "5e14f0ea38d5d052b098a4bb5dbf9976",
+        "status": 200,
         "uploaded": "2025-04-24",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.18.2.bin",
         "versionCode": "4434570025",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "61d79e5cacc47b0d777bc71bfb3ac61a",
+        "status": 200,
         "uploaded": "2025-06-12",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.18.3.bin",
         "versionCode": "4466670029",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "4b2c908b647ce74702c92e36f45f4706",
+        "status": 200,
         "uploaded": "2025-07-30",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.18.4.bin",
         "versionCode": "4507450022",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "ccd05c876e677f4933576f86859370bd",
+        "status": 200,
         "uploaded": "2025-08-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/8/14/0352eb96-d6f0-499e-9178-321c2b2a6aeb/update-J18040001-bellatrix4_seabreeze-001-fwo_4527740001.bin",
         "versionCode": "4527740001",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "ccd05c876e677f4933576f86859370bd",
+        "status": 200,
         "uploaded": "2025-08-19",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.18.4.0.1.bin",
         "versionCode": "4527740001",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "1fdf00b254d98b85cabc069d08129973",
+        "status": 200,
         "uploaded": "2025-09-16",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.18.5.bin",
         "versionCode": "4546050025",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "02bae4aac0be7ec6899cdd6070210f4c",
+        "status": 200,
         "uploaded": "2025-09-25",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.18.5.0.1.bin",
         "versionCode": "4556820001",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "ba0e15ed7d0edf0f10273f96f3d8f902",
+        "status": 200,
         "uploaded": "2025-10-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/10/29/60bcec60-3d4d-4d12-b54c-649c46baa541/update-J1806-bellatrix4_seabreeze-041-fwo_4586190041.bin",
         "versionCode": "4586190041",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "ba0e15ed7d0edf0f10273f96f3d8f902",
+        "status": 200,
         "uploaded": "2025-11-04",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.18.6.bin",
         "versionCode": "4586190041",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "f8325f4049be8eca781a6b3bdc127d48",
+        "status": 200,
         "uploaded": "2026-02-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/12/de947344-ad72-40a8-b9fc-355350b51fa6/update-J1902-bellatrix4_seabreeze-040-fwo_4670790040.bin",
         "versionCode": "4670790040",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "f8325f4049be8eca781a6b3bdc127d48",
+        "status": 200,
         "uploaded": "2026-02-16",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.19.2.bin",
         "versionCode": "4670790040",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "7c7da2707d7d6352d30d6dcf6b7b4399",
+        "status": 200,
         "uploaded": "2026-03-26",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.19.3.bin",
         "versionCode": "4716140047",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "2432321622ba3ba0d38b652e76980761",
+        "status": 200,
         "uploaded": "2026-04-01",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/1/32c2d148-2042-44d7-ae4a-4a7a34810a9c/update-J19030001-bellatrix4_seabreeze-001-fwo_4721720001.bin",
         "versionCode": "4721720001",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "2432321622ba3ba0d38b652e76980761",
+        "status": 200,
         "uploaded": "2026-04-06",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.19.3.0.1.bin",
         "versionCode": "4721720001",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "5d6e0f07bd2bf724acda7074d4ad4085",
+        "status": 200,
         "uploaded": "2026-05-07",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.19.4.bin",
         "versionCode": "4751400049",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "3b946d9b9c7c7f51485cb51a15225be2",
+        "status": 200,
         "uploaded": "2026-05-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/5/19/f8b48570-258c-4700-ad78-0d6a84d2af26/update-J19040001-bellatrix4_seabreeze-003-fwo_4767270003.bin",
         "versionCode": "4767270003",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "3b946d9b9c7c7f51485cb51a15225be2",
+        "status": 200,
         "uploaded": "2026-05-21",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.19.4.0.1.bin",
         "versionCode": "4767270003",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "6d30b3271693cadec1fea6ae09ee9fda",
+        "status": 200,
         "uploaded": "2026-06-29",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.19.5.bin",
         "versionCode": "4794280058",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "633143aaafb7edcdf9f34d668d61b482",
+        "status": 200,
         "uploaded": "2026-07-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/29/fe27c1cd-6c9c-4ec2-88ab-5719f7df0100/update-J1906-bellatrix4_seabreeze-042-fwo_4832180042.bin",
         "versionCode": "4832180042",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "633143aaafb7edcdf9f34d668d61b482",
+        "status": 200,
         "uploaded": "2026-08-03",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.19.6.bin",
         "versionCode": "4832180042",
@@ -148,6 +169,7 @@
     },
     {
         "md5": "3a969c2fab76d396b72875a0dfe87abb",
+        "status": 200,
         "uploaded": "2026-09-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/24/a157f94e-5e7a-45ce-b94f-838f47452e63/update-J2001-bellatrix4_seabreeze-050-fwo_4893850050.bin",
         "versionCode": "4893850050",
@@ -155,6 +177,7 @@
     },
     {
         "md5": "3a969c2fab76d396b72875a0dfe87abb",
+        "status": 200,
         "uploaded": "2026-10-06",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.20.1.bin",
         "versionCode": "4893850050",
@@ -162,6 +185,7 @@
     },
     {
         "md5": "e910884e4d63e197b3d6d4b8bc9bec81",
+        "status": 200,
         "uploaded": "2026-10-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/917f998e-bfc9-4cbd-8072-b06a1734d560/update-J20010002-bellatrix4_seabreeze-002-fwo_4926830002.bin",
         "versionCode": "4926830002",
@@ -169,6 +193,7 @@
     },
     {
         "md5": "60b0757fd1aeb9a3fc3f20bdadaedaa7",
+        "status": 200,
         "uploaded": "2026-10-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/34311cb3-ddc1-4fde-b14e-9dba296e28e1/update-J2002-bellatrix4_seabreeze-048-fwo_4935800048.bin",
         "versionCode": "4935800048",
@@ -176,6 +201,7 @@
     },
     {
         "md5": "ce0d2689ad23c8d47c85fa1d6eff10ba",
+        "status": 200,
         "uploaded": "2026-11-10",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/10/8d82a22b-92e3-4e1d-b025-e8be6b310a70/update-J20020001-bellatrix4_seabreeze-004-fwo_4954980004.bin",
         "versionCode": "4954980004",
@@ -183,6 +209,7 @@
     },
     {
         "md5": "ce0d2689ad23c8d47c85fa1d6eff10ba",
+        "status": 200,
         "uploaded": "2026-11-11",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.20.2.0.1.bin",
         "versionCode": "4954980004",

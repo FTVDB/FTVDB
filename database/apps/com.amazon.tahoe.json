@@ -1,6 +1,7 @@
 [
     {
         "md5": "524b9ffe0bbeaceb5cca02cf0017a170",
+        "status": 200,
         "uploaded": "2020-08-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/5cb2316add21a3bd2acd39aa956c4d4d/signed_FreeTimeFTVApp-release_1.0.216055.0.apk",
         "versionCode": "270001210",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "7e44a3a2d909ad5d3aef1e0a3bcb4449",
+        "status": 200,
         "uploaded": "2020-09-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/825428ff6d27867442eaf0541962ce91/signed_FreeTimeFTVApp-release__1.0.216810.0.apk",
         "versionCode": "280000510",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "00b6f2ac39219d5458543709c9ff7c76",
+        "status": 200,
         "uploaded": "2020-11-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e12b287be02525b3798388862cd56e17/signed_FreeTimeFTVApp-release_1.0.217522.0.apk",
         "versionCode": "280001810",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "27e36df1bd4fd338d11c9392cc7fb2ec",
+        "status": 200,
         "uploaded": "2021-07-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/046de3e4aec4bf46086d979f818efaa0/signed_com.amazon.tahoe_kix.apk",
         "versionCode": "306037810",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "ecc2c4f675e6eb75e8c435e230218c50",
+        "status": 200,
         "uploaded": "2021-09-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/79f2ab8d727aa64364553072284f1e8e/signed_LC_HF_2_com.amazon.tahoe.apk",
         "versionCode": "307064210",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "fbcef86abf0ae4351e9fded906672ae0",
+        "status": 200,
         "uploaded": "2021-11-05",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2b209c2028d13624847dee6a78542d24/signed_com.amazon.tahoe_1.0.222764.0.10183.apk",
         "versionCode": "308040910",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "9818099ba6af421f2ef2955e8071298e",
+        "status": 200,
         "uploaded": "2022-04-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/ac6bab2bf0930210bc6c28c683644ea8/com.amazon.tahoe.nh.apk",
         "versionCode": "310032810",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "130fe55ecc169b180aaa67932f19f41d",
+        "status": 200,
         "uploaded": "2022-07-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/01ece11358f16385180a80f6ddd60c1b/com.amazon.tahoe.3110360.apk",
         "versionCode": "311036010",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "eed2af6ec940c58c638e60b565b1e419",
+        "status": 200,
         "uploaded": "2022-10-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/0ba996ef7b66a2323d8aa331a154cce0/com.amazon.tahoe.311052110.apk",
         "versionCode": "311052110",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "405a2b09f9b6536580bbe1acfecea95f",
+        "status": 200,
         "uploaded": "2022-11-10",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/93d0e1910c1fcc258581e8366a066a65/signed_FreeTimeFTVApp-release_QuakerOats_Rollback.apk",
         "versionCode": "316000510",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "a20f3f2fb3262cc847fe21f4a891cbdb",
+        "status": 200,
         "uploaded": "2023-01-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/fc418ee1fb1d5548bc1723840ff33678/user_com.amazon.tahoe.apk",
         "versionCode": "317003110",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "6a071a2b2d61a3c56cdccbb2b40840be",
+        "status": 200,
         "uploaded": "2023-02-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d3eea56ccc77ac0d7eff4641ad06275f/signed_FreeTimeFTVApp-release-Q02HotFix.apk",
         "versionCode": "319002010",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "0c245d37adfdaa669ccb37352d578eef",
+        "status": 200,
         "uploaded": "2023-06-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2e1091a1dbfc3528b6f2811dfc849e68/signed_FreeTimeFTVApp-release-VN-3.21_Build-1.0.225701.0.12779-VC-321001310_RaisinBranPlus.apk",
         "versionCode": "321001310",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "5fcb12e67c94b01bb5223ae08db94aa8",
+        "status": 200,
         "uploaded": "2023-10-25",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2023/10/25/0500c56b-9691-4040-a6b7-3d2676a9ec23/signed_FreeTimeFTVApp-release-VN-3.23_Build-1.0.226457.0.13389-VC-323014910.apk",
         "versionCode": "323014910",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "491e8b4b724343b6a86b27ea40c610a2",
+        "status": 200,
         "uploaded": "2023-11-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2023/11/15/230e98f2-c966-4f4e-9d1f-0e643a6cbfd2/signed_FreeTimeFTVApp-release-VN-3.24_Build-1.0.226516.0.13444-VC-324002210.apk",
         "versionCode": "324002210",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "ac7e26f6aa0389caccca98e90acf37c3",
+        "status": 200,
         "uploaded": "2024-02-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/2/7/7e94f18c-0144-4f3c-a38c-a770450e824a/signed_FreeTimeFTVApp-release-VN-3.26_Build-1.0.226846.0.13681-VC-326000610.apk",
         "versionCode": "326000610",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "9682646afc81298429409d265c1c53f2",
+        "status": 200,
         "uploaded": "2024-04-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/4/3/7c11a8cf-8288-45f5-a36b-4708aad85479/signed_FreeTimeFTVApp-release-VN-3.29_Build-1.0.227138.0.13905-VC-329004410.apk",
         "versionCode": "329004410",
@@ -121,6 +138,7 @@
     {
         "md5": "af1a4d854f53b2186005d39e7ad39c09",
         "optout": 1,
+        "status": 200,
         "uploaded": "2024-05-30",
         "url": "",
         "versionCode": "330012110",
@@ -129,6 +147,7 @@
     {
         "md5": "96e98a8eb102c51f90cbda6edddf74eb",
         "optout": 1,
+        "status": 200,
         "uploaded": "2024-07-09",
         "url": "",
         "versionCode": "331001810",
@@ -137,6 +156,7 @@
     {
         "md5": "8a2704fadebeed33d5e520f1d36f75e3",
         "optout": 1,
+        "status": 200,
         "uploaded": "2024-09-24",
         "url": "",
         "versionCode": "333003810",
@@ -144,6 +164,7 @@
     },
     {
         "md5": "ca58c8493b45ebecbb6a58d05dcc26ae",
+        "status": 200,
         "uploaded": "2024-10-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/22/153b293c-e910-4c8e-8f1d-b8d162fa2025/signed_FreeTimeFTVApp-release-VN-3.35_Build-1.0.227885.0.14383-VC-335001410.apk",
         "versionCode": "335001410",
@@ -151,6 +172,7 @@
     },
     {
         "md5": "8f05af0f1318991118cfb05e06eed610",
+        "status": 200,
         "uploaded": "2025-03-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/3/12/fd59e1da-4ff9-4acf-9caf-58e9155f7296/signed_FreeTimeFTVApp-release-VN-3.36_Build-1.0.228547.0.14598-VC-336002910.apk",
         "versionCode": "336002910",
@@ -158,6 +180,7 @@
     },
     {
         "md5": "5e510412b6edeee9b08141d9b8c26286",
+        "status": 200,
         "uploaded": "2025-06-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/6/21/1e28d277-8e6b-4236-a329-ab9524ec363b/signed_FreeTimeFTVApp-release-VN-3.38_Build-1.0.229049.0.14873-VC-338006410.apk",
         "versionCode": "338006410",
@@ -165,6 +188,7 @@
     },
     {
         "md5": "37737475978f3e31433c154dec9e8cef",
+        "status": 200,
         "uploaded": "2025-08-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/8/20/632086e6-18c6-4a8b-a576-e65dcfd4d8a8/signed_FreeTimeFTVApp-release-VN-3.39_Build-1.0.229460.0.15062-VC-339002510.apk",
         "versionCode": "339002510",
@@ -172,6 +196,7 @@
     },
     {
         "md5": "9bfd46d33badedb382987267c89ee59c",
+        "status": 200,
         "uploaded": "2025-09-25",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/9/25/ab38b977-cf82-4d40-9439-acbfae3ab6e9/signed_FreeTimeFTVApp-release-VN-3.41_Build-1.0.229931.0.15276-VC-341000310.apk",
         "versionCode": "341000310",
@@ -179,6 +204,7 @@
     },
     {
         "md5": "dc7acacdcd1af4425a32503f92dc335f",
+        "status": 200,
         "uploaded": "2025-10-10",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/10/10/a7a3c121-ee78-4b73-ae0a-4a3948af6215/signed_FreeTimeFTVApp-release-VN-3.43_Build-1.0.229995.0.15330-VC-343002010.apk",
         "versionCode": "343002010",
@@ -187,6 +213,7 @@
     {
         "md5": "b85afb04fb92e14c36570eb5ba8811b0",
         "optout": 1,
+        "status": 200,
         "uploaded": "2026-01-15",
         "url": "",
         "versionCode": "345000310",
@@ -194,6 +221,7 @@
     },
     {
         "md5": "bb6773d6957a25723e1363953eb1ca7d",
+        "status": 200,
         "uploaded": "2026-03-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/11/fcb95674-bf2e-4998-a112-4adee3177ccc/signed_FreeTimeFTVApp-release-VN-3.47_Build-1.0.231242.0.15974-VC-347004810.apk",
         "versionCode": "347004810",
@@ -201,6 +229,7 @@
     },
     {
         "md5": "e39b5d39c08efb8035438f5fca6f414d",
+        "status": 200,
         "uploaded": "2026-04-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/24/516f0200-4b5b-4d63-a3bb-27c9d2a4071a/signed_FreeTimeFTVApp-release-VN-3.49_Build-1.0.231680.0.15995-VC-349000210.apk",
         "versionCode": "349000210",
@@ -208,6 +237,7 @@
     },
     {
         "md5": "58e1ee4fbf4801bdf47c0000845c89a1",
+        "status": 200,
         "uploaded": "2026-07-01",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/1/07aac08e-9e24-4c17-b5c8-68b2be0976a1/signed_FreeTimeFTVApp-release-VN-3.51_Build-1.0.232457.0.16276-VC-351005110.apk",
         "versionCode": "351005110",
@@ -215,6 +245,7 @@
     },
     {
         "md5": "0bd11209385dc1873a8f47b406a66032",
+        "status": 200,
         "uploaded": "2026-08-25",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/8/25/e38f972d-cfbc-4252-9cb5-dafb9aaccd87/signed_FreeTimeFTVApp-release-VN-3.53_Build-1.0.233071.0.16561-VC-353018210.apk",
         "versionCode": "353018210",

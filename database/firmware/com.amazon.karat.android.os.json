@@ -2,6 +2,7 @@
     {
         "md5": "566197cb762cda3afdab06c21d54e75b",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-07-17",
         "url": "",
         "versionCode": "28186508932",
@@ -10,6 +11,7 @@
     {
         "md5": "bcafdbd588121e395a138ff718bb8719",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-08-18",
         "url": "",
         "versionCode": "28723395972",
@@ -18,6 +20,7 @@
     {
         "md5": "3f6956eeb5671e3aa992e47d9eb34bb5",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-09-29",
         "url": "",
         "versionCode": "29528720004",
@@ -26,6 +29,7 @@
     {
         "md5": "5106a5b92ae3b4e2e6bb94849bdf5128",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-11-03",
         "url": "",
         "versionCode": "29998551684",
@@ -33,6 +37,7 @@
     },
     {
         "md5": "0362f41bca476793af4b63dea0146939",
+        "status": 200,
         "uploaded": "2025-11-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/26/cdc2c5e6-5391-40b8-ae58-a5527838421c/update-kindle-karat-RS8158_user_4105_0030468475268.bin",
         "versionCode": "30468475268",
@@ -40,6 +45,7 @@
     },
     {
         "md5": "df12ba515ee548f8e397540a092c5318",
+        "status": 200,
         "uploaded": "2026-01-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/1/7/abf655cb-130f-4a7e-a0a3-854d1b8acf5b/update-kindle-karat-RS8160_user_3372_0030501842052.bin",
         "versionCode": "30501842052",
@@ -47,6 +53,7 @@
     },
     {
         "md5": "a31d99c2a151ad24635bad212f3998e6",
+        "status": 200,
         "uploaded": "2026-01-31",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/1/31/1367b643-1f9f-4443-93ae-4731c0500bea/update-kindle-karat-RS8160_user_3380_0030501844100.bin",
         "versionCode": "30501844100",
@@ -54,6 +61,7 @@
     },
     {
         "md5": "705312e9b8f98e6e9b008e9cca89f438",
+        "status": 200,
         "uploaded": "2026-02-25",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/25/ee2d8058-44d8-4716-a0cb-d66b33d2f0d7/update-kindle-karat-RS8166_user_3482_0030736751236.bin",
         "versionCode": "30736751236",
@@ -62,6 +70,7 @@
     {
         "md5": "7a41d868afa916c1fcc31f7f5605bbb0",
         "optout": 1,
+        "status": 200,
         "uploaded": "2026-04-16",
         "url": "",
         "versionCode": "31139423364",
@@ -70,6 +79,7 @@
     {
         "md5": "83910a5c009afa1ca6470c4a4374bbdb",
         "optout": 1,
+        "status": 200,
         "uploaded": "2026-05-18",
         "url": "",
         "versionCode": "31877642628",
@@ -78,6 +88,7 @@
     {
         "md5": "3ecf31438a169090f803d49bff302d85",
         "optout": 1,
+        "status": 200,
         "uploaded": "2026-06-21",
         "url": "",
         "versionCode": "31877644420",
@@ -85,6 +96,7 @@
     },
     {
         "md5": "d44b9f5382e8497bd750ee5c1752d618",
+        "status": 200,
         "uploaded": "2026-07-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/7/bcb6fdf5-50cf-4dc1-a307-57e5c8df3360/update-kindle-karat-RS8180_user_3729_0032280318340.bin",
         "versionCode": "32280318340",
@@ -92,6 +104,7 @@
     },
     {
         "md5": "82bb0336b0cd3205476b4ee795136afd",
+        "status": 200,
         "uploaded": "2026-07-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/28/7d9c94d2-3f5f-45eb-a5de-706028e3edbf/update-kindle-karat-RS8180_user_3739_0032280320900.bin",
         "versionCode": "32280320900",
@@ -99,6 +112,7 @@
     },
     {
         "md5": "fcaf730cf8bfee8bc50788e24ed65d2d",
+        "status": 200,
         "uploaded": "2026-08-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/8/17/6b5b010d-ab55-4b17-8247-6870c688776e/update-kindle-karat-RS8182_user_3811_0032548774788.bin",
         "versionCode": "32548774788",
@@ -106,6 +120,7 @@
     },
     {
         "md5": "9f245ea24d0d7ec16bc7a9ae65013d5a",
+        "status": 200,
         "uploaded": "2026-09-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/15/46547e3e-6e89-47b7-a3ff-8365a2f2e004/update-kindle-karat-RS8185_user_3879_0033018554244.bin",
         "versionCode": "33018554244",
@@ -113,6 +128,7 @@
     },
     {
         "md5": "43b82245fadfd77ffde2ef0293fbe452",
+        "status": 200,
         "uploaded": "2026-09-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/26/b19c6ef6-a4b9-4e0f-b609-b6fc364406d6/update-kindle-karat-RS8185_user_3885_0033018555780.bin",
         "versionCode": "33018555780",
@@ -120,6 +136,7 @@
     },
     {
         "md5": "b763c84527586f2798763b47fe7cee7b",
+        "status": 200,
         "uploaded": "2026-10-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/11/f4b370eb-7b93-419a-bdbd-cfc270863152/update-kindle-karat-RS8185_user_3891_0033018557316.bin",
         "versionCode": "33018557316",
@@ -127,6 +144,7 @@
     },
     {
         "md5": "4deb2655626e5d9dee791cdc56854300",
+        "status": 200,
         "uploaded": "2026-10-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/28/be2764bb-9483-43a8-801c-138e57aec195/update-kindle-karat-RS8185_user_3898_0033018559108.bin",
         "versionCode": "33018559108",
@@ -134,6 +152,7 @@
     },
     {
         "md5": "e648c9ffaf547d53424fa0bdd97a5875",
+        "status": 200,
         "uploaded": "2026-11-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/17/e5d933aa-0838-4ec7-9940-a193a82961e0/update-kindle-karat-RS8186_user_3977_0033085688196.bin",
         "versionCode": "33085688196",

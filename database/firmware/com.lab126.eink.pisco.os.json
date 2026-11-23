@@ -1,6 +1,7 @@
 [
     {
         "md5": "a4c420e90459ae35951e2d83a8ef3e97",
+        "status": 200,
         "uploaded": "2025-02-05",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_2024_5.17.3.bin",
         "versionCode": "4386490030",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "3a21e1abe608d7b1c720faa03a011519",
+        "status": 200,
         "uploaded": "2025-03-25",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_2024_5.18.1.bin",
         "versionCode": "4417630025",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "86776f0983ef11ce512db2b1250e4bff",
+        "status": 200,
         "uploaded": "2025-04-24",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_2024_5.18.2.bin",
         "versionCode": "4434590025",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "bf4cb290210a1f443b3144cb52a9ae0f",
+        "status": 200,
         "uploaded": "2025-06-12",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_2024_5.18.3.bin",
         "versionCode": "4466720029",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "f6aefb946a7382e1d1fc15513fe60b6c",
+        "status": 200,
         "uploaded": "2025-07-30",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_2024_5.18.4.bin",
         "versionCode": "4507480022",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "99d5cc93f3d09de45959ea3c27f51590",
+        "status": 200,
         "uploaded": "2025-08-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/8/14/38df9dcb-c235-4391-babf-49454670e29c/update-J18040001-bellatrix3_pisco-001-fwo_4527790001.bin",
         "versionCode": "4527790001",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "99d5cc93f3d09de45959ea3c27f51590",
+        "status": 200,
         "uploaded": "2025-08-19",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_2024_5.18.4.0.1.bin",
         "versionCode": "4527790001",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "2bd6df9bd66d73c5b4b0d9de6ab27a09",
+        "status": 200,
         "uploaded": "2025-09-16",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_2024_5.18.5.bin",
         "versionCode": "4546070025",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "035f2beaf082f37cd545f924966da634",
+        "status": 200,
         "uploaded": "2025-09-25",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_2024_5.18.5.0.1.bin",
         "versionCode": "4556840001",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "f7942912a4dfd2274e80da1b03efada6",
+        "status": 200,
         "uploaded": "2025-10-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/10/29/0ec54319-2df7-49f7-9578-ad9c4201fa49/update-J1806-bellatrix3_pisco-041-fwo_4586160041.bin",
         "versionCode": "4586160041",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "f7942912a4dfd2274e80da1b03efada6",
+        "status": 200,
         "uploaded": "2025-11-04",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_2024_5.18.6.bin",
         "versionCode": "4586160041",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "0cb8fd484c3a91883ec84754095dc8eb",
+        "status": 200,
         "uploaded": "2026-02-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/12/297b78a9-e089-4dc8-94a9-1efe355c5da1/update-J1902-bellatrix3_pisco-040-fwo_4670810040.bin",
         "versionCode": "4670810040",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "0cb8fd484c3a91883ec84754095dc8eb",
+        "status": 200,
         "uploaded": "2026-02-16",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_2024_5.19.2.bin",
         "versionCode": "4670810040",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "cd6bf6d4643a497473367309fccc9575",
+        "status": 200,
         "uploaded": "2026-03-26",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_2024_5.19.3.bin",
         "versionCode": "4716190047",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "be0c8231e7729dced9bbe57af89db4fd",
+        "status": 200,
         "uploaded": "2026-04-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/2/09acf60f-18e4-449d-be02-7717884ac6ba/update-J19030001-bellatrix3_pisco-002-fwo_4723080002.bin",
         "versionCode": "4723080002",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "be0c8231e7729dced9bbe57af89db4fd",
+        "status": 200,
         "uploaded": "2026-04-06",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_2024_5.19.3.0.1.bin",
         "versionCode": "4723080002",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "b68fc7cecd2f321fc43e95abc250622b",
+        "status": 200,
         "uploaded": "2026-05-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/5/19/e1c43cb3-fbe8-481a-bab4-92ba1bc8d997/update-J19040001-bellatrix3_pisco-003-fwo_4767260003.bin",
         "versionCode": "4767260003",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "393826ee5f60b4eb2f096b46cfa6da5b",
+        "status": 200,
         "uploaded": "2026-06-29",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_2024_5.19.5.bin",
         "versionCode": "4794290058",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "0c5e54a0dd2b426b70aee97857d85e74",
+        "status": 200,
         "uploaded": "2026-07-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/29/df92af82-ceb2-4f2a-9359-e93987b176d0/update-J1906-bellatrix3_pisco-042-fwo_4832220042.bin",
         "versionCode": "4832220042",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "0c5e54a0dd2b426b70aee97857d85e74",
+        "status": 200,
         "uploaded": "2026-08-03",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_2024_5.19.6.bin",
         "versionCode": "4832220042",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "dd2f7169e465855ee12adef31b32c5ea",
+        "status": 200,
         "uploaded": "2026-09-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/24/b2e9340f-ed93-46dd-9702-79caae1a76ee/update-J2001-bellatrix3_pisco-050-fwo_4893880050.bin",
         "versionCode": "4893880050",
@@ -148,6 +169,7 @@
     },
     {
         "md5": "dd2f7169e465855ee12adef31b32c5ea",
+        "status": 200,
         "uploaded": "2026-10-06",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_2024_5.20.1.bin",
         "versionCode": "4893880050",
@@ -155,6 +177,7 @@
     },
     {
         "md5": "b9a5917835b99a76f8d3667738c68088",
+        "status": 200,
         "uploaded": "2026-10-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/2423c59c-7f98-4b0d-8e8c-e39062af6a36/update-J20010002-bellatrix3_pisco-002-fwo_4926800002.bin",
         "versionCode": "4926800002",
@@ -162,6 +185,7 @@
     },
     {
         "md5": "53615bb75bb4bace5993e1d1e5f032c5",
+        "status": 200,
         "uploaded": "2026-10-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/59545932-71b9-44d8-9743-79ec3d1affd3/update-J2002-bellatrix3_pisco-048-fwo_4935810048.bin",
         "versionCode": "4935810048",
@@ -169,6 +193,7 @@
     },
     {
         "md5": "e8e9693d508b259860b70b09cadd4842",
+        "status": 200,
         "uploaded": "2026-11-10",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/10/0ff4e18d-09f4-4de6-808d-03033cd7861e/update-J20020001-bellatrix3_pisco-004-fwo_4954930004.bin",
         "versionCode": "4954930004",
@@ -176,6 +201,7 @@
     },
     {
         "md5": "e8e9693d508b259860b70b09cadd4842",
+        "status": 200,
         "uploaded": "2026-11-11",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_2024_5.20.2.0.1.bin",
         "versionCode": "4954930004",

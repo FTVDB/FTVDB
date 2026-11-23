@@ -1,6 +1,7 @@
 [
     {
         "md5": "c7f43bef1fe664712380b0a8f30725f9",
+        "status": 200,
         "uploaded": "2020-08-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b7bf2cae95eb5f92e686b6983acbff56/ACAFireTVAndroidClient-fos5-release-signed_706.apk",
         "versionCode": "26260010",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "20d944531a97fa8fd372aff69262cea7",
+        "status": 200,
         "uploaded": "2020-10-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/abe931e7be238153f9f46e05632d4db3/ACAFireTVAndroidClient-fos5-release-signed_800.apk",
         "versionCode": "27470010",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "66e7b592c7823fad22e1ddc27ea2b449",
+        "status": 200,
         "uploaded": "2020-11-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/a0ba0bf6d9f8bfda334b85c796c667e7/ACAFireTVAndroidClient-fos5-release-signed_836.apk",
         "versionCode": "28080010",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "f2be55b87ecec06cd2428fe091ab503f",
+        "status": 200,
         "uploaded": "2021-10-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/334c93fd023f060211b99f7d43738edb/ACAFireTVAndroidClient-fos5-release-signed1179.apk",
         "versionCode": "30170010",
@@ -30,6 +34,7 @@
     {
         "md5": "3b80b40ef299daa821b3494c810de873",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-03-01",
         "url": "",
         "versionCode": "30670010",
@@ -38,6 +43,7 @@
     {
         "md5": "6228d4aeb8b3c361fb45f2837d411e62",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-07-11",
         "url": "",
         "versionCode": "32150010",
@@ -46,6 +52,7 @@
     {
         "md5": "b7de55272cc3a8a3d5f81337f3fbfd4a",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-07-18",
         "url": "",
         "versionCode": "32160010",
@@ -53,6 +60,7 @@
     },
     {
         "md5": "876a39fa2846d5727e8455973b99baf9",
+        "status": 200,
         "uploaded": "2023-08-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6dca8a9c1482a47917a2e910bcb650e2/com.amazon.aca.apk",
         "versionCode": "32550010",
@@ -60,6 +68,7 @@
     },
     {
         "md5": "8318b9c1f23a3978ae44caa037b2d553",
+        "status": 200,
         "uploaded": "2023-10-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c9a28c47d18a3b93841252f4c67a9248/ACAFireTVAndroidClient-fos5-release-signed_9.apk",
         "versionCode": "32780010",

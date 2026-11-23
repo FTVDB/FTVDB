@@ -2,6 +2,7 @@
     {
         "md5": "839f80c59be8c5591a98629d98a40bb5",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-08-18",
         "url": "",
         "versionCode": "33723490436",
@@ -10,6 +11,7 @@
     {
         "md5": "24c9700bb0cd997ef828d5d1ce34f861",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-11-24",
         "url": "",
         "versionCode": "34394701188",
@@ -18,6 +20,7 @@
     {
         "md5": "536a08522be2fb8c41eb833b414c4954",
         "optout": 1,
+        "status": 200,
         "uploaded": "2026-02-24",
         "url": "",
         "versionCode": "35199974020",
@@ -26,6 +29,7 @@
     {
         "md5": "2a93fea749e71995cbbe2d540fe45a6d",
         "optout": 1,
+        "status": 200,
         "uploaded": "2026-04-09",
         "url": "",
         "versionCode": "35334210436",
@@ -33,6 +37,7 @@
     },
     {
         "md5": "0397e66e50e4d8f0e346ed323e93a46a",
+        "status": 200,
         "uploaded": "2026-07-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/6/80207c60-79b0-4c5f-bd13-274a019be272/update-kindle-duckie-PS7715_user_5585_0035736899972.bin",
         "versionCode": "35736899972",
@@ -40,6 +45,7 @@
     },
     {
         "md5": "ce5181732438341181765da3b0e9f7f4",
+        "status": 200,
         "uploaded": "2026-09-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/21/3f48e0d3-74f5-4902-ab8f-8d23d16bd5c5/update-kindle-duckie-PS7717_user_5741_0036408028548.bin",
         "versionCode": "36408028548",
@@ -47,6 +53,7 @@
     },
     {
         "md5": "58bb6613842d89181eba678a2364fb87",
+        "status": 200,
         "uploaded": "2026-10-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/29/cb732ced-f30a-4efe-9848-6a10c858ea04/update-kindle-duckie-PS7717_user_5746_0036408029828.bin",
         "versionCode": "36408029828",

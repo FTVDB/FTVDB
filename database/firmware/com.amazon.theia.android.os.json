@@ -1,6 +1,7 @@
 [
     {
         "md5": "8569ece60d48357b75a7e71629ed11c7",
+        "status": 200,
         "uploaded": "2025-11-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/27/43bdbd8e-5f5e-4584-bc75-ccc1a25d3957/update-kindle-theia-PS7571_user_5148_0033857739908.bin",
         "versionCode": "33857739908",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "53f28dad6f9f66332a3cc0f6ab4e21e6",
+        "status": 200,
         "uploaded": "2026-02-04",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/4/460bcc10-8ed3-44f2-906e-fe5a5d340955/update-kindle-theia-PS7571_user_5162_0033857743492.bin",
         "versionCode": "33857743492",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "125c582e37ca98bc3785c6e0a24cc7d6",
+        "status": 200,
         "uploaded": "2026-09-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/c6fe9e13-e330-491e-bd62-a65edba3ec9c/update-kindle-theia-PS75741_user_7080_0036274153604.bin",
         "versionCode": "36274153604",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "2bf179a246a5e234ab055e515df9cab1",
+        "status": 200,
         "uploaded": "2026-10-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/14/bdf2d674-eef4-40c7-a929-1825f160f872/update-kindle-theia-PS75741_user_7081_0036274153860.bin",
         "versionCode": "36274153860",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "354f1c90af386da9602e125ac9eb7120",
+        "status": 200,
         "uploaded": "2026-10-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/ea479c66-7520-4c54-89ed-a42bcbd7c3a4/update-kindle-theia-PS75741_user_7082_0036274154116.bin",
         "versionCode": "36274154116",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "f610b6ddb9ae141afc477e429a5b3e60",
+        "status": 200,
         "uploaded": "2026-10-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/29/31f5c9f1-f993-43f9-b906-a65a359fcf10/update-kindle-theia-PS75751_user_7807_0036811210628.bin",
         "versionCode": "36811210628",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "af07c0aee05802a8d8498019ae6e2fcf",
+        "status": 200,
         "uploaded": "2026-11-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/3/218f3baa-1833-4897-a6af-a2ea23aac99a/update-kindle-theia-PS75751_user_7809_0036811211140.bin",
         "versionCode": "36811211140",

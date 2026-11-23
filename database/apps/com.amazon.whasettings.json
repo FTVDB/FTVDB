@@ -2,6 +2,7 @@
     {
         "md5": "8b8dc83de5d81afb55b61199f0674f0c",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-11-08",
         "url": "",
         "versionCode": "1450910",
@@ -10,6 +11,7 @@
     {
         "md5": "4ebaa3b95862ca1b99cff25608e70916",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-11-21",
         "url": "",
         "versionCode": "1465010",
@@ -18,6 +20,7 @@
     {
         "md5": "a9b6f48ed46ff0a53ca9f1460cb4e1d3",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-12-02",
         "url": "",
         "versionCode": "1473610",
@@ -25,6 +28,7 @@
     },
     {
         "md5": "7ba821676729e1d3c4aa7cf7c520bd47",
+        "status": 200,
         "uploaded": "2026-06-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/30/f90bd3c7-2330-498a-8f20-7044ce9dd2dd/1782848337397-com.amazon.whasettings.apk",
         "versionCode": "1516010",

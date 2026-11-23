@@ -1,6 +1,7 @@
 [
     {
         "md5": "0a359539f4ea54a6d19ac85fe9b3eff9",
+        "status": 200,
         "uploaded": "2016-10-19",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/4lZB73kWBGIIliKULTlDZW6woE/update-kindle-20.5.5.4_user_554207020.bin",
         "versionCode": "554207020",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "a97920a33e44630d7da09fe6237b6efc",
+        "status": 200,
         "uploaded": "2017-04-13",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/qqUjgfXlzyniQCgJc2vR8TH7Ca/update-kindle-20.5.7.0_user_570208620.bin",
         "versionCode": "570208620",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "21d250aeb751fe2f9fecc6b41d9b13e8",
+        "status": 200,
         "uploaded": "2017-06-06",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/zmFwHjQM26dR2vHID04Yhztekw/update-kindle-20.5.7.9_user_579225620.bin",
         "versionCode": "579225620",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "5c5d9e82de8371c46ccf3e6243c615d9",
+        "status": 200,
         "uploaded": "2017-09-27",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/ZAsacHmumgrMpCXPdw6oykKMaw/update-kindle-20.5.7.9_user_579279320.bin",
         "versionCode": "579279320",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "4d2228a427854a13ed553e24b38e7c01",
+        "status": 200,
         "uploaded": "2017-11-01",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/aahh6b20y1zchalcooae19hnab/update-kindle-20.5.9.5_user_595457020.bin",
         "versionCode": "595457020",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "a9e8bb71c3ebd9a4103dd575d3af8d98",
+        "status": 200,
         "uploaded": "2017-12-04",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/nachheflb20tca1zcilvlco11ae49hnab/update-kindle-20.5.9.5_user_595457320.bin",
         "versionCode": "595457320",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "d06d28be47fd2f829f03f17bf0d005f0",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/655a86646f52386c5cb0c8515c357bf7/update-kindle-full_ariel-20.4.5.5_user_455001820.bin",
         "versionCode": "455001820",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "ce8de8aea986bfee682f6f01632fab10",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/fa251c3c9ec4fcba24d542f1e666225c/update-kindle-full_ariel-20.5.4.1_user_541113320.bin",
         "versionCode": "541113320",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "2e3d641960ce8bcc7024aea876fe750d",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/7127b527cd553dca3b8cd9634bd1b04b/update-kindle-full_ariel-20.5.9.5_user_595550320.bin",
         "versionCode": "595550320",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "158e67fc09313ee4793185264f121517",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/f52d39405803acc4a86bdd496f4f6b80/update-kindle-full_ariel-20.5.2.2_user_522055720.bin",
         "versionCode": "522055720",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "a9e8bb71c3ebd9a4103dd575d3af8d98",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/edd37d17496ba6c93a77b0bf5a5f9aa6/update-kindle-full_ariel-20.5.9.5_user_595457320.bin",
         "versionCode": "595457320",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "5c5d9e82de8371c46ccf3e6243c615d9",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/1caaf6e9bfb67645dbe24e6d9365dc7e/update-kindle-full_ariel-20.5.7.9_user_579279320.bin",
         "versionCode": "579279320",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "03bc4a1ad2f94bd61ca488426f068bd1",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/8107c5e13293354c744ee4aab5388949/update-kindle-full_ariel-20.5.5.2_user_552153420.bin",
         "versionCode": "552153420",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "e6f0b133a9437832d2e7fc77227d5588",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/f1d5b0acd9f15f795fb513a647efb3d3/update-kindle-full_ariel-20.4.5.5_user_455002120.bin",
         "versionCode": "455002120",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "59438bea4e3b3c3cf421d9768868c3a2",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/5993ffb78eaca7a3937d56cc7efbdfe6/update-kindle-full_ariel-20.6.0.5_user_605485120.bin",
         "versionCode": "605485120",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "2147aad55c0fc3722e4e47803d2b3f17",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c3505445686ac05c00f79d0437097551/update-kindle-full_ariel-20.4.5.3_user_453011120.bin",
         "versionCode": "453011120",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "15dbf4db70a1b44b321a36005f5e2183",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/a9dba37b74373c1724f062dc40635cd5/update-kindle-full_ariel-20.5.9.5_user_595457220.bin",
         "versionCode": "595457220",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "21d250aeb751fe2f9fecc6b41d9b13e8",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/4166c007585004ae9e3e2891b576cc74/update-kindle-full_ariel-20.5.7.9_user_579225620.bin",
         "versionCode": "579225620",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "bd002628ca60e205c41af241b5c5b54f",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/cd08c326b184bbd8e430be36cd9902c5/update-kindle-full_ariel-20.5.4.2_user_542169020.bin",
         "versionCode": "542169020",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "0a359539f4ea54a6d19ac85fe9b3eff9",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b500817e10e087d63c036dd3bac7d84d/update-kindle-full_ariel-20.5.5.4_user_554207020.bin",
         "versionCode": "554207020",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "a97920a33e44630d7da09fe6237b6efc",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/3ee30b61ae1bd6d65c6bf4ffdf25eca8/update-kindle-full_ariel-20.5.7.0_user_570208620.bin",
         "versionCode": "570208620",
@@ -148,6 +169,7 @@
     },
     {
         "md5": "61fd65de83020192268442a78c3561b1",
+        "status": 200,
         "uploaded": "2018-12-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b863ac6656c1abb05ec6ed102e2ec614/update-kindle-full_ariel-20.6.0.5_user_605485620.bin",
         "versionCode": "605485620",
@@ -155,6 +177,7 @@
     },
     {
         "md5": "8e161a66728a34a0a22a85a4ca081303",
+        "status": 200,
         "uploaded": "2020-08-12",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/xLuF2GFiqnx6WFfhCPyFRN0h0j/update-kindle-20.6.0.5_user_605487420.bin",
         "versionCode": "605487420",

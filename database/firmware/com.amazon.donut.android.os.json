@@ -1,6 +1,7 @@
 [
     {
         "md5": "7d6499ce782ff102f86385a9d37ad225",
+        "status": 200,
         "uploaded": "2019-03-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/165f17697caca40d912478c045c5e156/update-kindle-donut-NS6529_user_1895_0002315741060.bin",
         "versionCode": "2315741060",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "c9c375e16cb2c6cad3ac6a00a5dbbe68",
+        "status": 200,
         "uploaded": "2023-05-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/321b0118c190c0708bf4f740c78f4be8/update-kindle-donut_puffin-NS6559_user_4655_0009094442884.bin",
         "versionCode": "9094442884",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "27a80cfad8bf693331a19ce1dee038a8",
+        "status": 200,
         "uploaded": "2023-07-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/5e8fa97b42c0c76430f453c10efeff68/update-kindle-donut_puffin-NS6560_user_4769_0009295798660.bin",
         "versionCode": "9295798660",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "9be49008c29a8f876d994d7a24b51458",
+        "status": 200,
         "uploaded": "2023-08-04",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/5a98571a500bda59aa7798c16e5c25ea/update-kindle-donut_puffin-NS6560_user_4774_0009295799940.bin",
         "versionCode": "9295799940",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "ec94c3b17000ede1f39a79bd9f7b3b74",
+        "status": 200,
         "uploaded": "2023-11-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d3a4343461ac931bbbeba6ad5e113073/update-kindle-donut_puffin-NS6561_user_4936_0009698494596.bin",
         "versionCode": "9698494596",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "e4e66fac8026bb30d1f7dfb6ac44e2fa",
+        "status": 200,
         "uploaded": "2024-09-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/9/26/998a4fda-ac67-4c71-afe9-f554dc9e13c2/update-kindle-donut_puffin-NS6565_user_5531_0011040824196.bin",
         "versionCode": "11040824196",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "02c14605837b3855df4e094450ab9228",
+        "status": 200,
         "uploaded": "2025-05-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/15/1450a8a3-5c82-4ba3-8f22-ce9f370fa7b5/update-kindle-donut_puffin-NS6566_user_6813_0011779349892.bin",
         "versionCode": "11779349892",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "91f4416b7db84eaf6972429f2ba6dec2",
+        "status": 200,
         "uploaded": "2025-07-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/7/24/a8307de8-3245-43fe-8a04-232b3fac96c7/update-kindle-donut_puffin-NS6569_user_6009_0011980470660.bin",
         "versionCode": "11980470660",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "2e0b3f94dc9ab52ac876272857ee3ebf",
+        "status": 200,
         "uploaded": "2025-08-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/8/16/e9e5da87-55f2-4b3e-975e-cf60355a3843/update-kindle-donut_puffin-NS6570_user_6071_0012383139716.bin",
         "versionCode": "12383139716",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "d79973f85f7c213ec9af073d34884212",
+        "status": 200,
         "uploaded": "2025-09-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/9/6/6a50a975-bcda-41bd-b05a-9c80e6c9396e/update-kindle-donut_puffin-NS6570_user_6077_0012383141252.bin",
         "versionCode": "12383141252",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "7b9998c87122e90ee8bf3f369f0cd87d",
+        "status": 200,
         "uploaded": "2025-09-23",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/9/23/c071448f-da56-42bc-bbdc-d105d6a6045e/update-kindle-donut_puffin-NS6570_user_6086_0012383143556.bin",
         "versionCode": "12383143556",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "e179720960017a18ac8da967b689c0e9",
+        "status": 200,
         "uploaded": "2025-10-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/10/9/d8b09e56-0e6e-4aa0-b018-9cd4f1c81429/update-kindle-donut_puffin-NS6571_user_6176_0012584493188.bin",
         "versionCode": "12584493188",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "e18ea7903335891a65e09c3ca5db2932",
+        "status": 200,
         "uploaded": "2025-10-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/10/26/cb26f9fd-10be-446f-9ff3-ce132e722a03/update-kindle-donut_puffin-NS6571_user_6193_0012584497540.bin",
         "versionCode": "12584497540",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "13c117c235a4635249a83ba05ce996d4",
+        "status": 200,
         "uploaded": "2025-11-08",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/8/8a40781b-3c93-44ae-8266-0d9dc97ed8c3/update-kindle-donut_puffin-NS6571_user_6199_0012584499076.bin",
         "versionCode": "12584499076",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "d4c6b5166f1ff53b33818985e68c5367",
+        "status": 200,
         "uploaded": "2025-11-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/28/127a6c2e-5c62-4101-875c-77e29f330812/update-kindle-donut_puffin-NS6571_user_6208_0012584501380.bin",
         "versionCode": "12584501380",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "4fbc381fa19ab1da44f390d7a2ca13d3",
+        "status": 200,
         "uploaded": "2026-01-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/1/17/af80af0f-ca64-4625-a040-82c423e6dbc0/update-kindle-donut_puffin-NS6571_user_6220_0012584504452.bin",
         "versionCode": "12584504452",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "90bc2c31e3461537b1ad57cd449a8ea5",
+        "status": 200,
         "uploaded": "2026-03-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/6/3824ae74-3a8f-4fdd-bc4f-59dfc8b5eb02/update-kindle-donut_puffin-NS6572_user_6425_0012718774660.bin",
         "versionCode": "12718774660",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "eb351e749402e89d801e59faf31b608d",
+        "status": 200,
         "uploaded": "2026-05-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/5/12/8ab1ca64-ad29-47e5-a9d8-97c7ba00437d/update-kindle-donut_puffin-NS6573_user_6554_0012853025412.bin",
         "versionCode": "12853025412",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "b66fafedc8f14e07d2003ca84d50d696",
+        "status": 200,
         "uploaded": "2026-05-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/5/22/61b55f8d-fd3e-406c-ade2-3643fe642423/update-kindle-donut_puffin-NS6573_user_6562_0012853027460.bin",
         "versionCode": "12853027460",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "f7cd5f3b6d6bfa59e5ba6a6779285c34",
+        "status": 200,
         "uploaded": "2026-08-31",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/8/31/47af3c26-2d8c-4160-887a-4b58d4e05032/update-kindle-donut_puffin-NS65741_user_8138_0013222529668.bin",
         "versionCode": "13222529668",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "a30c92b1df9ef4dac49d10a11b8563c1",
+        "status": 200,
         "uploaded": "2026-09-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/9/b4a35bf3-94b3-44e2-a709-677185a243a8/update-kindle-donut_puffin-NS65741_user_8142_0013222530692.bin",
         "versionCode": "13222530692",
@@ -148,6 +169,7 @@
     },
     {
         "md5": "996efea4230abffd32d4d9fb862b359c",
+        "status": 200,
         "uploaded": "2026-09-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/17/486923a2-9bfe-48cf-85f7-0cce5b02c99b/update-kindle-donut_puffin-NS65741_user_8146_0013222531716.bin",
         "versionCode": "13222531716",
@@ -155,6 +177,7 @@
     },
     {
         "md5": "5dd6592535b67f2c87d1cd866a8bdfe7",
+        "status": 200,
         "uploaded": "2026-09-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/6db1d3a7-8ce2-4bc5-b528-cacd6aa38a96/update-kindle-donut_puffin-NS65741_user_8149_0013222532484.bin",
         "versionCode": "13222532484",
@@ -162,6 +185,7 @@
     },
     {
         "md5": "97ea5366143bbb24b2f6eef681a65f56",
+        "status": 200,
         "uploaded": "2026-10-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/14/8639d501-83ed-489b-86c4-3b433ed8d82d/update-kindle-donut_puffin-NS6575_user_8338_0013323244164.bin",
         "versionCode": "13323244164",
@@ -169,6 +193,7 @@
     },
     {
         "md5": "68dffd095f9484797dcaa05f50db1cf5",
+        "status": 200,
         "uploaded": "2026-10-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/1882ec12-9120-4ba1-9f93-2ca5d8fd4cc1/update-kindle-donut_puffin-NS6575_user_8344_0013323245700.bin",
         "versionCode": "13323245700",
@@ -176,6 +201,7 @@
     },
     {
         "md5": "8f0a2c73463ebf651035d41b62c38798",
+        "status": 200,
         "uploaded": "2026-10-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/403ee71e-c316-4460-845b-3f50df862132/update-kindle-donut_puffin-NS6575_user_8349_0013323246980.bin",
         "versionCode": "13323246980",

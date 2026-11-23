@@ -1,6 +1,7 @@
 [
     {
         "md5": "b17c93f2b0d5a1ad16401dcfd17af564",
+        "status": 200,
         "uploaded": "2017-10-12",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/SAsacHmumgrMpCXPdw6oykKMaw/update-kindle-11.4.5.5_user_455006120.bin",
         "versionCode": "455006120",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "47b0a6001793377dcb3028a7465a4e3a",
+        "status": 200,
         "uploaded": "2018-08-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/1e9bb7d9061aebcf8bf03acc310e5643/update-kindle-soho-11.4.5.5_user_455006420.bin",
         "versionCode": "455006420",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "30f9c36d3d2b81d96caf79299f210a14",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/367f166849c753939802ea23e73deb58/update-kindle-soho-11.4.5.5_user_455004220.bin",
         "versionCode": "455004220",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "0b0dd1d3a8777c05fa265b8fd4b9fcb4",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/a119d8d1500283edabc6a792c007d974/update-kindle-soho-11.4.5.3_user_453011120.bin",
         "versionCode": "453011120",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "b17c93f2b0d5a1ad16401dcfd17af564",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/dd9249a0108618f38c1a9b4e255d8644/update-kindle-soho-11.4.5.5_user_455006120.bin",
         "versionCode": "455006120",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "0130ced9363c5f2a034e81c9807b3f91",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c3846f32e5b60c05484a9ec1393c26f5/update-kindle-soho-11.4.5.5_user_455002120.bin",
         "versionCode": "455002120",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "4db14647497f93f38c04ecabe40fee59",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/1d0d3c36f9a8c50fda395064288179c7/update-kindle-soho-11.4.5.5_user_455001820.bin",
         "versionCode": "455001820",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "b7b9fe9b5c370c3a290495bf429b7416",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/ca3916f22e26e623d70534963ee96a0e/update-kindle-soho-11.3.2.5_user_325001620.bin",
         "versionCode": "325001620",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "13bc9656f3bb9db7fb46855087d24654",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/237771a4da6f25b411fa55b8834a9ba9/update-kindle-soho-11.4.1.1_user_411010320.bin",
         "versionCode": "411010320",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "bd194e3cdd5d28264e8ac1e0355e1e65",
+        "status": 200,
         "uploaded": "2018-12-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/acd23f32b8184fa611319007d0610e5b/update-kindle-soho-11.4.5.5_user_455006820.bin",
         "versionCode": "455006820",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "bd194e3cdd5d28264e8ac1e0355e1e65",
+        "status": 200,
         "uploaded": "2019-01-02",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/xPivkDty9ez1ia7C8dhJyGtxjw/update-kindle-11.4.5.5_user_455006820.bin",
         "versionCode": "455006820",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "afb51a691938e44ec5af54862e1a5a7b",
+        "status": 200,
         "uploaded": "2020-07-31",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/a4ea79a4cc9173271b2bd7970b7eda51/update-kindle-soho-11.4.5.5_user_455007020.bin",
         "versionCode": "455007020",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "afb51a691938e44ec5af54862e1a5a7b",
+        "status": 200,
         "uploaded": "2020-08-12",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/NPcFX1aYhdUrOeImJ9DyQYS0Qw/update-kindle-11.4.5.5_user_455007020.bin",
         "versionCode": "455007020",

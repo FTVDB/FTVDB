@@ -2,6 +2,7 @@
     {
         "md5": "9c51bd6a53d8fdb6df9cca2cc7af966b",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-01-24",
         "url": "",
         "versionCode": "26810845572",
@@ -10,6 +11,7 @@
     {
         "md5": "bbbabeb5ee58b36455198bb4476cc639",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-03-29",
         "url": "",
         "versionCode": "27347744132",
@@ -18,6 +20,7 @@
     {
         "md5": "b72d76655e84c81540e613d9c95ecdc9",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-05-23",
         "url": "",
         "versionCode": "28085968516",
@@ -26,6 +29,7 @@
     {
         "md5": "655a2673895341c1ad459b3d24b8ad0b",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-07-27",
         "url": "",
         "versionCode": "28488623236",
@@ -34,6 +38,7 @@
     {
         "md5": "34275f38c14a4efeb23b44a4110230b9",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-09-25",
         "url": "",
         "versionCode": "29159767172",
@@ -42,6 +47,7 @@
     {
         "md5": "848a016069d080fde4a284d6cd42a28f",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-12-27",
         "url": "",
         "versionCode": "29562451588",
@@ -50,6 +56,7 @@
     {
         "md5": "c20243f18ab6b406574dc2e2b607a33d",
         "optout": 1,
+        "status": 200,
         "uploaded": "2024-04-16",
         "url": "",
         "versionCode": "29965156740",
@@ -58,6 +65,7 @@
     {
         "md5": "26e337b169814d52902450ce8f617486",
         "optout": 1,
+        "status": 200,
         "uploaded": "2024-09-02",
         "url": "",
         "versionCode": "31106080900",
@@ -66,6 +74,7 @@
     {
         "md5": "a51ba43cef210a7592fe963a12db5ef1",
         "optout": 1,
+        "status": 200,
         "uploaded": "2024-11-11",
         "url": "",
         "versionCode": "31642978180",
@@ -74,6 +83,7 @@
     {
         "md5": "be2ea9a9cb0efd2f3842acb2dccc754a",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-03-19",
         "url": "",
         "versionCode": "32381234308",
@@ -82,6 +92,7 @@
     {
         "md5": "28cb0138f5f40d1778b80621130706cd",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-06-26",
         "url": "",
         "versionCode": "33052369540",
@@ -90,6 +101,7 @@
     {
         "md5": "d8f47144ccd223631eac5225067ccb35",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-08-04",
         "url": "",
         "versionCode": "33455040388",
@@ -98,6 +110,7 @@
     {
         "md5": "918a48f30639b92ec6e14471c5b3821f",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-08-18",
         "url": "",
         "versionCode": "33723490436",
@@ -106,6 +119,7 @@
     {
         "md5": "f43a39c05a24a3ac58428ea0d2296a99",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-11-24",
         "url": "",
         "versionCode": "34394701188",
@@ -114,6 +128,7 @@
     {
         "md5": "eacc8a5d0bc69621be70331277539f1b",
         "optout": 1,
+        "status": 200,
         "uploaded": "2026-02-23",
         "url": "",
         "versionCode": "35199974020",
@@ -122,6 +137,7 @@
     {
         "md5": "336c9fc3a1a7c93ef49bd2faf8433e57",
         "optout": 1,
+        "status": 200,
         "uploaded": "2026-04-13",
         "url": "",
         "versionCode": "35334210436",
@@ -129,6 +145,7 @@
     },
     {
         "md5": "44451b108c3778e4b6c9d3a1dedcb450",
+        "status": 200,
         "uploaded": "2026-07-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/6/8100ff67-541a-4a59-b608-01670a8a2b53/update-kindle-almond-bt-PS7715_user_5585_0035736899972.bin",
         "versionCode": "35736899972",
@@ -136,6 +153,7 @@
     },
     {
         "md5": "2c166adff0221cd7fdd96479d47c5e9e",
+        "status": 200,
         "uploaded": "2026-09-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/22/b9ec94fc-d46c-488c-8dae-6f77ef5dbb9a/update-kindle-almond-bt-PS7717_user_5741_0036408028548.bin",
         "versionCode": "36408028548",
@@ -143,6 +161,7 @@
     },
     {
         "md5": "4fab2763dd755fa50d7da86e2abce80d",
+        "status": 200,
         "uploaded": "2026-10-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/28/2e6a0879-50bb-472b-9922-c5e445c81f1f/update-kindle-almond-bt-PS7717_user_5746_0036408029828.bin",
         "versionCode": "36408029828",

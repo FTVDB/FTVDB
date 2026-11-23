@@ -1,6 +1,7 @@
 [
     {
         "md5": "622f696097d1b7621f3f80a756099aa0",
+        "status": 200,
         "uploaded": "2016-11-09",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/r3djlKuJgWWKD5P6mR99jICVNv/update-kindle-32.5.6.0_user_560177220.bin",
         "versionCode": "560177220",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "70c5e199310d72b93c846dad49398c48",
+        "status": 200,
         "uploaded": "2016-12-08",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/Gx44ERHfWqKw0YOysord8GQucz/update-kindle-32.5.6.3_user_563231720.bin",
         "versionCode": "563231720",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "4ba04a29ed9e5da9981a301471bf3f8e",
+        "status": 200,
         "uploaded": "2017-06-06",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/QwkpR2hjtXaXkxFy9cPp8Ov8hN/update-kindle-32.5.7.9_user_579225620.bin",
         "versionCode": "579225620",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "81a0f6b6d3de51cd76638c58d2de4285",
+        "status": 200,
         "uploaded": "2017-09-27",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/ZAsacHmumgrMpCXPdw6oykKMaw/update-kindle-32.5.7.9_user_579279320.bin",
         "versionCode": "579279320",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "7d3b199f09371032c6ae66a8a706ab0d",
+        "status": 200,
         "uploaded": "2017-11-01",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/aahh6b20y1zchalcooae19hnab/update-kindle-32.5.9.5_user_595457020.bin",
         "versionCode": "595457020",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "9cf99e90839d2877fea4d577b8f2017e",
+        "status": 200,
         "uploaded": "2017-12-04",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/nachheflb20tca1zcilvlco11ae49hnab/update-kindle-32.5.9.5_user_595457320.bin",
         "versionCode": "595457320",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "ad3dd2e4a67e7f6b1c3d7f20e8873af8",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/19ba2dfc2cd7c7b7099ee6a8c3848aa4/update-kindle-full_thebes-32.5.7.0_user_570208520.bin",
         "versionCode": "570208520",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "9cf99e90839d2877fea4d577b8f2017e",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c9773aad0dc14eed9f07ec927961a32c/update-kindle-full_thebes-32.5.9.5_user_595457320.bin",
         "versionCode": "595457320",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "70c5e199310d72b93c846dad49398c48",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6bf60ab4eca1646ab3238fc8c14d05c9/update-kindle-full_thebes-32.5.6.3_user_563231720.bin",
         "versionCode": "563231720",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "4a0c284e82c9c608e4422948d9a6df05",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/eee737ccd2ab2f9c91e7a024c066985f/update-kindle-full_thebes-32.5.9.5_user_595457220.bin",
         "versionCode": "595457220",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "aae07ee3466bf69aa1b74fc4ced75e8d",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/7abb0c4b1032322e08705595d2f74d0f/update-kindle-full_thebes-32.5.9.5_user_595550320.bin",
         "versionCode": "595550320",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "9f74da0a9128d4173a5db0518a2b6589",
+        "status": 200,
         "uploaded": "2018-11-13",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/93olgKwMW8ecGINzUwwqQmLz43/update-kindle-32.6.2.6_user_626533320.bin",
         "versionCode": "626533320",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "9f7bdec344763155c8c66363d7525487",
+        "status": 200,
         "uploaded": "2020-05-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/a007b1757b0910a66f57d8c8245287ca/update-kindle-full_thebes-32.5.7.9_user_579279320.bin",
         "versionCode": "579279320",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "03ccc0007022ca1629a9688cf13832fa",
+        "status": 200,
         "uploaded": "2020-08-10",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/4e084ed4f38581639be1af6cd0632268/update-kindle-full_thebes-32.6.2.6_user_626539520.bin",
         "versionCode": "626539520",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "03ccc0007022ca1629a9688cf13832fa",
+        "status": 200,
         "uploaded": "2020-08-12",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/gRxuMBxoHW3xFwLXvRTXhfLQ1e/update-kindle-32.6.2.6_user_626539520.bin",
         "versionCode": "626539520",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "9c3f1e2b9e72033bf855862d8ca3eec6",
+        "status": 200,
         "uploaded": "2020-11-03",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/wIjSOarFbicCz10Qdmym9lXqvcg/update-kindle-32.6.2.6_user_626542120.bin",
         "versionCode": "626542120",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "9c3f1e2b9e72033bf855862d8ca3eec6",
+        "status": 200,
         "uploaded": "2020-11-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/716303d17ae33a95c8d3cf7bac7e0931/update-kindle-full_thebes-32.6.2.6_user_626542120.bin",
         "versionCode": "626542120",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "6d0c83e6ab62077c028bfa75b2a76f9f",
+        "status": 200,
         "uploaded": "2021-01-05",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6e2391185fca3bed1e955c9cf702233b/update-kindle-full_thebes-32.6.2.6_user_626547120.bin",
         "versionCode": "626547120",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "8e9e5f40c39caa7912d70392e92366b0",
+        "status": 200,
         "uploaded": "2022-02-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6ccda3afc05fe9c3b2639bb694991c5a/update-kindle-full_thebes-32.6.2.6_user_626549020.bin",
         "versionCode": "626549020",

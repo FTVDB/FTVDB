@@ -2,6 +2,7 @@
     {
         "md5": "b3fed45e0352bbbe7a91ada2633f6796",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-11-21",
         "url": "",
         "versionCode": "1142310",
@@ -10,6 +11,7 @@
     {
         "md5": "c03b0e3c956d1a78908cfa08f7a7eefa",
         "optout": 1,
+        "status": 200,
         "uploaded": "2025-12-02",
         "url": "",
         "versionCode": "1145910",
@@ -17,6 +19,7 @@
     },
     {
         "md5": "477e720ca6ef3e543e9f5241c4f13792",
+        "status": 200,
         "uploaded": "2026-06-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/30/0a3386fb-fd68-4717-a020-ad8b37385b42/1782848542867-com.amazon.avls.experience.apk",
         "versionCode": "1152510",

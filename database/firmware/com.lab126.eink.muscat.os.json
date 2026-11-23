@@ -1,6 +1,7 @@
 [
     {
         "md5": "3adbb8e0d5cb38a80dd58d1f6bdcae60",
+        "status": 200,
         "uploaded": "2015-08-10",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_all_new_paperwhite_5.6.5.bin",
         "versionCode": "2730300038",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "359ba97acb8da6dfa054970ea9adc7f8",
+        "status": 200,
         "uploaded": "2016-02-02",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_all_new_paperwhite_5.7.2.bin",
         "versionCode": "2875970015",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "4b679b70261a14c5148fefb7e63c2241",
+        "status": 200,
         "uploaded": "2016-02-11",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_all_new_paperwhite_5.7.2.1.bin",
         "versionCode": "2882840002",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "0a75d9ec200938efa343f3cdbb258a10",
+        "status": 200,
         "uploaded": "2016-03-07",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_all_new_paperwhite_5.7.3.bin",
         "versionCode": "2899390015",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "a64f2c4d7673fde77c74ef3a0aa66669",
+        "status": 200,
         "uploaded": "2016-03-16",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_all_new_paperwhite_5.7.3.1.bin",
         "versionCode": "2911650002",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "28e6d2a020a83b0d0c557ea84781744a",
+        "status": 200,
         "uploaded": "2016-04-11",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_all_new_paperwhite_5.7.4.bin",
         "versionCode": "2929620018",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "785fafa961916e07a94692231065cfc4",
+        "status": 200,
         "uploaded": "2016-05-21",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/update_kindle_all_new_paperwhite_5.7.4.1.bin",
         "versionCode": "2937220006",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "8c1982d9d7cb641aca94a12159fff7f1",
+        "status": 200,
         "uploaded": "2016-10-07",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.8.5.bin",
         "versionCode": "3048470064",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "e7c401b44760ac93b3ece9602b97f3e8",
+        "status": 200,
         "uploaded": "2016-10-26",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.8.5.0.1.bin",
         "versionCode": "3077510002",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "bad4cf57ee579b638cfc241208d325a1",
+        "status": 200,
         "uploaded": "2016-11-07",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.8.5.0.2.bin",
         "versionCode": "3085210002",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "9786f3551186480d9fd61e52fb695bcf",
+        "status": 200,
         "uploaded": "2016-11-30",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.8.7.bin",
         "versionCode": "3095600028",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "ababbdbc483386b24fdea9bda35d75f0",
+        "status": 200,
         "uploaded": "2017-01-27",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.8.7.0.1.bin",
         "versionCode": "3115940037",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "845ac6d29a532d248d6b8a23a5568248",
+        "status": 200,
         "uploaded": "2017-03-02",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.8.8.bin",
         "versionCode": "3144280022",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "069e204192635aaf0278cb63c055ed63",
+        "status": 200,
         "uploaded": "2017-04-10",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.8.9.bin",
         "versionCode": "3164600017",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "9ab1afda0536467e4f5bf1d4dc5e6f01",
+        "status": 200,
         "uploaded": "2017-05-11",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.8.9.2.bin",
         "versionCode": "3179290002",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "8bafd8a6fb681d5362eac1e0a79a2a54",
+        "status": 200,
         "uploaded": "2017-07-12",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.8.10.bin",
         "versionCode": "3202090019",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "3ba084a6da7a14f6154ef3f0e99201cc",
+        "status": 200,
         "uploaded": "2017-10-25",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.9.2.bin",
         "versionCode": "3250710044",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "d7a933f9b9dc91d4643e74e17118b122",
+        "status": 200,
         "uploaded": "2017-12-07",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.9.2.0.1.bin",
         "versionCode": "3262860017",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "748576da1981983e063cb8176261040d",
+        "status": 200,
         "uploaded": "2018-01-31",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.9.4.bin",
         "versionCode": "3278740046",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "6a670bf3aa1c513184c3e9c1a36d8e4a",
+        "status": 200,
         "uploaded": "2018-04-06",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.9.5.bin",
         "versionCode": "3295150015",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "94a58ff83564acecc849875adf70f5df",
+        "status": 200,
         "uploaded": "2018-04-27",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.9.5.1.bin",
         "versionCode": "3301940011",
@@ -148,6 +169,7 @@
     },
     {
         "md5": "40fb038ebb2d8304610357f9f6d7d1f9",
+        "status": 200,
         "uploaded": "2018-05-31",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.9.6.bin",
         "versionCode": "3310050022",
@@ -155,6 +177,7 @@
     },
     {
         "md5": "57b0c3922a933d44bfe3bea807fdd147",
+        "status": 200,
         "uploaded": "2018-06-12",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.9.6.1.bin",
         "versionCode": "3314460001",
@@ -162,6 +185,7 @@
     },
     {
         "md5": "b13ec0a6920bafea62e0335340c7ba22",
+        "status": 200,
         "uploaded": "2018-07-25",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.9.7.bin",
         "versionCode": "3330440020",
@@ -169,6 +193,7 @@
     },
     {
         "md5": "b2f6727ed36ee457ee08c588bbf9773b",
+        "status": 200,
         "uploaded": "2018-10-15",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.10.1.1.bin",
         "versionCode": "3358230034",
@@ -176,6 +201,7 @@
     },
     {
         "md5": "789ff46e6df9d634b48f3ca092e686d1",
+        "status": 200,
         "uploaded": "2019-01-11",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.10.2.bin",
         "versionCode": "3374520058",
@@ -183,6 +209,7 @@
     },
     {
         "md5": "90fdde820e2c630572da6f63cdab88ee",
+        "status": 200,
         "uploaded": "2019-02-08",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.10.3.bin",
         "versionCode": "3383200041",
@@ -190,6 +217,7 @@
     },
     {
         "md5": "94214255738fa95d3d4d8ac19f91757e",
+        "status": 200,
         "uploaded": "2019-03-26",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.11.1.1.bin",
         "versionCode": "3528530001",
@@ -197,6 +225,7 @@
     },
     {
         "md5": "4f9ea9b6a551a07199c45ba42a53cd62",
+        "status": 200,
         "uploaded": "2019-05-29",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.11.2.bin",
         "versionCode": "3541850032",
@@ -204,6 +233,7 @@
     },
     {
         "md5": "88cfdf3c7c477e19bf7a3c5e12999dfe",
+        "status": 200,
         "uploaded": "2019-07-05",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.12.1.bin",
         "versionCode": "3552140044",
@@ -211,6 +241,7 @@
     },
     {
         "md5": "5229200e2a6bc6a8ec51cc502c6d4266",
+        "status": 200,
         "uploaded": "2019-10-01",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.12.2.bin",
         "versionCode": "3569620025",
@@ -218,6 +249,7 @@
     },
     {
         "md5": "e4d7ff60132c58448b0c1b31d5961b12",
+        "status": 200,
         "uploaded": "2019-12-02",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.12.3.bin",
         "versionCode": "3581500036",
@@ -225,6 +257,7 @@
     },
     {
         "md5": "0ffd0c51eaeb2903c034a34782952e24",
+        "status": 200,
         "uploaded": "2020-08-20",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.13.2.bin",
         "versionCode": "3661410039",
@@ -232,6 +265,7 @@
     },
     {
         "md5": "0c2a349368308dbe499686f41a46178b",
+        "status": 200,
         "uploaded": "2020-10-09",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.13.3.bin",
         "versionCode": "3675980033",
@@ -239,6 +273,7 @@
     },
     {
         "md5": "45b86a0450cda93eb91233b4d0497e2b",
+        "status": 200,
         "uploaded": "2020-11-30",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.13.4.bin",
         "versionCode": "3692540026",
@@ -246,6 +281,7 @@
     },
     {
         "md5": "6126ccf2bb91d822ab71b0e036f55c09",
+        "status": 200,
         "uploaded": "2021-02-26",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.13.5.bin",
         "versionCode": "3716750030",
@@ -253,6 +289,7 @@
     },
     {
         "md5": "4bb0daa7c511775c0c52eba3b87c8c7b",
+        "status": 200,
         "uploaded": "2021-05-11",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.13.6.bin",
         "versionCode": "3731990038",
@@ -260,6 +297,7 @@
     },
     {
         "md5": "6bc5d2217b88487b8ba02d83a290d68b",
+        "status": 200,
         "uploaded": "2021-08-13",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.13.7.bin",
         "versionCode": "3763000075",
@@ -267,6 +305,7 @@
     },
     {
         "md5": "e87014f4b2c04e4694da83792904c8bb",
+        "status": 200,
         "uploaded": "2021-10-08",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.14.1.bin",
         "versionCode": "3776420030",
@@ -274,6 +313,7 @@
     },
     {
         "md5": "4a50817b302d5b58625601091773546e",
+        "status": 200,
         "uploaded": "2022-02-03",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.14.2.bin",
         "versionCode": "3807110059",
@@ -281,6 +321,7 @@
     },
     {
         "md5": "cf589a50077664b3b821cdac1e36432c",
+        "status": 200,
         "uploaded": "2022-04-25",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.14.3.bin",
         "versionCode": "3830810070",
@@ -288,6 +329,7 @@
     },
     {
         "md5": "a387eef07176644442fb6cdff9c91803",
+        "status": 200,
         "uploaded": "2022-05-13",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.14.3.0.1.bin",
         "versionCode": "3838600001",
@@ -295,6 +337,7 @@
     },
     {
         "md5": "59d48d34a573eea97b6fc09b4fc2a9b0",
+        "status": 200,
         "uploaded": "2022-08-04",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.14.3.2.bin",
         "versionCode": "3867610003",
@@ -302,6 +345,7 @@
     },
     {
         "md5": "480020138553bccfd6b5a64dd80125b9",
+        "status": 200,
         "uploaded": "2022-09-27",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.15.1.bin",
         "versionCode": "3889320042",
@@ -309,6 +353,7 @@
     },
     {
         "md5": "db044d2e41500b5e74f7d648854a52d0",
+        "status": 200,
         "uploaded": "2023-02-20",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.15.1.1.bin",
         "versionCode": "3925040005",
@@ -316,6 +361,7 @@
     },
     {
         "md5": "45391f404d6355d7fa09df206d67c88e",
+        "status": 200,
         "uploaded": "2023-06-21",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.16.2.1.bin",
         "versionCode": "4064640031",
@@ -323,6 +369,7 @@
     },
     {
         "md5": "675bfde17bcd5bc55c97f99e680c60fd",
+        "status": 200,
         "uploaded": "2023-08-01",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6b6e51ebde59a0dc9f142fc4e5448db1/update-J16020101-wario_muscat-002-fwo_4097470002.bin",
         "versionCode": "4097470002",
@@ -330,6 +377,7 @@
     },
     {
         "md5": "675bfde17bcd5bc55c97f99e680c60fd",
+        "status": 200,
         "uploaded": "2023-08-04",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.16.2.1.1.bin",
         "versionCode": "4097470002",

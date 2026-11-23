@@ -1,6 +1,7 @@
 [
     {
         "md5": "103403f6f20278eaa51fa9d7ad98ddf0",
+        "status": 200,
         "uploaded": "2026-09-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/28/928a1e66-ca14-4f75-bc55-311d5a492c12/update-kindle-pablo-NS65741_user_8149_0013222532484.bin",
         "versionCode": "13222532484",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "9ef3e541d9d76f9bff00ddfb81a87413",
+        "status": 200,
         "uploaded": "2026-10-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/14/4e1d4def-45e4-4e1b-be4b-f72d602387c8/update-kindle-pablo-NS6575_user_8338_0013323244164.bin",
         "versionCode": "13323244164",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "81f5cf2c0268f2919a2a3c54a84eb071",
+        "status": 200,
         "uploaded": "2026-11-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/9/c5ee2ec2-2f66-49e3-8833-35e5b4ca2a26/update-kindle-pablo-NS6575_user_8363_0013491022724.bin",
         "versionCode": "13491022724",

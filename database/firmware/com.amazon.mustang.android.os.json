@@ -1,6 +1,7 @@
 [
     {
         "md5": "88bc7158a876015d5cd39e96375a381c",
+        "status": 200,
         "uploaded": "2019-06-03",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/Tr37jJbMSR96z5WBmVbW6uq32p/update-kindle-NS6312_user_1827_0002517050244.bin",
         "versionCode": "2517050244",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "45f07171c3ad17f057bde7153c7e41ad",
+        "status": 200,
         "uploaded": "2019-12-09",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/JC8Sj3RPydV3SwSLR0DLkLVgBH/update-kindle-Fire_7_9th_Gen-NS6314_user_2315_0003188263812.bin",
         "versionCode": "3188263812",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "91f192870d4f83ec009b27c7240852d6",
+        "status": 200,
         "uploaded": "2020-02-13",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c05024f3a45775c7c7fcf29557f8a60e/update-kindle-mustang-NS6315_user_2504_0003658074244.bin",
         "versionCode": "3658074244",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "91f192870d4f83ec009b27c7240852d6",
+        "status": 200,
         "uploaded": "2020-02-27",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/eI3UXiCdWfm4l9xcFS5U61gf6a/update-kindle-Fire_7_9th_Gen-NS6315_user_2504_0003658074244.bin",
         "versionCode": "3658074244",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "8cf11605332f996bd07796ef1b2a6147",
+        "status": 200,
         "uploaded": "2020-08-10",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/n4FyUtRZWG7ZfICf7PDKa6Nnyj/update-kindle-Fire_7_9th_Gen-PS7315_user_1958_0018354775684.bin",
         "versionCode": "18354775684",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "241e604c51dbacbbacb95e0e140928e6",
+        "status": 200,
         "uploaded": "2020-09-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/98ee89897ba09c93f9a7da6a78aa4138/update-kindle-mustang-PS7315_user_1961_0018354776452.bin",
         "versionCode": "18354776452",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "241e604c51dbacbbacb95e0e140928e6",
+        "status": 200,
         "uploaded": "2020-09-18",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/SXxpEpANcvjgFvFz0PrVDJ4MaU/update-kindle-Fire_7_9th_Gen-PS7315_user_1961_0018354776452.bin",
         "versionCode": "18354776452",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "43b38bf78a5478c8d53407adc77aefa4",
+        "status": 200,
         "uploaded": "2020-11-03",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/gvvoQEuXBJelkhywX3UN8mbWMX/update-kindle-Fire_7_9th_Gen-PS7317_user_1804_0019227151492.bin",
         "versionCode": "19227151492",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "5a654700ab270ef1a4aa73655732549a",
+        "status": 200,
         "uploaded": "2020-11-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/301ef4bebb1e87aeebac7fb8bdec1191/update-kindle-mustang-PS7317_user_1806_0019227152004.bin",
         "versionCode": "19227152004",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "cea938062b616ca7fa23c5ae7b4c2301",
+        "status": 200,
         "uploaded": "2021-02-04",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/oMLyvAxywTPHJLrHUXnyzjKc5I/update-kindle-Fire_7_9th_Gen-PS7318_user_1957_0019696952708.bin",
         "versionCode": "19696952708",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "b3906ef04b40776c98f611a64fb8a381",
+        "status": 200,
         "uploaded": "2021-04-27",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/ZNVgTHlcyCNelZKldRA8qdkDIz/update-kindle-Fire_7_9th_Gen-PS7319_user_1726_0020367982212.bin",
         "versionCode": "20367982212",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "29cb412257441312eb25845a12abdb40",
+        "status": 200,
         "uploaded": "2021-07-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/12ecbdeae55d5ba19ff5a46590d9910f/update-kindle-mustang-PS7321_user_2319_0021274103684.bin",
         "versionCode": "21274103684",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "daf27be26ae4ca002f93628e00456509",
+        "status": 200,
         "uploaded": "2021-10-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/659c491b4484f73132544ee71f720a0e/update-kindle-mustang-PS7321_user_2330_0021274106500.bin",
         "versionCode": "21274106500",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "6aafdfbdd1a45ce2826cfbfb7e21af7b",
+        "status": 200,
         "uploaded": "2021-11-08",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/pI6mQ831K0LFKsm9PpzlZq5iRy/update-kindle-Fire_7_9th_Gen-PS7322_user_2514_0022247232132.bin",
         "versionCode": "22247232132",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "18aa8f6488fbf1a8bacfa16fab7f8224",
+        "status": 200,
         "uploaded": "2021-11-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/9774c1f441e9fdf93a07020ec19842c1/update-kindle-mustang-PS7322_user_2515_0022247232388.bin",
         "versionCode": "22247232388",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "5923e2f23b9aa3a59cd1e8e6152de556",
+        "status": 200,
         "uploaded": "2022-07-05",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/Y1Hsm8O6UezsiMdqSA04IjyyrO/update-kindle-Fire_7_9th_Gen-PS7323_user_2834_0023455273604.bin",
         "versionCode": "23455273604",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "42d874ca30c4d551de7220b403e7849b",
+        "status": 200,
         "uploaded": "2022-08-24",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/JspS6HS4dftz8z0FGjXItQHunC/update-kindle-Fire_7_9th_Gen-PS7324_user_3016_0024529062020.bin",
         "versionCode": "24529062020",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "13bc502a83abaa45b595ec4ea3cc1ab8",
+        "status": 200,
         "uploaded": "2022-10-28",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/rY3rZ2QT9LIBVyS7GHoFxo6LzQ/update-kindle-Fire_7_9th_Gen-PS7326_user_3178_0025602845316.bin",
         "versionCode": "25602845316",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "30727e951fbb0931efb848e3f34a568e",
+        "status": 200,
         "uploaded": "2022-11-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/9b7a8427fd5fbb07249a37108ab6d295/update-kindle-mustang-PS7326_user_3183_0025602846596.bin",
         "versionCode": "25602846596",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "21da99869168fbd0ba9aa8b3faf10545",
+        "status": 200,
         "uploaded": "2023-01-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/3194f9c39fff3c7faf106d4cfac9dfde/update-kindle-mustang-PS7327_user_3326_0026743733892.bin",
         "versionCode": "26743733892",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "2a7764459a6fe40bb4a2397629b195bd",
+        "status": 200,
         "uploaded": "2023-09-28",
         "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/11ddfeap1GXdqCPab39o1Yn1dWv/update-kindle-Fire_7_9th_Gen-PS7327_user_3336_0026743736452.bin",
         "versionCode": "26743736452",
@@ -148,6 +169,7 @@
     },
     {
         "md5": "e1dde422a35614f3c8ab2d8424aef5a1",
+        "status": 200,
         "uploaded": "2023-10-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/80a3ccfd80f32de84f82fe8ec25d96d9/update-kindle-mustang-PS7329_user_3836_0029294001284.bin",
         "versionCode": "29294001284",
@@ -155,6 +177,7 @@
     },
     {
         "md5": "650b9708042d8cafeb244620257df8a8",
+        "status": 200,
         "uploaded": "2024-03-29",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xGz75Mnk8np/Fire_7_9th_Gen-PS7329_user_3851_0029294005124.bin",
         "versionCode": "29294005124",
@@ -162,6 +185,7 @@
     },
     {
         "md5": "2cc708d61a93137fcb49ce52b9fa26bb",
+        "status": 200,
         "uploaded": "2024-07-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/16/2c07007b-db32-4613-acaa-22c0f7c72e03/update-kindle-mustang-PS7329_user_3856_0029294006404.bin",
         "versionCode": "29294006404",
@@ -169,6 +193,7 @@
     },
     {
         "md5": "ecc7b0786cccab82446723c474e50bcf",
+        "status": 200,
         "uploaded": "2025-06-11",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xDz75MnJ9npabca/update-kindle-Fire_7_9th_Gen-PS7331_user_4463_0031575863172.bin",
         "versionCode": "31575863172",
@@ -176,6 +201,7 @@
     },
     {
         "md5": "e983dc2d42245af4805dd70c128de9d2",
+        "status": 200,
         "uploaded": "2026-11-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/11/05d3155c-d57b-460c-b16b-90f06b769b42/update-kindle-mustang-PS7331_user_4494_0031575871108.bin",
         "versionCode": "31575871108",

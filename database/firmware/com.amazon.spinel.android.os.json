@@ -1,6 +1,7 @@
 [
     {
         "md5": "a651d09ece83b495be512b114bce42a5",
+        "status": 200,
         "uploaded": "2026-10-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/20/0a9bc596-df79-44bb-a75f-d75d3ddd434d/update-kindle-spinel-SL16SHIP2006_user_1611_0030836935556.bin",
         "versionCode": "30836935556",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "a7caf32861ee43939f7afa68bc6d39c8",
+        "status": 200,
         "uploaded": "2026-11-05",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/5/c4a5f332-a91d-4ff6-893d-3dc89732de8d/update-kindle-spinel-SL16SHIP2006_user_1616_0030836936836.bin",
         "versionCode": "30836936836",

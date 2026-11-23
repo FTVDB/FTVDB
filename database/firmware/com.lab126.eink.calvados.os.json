@@ -1,6 +1,7 @@
 [
     {
         "md5": "aad639cc1edd67e4c75185b6b86ac732",
+        "status": 200,
         "uploaded": "2025-12-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/2/50a60054-dce1-4125-b4ac-5c00445b3288/update-J1901-platcs8_calvados-110-fwo_4614850110.bin",
         "versionCode": "4614850110",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "9c8402638466d6b068e2e98fbed57a51",
+        "status": 200,
         "uploaded": "2026-02-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/12/b63f40d0-46ea-445e-977b-10c77cd1bc3b/update-J1902-platcs8_calvados-040-fwo_4670780040.bin",
         "versionCode": "4670780040",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "9c8402638466d6b068e2e98fbed57a51",
+        "status": 200,
         "uploaded": "2026-02-17",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_colorsoft_1st_generation_5.19.2.bin",
         "versionCode": "4670780040",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "767301a0d93b7ad16fa829d17906148d",
+        "status": 200,
         "uploaded": "2026-03-26",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_colorsoft_1st_generation_5.19.3.bin",
         "versionCode": "4716130047",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "ed6997f6894213810ce647e72b2dc567",
+        "status": 200,
         "uploaded": "2026-04-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/2/789bff83-0c98-4ee4-8b9c-646422d8e4ee/update-J19030001-platcs8_calvados-002-fwo_4723050002.bin",
         "versionCode": "4723050002",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "ed6997f6894213810ce647e72b2dc567",
+        "status": 200,
         "uploaded": "2026-04-07",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_colorsoft_1st_generation_5.19.3.0.1.bin",
         "versionCode": "4723050002",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "d41e4ee440983435b7e6a945993d30e6",
+        "status": 200,
         "uploaded": "2026-05-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/5/19/fd8abec8-e1fb-4e1c-8c08-591d804f4022/update-J19040001-platcs8_calvados-003-fwo_4767220003.bin",
         "versionCode": "4767220003",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "d41e4ee440983435b7e6a945993d30e6",
+        "status": 200,
         "uploaded": "2026-06-02",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_colorsoft_1st_generation_5.19.4.0.1.bin",
         "versionCode": "4767220003",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "9197d8f556fce03fede8834ad20ba1c2",
+        "status": 200,
         "uploaded": "2026-06-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/17/2e93ff44-7648-4499-9aa1-f9bd80d33bc1/update-J1905-platcs8_calvados-058-fwo_4794260058.bin",
         "versionCode": "4794260058",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "9197d8f556fce03fede8834ad20ba1c2",
+        "status": 200,
         "uploaded": "2026-06-30",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_colorsoft_1st_generation_5.19.5.bin",
         "versionCode": "4794260058",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "1cda5c41c8ec96afd97356f571180eec",
+        "status": 200,
         "uploaded": "2026-07-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/29/05366411-5f8c-48fc-9a01-e5bc19450704/update-J1906-platcs8_calvados-042-fwo_4832260042.bin",
         "versionCode": "4832260042",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "1cda5c41c8ec96afd97356f571180eec",
+        "status": 200,
         "uploaded": "2026-08-04",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_colorsoft_1st_generation_5.19.6.bin",
         "versionCode": "4832260042",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "018a1361a0fbfdaf28be2ee20fcdbecc",
+        "status": 200,
         "uploaded": "2026-10-06",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_colorsoft_1st_generation_5.20.1.bin",
         "versionCode": "4893920050",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "2265cde5fe4eef4fae8ef2ee5e1b51d7",
+        "status": 200,
         "uploaded": "2026-10-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/bd3bb1b1-3503-4bdf-a06e-72e0d3785dad/update-J20010002-platcs8_calvados-002-fwo_4926820002.bin",
         "versionCode": "4926820002",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "96219e9779cf897ce4dbb6f07bf6452c",
+        "status": 200,
         "uploaded": "2026-10-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/1c512187-550a-4405-93e7-ca3df9edbe7a/update-J2002-platcs8_calvados-048-fwo_4935840048.bin",
         "versionCode": "4935840048",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "b03f1469ce55e7a89283f58d166b503d",
+        "status": 200,
         "uploaded": "2026-11-10",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/10/c2a44f96-f873-43d9-9afe-1305f69a0111/update-J20020001-platcs8_calvados-004-fwo_4954920004.bin",
         "versionCode": "4954920004",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "b03f1469ce55e7a89283f58d166b503d",
+        "status": 200,
         "uploaded": "2026-11-11",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_colorsoft_1st_generation_5.20.2.0.1.bin",
         "versionCode": "4954920004",

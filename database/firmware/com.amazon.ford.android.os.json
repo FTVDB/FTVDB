@@ -1,6 +1,7 @@
 [
     {
         "md5": "d164f67c86958b3bea4bdf98874491c9",
+        "status": 200,
         "uploaded": "2016-11-09",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/SjW3Gm7nhTSKLSyP2q3U5dNm7T/update-kindle-global-37.5.6.0_user_560177220.bin",
         "versionCode": "560177220",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "39fc28b2ffa8f3d06b1148123a0fc9e5",
+        "status": 200,
         "uploaded": "2016-12-08",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/cWXPlFLicoiBGpwrJCpNY2Ls79/update-kindle-37.5.6.3_user_563231720.bin",
         "versionCode": "563231720",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "c0ef89985b17291c9bb293dab416c403",
+        "status": 200,
         "uploaded": "2017-03-13",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/qqUjgfXlzyniQCgJc2vR8TH7Ca/update-kindle-37.5.7.0_user_570208520.bin",
         "versionCode": "570208520",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "8c1c2ec53d8548176a6eee347edd08ff",
+        "status": 200,
         "uploaded": "2017-04-13",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/hNIxGfX1bgGF5Lfyxfa0Ov8qKh/update-kindle-37.5.7.0_user_570208720.bin",
         "versionCode": "570208720",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "7c0713d407bcd3b2a95f34452e29729d",
+        "status": 200,
         "uploaded": "2017-06-06",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/noTFYcbKKQV7OV1fRYlgv1Fqnk/update-kindle-37.5.7.9_user_579225620.bin",
         "versionCode": "579225620",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "635d4045098fb3e34a09ed2fb8ab7e93",
+        "status": 200,
         "uploaded": "2017-09-27",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/ZAsacHmumgrMpCXPdw6oykKMaw/update-kindle-37.5.7.9_user_579279320.bin",
         "versionCode": "579279320",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "b622235fcea151fb86dc8675f992c900",
+        "status": 200,
         "uploaded": "2017-11-01",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/aahh6b20y1zchalcooae19hnab/update-kindle-37.5.9.5_user_595457020.bin",
         "versionCode": "595457020",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "3d7e3d874a076087f4e8f13178d1cb1e",
+        "status": 200,
         "uploaded": "2017-12-04",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/nachheflb20tca1zcilvlco11ae49hnab/update-kindle-37.5.9.5_user_595457320.bin",
         "versionCode": "595457320",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "005c330da30f4d936e7cc6e4796f01ed",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c48d053db88b7e19028fade920876ac4/update-kindle-full_ford-37.5.4.2_user_542169020.bin",
         "versionCode": "542169020",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "39fc28b2ffa8f3d06b1148123a0fc9e5",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/14fb161ce44100e88c98bcc0385ef42e/update-kindle-full_ford-37.5.6.3_user_563231720.bin",
         "versionCode": "563231720",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "635d4045098fb3e34a09ed2fb8ab7e93",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c331632be589350a1f3ed14f646aa6e5/update-kindle-full_ford-37.5.7.9_user_579279320.bin",
         "versionCode": "579279320",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "a98880600173374be0764ce0858e4829",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6fc9bfbd2755232da792bd4bc6d3735a/update-kindle-full_ford-37.5.9.5_user_595550320.bin",
         "versionCode": "595550320",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "8c1c2ec53d8548176a6eee347edd08ff",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2cdc91b2dc67301b2cf0b025679d155e/update-kindle-full_ford-37.5.7.0_user_570208720.bin",
         "versionCode": "570208720",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "a68635044fe39f7020fa67b8810f296f",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/9bbb13ae083098231903fcd6bb56c8c9/update-kindle-full_ford-37.5.9.5_user_595457220.bin",
         "versionCode": "595457220",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "e1e43f04f51db0c9e902221ca42a701b",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e22c26ca611338f224fd342206e7f149/update-kindle-full_ford-37.5.4.4_user_544271020.bin",
         "versionCode": "544271020",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "3d7e3d874a076087f4e8f13178d1cb1e",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/aaf35eb6564f33a3bc293581bd08316c/update-kindle-full_ford-37.5.9.5_user_595457320.bin",
         "versionCode": "595457320",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "7c0713d407bcd3b2a95f34452e29729d",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/89a1c788a7410607dda6524a0ef981f2/update-kindle-full_ford-37.5.7.9_user_579225620.bin",
         "versionCode": "579225620",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "cc0d354d5bcf40acccd9d2ae379eeda5",
+        "status": 200,
         "uploaded": "2018-11-13",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/93olgKwMW8ecGINzUwwqQmLz43/update-kindle-37.6.2.6_user_626533320.bin",
         "versionCode": "626533320",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "5ef028247793917dc2815f1fcc40c717",
+        "status": 200,
         "uploaded": "2020-08-12",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/2E1T9L18cbmRz5lPfD7iwKqKuV/update-kindle-37.6.2.6_user_626539520.bin",
         "versionCode": "626539520",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "0eaf373876a2597dce8571b105d8ba42",
+        "status": 200,
         "uploaded": "2020-10-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/054d415f71a7499056634cea68e059d8/update-kindle-full_ford-37.6.2.6_user_626542120.bin",
         "versionCode": "626542120",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "0eaf373876a2597dce8571b105d8ba42",
+        "status": 200,
         "uploaded": "2020-11-03",
         "url": "https://fireos-tablet-src.s3.amazonaws.com/aqrceqiXKiayGaNoz4YHYr4V9E/update-kindle-37.6.2.6_user_626542120.bin",
         "versionCode": "626542120",
@@ -148,6 +169,7 @@
     },
     {
         "md5": "ccc5ee1238ce074d1c1a64cd0ef1f261",
+        "status": 200,
         "uploaded": "2020-12-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/38ae712936a5386462a3c697c789b9ee/update-kindle-full_ford-37.6.2.6_user_626545220.bin",
         "versionCode": "626545220",
@@ -155,6 +177,7 @@
     },
     {
         "md5": "dc5733dbc9dd83a0cb9a422dc1ab3fbf",
+        "status": 200,
         "uploaded": "2021-01-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e6e0a57020b8db40f0ecd5c16ef80d31/update-kindle-full_ford-37.6.2.6_user_626547120.bin",
         "versionCode": "626547120",
@@ -162,6 +185,7 @@
     },
     {
         "md5": "3618b915950caa74189b93c47c565b2b",
+        "status": 200,
         "uploaded": "2022-02-25",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/f67ccbdc5544c6bc428803b8459c821f/update-kindle-full_ford-37.6.2.6_user_626549020.bin",
         "versionCode": "626549020",

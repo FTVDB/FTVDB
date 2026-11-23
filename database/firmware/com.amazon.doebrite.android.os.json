@@ -1,6 +1,7 @@
 [
     {
         "md5": "e8f4a6e645c094ee837d0ca373f9904e",
+        "status": 200,
         "uploaded": "2026-05-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/5/22/a2d42046-6d4c-487b-af77-3432bd15f9e8/update-kindle-doebrite-NS6573_user_6562_0012853027460.bin",
         "versionCode": "12853027460",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "e616bd27c83013bf650e4140699989bb",
+        "status": 200,
         "uploaded": "2026-09-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/cf236fe0-789b-49b9-942f-89279359873b/update-kindle-doebrite-NS65741_user_8149_0013222532484.bin",
         "versionCode": "13222532484",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "e44341364523064f5fee2d9b904126c3",
+        "status": 200,
         "uploaded": "2026-10-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/14/243be8a7-99f3-475a-8120-c5f2dea5cd1e/update-kindle-doebrite-NS6575_user_8338_0013323244164.bin",
         "versionCode": "13323244164",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "46fa4a5418f61f4ac901f77c6d86c4ae",
+        "status": 200,
         "uploaded": "2026-10-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/b20abcb2-ad4c-4998-aaff-6b89f47e6ded/update-kindle-doebrite-NS6575_user_8344_0013323245700.bin",
         "versionCode": "13323245700",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "c79bbc974b96c69c9cd9ea083e8ecdca",
+        "status": 200,
         "uploaded": "2026-10-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/2d65b731-921e-4634-a158-8abb83de90c7/update-kindle-doebrite-NS6575_user_8349_0013323246980.bin",
         "versionCode": "13323246980",

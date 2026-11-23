@@ -1,6 +1,7 @@
 [
     {
         "md5": "45de52f51be5f6936099296e37d1439a",
+        "status": 200,
         "uploaded": "2022-10-07",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.15.1.bin",
         "versionCode": "3889300042",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "e2d797106938c336d0af2c5ce4fbdd8b",
+        "status": 200,
         "uploaded": "2023-02-20",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.15.1.1.bin",
         "versionCode": "3925010005",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "1276bcfdbc4581a57496c5bb82a2d3b3",
+        "status": 200,
         "uploaded": "2023-06-21",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.16.2.1.bin",
         "versionCode": "4064610031",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "a9a00ed2115e36b1712dda45ebe50058",
+        "status": 200,
         "uploaded": "2023-08-04",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.16.2.1.1.bin",
         "versionCode": "4097530002",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "35a90158ce7d16e9457aec5fe5b4408e",
+        "status": 200,
         "uploaded": "2023-08-28",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.16.3.bin",
         "versionCode": "4110110057",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "4aa8a200be63c64bb2b5afe830c08f07",
+        "status": 200,
         "uploaded": "2023-10-01",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.16.3.1.bin",
         "versionCode": "4126870001",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "c5a3ef7cf60d04ba7b93e5811053c8dd",
+        "status": 200,
         "uploaded": "2023-10-24",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.16.4.bin",
         "versionCode": "4131220058",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "7909bfedcba1b8a187e0b39d5e48175c",
+        "status": 200,
         "uploaded": "2023-11-14",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.16.5.bin",
         "versionCode": "4142840042",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "e9c56a263ee56f73338984a99c12cdf0",
+        "status": 200,
         "uploaded": "2024-01-08",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.16.6.bin",
         "versionCode": "4169620030",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "a6cabdd99a1942b341dca0980d2d9b02",
+        "status": 200,
         "uploaded": "2024-02-23",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.16.7.bin",
         "versionCode": "4193150020",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "7808dfe85b8ac00fadbe2d68d1b207ff",
+        "status": 200,
         "uploaded": "2024-04-03",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.16.8.bin",
         "versionCode": "4212830015",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "b771070c8af18092bc91830fcfe826b7",
+        "status": 200,
         "uploaded": "2024-06-05",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.16.9.bin",
         "versionCode": "4246240033",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "90a27278b6bc1d299f07db9d09df1b8a",
+        "status": 200,
         "uploaded": "2024-07-23",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.16.10.0.1.bin",
         "versionCode": "4270240001",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "fc3fa2bb9ea457e76f989be33e965fb2",
+        "status": 200,
         "uploaded": "2024-08-21",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.16.21.bin",
         "versionCode": "4289770037",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "ad2fe3f0f4167b1890be49a899866e34",
+        "status": 200,
         "uploaded": "2024-10-17",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.17.1.bin",
         "versionCode": "4320310039",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "f4547eb8c45ede18d30781ee207adef2",
+        "status": 200,
         "uploaded": "2024-12-09",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.17.1.0.3.bin",
         "versionCode": "4351890007",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "a80d7a1307287cba01f4a80c02e117d8",
+        "status": 200,
         "uploaded": "2025-03-25",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.18.1.bin",
         "versionCode": "4417600025",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "213385e212a743aed2087266fbc47d25",
+        "status": 200,
         "uploaded": "2025-04-24",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.18.2.bin",
         "versionCode": "4434560025",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "c0d407222bc3e52a8a1cf267100a077e",
+        "status": 200,
         "uploaded": "2025-06-12",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.18.3.bin",
         "versionCode": "4466680029",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "b0d6c51271cb1f6219692d39b11b1cdc",
+        "status": 200,
         "uploaded": "2025-07-30",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.18.4.bin",
         "versionCode": "4507430022",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "f3bde12386817590661a8cefbf278801",
+        "status": 200,
         "uploaded": "2025-08-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/8/14/e32b9a9c-24fc-46ed-9be3-00a97f02736b/update-J18040001-bellatrix_cava-001-fwo_4527760001.bin",
         "versionCode": "4527760001",
@@ -148,6 +169,7 @@
     },
     {
         "md5": "f3bde12386817590661a8cefbf278801",
+        "status": 200,
         "uploaded": "2025-08-19",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.18.4.0.1.bin",
         "versionCode": "4527760001",
@@ -155,6 +177,7 @@
     },
     {
         "md5": "9cb34ff9a171d7759f7bd6362a367305",
+        "status": 200,
         "uploaded": "2025-09-16",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.18.5.bin",
         "versionCode": "4546020025",
@@ -162,6 +185,7 @@
     },
     {
         "md5": "0bd7a4fcc8ad4e2bba983dc86dbc767c",
+        "status": 200,
         "uploaded": "2025-09-25",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.18.5.0.1.bin",
         "versionCode": "4556780001",
@@ -169,6 +193,7 @@
     },
     {
         "md5": "82aeae200e6783e3673142207db53cdf",
+        "status": 200,
         "uploaded": "2025-10-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/10/29/f4221b7a-b442-44ca-b65a-15d2a97cf857/update-J1806-bellatrix_cava-041-fwo_4586170041.bin",
         "versionCode": "4586170041",
@@ -176,6 +201,7 @@
     },
     {
         "md5": "82aeae200e6783e3673142207db53cdf",
+        "status": 200,
         "uploaded": "2025-11-04",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.18.6.bin",
         "versionCode": "4586170041",
@@ -183,6 +209,7 @@
     },
     {
         "md5": "eade910fb4f82a848e14a5dfb5379f77",
+        "status": 200,
         "uploaded": "2026-02-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/12/26843d22-31d4-448f-8bb2-7eda3e740228/update-J1902-bellatrix_cava-040-fwo_4670730040.bin",
         "versionCode": "4670730040",
@@ -190,6 +217,7 @@
     },
     {
         "md5": "eade910fb4f82a848e14a5dfb5379f77",
+        "status": 200,
         "uploaded": "2026-02-16",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.19.2.bin",
         "versionCode": "4670730040",
@@ -197,6 +225,7 @@
     },
     {
         "md5": "39fc6168c6a03fb6c90360f2a1fe1aa9",
+        "status": 200,
         "uploaded": "2026-04-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/20/edc120be-9932-4f3a-9d8e-dbc59982410c/update-J19020001-bellatrix_cava-001-fwo_4740590001.bin",
         "versionCode": "4740590001",
@@ -204,6 +233,7 @@
     },
     {
         "md5": "39fc6168c6a03fb6c90360f2a1fe1aa9",
+        "status": 200,
         "uploaded": "2026-04-28",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.19.2.0.1.bin",
         "versionCode": "4740590001",

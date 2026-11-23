@@ -1,6 +1,7 @@
 [
     {
         "md5": "ee9ea6fae8a50cde7d7ac8bc3f266137",
+        "status": 200,
         "uploaded": "2010-09-08",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_3.0.1_B006.bin",
         "versionCode": "525120101",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "77fb7ccd5457ee038566d5b183736b2d",
+        "status": 200,
         "uploaded": "2010-09-17",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_3.0.2_B006.bin",
         "versionCode": "529960105",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "e3d1c43ecc8b1da19c002035157ef005",
+        "status": 200,
         "uploaded": "2010-10-16",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_3.0.3_B006.bin",
         "versionCode": "536720111",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "a56207cd48a157ee0e352c599fc7b43c",
+        "status": 200,
         "uploaded": "2011-02-07",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_3.1_B006.bin",
         "versionCode": "558700031",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "eadbdd9609a05f50335338a52aff2395",
+        "status": 200,
         "uploaded": "2011-09-29",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_3.3_B006.bin",
         "versionCode": "611680021",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "3231b92027610705782cd9733d039cad",
+        "status": 200,
         "uploaded": "2015-01-06",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_3.4.1_B006.bin",
         "versionCode": "2540470001",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "173773cd9eef853db274ea903cff06a6",
+        "status": 200,
         "uploaded": "2015-10-20",
         "url": "https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_3.4_B006.bin",
         "versionCode": "1725970040",

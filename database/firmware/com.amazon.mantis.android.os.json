@@ -1,6 +1,7 @@
 [
     {
         "md5": "bfd8358014e3d36e8fa6f06fbf9ec0e4",
+        "status": 200,
         "uploaded": "2019-05-25",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2285ffcf6b3703aa80986115f713329a/update-kindle-mantis-NS6264_user_1995_0002449984388.bin",
         "versionCode": "2449984388",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "09289b141c8339fe675cb0204689071f",
+        "status": 200,
         "uploaded": "2019-08-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c5b70fb68ed8996d8c19996cb042a73a/update-kindle-mantis-NS6265_user_2157_0002852679044.bin",
         "versionCode": "2852679044",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "253162813010472bb8d54fc8b8eb7b80",
+        "status": 200,
         "uploaded": "2019-10-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/0136f0aae52d9777b27399ed9ea7d13e/update-kindle-mantis-NS6266_user_2292_0003054040196.bin",
         "versionCode": "3054040196",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "32410d71f1a55fb76dd0c8cf963f575c",
+        "status": 200,
         "uploaded": "2019-11-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/5188853d0c8dd0c460b31b985065e071/update-kindle-mantis-NS6268_user_2315_0003255372676.bin",
         "versionCode": "3255372676",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "4284b5a9920482d402656f1114aa2d10",
+        "status": 200,
         "uploaded": "2020-03-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c3a91d0c07f7716559592fd320ba6d32/update-kindle-mantis-NS6271_user_2495_0003590963076.bin",
         "versionCode": "3590963076",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "01900f3022257cf5a1fc94d465e59a1d",
+        "status": 200,
         "uploaded": "2020-07-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/dc461415f7f94672373597f51f4d91bb/update-kindle-mantis-NS6273_user_2773_0003993687428.bin",
         "versionCode": "3993687428",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "23401635e19f979588b0e67ceca429e8",
+        "status": 200,
         "uploaded": "2020-09-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/fafaa562a37ab6b8dad1d31cd297185e/update-kindle-mantis-NS6276_user_2933_0004396381572.bin",
         "versionCode": "4396381572",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "e746c29dc365c4507b44b2fc42dc6886",
+        "status": 200,
         "uploaded": "2020-11-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/313af18f1b5862cf9dace549996b2bb2/update-kindle-mantis-NS6277_user_3025_0004597731716.bin",
         "versionCode": "4597731716",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "38b95f43f33e6fb0aebc69265579e9ad",
+        "status": 200,
         "uploaded": "2021-01-23",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/68d33a27765a01a75f9ccc8d11a52791/update-kindle-mantis-NS6277_user_3033_0004597733764.bin",
         "versionCode": "4597733764",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "38001a5ad9c1a9ac2eb58d9548cd8b99",
+        "status": 200,
         "uploaded": "2021-05-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/766591bd4118da76d300a5544ab5e663/update-kindle-mantis-NS6280_user_3236_0005067547780.bin",
         "versionCode": "5067547780",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "fa2a9ad54874bd3d034eefaced2c6e47",
+        "status": 200,
         "uploaded": "2021-06-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2505e32d634eb38b303e08b3341b0140/update-kindle-mantis-NS6281_user_3385_0005604456836.bin",
         "versionCode": "5604456836",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "f41a1960fea79c1fac8a04f188a53d0a",
+        "status": 200,
         "uploaded": "2021-09-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d532a03ab695aa8e202ac929ae48517f/update-kindle-mantis-NS6281_user_4054_0005940172420.bin",
         "versionCode": "5940172420",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "f841bcf9fb3382407461cf42b69c6b29",
+        "status": 200,
         "uploaded": "2021-10-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e7a9021b6760946b3ac75ff3a312c89b/update-kindle-mantis-NS6281_user_4061_0005940174212.bin",
         "versionCode": "5940174212",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "5d99dcd6e7c79a3851857ae0ce30f605",
+        "status": 200,
         "uploaded": "2021-12-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/8a17993ff1335c5546eadfd080546e7b/update-kindle-mantis-NS6281_user_4812_0005940366468.bin",
         "versionCode": "5940366468",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "bfc2354eb73e2bdc46f7c5afc4c760f6",
+        "status": 200,
         "uploaded": "2022-02-08",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d1a11d1ea5f5ad12b07c1aebcee591d0/update-kindle-mantis-NS6287_user_3768_0006544078980.bin",
         "versionCode": "6544078980",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "6ba3484fa1f41444bcccc0b8540a3768",
+        "status": 200,
         "uploaded": "2022-03-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d4966e07e86cfd81861531207dcb4cde/update-kindle-mantis-NS6287_user_3770_0006544079492.bin",
         "versionCode": "6544079492",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "c050a8644784d6fee3357acab03f0249",
+        "status": 200,
         "uploaded": "2022-06-01",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/24cafc3106cf6bca59c1d3b0f647e04c/update-kindle-mantis-NS6289_user_3905_0007013876100.bin",
         "versionCode": "7013876100",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "f6db433d94526a8739d468adb2ce439a",
+        "status": 200,
         "uploaded": "2022-06-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e2b726b8ab8e6fe30d7f54625c1b0da0/update-kindle-mantis-NS6290_user_4021_0007282341252.bin",
         "versionCode": "7282341252",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "ceebb9fdaba38c5179bc8a5dfb62b778",
+        "status": 200,
         "uploaded": "2022-06-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/16d1684d4cf2f9a447a9208573d5f8ba/update-kindle-mantis-NS6290_user_4022_0007282341508.bin",
         "versionCode": "7282341508",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "4b3c20617350f0887d3f40e53c0f9d3b",
+        "status": 200,
         "uploaded": "2022-07-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e33fd27d0a1cb2aa315a27bb36546b91/update-kindle-mantis-NS6291_user_4110_0007550799492.bin",
         "versionCode": "7550799492",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "f1d7488baadf041b96caf7a50e1186d4",
+        "status": 200,
         "uploaded": "2022-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6eaf4b8967af7f719555b1adf2b4b1a3/update-kindle-mantis-NS6292_user_4226_0008020591236.bin",
         "versionCode": "8020591236",
@@ -148,6 +169,7 @@
     },
     {
         "md5": "35dd0384e3b8b930b00f5117022160ac",
+        "status": 200,
         "uploaded": "2022-10-13",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6b9c20c179d418902b847bab6d87a694/update-kindle-mantis-NS6293_user_4731_0008222047108.bin",
         "versionCode": "8222047108",
@@ -155,6 +177,7 @@
     },
     {
         "md5": "1855decbe702d1641caaed7a33578ae4",
+        "status": 200,
         "uploaded": "2022-11-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/dcac621f9d94c1992980e2c3d5098f16/update-kindle-mantis-NS6294_user_4339_0008356164484.bin",
         "versionCode": "8356164484",
@@ -162,6 +185,7 @@
     },
     {
         "md5": "43fdedf59cf80ad7c265c1e3e6bc263e",
+        "status": 200,
         "uploaded": "2023-01-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/25cf3039c711e5c84692c68bfa71350e/update-kindle-mantis-NS6295_user_4448_0008557518980.bin",
         "versionCode": "8557518980",
@@ -169,6 +193,7 @@
     },
     {
         "md5": "328ddc3ce099b9b83e6257d7de338838",
+        "status": 200,
         "uploaded": "2023-03-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/f2adbf81848de055a4a3c65e3e388188/update-kindle-mantis-NS6296_user_4554_0008893090436.bin",
         "versionCode": "8893090436",
@@ -176,6 +201,7 @@
     },
     {
         "md5": "08d8de3f643e5336c42d03d767bf9e1c",
+        "status": 200,
         "uploaded": "2023-04-23",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/10e04f4f62211c609bd6fcefc9426c00/update-kindle-mantis-NS6296_user_4555_0008893090692.bin",
         "versionCode": "8893090692",
@@ -183,6 +209,7 @@
     },
     {
         "md5": "4402789030390ee92dd71191906e305a",
+        "status": 200,
         "uploaded": "2023-06-01",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/ac1e801ee54530ef10bc10c1af1c6c97/update-kindle-mantis-NS6297_user_4655_0009161551748.bin",
         "versionCode": "9161551748",
@@ -190,6 +217,7 @@
     },
     {
         "md5": "fd4816bbc748cee6258370d2b8de70fe",
+        "status": 200,
         "uploaded": "2023-08-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/7aace94034d459614f22071adafa40d3/update-kindle-mantis-NS6298_user_4758_0009362904708.bin",
         "versionCode": "9362904708",
@@ -197,6 +225,7 @@
     },
     {
         "md5": "7f0bec1a7e501920fe753e3f9eb07d8f",
+        "status": 200,
         "uploaded": "2023-09-25",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/f9f39daa95c86f3a4647adbc7bb62612/update-kindle-mantis-NS6700_user_4872_0009631369348.bin",
         "versionCode": "9631369348",
@@ -204,6 +233,7 @@
     },
     {
         "md5": "aec2634c697014e4e7104670a970c91d",
+        "status": 200,
         "uploaded": "2023-12-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2023/12/26/c88c021c-d58a-49e8-8241-d1db9046dd09/update-kindle-mantis-NS6701_user_4985_0009832724868.bin",
         "versionCode": "9832724868",
@@ -211,6 +241,7 @@
     },
     {
         "md5": "236fc2a685a31e536e31a527bf1a8135",
+        "status": 200,
         "uploaded": "2024-02-01",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/2/1/8dfc5e57-2993-4b1b-9bf2-fb5e31910317/update-kindle-mantis-NS6702_user_5093_0010034079108.bin",
         "versionCode": "10034079108",
@@ -218,6 +249,7 @@
     },
     {
         "md5": "4f85f24813b059a1a6aa7537e8b47241",
+        "status": 200,
         "uploaded": "2024-03-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/3/28/aab893f4-27ec-4449-b15b-f06f9df90c05/update-kindle-mantis-NS6703_user_5183_0010235428740.bin",
         "versionCode": "10235428740",
@@ -225,6 +257,7 @@
     },
     {
         "md5": "dfca03a8d44584fcc7cfdad62111b3ee",
+        "status": 200,
         "uploaded": "2024-05-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/5/9/132d298a-046c-4025-800f-a3fc5a6f6ab5/update-kindle-mantis-NS6704_user_5281_0010436780420.bin",
         "versionCode": "10436780420",
@@ -232,6 +265,7 @@
     },
     {
         "md5": "55282d508acdce4f111d7114c7400130",
+        "status": 200,
         "uploaded": "2024-07-08",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/7/8/b8cae64d-42e1-4106-a4ff-79674be4a285/update-kindle-mantis-NS6705_user_5380_0010772350084.bin",
         "versionCode": "10772350084",
@@ -239,6 +273,7 @@
     },
     {
         "md5": "6aaa2eec07fbb2921afd6e1442284784",
+        "status": 200,
         "uploaded": "2024-09-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/9/21/d07d683b-1829-4c46-b66e-a80b08fe090d/update-kindle-mantis-NS6706_user_5471_0010906591108.bin",
         "versionCode": "10906591108",
@@ -246,6 +281,7 @@
     },
     {
         "md5": "d298d68e6d4e328d4b529b376cf8e704",
+        "status": 200,
         "uploaded": "2024-10-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/28/e7cdd3c6-8bfe-4bde-952f-5722c4dffa86/update-kindle-mantis-NS6708_user_5570_0011242160772.bin",
         "versionCode": "11242160772",
@@ -253,6 +289,7 @@
     },
     {
         "md5": "86cd5082ac91c18a3126a0614ec2666c",
+        "status": 200,
         "uploaded": "2025-01-10",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/1/10/bb5538fa-dea0-4948-b05d-14694fc07ce8/update-kindle-mantis-NS6709_user_5669_0011443512708.bin",
         "versionCode": "11443512708",
@@ -260,6 +297,7 @@
     },
     {
         "md5": "f3ffa9bb1e14d81d1db79a9c36d95428",
+        "status": 200,
         "uploaded": "2025-03-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/3/6/120099aa-ea6d-45ff-9b41-d2ad13028fa7/update-kindle-mantis-NS6710_user_5784_0011577759876.bin",
         "versionCode": "11577759876",
@@ -267,6 +305,7 @@
     },
     {
         "md5": "a6c49c6d77bd70c5d09b371cadf5d569",
+        "status": 200,
         "uploaded": "2025-04-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/4/3/7d914dae-d2a5-4e19-babf-d3b808dc9dfb/update-kindle-mantis-NS6710_user_5786_0011577760388.bin",
         "versionCode": "11577760388",
@@ -274,6 +313,7 @@
     },
     {
         "md5": "5751524852ae6bacf08de2615fd80b08",
+        "status": 200,
         "uploaded": "2025-05-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/5/7/276004e4-f016-4c78-a1d5-a2d8b5635232/update-kindle-mantis-NS6711_user_5866_0011644889732.bin",
         "versionCode": "11644889732",
@@ -281,6 +321,7 @@
     },
     {
         "md5": "0dffbc8cb4905b01d5a5fc3b73187a60",
+        "status": 200,
         "uploaded": "2026-03-23",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/23/9eb394a9-f384-4afe-a93d-f87c4cf85d1d/update-kindle-mantis-NS6711_user_5908_0011644900484.bin",
         "versionCode": "11644900484",

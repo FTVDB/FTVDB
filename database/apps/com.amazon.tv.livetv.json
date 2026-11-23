@@ -1,6 +1,7 @@
 [
     {
         "md5": "4154292916d318f77412762159054fd8",
+        "status": 200,
         "uploaded": "2020-02-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/38fef46c7c7a3dea7f7b35cd83938a76/31.apk",
         "versionCode": "1200803110",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "b8011a795ca884440fa555b8c9c98eba",
+        "status": 200,
         "uploaded": "2020-09-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/35e056896a4c0d24e75ea32c1c9d6941/com.amazon.tv.livetv5.apk",
         "versionCode": "1201260310",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "9d15265ffc94f5cff9c98d8adb162a1d",
+        "status": 200,
         "uploaded": "2020-12-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/a5887261512d8c951123506a1aa759b2/com.amazon.tv.livetv24.apk",
         "versionCode": "1201306510",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "6a4f98588188da8f5f70293598b515d6",
+        "status": 200,
         "uploaded": "2021-05-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/032619195a292735fa7635521ed63562/Warhawk3Plus.apk",
         "versionCode": "1201361210",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "4a48e3eb85278f1af715ce6eb8fbfaba",
+        "status": 200,
         "uploaded": "2021-06-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/cde5ca55e847e8b909f6026c82e5fc63/MP69.apk",
         "versionCode": "1210206910",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "76298caf727f473fcdcbf57fd6e0be32",
+        "status": 200,
         "uploaded": "2021-07-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d264616ee2265bfd319c9b707f237b48/Marco_palmice_1210207310.apk",
         "versionCode": "1210207310",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "153cdb7caa34a897d1fdf96d4a06b425",
+        "status": 200,
         "uploaded": "2021-07-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6c66ac6f3c5ec139df1061d9a1b59b83/Orange_apk_1210302310.apk",
         "versionCode": "1210302310",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "8d3e1d730e388484f28a0149c0885090",
+        "status": 200,
         "uploaded": "2021-09-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c1589b58518ca671e749a84ddddca882/com.amazon.tv.livetv.apk",
         "versionCode": "1210450610",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "ee25a9a8d9cc5752621497fbf9937234",
+        "status": 200,
         "uploaded": "2021-12-31",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d464569e4f32cef7f2dbef68fa3a3caa/12105088.apk",
         "versionCode": "1210508810",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "52d5fcdb31605337c5d3eba91a2926eb",
+        "status": 200,
         "uploaded": "2022-02-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c4a392f9e2396c1902b220006de32625/com.amazon.tv.livetv10.apk",
         "versionCode": "1210603210",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "d09cdaebe56f841f4cfc2da48f18e44a",
+        "status": 200,
         "uploaded": "2022-04-05",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/06ef3fc7d51f109f0fd85318a2b0368a/1210701910.apk",
         "versionCode": "1210701910",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "e0ae9cc2a061e8f8b9c4840958f09902",
+        "status": 200,
         "uploaded": "2022-04-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/3297daa12ee944d34a7d12d90ca0cdd5/signed_Gordon-release_1.apk",
         "versionCode": "1210702010",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "f56ee6576fa0a6ab0273f02cbf4031c3",
+        "status": 200,
         "uploaded": "2022-05-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c6253487b189b87e1353d504943d1206/signed_Gordon-release_2.apk",
         "versionCode": "1210702110",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "07a9cdddbcfbaea62a80bd6d646b4984",
+        "status": 200,
         "uploaded": "2022-05-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/dacec8041f75d2362d2246054601f7ec/12108021.apk",
         "versionCode": "1210802110",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "c01c0b1a8a60af685d96b6b36dab6165",
+        "status": 200,
         "uploaded": "2022-08-08",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/1111208cc18901a6a6467305e7a3f47d/12110018.apk",
         "versionCode": "1211001810",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "c39aa05ae5b85e819c5619eb509a1bae",
+        "status": 200,
         "uploaded": "2022-09-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/a34825690de3b3e9575f9bd852c877fc/com.amazon.tv.livetv.apk",
         "versionCode": "1211201910",
@@ -114,6 +130,7 @@
     {
         "md5": "85229bd0982644b54bf6b331f298f1aa",
         "optout": 1,
+        "status": 200,
         "uploaded": "2022-10-28",
         "url": "",
         "versionCode": "1211301610",
@@ -121,6 +138,7 @@
     },
     {
         "md5": "e4dfba8349954999e4e27d91b277971a",
+        "status": 200,
         "uploaded": "2022-12-23",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/43d2a9cb2bd8af48aa2371f15460bacb/com.amazon.tv.livetv.apk",
         "versionCode": "1211450110",
@@ -128,6 +146,7 @@
     },
     {
         "md5": "3538a85d8b415a60dc09b4974d0055d8",
+        "status": 200,
         "uploaded": "2023-01-31",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/af8286aa130294569654f93ed89b612b/com.amazon.tv.livetv.apk",
         "versionCode": "1211503310",
@@ -135,6 +154,7 @@
     },
     {
         "md5": "05bbe9d4dab1d9c8d91f319e82a408ee",
+        "status": 200,
         "uploaded": "2023-02-23",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/47880265b340483a6c24a7adf1fe4b30/com.amazon.tv.livetv.apk",
         "versionCode": "1211601710",
@@ -143,6 +163,7 @@
     {
         "md5": "0caaf02f040cdfa079cf35cca1c008c2",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-05-16",
         "url": "",
         "versionCode": "1211702810",
@@ -151,6 +172,7 @@
     {
         "md5": "9a10344c1c72359a2a5bc060346ba6fd",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-06-28",
         "url": "",
         "versionCode": "1211803810",
@@ -159,6 +181,7 @@
     {
         "md5": "58b9fdafdca0f40576a5a2aed002a38d",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-07-14",
         "url": "",
         "versionCode": "1211803910",
@@ -167,6 +190,7 @@
     {
         "md5": "b03abb3b19140aac074ef07b42c4ba74",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-08-11",
         "url": "",
         "versionCode": "1212649910",
@@ -175,6 +199,7 @@
     {
         "md5": "04bb4efc47ea17c36d3501061aa83300",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-08-14",
         "url": "",
         "versionCode": "1212603610",
@@ -183,6 +208,7 @@
     {
         "md5": "2b79a4a1edeb82f793551b4cad3bd6c6",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-09-06",
         "url": "",
         "versionCode": "1212650110",
@@ -191,6 +217,7 @@
     {
         "md5": "f2bc23e7c1023f526e9b78559d6720a8",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-09-19",
         "url": "",
         "versionCode": "1212749910",
@@ -199,6 +226,7 @@
     {
         "md5": "26c3e0e52a2dcee3ed600bbc1a3b5896",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-09-27",
         "url": "",
         "versionCode": "1212704610",
@@ -206,6 +234,7 @@
     },
     {
         "md5": "873b48a1727093bfb5e8b30f44a80153",
+        "status": 200,
         "uploaded": "2023-10-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/59fd429cc81e93e8c51289fa5e6f3e6d/com.amazon.tv.livetv.apk",
         "versionCode": "1212750510",
@@ -213,6 +242,7 @@
     },
     {
         "md5": "a5d400b2e2a0fdef78a1c7b4aa410674",
+        "status": 200,
         "uploaded": "2023-11-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/299e34c6b9f63b1f2bf29f9ae587fd63/com.amazon.tv.livetv.apk",
         "versionCode": "1212750610",
@@ -220,6 +250,7 @@
     },
     {
         "md5": "c31c4a6bdbb538911c49dfcfe488953e",
+        "status": 200,
         "uploaded": "2023-12-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e2e4e3f7e163ca0dd199053c49b8efe0/com.amazon.tv.livetv.apk",
         "versionCode": "1212809110",
@@ -227,6 +258,7 @@
     },
     {
         "md5": "54a3597aafb5eab281323268f8b1b9fb",
+        "status": 200,
         "uploaded": "2024-02-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/2/20/75763a7a-9831-4a39-b4ab-f2e935ecd0e3/1708418876444-1212809410.apk",
         "versionCode": "1212809410",
@@ -234,6 +266,7 @@
     },
     {
         "md5": "9dee5e3fd26371f409b04faf396423ae",
+        "status": 200,
         "uploaded": "2025-04-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/4/16/61963ba5-c585-4ac4-a3b2-0bf328fa63bd/1744782353476-signed_com.amazon.tv.livetv_Storage_PrefetchFix.apk",
         "versionCode": "1215415710",

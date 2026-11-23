@@ -1,6 +1,7 @@
 [
     {
         "md5": "e3c996acd428541dc58a957a12c6e0f1",
+        "status": 200,
         "uploaded": "2020-03-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b3b9d6f798494d04225e41ec182c0b36/com.amazon.tv.launcher_6210059.1.apk",
         "versionCode": "621105910",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "1d069e341176c3381a08048c0e6b3568",
+        "status": 200,
         "uploaded": "2020-08-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/ebaa4be1d573816a965a00392da4d0b8/com.amazon.tv.launcher.apk",
         "versionCode": "624049910",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "aaa22e330e6d1e44d09aa313beaacd27",
+        "status": 200,
         "uploaded": "2020-09-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6ba44a9c527915bfd781752d60c89557/com.amazon.tv.launcherTX_47.apk",
         "versionCode": "624104710",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "f7227ecb635308fb00e2e6a1d516aba2",
+        "status": 200,
         "uploaded": "2020-11-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6552a27d88613d349832e492d8fa347d/com.amazon.tv.launcherBC_54.apk",
         "versionCode": "624205410",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "e2c73723b836f2e0f54d841c66e31a1e",
+        "status": 200,
         "uploaded": "2020-12-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b7fb965d659c22bebe0593493ffd3974/com.amazon.tv.launcher_33.apk",
         "versionCode": "624205610",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "13ad3c872b52453dd0fb84c09286638b",
+        "status": 200,
         "uploaded": "2020-12-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/f3a1a17b48423de704e663edfbdd302d/com.amazon.tv.launche_6300180.apk",
         "versionCode": "630018010",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "5037f1fb57f7acd05520bf6af1c85778",
+        "status": 200,
         "uploaded": "2021-07-08",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/47ce6a85bb018c971b0538825f3d12dd/Jarv_6322093.apk",
         "versionCode": "632209310",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "b6707b6870d24fa8831bf22a16c3e222",
+        "status": 200,
         "uploaded": "2021-07-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/9913caa3e16e6489d852a3f4a327e7ad/Jarv_6322095.apk",
         "versionCode": "632209510",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "e7317da7248ffa7b6d2acb0af7c28874",
+        "status": 200,
         "uploaded": "2021-08-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d268dc89f01e8c6d916057f4d44d793b/com.amazon.tv.launcher_52.apk",
         "versionCode": "633004410",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "9e9f577a5c9952e3839494256a497cc5",
+        "status": 200,
         "uploaded": "2021-11-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/f50f735879580f4573c3b226ccd077b0/com.amazon.tv.launcher.apk",
         "versionCode": "634049910",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "5423773bfeab96611bd7bc198c4c181a",
+        "status": 200,
         "uploaded": "2021-11-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/969826d358aee9cce4e16a28bbe99f8a/Launcher_67.apk.apk",
         "versionCode": "634106710",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "3933b5a6cf863408f7b74b92ac928c24",
+        "status": 200,
         "uploaded": "2022-02-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d300c86812cf8e38cefd7a66ca18327d/Launcher_6350075.apk",
         "versionCode": "635007510",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "98dc0465a3b1919530df97a823cfc911",
+        "status": 200,
         "uploaded": "2022-02-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6451cdabec5b5e576f8e7da5174fa025/Launcher_77.apk",
         "versionCode": "635007710",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "7de4a2864f833f9ddc04d13eae840458",
+        "status": 200,
         "uploaded": "2022-03-23",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/d764396d70bfce9bd8e9ec3302f83cc0/R2_40.apk",
         "versionCode": "636004010",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "9302374dcd7657f413fdb6c639ad3458",
+        "status": 200,
         "uploaded": "2022-05-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/21fe1044577ed5edf297e59a09c7c969/com.amazon.tv.launcher_56.apk",
         "versionCode": "637005110",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "4b4ee948daee9028396444ffcdcfc7cb",
+        "status": 200,
         "uploaded": "2022-06-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/59573547d20e1c72ed1924dc19a24c85/com.amazon.tv.launcher_6370055.apk",
         "versionCode": "637005510",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "7c64cf22218de916cc62f9365f99ecaa",
+        "status": 200,
         "uploaded": "2022-06-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/fa672e0f70785e82b7310ff90ee7bd0e/R4_launcher_6380025.apk",
         "versionCode": "638002510",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "ff7ec2ac1792cc082667d4f84ecb1b79",
+        "status": 200,
         "uploaded": "2022-08-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/bbab6bbed15a88053551e19bb7f58472/com.amazon.tv.launcher_6390026.apk",
         "versionCode": "639002610",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "c23e3f8ac1f6de449a0dadd2543ee61c",
+        "status": 200,
         "uploaded": "2022-09-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/21972b05d61148f07dde6e282a385546/R6_Launcher_6400053.apk",
         "versionCode": "640005310",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "71f306cd425a7d2fade617768b9c5c26",
+        "status": 200,
         "uploaded": "2022-11-04",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/9250a922baa36b11c489e16d9a88591f/R7_launcher_6410026.apk",
         "versionCode": "641002610",
@@ -142,6 +162,7 @@
     {
         "md5": "fe136c5d3c5602a66b2d583069f7653b",
         "optout": 1,
+        "status": 200,
         "uploaded": "2022-12-01",
         "url": "",
         "versionCode": "641002810",
@@ -149,6 +170,7 @@
     },
     {
         "md5": "a77b5dbf0338bd461fa58b40dd03fcab",
+        "status": 200,
         "uploaded": "2022-12-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/a3a4c00b8606b25206913c01f8a01876/R8launcher642003010.apk",
         "versionCode": "642003010",
@@ -156,6 +178,7 @@
     },
     {
         "md5": "4d7d71dab68cd1edfa5ed26d57d6d2cb",
+        "status": 200,
         "uploaded": "2023-01-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/7f0ac70f300f0453aefa3ea13fe11a33/FireTvLauncher-release3.apk",
         "versionCode": "643015210",
@@ -163,6 +186,7 @@
     },
     {
         "md5": "683458db95cb9fbd8ab09bd8d73b1040",
+        "status": 200,
         "uploaded": "2023-02-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/32c470b38fc7c3dfba806acdf180e91d/FireTvLauncher-release_5.apk",
         "versionCode": "643020710",
@@ -170,6 +194,7 @@
     },
     {
         "md5": "7455741ffafc75521fda551c58cd78b1",
+        "status": 200,
         "uploaded": "2023-04-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/4b90349d3f04389eccb4d6e4aaadf426/FireTvLauncher-release_644028710.apk",
         "versionCode": "644028710",
@@ -177,6 +202,7 @@
     },
     {
         "md5": "b2f3ff9f2ca1a2530fcffe167b2d3cd5",
+        "status": 200,
         "uploaded": "2023-05-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/3ce5b235e3287102bcd1bfa0166985d2/R3_hotfix_launcher_6450027.apk",
         "versionCode": "645002710",
@@ -185,6 +211,7 @@
     {
         "md5": "7e82408a079172412f07446f89eae033",
         "optout": 1,
+        "status": 200,
         "uploaded": "2023-07-19",
         "url": "",
         "versionCode": "646003710",
@@ -192,6 +219,7 @@
     },
     {
         "md5": "fbbfe80147c08102db0a9d25e81ad080",
+        "status": 200,
         "uploaded": "2023-08-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/bd385cce7a88b5a917a42a420d035cd7/R6_Launcher_6470105.apk",
         "versionCode": "647010510",
@@ -199,6 +227,7 @@
     },
     {
         "md5": "3ee18ae9dcb43c33eeab8632535310e8",
+        "status": 200,
         "uploaded": "2023-10-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2023/10/19/011fc787-96f0-4c2e-a9de-8cccf18e2c60/1697692169340-FireTvLauncher-fos-release-signed_6480055.apk",
         "versionCode": "648005510",
@@ -206,6 +235,7 @@
     },
     {
         "md5": "d24448722069429a89171e78e3036565",
+        "status": 200,
         "uploaded": "2023-11-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/fc13b5b4445ec5b3cb3a4c440b5f31ff/FireTvLauncher-fos-release-signed-649003610.apk",
         "versionCode": "649003610",
@@ -214,6 +244,7 @@
     {
         "md5": "bf11a1712464322da58fd0b128d7f6cd",
         "optout": 1,
+        "status": 200,
         "uploaded": "2024-04-11",
         "url": "",
         "versionCode": "651011810",
@@ -222,6 +253,7 @@
     {
         "md5": "cbad373dc3df8420aee328adb1549102",
         "optout": 1,
+        "status": 200,
         "uploaded": "2024-05-02",
         "url": "",
         "versionCode": "651012310",
@@ -230,6 +262,7 @@
     {
         "md5": "0e16a4ce3191e1ede12e5213593bff46",
         "optout": 1,
+        "status": 200,
         "uploaded": "2024-06-05",
         "url": "",
         "versionCode": "652005810",
@@ -237,6 +270,7 @@
     },
     {
         "md5": "32b579be2361cf99c5838d559cc8a5a0",
+        "status": 200,
         "uploaded": "2024-09-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/9/30/e99c3e51-ab11-4f9b-ac00-6150da5b0089/FireTvLauncher-fos-release-signed.apk",
         "versionCode": "654016310",
@@ -244,6 +278,7 @@
     },
     {
         "md5": "5d61eaef75321d594402db0e3aaeaa25",
+        "status": 200,
         "uploaded": "2025-01-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/1/30/62c42f69-db3b-43cf-9ca8-0e825512ddd8/1738216814740-6560194.apk",
         "versionCode": "656019410",
@@ -251,6 +286,7 @@
     },
     {
         "md5": "cbd203504d206e0e75d6a0597b81ed9f",
+        "status": 200,
         "uploaded": "2025-04-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/4/17/7e76ec79-5d65-4b40-8f46-99d92f4841be/1744867008387-7201001.apk",
         "versionCode": "720100110",
@@ -258,6 +294,7 @@
     },
     {
         "md5": "2fba2b4ed99c7e960d12412bac0bbee2",
+        "status": 200,
         "uploaded": "2026-08-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/8/24/21939be2-7e39-400a-ad0d-77c6b35cdeaf/1787557543224-FireTvLauncher-release-signed.apk",
         "versionCode": "731100010",
@@ -265,6 +302,7 @@
     },
     {
         "md5": "d0a3d35d803afacce3a7237814643788",
+        "status": 200,
         "uploaded": "2026-09-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/21/c71a139f-7e7c-4210-869e-ec20e913a4fb/FireTvLauncher-release-signed.apk",
         "versionCode": "731300210",

@@ -1,6 +1,7 @@
 [
     {
         "md5": "cc2d1082c0b2bd6a02d44ceb5692bb40",
+        "status": 200,
         "uploaded": "2021-07-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/3535168d2a31e2ef9d7afedac8f0c05e/com.amazon.ods.kindleconnect-release-7.0.1508.0.apk",
         "versionCode": "1700230210",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "badce1b15719e83bb82c26522dbebab7",
+        "status": 200,
         "uploaded": "2024-04-08",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/4/8/a1cfa08b-cd04-4fec-9606-14341cbc13f2/1712610456839-MayDayApk-armeabi-v7a-release-signed.apk",
         "versionCode": "1800098810",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "7abb51880c418dcfccd8a67d614a53c4",
+        "status": 200,
         "uploaded": "2024-04-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/4/19/515cd6f0-f9b9-4e2a-bdfc-aa645c95d6ce/1713543107853-MayDayApk-sharedRTCSC-armeabi-v7a-release-signed.apk",
         "versionCode": "1810339010",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "f44e4bedc1993877d25deb00a9d2af0b",
+        "status": 200,
         "uploaded": "2026-07-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/16/326626db-2c8d-40d6-aa55-ad82c4153ca3/1784173126909-MayDayApk-v1sign-armeabi-v7a-release-signed.apk",
         "versionCode": "2086500241",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "e0bb61236c5c4ff32c53bcf5408d5a0b",
+        "status": 200,
         "uploaded": "2026-11-01",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/1/ae0688e5-1629-443d-8bc0-b9e134fafef4/1793511830996-MayDayApk-v1sign-armeabi-v7a-release-signed.apk",
         "versionCode": "2110000271",

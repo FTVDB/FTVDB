@@ -1,6 +1,7 @@
 [
     {
         "md5": "bcab4de9d5b0817420f9c40765f3fbf2",
+        "status": 200,
         "uploaded": "2019-10-25",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/423c69eadb3f651e3d720848ab8f9c7e/update-kindle-pascal-NS6437_user_2784_0002919948420.bin",
         "versionCode": "2919948420",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "de809f6e99e46cd593c20874045556de",
+        "status": 200,
         "uploaded": "2021-06-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/4f875928511bca206bf4150b55dea206/update-kindle-pascal-NS6546_user_3376_0005470236804.bin",
         "versionCode": "5470236804",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "09f7eecdef5c2f971e1a0c54005c68d6",
+        "status": 200,
         "uploaded": "2024-05-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/5/30/b14d96d9-4eed-451a-8deb-c2df0c362b2f/update-kindle-pascal-NS6563_user_5291_0010369674116.bin",
         "versionCode": "10369674116",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "5fb06351763473a3e2dadf0852d9606f",
+        "status": 200,
         "uploaded": "2026-04-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/14/5f6b0f5d-b9b9-4550-81b7-725a018a6f41/update-kindle-pascal-NS6572_user_6451_0012718781316.bin",
         "versionCode": "12718781316",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "1322e816ceb053492fdf6e84daf206c3",
+        "status": 200,
         "uploaded": "2026-05-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/5/22/77ae7956-6a95-453c-bc4a-fed0cd2407bc/update-kindle-pascal-NS6573_user_6562_0012853027460.bin",
         "versionCode": "12853027460",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "08307443f7f800aeec64dd4af43120f1",
+        "status": 200,
         "uploaded": "2026-09-29",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/29/200262e4-642d-465d-bee5-ed84d0bd0879/update-kindle-pascal-NS65741_user_8149_0013222532484.bin",
         "versionCode": "13222532484",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "b448ef523bf903a47955b9507f9d1f7a",
+        "status": 200,
         "uploaded": "2026-10-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/14/7c7da1a8-28c7-4c98-8693-714d730146aa/update-kindle-pascal-NS6575_user_8338_0013323244164.bin",
         "versionCode": "13323244164",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "8921ff4a9e0d8db3c2fd00cd2854a3d2",
+        "status": 200,
         "uploaded": "2026-10-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/f18328ca-2de7-4f73-bbfc-b730ceafc580/update-kindle-pascal-NS6575_user_8344_0013323245700.bin",
         "versionCode": "13323245700",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "4822950b547292c7792dba9d0d9b10b5",
+        "status": 200,
         "uploaded": "2026-10-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/88f62bbb-9e99-4fe9-9ce7-c10959022c44/update-kindle-pascal-NS6575_user_8349_0013323246980.bin",
         "versionCode": "13323246980",

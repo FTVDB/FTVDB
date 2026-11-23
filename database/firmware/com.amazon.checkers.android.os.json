@@ -1,6 +1,7 @@
 [
     {
         "md5": "8875f7b857fadcf4b7921a2766d6da3e",
+        "status": 200,
         "uploaded": "2019-10-04",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/68d77129a026ef63e911e6e95bd57477/update-kindle-checkers-NS6534_user_2264_0002919815300.bin",
         "versionCode": "2919815300",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "eb56aa8a37a8ec68cae6eda7f471c786",
+        "status": 200,
         "uploaded": "2025-09-23",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/9/23/b8ce9e35-7207-4ba6-9e79-56ff8a2ec50d/update-kindle-checkers-NS6570_user_6086_0012383143556.bin",
         "versionCode": "12383143556",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "8b66c52301831907340f84aee2e1c32c",
+        "status": 200,
         "uploaded": "2025-10-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/10/20/50954080-91f6-48e2-a7f9-fda90f1479d8/update-kindle-checkers-NS6571_user_6190_0012584496772.bin",
         "versionCode": "12584496772",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "f02f3ea4ba7dd597deeb7d6debae08c7",
+        "status": 200,
         "uploaded": "2025-11-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/11/708f1ec4-6000-4bf7-8fec-b9f562dbcfc8/update-kindle-checkers-NS6571_user_6200_0012584499332.bin",
         "versionCode": "12584499332",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "7a7b0cbb86a5519f8e120a1ddd0b9bda",
+        "status": 200,
         "uploaded": "2025-11-23",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/23/445136a2-248d-4904-9716-d1b505882546/update-kindle-checkers-NS6571_user_6206_0012584500868.bin",
         "versionCode": "12584500868",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "9ef1a59ecada24b0ea1701190edb97a7",
+        "status": 200,
         "uploaded": "2025-11-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/11/28/b281e692-ca6f-4765-a0b4-318c46ee5eb8/update-kindle-checkers-NS6571_user_6208_0012584501380.bin",
         "versionCode": "12584501380",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "a261f806db166c478dc5463081502135",
+        "status": 200,
         "uploaded": "2026-02-04",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/2/4/f2f377a9-324b-4ecb-88c6-9b1ef9cc3980/update-kindle-checkers-NS6571_user_6225_0012584505732.bin",
         "versionCode": "12584505732",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "436ff8145224607e6f0873dbaff4f751",
+        "status": 200,
         "uploaded": "2026-03-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/3/21/a34ef475-8927-4471-9c32-4e4d25850879/update-kindle-checkers-NS6572_user_6436_0012718777476.bin",
         "versionCode": "12718777476",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "17ee0e789b9af83de14be4215ce7eb8e",
+        "status": 200,
         "uploaded": "2026-04-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/4/14/4b1c9042-7e0b-43eb-92b7-91193b44f9ff/update-kindle-checkers-NS6572_user_6451_0012718781316.bin",
         "versionCode": "12718781316",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "f49c7df70c5f952e07367ebaea4b39b6",
+        "status": 200,
         "uploaded": "2026-05-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/5/18/8b8f784f-ae30-4cd9-9636-d4faaf157a6e/update-kindle-checkers-NS6573_user_6558_0012853026436.bin",
         "versionCode": "12853026436",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "115340348389c662868ed96c73b586f2",
+        "status": 200,
         "uploaded": "2026-06-01",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/1/b9acdcd3-cbe4-4bc9-a1c3-21682ebbbe7d/update-kindle-checkers-NS6573_user_6567_0012853028740.bin",
         "versionCode": "12853028740",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "435c8b55bba1a1ea25a3d9a7ee3b5400",
+        "status": 200,
         "uploaded": "2026-06-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/6/72c3bceb-ce3c-4131-b002-2f69523665a5/update-kindle-checkers-NS6573_user_7575_0012920395652.bin",
         "versionCode": "12920395652",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "fa376ab11cce1f545c48791edb0e77f7",
+        "status": 200,
         "uploaded": "2026-06-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/6/12/297fc9d7-b9be-4d35-85f7-e4a1331f49e4/update-kindle-checkers-NS6573_user_7577_0012920396164.bin",
         "versionCode": "12920396164",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "4711d3d5c4499f47194264ac0ca39529",
+        "status": 200,
         "uploaded": "2026-07-03",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/7/3/0f447027-38ac-402f-91b8-d1b45698f795/update-kindle-checkers-NS6573_user_7595_0013054618500.bin",
         "versionCode": "13054618500",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "cc157aef210eb1274f4d9dfb5c20031c",
+        "status": 200,
         "uploaded": "2026-08-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/8/26/e518449b-0220-4d36-84a3-1c6cfc7a0c62/update-kindle-checkers-NS6574_user_7630_0013121736324.bin",
         "versionCode": "13121736324",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "2d9a8e2a5dc15e2d7c2a13995478815a",
+        "status": 200,
         "uploaded": "2026-09-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/6/73a45b3b-e13c-4d4d-88ac-5932ad0fc39f/update-kindle-checkers-NS6574_user_7632_0013121736836.bin",
         "versionCode": "13121736836",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "832586e866f1158e62cddda3fd101d36",
+        "status": 200,
         "uploaded": "2026-09-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/12/9e5c4f6d-504a-4f38-8003-c4c600309ee7/update-kindle-checkers-NS6574_user_7636_0013121737860.bin",
         "versionCode": "13121737860",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "d17ab1fb8fa374cc3f9b1d813d4094dc",
+        "status": 200,
         "uploaded": "2026-09-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/15/0b1be1c7-7e65-40d5-b32d-07130870d34a/update-kindle-checkers-NS65741_user_8146_0013222531716.bin",
         "versionCode": "13222531716",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "2a4c5a8f3af7da963955229bd1431411",
+        "status": 200,
         "uploaded": "2026-09-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/9/28/4ce2e205-8886-4121-8433-0d149c9b4036/update-kindle-checkers-NS65741_user_8149_0013222532484.bin",
         "versionCode": "13222532484",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "28777cc0dc6e90409874bdd0c9b1184b",
+        "status": 200,
         "uploaded": "2026-10-13",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/13/cb888ba4-c312-47e7-b5a8-07f10cafb04f/update-kindle-checkers-NS65741_user_8150_0013222532740.bin",
         "versionCode": "13222532740",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "0aa2ce70c154a27ed491f1b350833c33",
+        "status": 200,
         "uploaded": "2026-10-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/21/8a3156e2-9c65-4b9a-8df4-dd8fd17a131f/update-kindle-checkers-NS65741_user_8151_0013222532996.bin",
         "versionCode": "13222532996",
@@ -148,6 +169,7 @@
     },
     {
         "md5": "da152dd6ff31dbf9d4dca70247c6a415",
+        "status": 200,
         "uploaded": "2026-11-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/2/a2d9eb31-beb9-45b6-8b39-216cb1263150/update-kindle-checkers-NS65751_user_8848_0013524701316.bin",
         "versionCode": "13524701316",
@@ -155,6 +177,7 @@
     },
     {
         "md5": "41e28f3ddd9671e5eef7da11080d516f",
+        "status": 200,
         "uploaded": "2026-11-12",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/12/473d6ded-76f2-4a0f-b0dc-de93f7ba8aef/update-kindle-checkers-NS65751_user_8851_0013524702084.bin",
         "versionCode": "13524702084",

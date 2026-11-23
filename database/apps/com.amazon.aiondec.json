@@ -2,6 +2,7 @@
     {
         "md5": "f92f7b3c69bc25f8373aa2791a8a4638",
         "optout": 1,
+        "status": 200,
         "uploaded": "2022-11-23",
         "url": "",
         "versionCode": "2009010",
@@ -9,6 +10,7 @@
     },
     {
         "md5": "1c7a1a66e2dabe2836a448e3ca1804c9",
+        "status": 200,
         "uploaded": "2023-01-27",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/37c61da48db0139f50c9f453ec08cbc9/ASAdsAIOnDeCService-1.0.217.0-release-signed.apk",
         "versionCode": "2011910",
@@ -16,6 +18,7 @@
     },
     {
         "md5": "3c02064476691a0f6430c4dd3c1adc2f",
+        "status": 200,
         "uploaded": "2023-03-02",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/a2460a1ef722b4262ad5993efc5f65b1/signed_ASAdsAIOnDeCService-1.0.315.0-release.apk",
         "versionCode": "2021710",
@@ -23,6 +26,7 @@
     },
     {
         "md5": "ba4a603a0418d887b169273e62de7eee",
+        "status": 200,
         "uploaded": "2023-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/5952634803d1f297dca2e1f9ae7d7c0f/signed_ASAdsAIOnDeCService-1.0.385.0-release.apk",
         "versionCode": "2029110",

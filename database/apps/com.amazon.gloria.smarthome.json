@@ -1,6 +1,7 @@
 [
     {
         "md5": "fdd60897c284daf8a8eefb7364b5ce85",
+        "status": 200,
         "uploaded": "2020-04-08",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e46718fa32b84a84019283babb615c3a/SmartHomeGloria-mdpi-release-signed.apk",
         "versionCode": "1831210",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "19321b81b0515e45a4e953248c626d96",
+        "status": 200,
         "uploaded": "2020-08-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/990ddb40f2184d3de8ef3f56861dbb6f/SmartHomeGloria-mdpi-release-signed.apk",
         "versionCode": "1923210",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "499d490732d9d843249280914832675b",
+        "status": 200,
         "uploaded": "2020-08-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/fbbba8af4cde8cf8f89398028eb3d01e/SmartHomeGloria-mdpi-release-signed.apk",
         "versionCode": "1927310",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "06da2e397cc4feeace7594cb64bf3db1",
+        "status": 200,
         "uploaded": "2020-10-23",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/689422c651726e7ba44a85688fe31287/SmartHomeGloria-mdpi-release-signed.apk",
         "versionCode": "1960510",

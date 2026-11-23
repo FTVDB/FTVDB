@@ -1,6 +1,7 @@
 [
     {
         "md5": "3771a434046ccfebd8420b716ca4ad3e",
+        "status": 200,
         "uploaded": "2018-06-05",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/132c9f0c5cf4106022c579f86a0ec0c1/update-kindle-full_sloane-36.6.0.6_user_606753920.bin",
         "versionCode": "606753920",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "4ad80d49715021f755d6d648f642b087",
+        "status": 200,
         "uploaded": "2018-09-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/426a9a28bf0375c5424f279d39a79158/update-kindle-full_sloane-36.6.1.7_user_617513220.bin",
         "versionCode": "617513220",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "b0f98be5deffbc7b7c2b151be2b45818",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/471d77e1c3ad23df4a469c8b88a0c200/update-kindle-full_sloane-36.5.3.7_user_537174420.bin",
         "versionCode": "537174420",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "e6c78d3c3c581652fbc7177fe62c3af8",
+        "status": 200,
         "uploaded": "2018-09-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6eb399b5f8f9126917635be9f7e8f77f/update-kindle-full_sloane-36.5.7.4_user_574262620.bin",
         "versionCode": "574262620",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "a855c35e93b83646d98e4dc328ca870d",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/bcbd9354d5be471270d39f2632b2ae2b/update-kindle-full_sloane-36.5.7.3_user_573210520.bin",
         "versionCode": "573210520",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "afc2655efa5b5b0e8ba74b977bde0510",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/9cfe0e06dd16cc7d86fa73bbfc41ad4e/update-kindle-full_sloane-36.5.3.7_user_537175520.bin",
         "versionCode": "537175520",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "3a7dd38e910f7c1b0082c4da963337f6",
+        "status": 200,
         "uploaded": "2018-09-20",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/36f367217d0a480e51e0f3df57586637/update-kindle-full_sloane-36.5.5.0_user_550145120.bin",
         "versionCode": "550145120",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "73a6af37738a9d64a067c8e3c6b64013",
+        "status": 200,
         "uploaded": "2018-10-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/a5f8e2b446529521e21cd38962ac3709/update-kindle-full_sloane-36.6.2.3_user_623529620.bin",
         "versionCode": "623529620",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "5cafcd08325892a25d2d15ab1a345a28",
+        "status": 200,
         "uploaded": "2018-11-13",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/f0017b84d80235e33563be7d9581b7fc/update-kindle-full_sloane-36.6.2.3_user_623530020.bin",
         "versionCode": "623530020",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "a8aab7aec8a69c6ee3c7c8a299a91954",
+        "status": 200,
         "uploaded": "2018-12-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/5edbc5484adaf81545c3bdda9ea82618/update-kindle-full_sloane-36.6.3.0_user_630508620.bin",
         "versionCode": "630508620",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "23df5495d3c8bb7584eb3ddafbeed083",
+        "status": 200,
         "uploaded": "2019-02-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/0fecd40db0d9aedf299477919c112dcc/update-kindle-full_sloane-36.6.3.2_user_632552020.bin",
         "versionCode": "632552020",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "d154afb53ef9de48de8b5f9de2dbfb19",
+        "status": 200,
         "uploaded": "2019-08-17",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/1776a538e62250f6e7efb905234c2113/update-kindle-full_sloane-36.6.4.6_user_646581820.bin",
         "versionCode": "646581820",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "4c9c5a589050f58363c0b58b3f95e0a5",
+        "status": 200,
         "uploaded": "2019-10-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/93628b8d72ae4ee527ba885a182de77e/update-kindle-full_sloane-36.6.4.8_user_648594820.bin",
         "versionCode": "648594820",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "b9a6122fd448ef3d9a1681d5e18b7670",
+        "status": 200,
         "uploaded": "2020-05-06",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/1063a21f4e9a931b75d0682f119e96df/update-kindle-full_sloane-36.6.4.6_user_646582020.bin",
         "versionCode": "646582020",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "bb1155c66f8a7faac26a2ed9b2dd7780",
+        "status": 200,
         "uploaded": "2020-05-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/06a2c45dcc3a2554ef32d52cd396980c/update-kindle-full_sloane-36.6.4.8_user_648595220.bin",
         "versionCode": "648595220",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "750233859ae8430d8010ce454ffccf0f",
+        "status": 200,
         "uploaded": "2020-05-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/7af0a9a31621db60bf48d23e680751d3/update-kindle-full_sloane-36.6.5.2_user_652614020.bin",
         "versionCode": "652614020",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "b1c0e32eb4aa24aab1129fc80f4ae9b1",
+        "status": 200,
         "uploaded": "2020-07-18",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/7758ad70f668023cc93ddee2655c6226/update-kindle-full_sloane-36.6.5.6_user_656638420.bin",
         "versionCode": "656638420",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "c6d932094c29f23e228148ebe53244b9",
+        "status": 200,
         "uploaded": "2020-09-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/c5b513d2116f5ad2942426ab79bb437b/update-kindle-full_sloane-36.6.5.9_user_659654620.bin",
         "versionCode": "659654620",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "25c337045219630b46e7ef7c778d328b",
+        "status": 200,
         "uploaded": "2020-12-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b9f7c8f9a8a4ba1f34da8ce7a8077474/update-kindle-full_sloane-36.6.6.2_user_662663720.bin",
         "versionCode": "662663720",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "087cef3f082b0017231e8b938feaeec7",
+        "status": 200,
         "uploaded": "2021-03-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/6e68ae0674faaf85093c704caaa63b66/update-kindle-full_sloane-36.6.6.4_user_664657620.bin",
         "versionCode": "664657620",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "75e5e77110e79930748d87130f5ac48d",
+        "status": 200,
         "uploaded": "2021-06-14",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/f24ae8ad77890000e6683308c8521793/update-kindle-full_sloane-36.6.6.8_user_668694820.bin",
         "versionCode": "668694820",
@@ -148,6 +169,7 @@
     },
     {
         "md5": "212ec6e587d5e5d8b24101ee3a32f0b7",
+        "status": 200,
         "uploaded": "2021-10-19",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/66a9e40e40f468a0fd861084a90c328f/update-kindle-full_sloane-36.6.7.1_user_671761720.bin",
         "versionCode": "671761720",
@@ -155,6 +177,7 @@
     },
     {
         "md5": "ce35850ca8ed38673795d83043d7079c",
+        "status": 200,
         "uploaded": "2021-12-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/9b2e71811433fde29845430067ee4bf8/update-kindle-full_sloane-36.6.7.2_user_672831220.bin",
         "versionCode": "672831220",
@@ -162,6 +185,7 @@
     },
     {
         "md5": "312782e43aa9d2132d49d28cdb157bb7",
+        "status": 200,
         "uploaded": "2022-02-08",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/92813fdfb10e8ace163fe559c39d5ea0/update-kindle-full_sloane-36.6.7.4_user_674730620.bin",
         "versionCode": "674730620",
@@ -169,6 +193,7 @@
     },
     {
         "md5": "554d921c430aabc90b8b4bc7b86f88ac",
+        "status": 200,
         "uploaded": "2022-04-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/df01587672db6ee5bb8d462eb9e8c027/update-kindle-full_sloane-36.6.7.6_user_676742620.bin",
         "versionCode": "676742620",
@@ -176,6 +201,7 @@
     },
     {
         "md5": "cdc98aecd0f11d3f302cfa34a42f8454",
+        "status": 200,
         "uploaded": "2022-05-21",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/e697d55eace60cc627418b3c4efef9f2/update-kindle-full_sloane-36.6.7.8_user_678752420.bin",
         "versionCode": "678752420",
@@ -183,6 +209,7 @@
     },
     {
         "md5": "3b9642d9139a6cdc294c5400be034f57",
+        "status": 200,
         "uploaded": "2022-08-30",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/91624e71475888e7e891a2e1ecdb3847/update-kindle-full_sloane-36.6.8.0_user_680761420.bin",
         "versionCode": "680761420",
@@ -190,6 +217,7 @@
     },
     {
         "md5": "43f9efa05bc0382d8c8c43e3c65e58b9",
+        "status": 200,
         "uploaded": "2022-11-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/4b8f364ec95a10316a51e1f51cfd72e0/update-kindle-full_sloane-36.6.8.4_user_684782320.bin",
         "versionCode": "684782320",
@@ -197,6 +225,7 @@
     },
     {
         "md5": "3f209e305bf3800983fc2d21f8a6c664",
+        "status": 200,
         "uploaded": "2023-01-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/725b18adc2a05a85e45842e11ba158d1/update-kindle-full_sloane-36.6.8.5_user_685791120.bin",
         "versionCode": "685791120",
@@ -204,6 +233,7 @@
     },
     {
         "md5": "d33b381f2b9aff92b7fcaf8ad6093252",
+        "status": 200,
         "uploaded": "2023-03-22",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/5d7a6e4bc1c76e60ba3cceb871ded639/update-kindle-full_sloane-36.6.8.6_user_686800020.bin",
         "versionCode": "686800020",
@@ -211,6 +241,7 @@
     },
     {
         "md5": "7306a97d4d59d1a81189fc00fcdbc8a6",
+        "status": 200,
         "uploaded": "2023-05-26",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/5b8c7d462f1bea85ba8a4b5d32f4ee14/update-kindle-full_sloane-36.6.8.6_user_686800820.bin",
         "versionCode": "686800820",

@@ -1,6 +1,7 @@
 [
     {
         "md5": "7202f9125538c3d0ebd40b0f016caa2a",
+        "status": 200,
         "uploaded": "2022-09-21",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/Pm7KvhyWFZJQIFYlTxtf9uaLFm/update-kindle-Fire_HD8_12th_Gen-RS8312_user_1144_0021005367428.bin",
         "versionCode": "21005367428",
@@ -8,6 +9,7 @@
     },
     {
         "md5": "a3bf73373b83169a2031a04f022337a2",
+        "status": 200,
         "uploaded": "2023-01-05",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/UtojcDsxh6CNGy9116Xhw1iIDN/update-kindle-Fire_HD8_12th_Gen-RS8313_user_1247_0021072502660.bin",
         "versionCode": "21072502660",
@@ -15,6 +17,7 @@
     },
     {
         "md5": "8653d446abd22f0aca01ce8023a72b28",
+        "status": 200,
         "uploaded": "2023-02-22",
         "url": "https://fireos-tablet-updates.s3.amazonaws.com/0ekEeapOGXDqCPab39oQYndVWz/update-kindle-Fire_HD8_12th_Gen-RS8314_user_1402_0021139651204.bin",
         "versionCode": "21139651204",
@@ -22,6 +25,7 @@
     },
     {
         "md5": "b276041fdf35e09a488a4e28062ddab8",
+        "status": 200,
         "uploaded": "2023-04-19",
         "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/0dkfeap1GXDqCPab39o1Yn12Wz/update-kindle-Fire_HD8_12th_Gen_Plus-RS8318_user_2031_0021441802116.bin",
         "versionCode": "21441802116",
@@ -29,6 +33,7 @@
     },
     {
         "md5": "16edad5c09f40c868242030a750b779e",
+        "status": 200,
         "uploaded": "2023-06-07",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/708756f516f9cc4522e6dd51e545b716/update-kindle-raspite-RS8319_user_1664_0021508817028.bin",
         "versionCode": "21508817028",
@@ -36,6 +41,7 @@
     },
     {
         "md5": "16edad5c09f40c868242030a750b779e",
+        "status": 200,
         "uploaded": "2023-06-07",
         "url": "https://fireos-tablet-updates.s3.us-west-2.amazonaws.com/0dkfeap1GXEqCPab57o1Yn12Qz/update-kindle-Fire_HD8_12th_Gen-RS8319_user_1664_0021508817028.bin",
         "versionCode": "21508817028",
@@ -43,6 +49,7 @@
     },
     {
         "md5": "616198e46bbfb8d88b187e04f26afbf6",
+        "status": 200,
         "uploaded": "2023-10-10",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/06DwwycfWTlerpg56xZ77Mg32T/update-kindle-Fire_HD8_12th_Gen-RS8320_user_1807_0021777289092.bin",
         "versionCode": "21777289092",
@@ -50,6 +57,7 @@
     },
     {
         "md5": "ea5d6f5a105f0f233fd961f8011409ac",
+        "status": 200,
         "uploaded": "2023-12-07",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/15Bswnl8KAvSTRqKX8a0bmrga2/update-kindle-Fire_HD8_12th_Gen-RS8321_user_1924_0021911536772.bin",
         "versionCode": "21911536772",
@@ -57,6 +65,7 @@
     },
     {
         "md5": "0da2b70a670b9311d584537268907cde",
+        "status": 200,
         "uploaded": "2024-01-31",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/15Bswnl8KAvSTRqKX8a1mngra2/update-kindle-Fire_HD8_12th_Gen-RS8322_user_2053_0022045787524.bin",
         "versionCode": "22045787524",
@@ -64,6 +73,7 @@
     },
     {
         "md5": "780df772714ccb1e1f89d5157c1fd1b8",
+        "status": 200,
         "uploaded": "2024-04-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/4/24/d0521211-20a1-4f15-b5ad-01bc7a5f7c6c/update-kindle-raspite-RS8323_user_2196_0022549140612.bin",
         "versionCode": "22549140612",
@@ -71,6 +81,7 @@
     },
     {
         "md5": "bf773a31a62f4cbb590e9d98f1f49d76",
+        "status": 200,
         "uploaded": "2024-06-17",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/M7nrtAEBjfuFrO76zt0kqEdQ72/update-kindle-Fire_HD8_12th_Gen-RS8324_user_2314_0023153150596.bin",
         "versionCode": "23153150596",
@@ -78,6 +89,7 @@
     },
     {
         "md5": "46fc345525e08847526cb356a4a6fb13",
+        "status": 200,
         "uploaded": "2024-09-13",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/9/13/5f408228-1a23-49df-9e74-0a26f2af92b1/update-kindle-raspite-RS8325_user_2442_0023958489732.bin",
         "versionCode": "23958489732",
@@ -85,6 +97,7 @@
     },
     {
         "md5": "dfd81f4d639bcc5151f850535c4ecca3",
+        "status": 200,
         "uploaded": "2024-10-08",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/06BewsdDLkserpg12xH64Mg16T/update-kindle-Fire_HD8_12th_Gen-RS8327_user_2526_0024696708740.bin",
         "versionCode": "24696708740",
@@ -92,6 +105,7 @@
     },
     {
         "md5": "59a1c625f47a95b1a89f593f3ba880db",
+        "status": 200,
         "uploaded": "2024-10-15",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/15/afb977be-85de-4860-b2ee-6c8ed630e9a3/update-kindle-raspite-RS8328_user_3033_0024998828420.bin",
         "versionCode": "24998828420",
@@ -99,6 +113,7 @@
     },
     {
         "md5": "59a1c625f47a95b1a89f593f3ba880db",
+        "status": 200,
         "uploaded": "2024-10-22",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/06BewsdDLkserpg12xH04Mg12T/update-kindle-Fire_HD8_12th_Gen-RS8328_user_3033_0024998828420.bin",
         "versionCode": "24998828420",
@@ -106,6 +121,7 @@
     },
     {
         "md5": "0c445c69e65200c2a40bbabfbbd7559c",
+        "status": 200,
         "uploaded": "2024-10-28",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/10/28/532d2650-af6d-40fc-9d4d-67e914ea6b38/update-kindle-raspite-RS8331_user_2608_0025367818372.bin",
         "versionCode": "25367818372",
@@ -113,6 +129,7 @@
     },
     {
         "md5": "0c445c69e65200c2a40bbabfbbd7559c",
+        "status": 200,
         "uploaded": "2024-10-31",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/0vetSZCWV7G2VPvlsNCzhMTqAi/0vetSZCWV7G2VPvlsNCzhM04Ai/update-kindle-Fire_HD8_12th_Gen-RS8331_user_2608_0025367818372.bin",
         "versionCode": "25367818372",
@@ -120,6 +137,7 @@
     },
     {
         "md5": "7c9c20d75e98eeba43e25ded13230024",
+        "status": 200,
         "uploaded": "2024-11-09",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2024/11/9/c3c2fbb7-2a1d-4e74-819e-067d08231616/update-kindle-raspite-RS8332_user_3115_0025837710212.bin",
         "versionCode": "25837710212",
@@ -127,6 +145,7 @@
     },
     {
         "md5": "7c9c20d75e98eeba43e25ded13230024",
+        "status": 200,
         "uploaded": "2024-11-21",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xZz75MnJ2np/update-kindle-Fire_HD8_12th_Gen-RS8332_user_3115_0025837710212.bin",
         "versionCode": "25837710212",
@@ -134,6 +153,7 @@
     },
     {
         "md5": "64365d1419a738041885bdfe35d416dd",
+        "status": 200,
         "uploaded": "2025-01-24",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/1/24/0a3f4f93-69f2-4379-894a-4cac6a22671b/update-kindle-raspite-RS8333_user_2734_0026441592452.bin",
         "versionCode": "26441592452",
@@ -141,6 +161,7 @@
     },
     {
         "md5": "64365d1419a738041885bdfe35d416dd",
+        "status": 200,
         "uploaded": "2025-01-30",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xDz75MnJ9npac/update-kindle-Fire_HD8_12th_Gen-RS8333_user_2734_0026441592452.bin",
         "versionCode": "26441592452",
@@ -148,6 +169,7 @@
     },
     {
         "md5": "44ac1e905fed63be972fa3b3513b89b0",
+        "status": 200,
         "uploaded": "2025-05-27",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xDz75MnJ9npabd/update-kindle-Fire_HD8_12th_Gen-RS8335_user_2972_0027716721796.bin",
         "versionCode": "27716721796",
@@ -155,6 +177,7 @@
     },
     {
         "md5": "53a8e823c5c9570b2468846427b3e704",
+        "status": 200,
         "uploaded": "2025-07-31",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/7/31/a722b9f4-036b-4abf-b94d-479093f62aae/update-kindle-raspite-RS8336_user_3103_0028656279428.bin",
         "versionCode": "28656279428",
@@ -162,6 +185,7 @@
     },
     {
         "md5": "53a8e823c5c9570b2468846427b3e704",
+        "status": 200,
         "uploaded": "2025-08-01",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/3omHNOvwW4KDYd5xDz75MnJ9np4/update-kindle-Fire_HD8_12th_Gen-RS8336_user_3103_0028656279428.bin",
         "versionCode": "28656279428",
@@ -169,6 +193,7 @@
     },
     {
         "md5": "60a71aced429c18e281c6425c3dde8d7",
+        "status": 200,
         "uploaded": "2025-09-23",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/01DwywcfWtLerpg64xZ79Mg69Z/update-kindle-Fire_HD8_12th_Gen-RS8337_user_3186_0029461607044.bin",
         "versionCode": "29461607044",
@@ -176,6 +201,7 @@
     },
     {
         "md5": "60a71aced429c18e281c6425c3dde8d7",
+        "status": 200,
         "uploaded": "2025-09-25",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/9/25/ec593b12-873a-46f4-870c-48e7cd54130f/update-kindle-raspite-RS8337_user_3186_0029461607044.bin",
         "versionCode": "29461607044",
@@ -183,6 +209,7 @@
     },
     {
         "md5": "28a9cc113a26e836d7e45b4db123c78d",
+        "status": 200,
         "uploaded": "2025-12-16",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2025/12/16/f5772e27-058c-441b-9c84-fdc65f535269/update-kindle-raspite-RS8338_user_3339_0030132734852.bin",
         "versionCode": "30132734852",
@@ -190,6 +217,7 @@
     },
     {
         "md5": "28a9cc113a26e836d7e45b4db123c78d",
+        "status": 200,
         "uploaded": "2025-12-22",
         "url": "https://fireos-tablet-src.s3.us-west-2.amazonaws.com/4amHNOvwW4KDYd5xDz75MnJ9nn/update-Fire_HD8_12th_Gen-RS8338_user_3339_0030132734852.bin",
         "versionCode": "30132734852",
@@ -197,6 +225,7 @@
     },
     {
         "md5": "b97865844b94d01af7715628e93d8495",
+        "status": 200,
         "uploaded": "2026-11-11",
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/11/07c3128b-0656-4d16-8002-f4a110e8903c/update-kindle-raspite-RS8338_user_3358_0030132739716.bin",
         "versionCode": "30132739716",

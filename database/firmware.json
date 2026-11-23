@@ -10,8 +10,7 @@
         "category": "firetv",
         "model": "AFTANNA0",
         "title": [
-            "ok 4K - Fire TV (2021)",
-            "Xiaomi F2 4K - Fire TV (2022)"
+            "ok 4K - Fire TV (2021) / Xiaomi F2 4K - Fire TV (2022)"
         ]
     },
     "com.amazon.apollo.android.os": {
@@ -53,7 +52,7 @@
         "category": "echo",
         "model": "AEOBC",
         "title": [
-            "Echo Dot 2nd Gen (2016)"
+            "Echo Dot - 2nd Gen (2016)"
         ]
     },
     "com.amazon.bishop.android.os": {
@@ -67,7 +66,7 @@
         "category": "firetv",
         "model": "AFTTI43",
         "title": [
-            "Fire TV 4-Series (2021)"
+            "Fire TV 4 - Series (2021)"
         ]
     },
     "com.amazon.brownie.android.os": {
@@ -249,14 +248,14 @@
         "category": "firetv",
         "model": "AFTHA004",
         "title": [
-            "Toshiba 4K UHD - Fire TV (2022)"
+            "Toshiba 4K UHD Fire TV (2022)"
         ]
     },
     "com.amazon.hoya.android.os": {
         "category": "echo",
         "model": "AEOHY",
         "title": [
-            "Echo Show 15 (2021)"
+            "Echo Show 15 - 1st Gen (2021)"
         ]
     },
     "com.amazon.hypnos.kepler.os": {
@@ -284,7 +283,7 @@
         "category": "firetv",
         "model": "AFTKRT",
         "title": [
-            "Fire TV Stick 4K Max - 2nd Gen (2023)"
+            "Fire TV Stick 4K - 2nd Gen (2023) / Fire TV Stick 4K Max - 2nd Gen (2023) / Fire TV Stick 4K Plus (2025)"
         ]
     },
     "com.amazon.karnak.android.os": {
@@ -480,7 +479,7 @@
         "category": "firetv",
         "model": "AFTSS",
         "title": [
-            "Fire TV Stick Lite - 1st Gen (2020)"
+            "Fire TV Stick Lite - 1st Gen (2020) / Fire TV Stick HD (2024)"
         ]
     },
     "com.amazon.sheldonp.android.os": {
@@ -550,7 +549,7 @@
         "category": "firetv",
         "model": "AFTT",
         "title": [
-            "Fire TV Stick - 2nd Gen (2016-2019)"
+            "Fire TV Stick - 2nd Gen (2016) / Basic Edition (2017)"
         ]
     },
     "com.amazon.tate.android.os": {

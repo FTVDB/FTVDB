@@ -302,14 +302,14 @@
     },
     "com.amazon.kyanite.android.os": {
         "category": "echo",
-        "model": "",
+        "model": "AEOKY",
         "title": [
             "Echo Link Amp (2019)"
         ]
     },
     "com.amazon.laser.android.os": {
         "category": "echo",
-        "model": "",
+        "model": "AEOLS",
         "title": [
             "Echo - 4th Gen (2020)"
         ]
@@ -323,7 +323,7 @@
     },
     "com.amazon.lidar.android.os": {
         "category": "echo",
-        "model": "",
+        "model": "AEOLR",
         "title": [
             "Echo Plus - 2nd Gen (2018)"
         ]
@@ -379,7 +379,7 @@
     },
     "com.amazon.octave.android.os": {
         "category": "echo",
-        "model": "",
+        "model": "AEOOT",
         "title": [
             "Echo Studio - 1st Gen (2019)"
         ]
@@ -393,14 +393,14 @@
     },
     "com.amazon.pablo.android.os": {
         "category": "echo",
-        "model": "",
+        "model": "AEOPB",
         "title": [
             "Echo Sub (2018)"
         ]
     },
     "com.amazon.pascal.android.os": {
         "category": "echo",
-        "model": "",
+        "model": "AEOPC",
         "title": [
             "Echo - 3rd Gen (2019)"
         ]
@@ -463,7 +463,7 @@
     },
     "com.amazon.sapphire.android.os": {
         "category": "echo",
-        "model": "",
+        "model": "AEOSP",
         "title": [
             "Echo Link (2018)"
         ]

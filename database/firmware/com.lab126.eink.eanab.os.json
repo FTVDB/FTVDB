@@ -257,7 +257,7 @@
     },
     {
         "md5": "bdef3471f294ef1364200693f9cc3aa8",
-        "status": 200,
+        "status": 0,
         "uploaded": "2021-02-26",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.13.5.bin",
         "versionCode": "3716740030",

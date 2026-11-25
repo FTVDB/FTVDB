@@ -71,7 +71,7 @@
     },
     "com.amazon.brownie.android.os": {
         "category": "echo",
-        "model": "",
+        "model": "AEOBN",
         "title": [
             "Echo Dot - 4th Gen (2020)"
         ]
@@ -92,7 +92,7 @@
     },
     "com.amazon.cannoli.android.os": {
         "category": "echo",
-        "model": "",
+        "model": "AEOCA",
         "title": [
             "Echo Dot - 5th Gen (2022)"
         ]
@@ -120,7 +120,7 @@
     },
     "com.amazon.churro.android.os": {
         "category": "echo",
-        "model": "",
+        "model": "AEOCO",
         "title": [
             "Echo Pop - 1st Gen (2023)"
         ]
@@ -225,7 +225,7 @@
     },
     "com.amazon.ganache.android.os": {
         "category": "echo",
-        "model": "",
+        "model": "AEOGN",
         "title": [
             "Echo Dot with Clock - 4th Gen (2020)"
         ]

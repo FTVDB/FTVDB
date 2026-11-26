@@ -1,5 +1,14 @@
 [
     {
+        "fromVersionCode": "455002120",
+        "md5": "140d8d4fe07ce5c3dd5574edc13d1fdf",
+        "status": 200,
+        "uploaded": "2018-09-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/f871ff11c5f8ab9961f0a8b04f5bba4f/update-soho_soho-455002120-to-455004220.bin",
+        "versionCode": "455004220",
+        "versionName": "Fire OS 4.5.5.2 (455004220)"
+    },
+    {
         "fromVersionCode": "411010320",
         "md5": "ce8ca8fbac5000ac6e53d4ee910dd357",
         "status": 200,

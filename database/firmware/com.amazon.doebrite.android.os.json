@@ -38,5 +38,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/2d65b731-921e-4634-a158-8abb83de90c7/update-kindle-doebrite-NS6575_user_8349_0013323246980.bin",
         "versionCode": "13323246980",
         "versionName": "Fire OS 6.5.7.5 (NS6575/8349)"
+    },
+    {
+        "md5": "69d715296f3583d174e980eb33e7715d",
+        "status": 200,
+        "uploaded": "2026-11-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/25/dbc8d0d8-62d4-4277-b15b-8d5d39220380/update-kindle-doebrite-NS65751_user_8888_0013759592580.bin",
+        "versionCode": "13759592580",
+        "versionName": "Fire OS 6575.1 (NS65751/8888)"
     }
 ]

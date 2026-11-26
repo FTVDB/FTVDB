@@ -121,7 +121,7 @@
     },
     {
         "md5": "09ce1e0a361f16cdee44a8f651d8df90",
-        "status": 200,
+        "status": 403,
         "uploaded": "2026-03-26",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_2024_5.19.3.bin",
         "versionCode": "4716170047",

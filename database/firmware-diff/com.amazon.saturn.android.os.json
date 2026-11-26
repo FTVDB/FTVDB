@@ -90,6 +90,15 @@
         "versionName": "Fire OS 4.5.5 (455001820)"
     },
     {
+        "fromVersionCode": "605487420",
+        "md5": "8a90d6ef62e37ca6bf6e8c9be3e228c9",
+        "status": 200,
+        "uploaded": "2020-11-13",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/8eeabf964c1cbfc37cc0581a041ce5cb/update-saturn_saturn-605487420-to-605488320.bin",
+        "versionCode": "605488320",
+        "versionName": "Fire OS 5.3.6.2 (605488320)"
+    },
+    {
         "fromVersionCode": "605488320",
         "md5": "92b3a0f191ab8059bcf417538c1cbaf6",
         "status": 200,

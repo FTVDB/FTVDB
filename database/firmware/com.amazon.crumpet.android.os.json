@@ -142,5 +142,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/0064b747-aa4a-4424-b8be-d2adec7c1e71/update-kindle-crumpet-NS6575_user_8349_0013323246980.bin",
         "versionCode": "13323246980",
         "versionName": "Fire OS 6.5.7.5 (NS6575/8349)"
+    },
+    {
+        "md5": "1a705fab656eba2e944ab5895c689db5",
+        "status": 200,
+        "uploaded": "2026-11-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/25/f5aa7c74-980d-45e5-9df5-4c65eed64f57/update-kindle-crumpet-NS65751_user_8888_0013759592580.bin",
+        "versionCode": "13759592580",
+        "versionName": "Fire OS 6575.1 (NS65751/8888)"
     }
 ]

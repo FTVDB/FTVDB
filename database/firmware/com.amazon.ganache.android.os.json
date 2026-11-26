@@ -38,5 +38,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/4d8aa44f-abb6-43b6-bb1a-67c3960ef3dd/update-kindle-ganache_mt8512_nand-NS6575_user_8349_0013323246980.bin",
         "versionCode": "13323246980",
         "versionName": "Fire OS 6.5.7.5 (NS6575/8349)"
+    },
+    {
+        "md5": "7684d38e5bc9f23b2c29cf2cd1d8fa65",
+        "status": 200,
+        "uploaded": "2026-11-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/25/4224a151-aaa7-4429-89b5-9ae8fb983b3e/update-kindle-ganache_mt8512_nand-NS65751_user_8888_0013759592580.bin",
+        "versionCode": "13759592580",
+        "versionName": "Fire OS 6575.1 (NS65751/8888)"
     }
 ]

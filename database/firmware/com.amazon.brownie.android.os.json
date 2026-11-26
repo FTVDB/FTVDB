@@ -38,5 +38,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/2df0b264-e5a3-4a0a-a7ef-1da810c4d422/update-kindle-brownie_mt8512_nand-NS6575_user_8349_0013323246980.bin",
         "versionCode": "13323246980",
         "versionName": "Fire OS 6.5.7.5 (NS6575/8349)"
+    },
+    {
+        "md5": "97eed22c6e52375b22ed3d2cf4ca27ee",
+        "status": 200,
+        "uploaded": "2026-11-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/25/f5560942-1835-467b-88c2-8f8a9377f425/update-kindle-brownie_mt8512_nand-NS65751_user_8888_0013759592580.bin",
+        "versionCode": "13759592580",
+        "versionName": "Fire OS 6575.1 (NS65751/8888)"
     }
 ]

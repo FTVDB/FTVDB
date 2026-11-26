@@ -22,5 +22,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/9/3d4ca80f-1c60-49df-8688-c33596887112/update-kindle-octave-NS6575_user_8363_0013491022724.bin",
         "versionCode": "13491022724",
         "versionName": "Fire OS 6.5.7.5 (NS6575/8363)"
+    },
+    {
+        "md5": "efb0bacf7ee7aed58151ac80d2df04e5",
+        "status": 200,
+        "uploaded": "2026-11-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/25/37906a20-f84c-4f95-be4a-08e76c3e1be7/update-kindle-octave-NS65751_user_8888_0013759592580.bin",
+        "versionCode": "13759592580",
+        "versionName": "Fire OS 6575.1 (NS65751/8888)"
     }
 ]

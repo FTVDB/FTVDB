@@ -27,6 +27,15 @@
         "versionName": "Fire OS 5.3.4.0 (579279320)"
     },
     {
+        "fromVersionCode": "579225620",
+        "md5": "844f54cfaf8e039e7c5176e33e693d80",
+        "status": 200,
+        "uploaded": "2018-09-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/b801c9e2198fd3eb800dec079c995475/update-saturn_saturn-579225620-to-579279320.bin",
+        "versionCode": "579279320",
+        "versionName": "Fire OS 5.3.4.0 (579279320)"
+    },
+    {
         "fromVersionCode": "554207020",
         "md5": "492c057c05e32d97f56f1b3684ab39cf",
         "status": 200,

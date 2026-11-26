@@ -115,5 +115,14 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/981c9c63273a55b621b61bb2f487c2ac/update-ariel_full_ariel-605485120-to-605485620.bin",
         "versionCode": "605485620",
         "versionName": "Fire OS 5.3.6.2 (605485620)"
+    },
+    {
+        "fromVersionCode": "595457320",
+        "md5": "2512104473647af43bf342f37f927419",
+        "status": 200,
+        "uploaded": "2019-05-23",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/bb0d246bf555ad7e69aadd110d9a1023/update-ariel_full_ariel-595457320-to-595550320.bin",
+        "versionCode": "595550320",
+        "versionName": "Fire OS 5.3.6.1 (595550320)"
     }
 ]

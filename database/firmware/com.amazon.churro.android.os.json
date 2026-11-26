@@ -38,5 +38,13 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/10/27/80efe80e-8e0b-4378-9d68-9fe17ff61f68/update-kindle-churro-NS6575_user_8349_0013323246980.bin",
         "versionCode": "13323246980",
         "versionName": "Fire OS 6.5.7.5 (NS6575/8349)"
+    },
+    {
+        "md5": "d9f2838dc21d2d4893ed79ab1dde9687",
+        "status": 200,
+        "uploaded": "2026-11-25",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/2026/11/25/a9d37e2f-8484-4904-8db1-a256f0099430/update-kindle-churro-NS65751_user_8888_0013759592580.bin",
+        "versionCode": "13759592580",
+        "versionName": "Fire OS 6575.1 (NS65751/8888)"
     }
 ]

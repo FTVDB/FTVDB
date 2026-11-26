@@ -41,6 +41,13 @@
             "Echo Show - 2nd Gen (2018)"
         ]
     },
+    "com.amazon.carnival.kepler.os": {
+        "category": "firetv",
+        "model": "AFTCR001",
+        "title": [
+            "Fire TV Stick 4K - 3rd Gen (2026)"
+        ]
+    },
     "com.amazon.checkers.android.os": {
         "category": "echo",
         "model": "AEOCH",

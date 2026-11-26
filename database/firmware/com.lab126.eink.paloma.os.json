@@ -25,7 +25,7 @@
     },
     {
         "md5": "fc45ca085064ed115c71485ece4d0326",
-        "status": 200,
+        "status": 403,
         "uploaded": "2026-03-26",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_3rd_generation_5.19.3.bin",
         "versionCode": "4716160047",

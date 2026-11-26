@@ -81,6 +81,15 @@
         "versionName": "Fire OS 5.3.4.0 (579225620)"
     },
     {
+        "fromVersionCode": "541113320",
+        "md5": "7e06eeeb563bbf100227dee35907edeb",
+        "status": 200,
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/d3ba5c8f0a8c24e63229ebfab05e325e/update-saturn_saturn-541113320-to-542169020.bin",
+        "versionCode": "542169020",
+        "versionName": "Fire OS 5.1.2 (542169020)"
+    },
+    {
         "fromVersionCode": "522055720",
         "md5": "eff5ffbab040176bd26b86306f0b69d3",
         "status": 200,
@@ -88,6 +97,15 @@
         "url": "https://d1s31zyz7dcc2d.cloudfront.net/b025adefa25cf0bf73325aca52ab2c39/update-saturn_saturn-522055720-to-541113320.bin",
         "versionCode": "541113320",
         "versionName": "Fire OS 5.1.1 (541113320)"
+    },
+    {
+        "fromVersionCode": "579279320",
+        "md5": "4a5bd4ff31230bb6464004742d40afa2",
+        "status": 200,
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/c19416c297d0956470e90495b7920ab1/update-saturn_saturn-579279320-to-595457220.bin",
+        "versionCode": "595457220",
+        "versionName": "Fire OS 5.3.6.0 (595457220)"
     },
     {
         "fromVersionCode": "552153420",

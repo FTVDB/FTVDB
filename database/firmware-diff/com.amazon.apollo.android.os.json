@@ -73,6 +73,15 @@
     },
     {
         "fromVersionCode": "452004220",
+        "md5": "623a38173c81c29b26ddbc030f1840f5",
+        "status": 200,
+        "uploaded": "2018-09-20",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/afb883848e7622cdbd094a293c501e15/update-apollo_apollo-452004220-to-453011120.bin",
+        "versionCode": "453011120",
+        "versionName": "Fire OS 4.5.3 (453011120)"
+    },
+    {
+        "fromVersionCode": "452004220",
         "md5": "f00a985e025552a5b6351029637d7125",
         "status": 200,
         "uploaded": "2018-09-20",

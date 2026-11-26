@@ -9,6 +9,15 @@
         "versionName": "Fire OS 4.5.3 (453011120)"
     },
     {
+        "fromVersionCode": "455004220",
+        "md5": "26bb073379be5263ca2257a0506f00af",
+        "status": 200,
+        "uploaded": "2018-09-19",
+        "url": "https://d1s31zyz7dcc2d.cloudfront.net/a5a5d09814bc0208ae82e280f9771b60/update-soho_soho-455004220-to-455006120.bin",
+        "versionCode": "455006120",
+        "versionName": "Fire OS 4.5.5.3 (455006120)"
+    },
+    {
         "fromVersionCode": "453011120",
         "md5": "79be3d66c15fe95e3b8c09e98fe50838",
         "status": 200,

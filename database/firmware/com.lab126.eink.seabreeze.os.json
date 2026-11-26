@@ -97,7 +97,7 @@
     },
     {
         "md5": "7c7da2707d7d6352d30d6dcf6b7b4399",
-        "status": 200,
+        "status": 403,
         "uploaded": "2026-03-26",
         "url": "https://s3.amazonaws.com/firmwaredownloads/update_kindle_colorsoft_5.19.3.bin",
         "versionCode": "4716140047",
